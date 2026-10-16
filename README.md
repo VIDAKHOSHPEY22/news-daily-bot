@@ -1,94 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-16 21:25:54
+**Last Update:** 2026-10-17 00:24:42
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'
+### 1. I never authorized an integration that scans my secrets
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/home-assistant/home-assistant.io/issues/49314">https://github.com/home-assistant/home-assistant.io/issues/49314</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50124251">https://news.ycombinator.com/item?id=50124251</a></p>
+<p>Points: 14</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/home-assistant/home-assistant.io/issues/49314](https://github.com/home-assistant/home-assistant.io/issues/49314)
+
+---
+
+### 2. Flux 3 Image Klein: open weights, 5.6B parameters
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://bfl.ai/blog/flux-3-image-klein">https://bfl.ai/blog/flux-3-image-klein</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50123580">https://news.ycombinator.com/item?id=50123580</a></p>
+<p>Points: 16</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://bfl.ai/blog/flux-3-image-klein](https://bfl.ai/blog/flux-3-image-klein)
+
+---
+
+### 3. The Fatal Flaw of 911
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health">https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50123356">https://news.ycombinator.com/item?id=50123356</a></p>
+<p>Points: 24</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health](https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health)
+
+---
+
+### 4. Watch: Will Ukraine get the support needed as tensions with US rise?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is "more difficult to work with than Putin".
+Zelensky thanked the "real leaders" ahead of a meeting with the EU in Brussels.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Watch: BBC follows Ukraine's Operation Vivaldi pushing Russia back on frontline
+### 5. Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Kyiv says it has recaptured 277 sq km (106 square miles) of territory in the eastern Donbas region in recent months
+The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm1ex06026e8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm1ex06026e8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Man killed by tiger may have had medical records breached by NHS staff
+### 6. Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-William Chapman, 24, was mauled to death at Yorkshire Wildlife Park, near Doncaster, on Saturday.
+Rebecca Louise Burwood saw the vulnerable victim "as her nanna" but stole to fund her lifestyle.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c875prd12vkqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c875prd12vkqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Real Madrid demand resignation of La Liga chief after Goebbels comparison
+### 7. Students in Europe are rising up to call for better education
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-La Liga President Javier Tebas under fire for comparing Real Madrid TV channel to Nazi Germany&#039;s Minister of Propaganda.
+Violent unrest is gripping several countries across Europe, as student activists demand better education systems.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss)
 
 ---
 
-### 5. Pope Leo to make public appearance Sunday, first since cancer surgery
+### 8. Food affordability fears plague Gaza as Israel halts commercial goods
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-After undergoing surgery this week, pope can now &#039;carry out normal activities ​with full independence&#039;, say doctors.
+Commercial goods, such as fresh fruit, vegetables, meat and winter clothing, have not entered Gaza for two days.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/pope-leo-to-make-public-appearance-sunday-first-since-cancer-surgery?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/pope-leo-to-make-public-appearance-sunday-first-since-cancer-surgery?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss)
 
 ---
 
-### 6. Sally Rooney can’t sell her books in UK over support for Palestine Action
+### 9. Oregon community mourns victims of school shooting
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-We asked students what they think.
+Mourners quietly grieved at a makeshift memorial outside an elementary school in Bend, Oregon.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/sally-rooney-cant-sell-her-books-in-uk-over-support-for-palestine-action?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/sally-rooney-cant-sell-her-books-in-uk-over-support-for-palestine-action?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone 01P
+### 10. Tropical Cyclone 01P
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Tropical Storm Champi
+### 11. Tropical Storm Champi
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
