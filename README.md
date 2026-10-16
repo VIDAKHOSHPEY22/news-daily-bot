@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-16 10:51:19
+**Last Update:** 2026-10-16 16:04:16
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Last rites for Gentoo's Chromium package
+### 1. Tesla's new Roadster makes a flying debut, hitting 60 MPH in under a second
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lwn.net/Articles/1097760/">https://lwn.net/Articles/1097760/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50114359">https://news.ycombinator.com/item?id=50114359</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.foxbusiness.com/technology/teslas-new-roadster-makes-flying-debut-hitting-60-mph-under-second">https://www.foxbusiness.com/technology/teslas-new-roadster-makes-flying-debut-hitting-60-mph-under-second</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50116255">https://news.ycombinator.com/item?id=50116255</a></p>
+<p>Points: 32</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://lwn.net/Articles/1097760/](https://lwn.net/Articles/1097760/)
+🔗 **Read more:** [https://www.foxbusiness.com/technology/teslas-new-roadster-makes-flying-debut-hitting-60-mph-under-second](https://www.foxbusiness.com/technology/teslas-new-roadster-makes-flying-debut-hitting-60-mph-under-second)
 
 ---
 
-### 2. Comparing Chromium Development at Google and Igalia
+### 2. The Folders Programming Language
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://danieltemkin.com/esolangs/folders">https://danieltemkin.com/esolangs/folders</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50114342">https://news.ycombinator.com/item?id=50114342</a></p>
+<p>Points: 108</p>
+<p># Comments: 14</p>
+
+🔗 **Read more:** [https://danieltemkin.com/esolangs/folders](https://danieltemkin.com/esolangs/folders)
+
+---
+
+### 3. Comparing Chromium Development at Google and Igalia
 
 **Source:** Hacker News
 
@@ -35,104 +51,88 @@
 **Description:**
 <p>Article URL: <a href="https://lwn.net/Articles/1094721/">https://lwn.net/Articles/1094721/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50112887">https://news.ycombinator.com/item?id=50112887</a></p>
-<p>Points: 37</p>
-<p># Comments: 10</p>
+<p>Points: 62</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://lwn.net/Articles/1094721/](https://lwn.net/Articles/1094721/)
 
 ---
 
-### 3. Any window from your Mac, on your iPhone and iPad
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/Saffsanity/sill">https://github.com/Saffsanity/sill</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50112739">https://news.ycombinator.com/item?id=50112739</a></p>
-<p>Points: 125</p>
-<p># Comments: 25</p>
-
-🔗 **Read more:** [https://github.com/Saffsanity/sill](https://github.com/Saffsanity/sill)
-
----
-
-### 4. Three children and teacher killed in US primary school shooting
+### 4. British father fined for causing his two-year-old son's death in Cyprus hotel fall
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The suspect was shot dead by an armed bystander who followed him into the Oregon school, police said.
+Joshua Foster "lost control" of his son while showing him the view of a water park from a window.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Banks say Healey planning to increase tax on their profits in Budget
+### 5. Israeli settlers attack Palestinians in West Bank during olive harvest
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Senior banking executives have told the BBC they expect to be "on the menu" in the chancellor's Budget tax later this month.
+Israeli settlers were seen attacking Palestinian farmers and setting fire to olive trees in the West Bank.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Same-day test helps doctors detect hidden infections in critically ill children
+### 6. Norwegian teen 'hitman' detained for UK murder plot
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Metagenomics offers a new way of detecting infections in intensive care patients.
+Johannes Natland, 19, travelled to West Yorkshire to carry out a "hit" in March last year.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. In Israel, Netanyahu’s ultimate legacy is the opposition he has forged
+### 7. ‘Trying to dominate’: In Cyprus, some fear Israel’s growing influence
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As Israel heads to the polls, PM Netanyahu’s most enduring domestic legacy may be the right-wing opposition he faces.
+Israel now reaches into Cyprus’s water, gas, health and defence and many Cypriots fear their island is losing control.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/16/an-easy-target-how-israel-is-embedding-itself-in-the-cypriot-state?traffic_source=rss](https://www.aljazeera.com/features/2026/10/16/an-easy-target-how-israel-is-embedding-itself-in-the-cypriot-state?traffic_source=rss)
 
 ---
 
-### 8. Which countries waste the most food, and how to reduce waste at home
+### 8. Why is China buying up gold?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-This World Food Day, 645 million people are going hungry, yet more than a billion tonnes of food is wasted annually.
+Beijing’s gold purchases reflect a shift away from reliance on US dollar assets, experts say.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/which-countries-waste-the-most-food-and-how-to-reduce-waste-at-home?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/which-countries-waste-the-most-food-and-how-to-reduce-waste-at-home?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/16/why-is-china-buying-up-gold?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/16/why-is-china-buying-up-gold?traffic_source=rss)
 
 ---
 
-### 9. Vibe coding: Game-changer or risky business?
+### 9. Malaysia’s welcome for Min Aung Hlaing undermines its stand on justice
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Vibe coding lets users build software with AI, but free alternatives to popular programmes raise security concerns.
+As the US attacks the ICC, Kuala Lumpur welcomes a leader the court’s prosecutor wants arrested.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/vibe-coding-game-changer-or-risky-business?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/vibe-coding-game-changer-or-risky-business?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/16/malaysias-welcome-for-min-aung-hlaing-undermines-its-stand-on-justice?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/16/malaysias-welcome-for-min-aung-hlaing-undermines-its-stand-on-justice?traffic_source=rss)
 
 ---
 
