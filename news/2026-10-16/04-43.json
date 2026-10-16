@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-16T04:43:09+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "BeBox is a Haiku application that emulates Be Inc.'s BeBox",
+            "description": "<p>Article URL: <a href=\"https://github.com/johnrash/bebox\">https://github.com/johnrash/bebox</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50111742\">https://news.ycombinator.com/item?id=50111742</a></p>\n<p>Points: 10</p>\n<p># Comments: 3</p>",
+            "url": "https://github.com/johnrash/bebox",
+            "published": "Thu, 15 Oct 2026 23:22:53 +0000",
+            "fetched": "2026-10-16T04:43:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "U.K. Sanctions Cryptomus for RU Money Laundering",
+            "description": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/\">https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50111708\">https://news.ycombinator.com/item?id=50111708</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+            "url": "https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/",
+            "published": "Thu, 15 Oct 2026 23:17:50 +0000",
+            "fetched": "2026-10-16T04:43:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What I Self-Host",
+            "description": "<p>Article URL: <a href=\"https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/\">https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50109715\">https://news.ycombinator.com/item?id=50109715</a></p>\n<p>Points: 242</p>\n<p># Comments: 139</p>",
+            "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+            "published": "Thu, 15 Oct 2026 20:23:25 +0000",
+            "fetched": "2026-10-16T04:43:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Bus hits train stopped on French side of Channel Tunnel, with 19 injured",
+            "description": "Two people were airlifted to hospital but no-one's life appeared to be in danger, officials said.",
+            "url": "https://www.bbc.co.uk/news/articles/c6wyrnmgzn01o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 22:37:21 GMT",
+            "fetched": "2026-10-16T04:43:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump calls off livestream of Fort Hood attacker's execution by firing squad",
+            "description": "Trump said some would \"rather not watch\" the killing of Nidal Hasan, the first military execution in over 60 years.",
+            "url": "https://www.bbc.co.uk/news/articles/crx23qlnj27qo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 15 Oct 2026 17:47:22 GMT",
+            "fetched": "2026-10-16T04:43:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Same-day test helps doctors detect hidden infections in critically ill children",
+            "description": "Metagenomics offers a new way of detecting infections in intensive care patients.",
+            "url": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 00:34:45 GMT",
+            "fetched": "2026-10-16T04:43:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns",
+            "description": "Iraq&#039;s parliament has finalised key minister appointments five months after al-Zaidi&#039;s government took office.",
+            "url": "https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 00:31:18 +0000",
+            "fetched": "2026-10-16T04:43:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports",
+            "description": "Saudi Arabia calls Houthi attacks &#039;full-fledged war crimes&#039; while the US warns of possible attacks on Saudi airports.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 00:02:37 +0000",
+            "fetched": "2026-10-16T04:43:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Two Syrian pipelines damaged amid spate of attacks on energy infrastructure",
+            "description": "Fuel theft cited in Baniyas-Homs leak as gas export line in Hasakah catches fire.",
+            "url": "https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss",
+            "published": "Thu, 15 Oct 2026 23:35:26 +0000",
+            "fetched": "2026-10-16T04:43:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-16T04:43:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Trudy",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290",
+            "published": "2026-10-13T18:00:00Z",
+            "fetched": "2026-10-16T04:43:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Jane 102 RX, Harney, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25311",
+            "published": "2026-10-13T10:24:00Z",
+            "fetched": "2026-10-16T04:43:09+03:30"
+        }
+    ]
+}

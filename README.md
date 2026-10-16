@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-16 02:37:41
+**Last Update:** 2026-10-16 04:43:09
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. What I Self-Host
+### 1. BeBox is a Haiku application that emulates Be Inc.'s BeBox
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/johnrash/bebox">https://github.com/johnrash/bebox</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50111742">https://news.ycombinator.com/item?id=50111742</a></p>
+<p>Points: 10</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://github.com/johnrash/bebox](https://github.com/johnrash/bebox)
+
+---
+
+### 2. U.K. Sanctions Cryptomus for RU Money Laundering
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/">https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50111708">https://news.ycombinator.com/item?id=50111708</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/](https://krebsonsecurity.com/2026/10/u-k-sanctions-cryptomus-for-ru-money-laundering/)
+
+---
+
+### 3. What I Self-Host
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/">https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50109715">https://news.ycombinator.com/item?id=50109715</a></p>
-<p>Points: 148</p>
-<p># Comments: 72</p>
+<p>Points: 242</p>
+<p># Comments: 139</p>
 
 🔗 **Read more:** [https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/)
-
----
-
-### 2. New Withings Users Must Pay $99/Year for Apple Health Syncing
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts">https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50109375">https://news.ycombinator.com/item?id=50109375</a></p>
-<p>Points: 115</p>
-<p># Comments: 99</p>
-
-🔗 **Read more:** [https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts](https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts)
-
----
-
-### 3. Someone on Torrent Sites Kept Fucking with My Sonarr
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup">https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50108872">https://news.ycombinator.com/item?id=50108872</a></p>
-<p>Points: 148</p>
-<p># Comments: 61</p>
-
-🔗 **Read more:** [https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup)
 
 ---
 
@@ -84,55 +84,55 @@ Trump said some would "rather not watch" the killing of Nidal Hasan, the first m
 
 ---
 
-### 6. Trans people should use hospital spaces according to biological sex, NHS England says
+### 6. Same-day test helps doctors detect hidden infections in critically ill children
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-New guidance says trans patients should be cared for on single-sex hospital wards or bays that align with their biological sex.
+Metagenomics offers a new way of detecting infections in intensive care patients.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cry83dyddv6no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israel halts commercial goods from entering Gaza; Hamas denies tax claims
+### 7. Iraq parliament approves al-Zaidi’s cabinet amid growing economic concerns
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The halt to commercial shipments, including fruit and winter clothing, cuts off a key source of critical supplies.
+Iraq&#039;s parliament has finalised key minister appointments five months after al-Zaidi&#039;s government took office.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/israel-halts-commercial-goods-from-entering-gaza-hamas-denies-tax-claims?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/iraq-parliament-approves-al-zaidis-cabinet-amid-growing-economic-concerns?traffic_source=rss)
 
 ---
 
-### 8. Man United’s Martinez apologises for outburst after talks with Carrick
+### 8. Iran war live: Saudi blasts Houthi ‘war crimes’; US warns on Saudi airports
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lisandro Martinez meets Manchester United manager Michael Carrick before apologising for his criticism of the club.
+Saudi Arabia calls Houthi attacks &#039;full-fledged war crimes&#039; while the US warns of possible attacks on Saudi airports.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/15/martinez-apologises-for-man-united-outburst-after-carrick-talks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/16/iran-war-live-saudi-blasts-houthi-war-crimes-us-warns-on-saudi-airports?traffic_source=rss)
 
 ---
 
-### 9. Trump administration sues California over noncitizens on voter rolls
+### 9. Two Syrian pipelines damaged amid spate of attacks on energy infrastructure
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lawsuit comes weeks before midterm elections and follows debunked claims of noncitizens voting in various states.
+Fuel theft cited in Baniyas-Homs leak as gas export line in Hasakah catches fire.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/15/trump-administration-sues-california-over-noncitizens-on-voter-rolls?traffic_source=rss](https://www.aljazeera.com/news/2026/10/15/trump-administration-sues-california-over-noncitizens-on-voter-rolls?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/15/two-syrian-pipelines-damaged-amid-spate-of-attacks-on-energy-infrastructure?traffic_source=rss)
 
 ---
 
