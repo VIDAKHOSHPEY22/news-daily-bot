@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-16 21:02:30
+**Last Update:** 2026-10-16 21:25:54
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Piramidal (YC W24) Is Hiring
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009">https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50121188">https://news.ycombinator.com/item?id=50121188</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009](https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009)
-
----
-
-### 2. 90% of US working hours are spent on tasks not covered well by AI benchmarks
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.mercor.com/research/labor-index/benchmark-map/">https://www.mercor.com/research/labor-index/benchmark-map/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50121179">https://news.ycombinator.com/item?id=50121179</a></p>
-<p>Points: 5</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://www.mercor.com/research/labor-index/benchmark-map/](https://www.mercor.com/research/labor-index/benchmark-map/)
-
----
-
-### 3. /dev/null: social network for developers
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://dev-null.sh">https://dev-null.sh</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50121004">https://news.ycombinator.com/item?id=50121004</a></p>
-<p>Points: 38</p>
-<p># Comments: 38</p>
-
-🔗 **Read more:** [https://dev-null.sh](https://dev-null.sh)
-
----
-
-### 4. Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'
+### 1. Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'
 
 **Source:** BBC
 
@@ -71,20 +23,20 @@ EU leaders rally around Ukraine's president after new criticism from Donald Trum
 
 ---
 
-### 5. Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role
+### 2. Watch: BBC follows Ukraine's Operation Vivaldi pushing Russia back on frontline
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.
+Kyiv says it has recaptured 277 sq km (106 square miles) of territory in the eastern Donbas region in recent months
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm1ex06026e8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm1ex06026e8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Man killed by tiger may have had medical records breached by NHS staff
+### 3. Man killed by tiger may have had medical records breached by NHS staff
 
 **Source:** BBC
 
@@ -97,7 +49,33 @@ William Chapman, 24, was mauled to death at Yorkshire Wildlife Park, near Doncas
 
 ---
 
-### 7. Sally Rooney can’t sell her books in UK over support for Palestine Action
+### 4. Real Madrid demand resignation of La Liga chief after Goebbels comparison
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+La Liga President Javier Tebas under fire for comparing Real Madrid TV channel to Nazi Germany&#039;s Minister of Propaganda.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss)
+
+---
+
+### 5. Pope Leo to make public appearance Sunday, first since cancer surgery
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+After undergoing surgery this week, pope can now &#039;carry out normal activities ​with full independence&#039;, say doctors.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/pope-leo-to-make-public-appearance-sunday-first-since-cancer-surgery?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/pope-leo-to-make-public-appearance-sunday-first-since-cancer-surgery?traffic_source=rss)
+
+---
+
+### 6. Sally Rooney can’t sell her books in UK over support for Palestine Action
 
 **Source:** Al Jazeera
 
@@ -110,33 +88,7 @@ We asked students what they think.
 
 ---
 
-### 8. Iran’s president condemns environmental impact of war in Middle East
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Iranian President Masoud Pezeshkian has decried the ecological damage caused by conflict in the Middle East
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/irans-president-condemns-environmental-impact-of-war-in-middle-eas?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/irans-president-condemns-environmental-impact-of-war-in-middle-eas?traffic_source=rss)
-
----
-
-### 9. Spain to appeal to CAS after FIFA penalty for Islamophobic chants
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Spain appeals to Court of Arbitration for Sport following FIFA sanctions for fans&#039; behaviour during Egypt friendly.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/16/spain-to-appeal-to-cas-after-fifa-penalty-for-islamophobic-chants?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/16/spain-to-appeal-to-cas-after-fifa-penalty-for-islamophobic-chants?traffic_source=rss)
-
----
-
-### 10. Tropical Cyclone 01P
+### 7. Tropical Cyclone 01P
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Storm Champi
+### 8. Tropical Storm Champi
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 9. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 

@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-16T21:25:54+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'",
+            "description": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
+            "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 15:59:30 GMT",
+            "fetched": "2026-10-16T21:25:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: BBC follows Ukraine's Operation Vivaldi pushing Russia back on frontline",
+            "description": "Kyiv says it has recaptured 277 sq km (106 square miles) of territory in the eastern Donbas region in recent months",
+            "url": "https://www.bbc.co.uk/news/videos/cm1ex06026e8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 17:41:53 GMT",
+            "fetched": "2026-10-16T21:25:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man killed by tiger may have had medical records breached by NHS staff",
+            "description": "William Chapman, 24, was mauled to death at Yorkshire Wildlife Park, near Doncaster, on Saturday.",
+            "url": "https://www.bbc.co.uk/news/articles/c875prd12vkqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 16:53:07 GMT",
+            "fetched": "2026-10-16T21:25:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Real Madrid demand resignation of La Liga chief after Goebbels comparison",
+            "description": "La Liga President Javier Tebas under fire for comparing Real Madrid TV channel to Nazi Germany&#039;s Minister of Propaganda.",
+            "url": "https://www.aljazeera.com/sports/2026/10/16/real-madrid-demand-resignation-of-laliga-chief-after-goebbels-comparison?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 17:05:31 +0000",
+            "fetched": "2026-10-16T21:25:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pope Leo to make public appearance Sunday, first since cancer surgery",
+            "description": "After undergoing surgery this week, pope can now &#039;carry out normal activities ​with full independence&#039;, say doctors.",
+            "url": "https://www.aljazeera.com/news/2026/10/16/pope-leo-to-make-public-appearance-sunday-first-since-cancer-surgery?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 17:03:52 +0000",
+            "fetched": "2026-10-16T21:25:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sally Rooney can’t sell her books in UK over support for Palestine Action",
+            "description": "We asked students what they think.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/sally-rooney-cant-sell-her-books-in-uk-over-support-for-palestine-action?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 16:54:49 +0000",
+            "fetched": "2026-10-16T21:25:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-16T21:25:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-16T21:25:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-16T21:25:54+03:30"
+        }
+    ]
+}
