@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 00:54:54
+**Last Update:** 2026-10-17 02:55:54
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency">https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50124642">https://news.ycombinator.com/item?id=50124642</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 22</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency)
 
@@ -35,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/home-assistant/home-assistant.io/issues/49314">https://github.com/home-assistant/home-assistant.io/issues/49314</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50124251">https://news.ycombinator.com/item?id=50124251</a></p>
-<p>Points: 65</p>
-<p># Comments: 19</p>
+<p>Points: 146</p>
+<p># Comments: 95</p>
 
 🔗 **Read more:** [https://github.com/home-assistant/home-assistant.io/issues/49314](https://github.com/home-assistant/home-assistant.io/issues/49314)
 
 ---
 
-### 3. Flux 3 Image Klein: open weights, 5.6B parameters
+### 3. FLUX 3 Image Klein
 
 **Source:** Hacker News
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://bfl.ai/blog/flux-3-image-klein">https://bfl.ai/blog/flux-3-image-klein</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50123580">https://news.ycombinator.com/item?id=50123580</a></p>
-<p>Points: 34</p>
-<p># Comments: 7</p>
+<p>Points: 84</p>
+<p># Comments: 16</p>
 
 🔗 **Read more:** [https://bfl.ai/blog/flux-3-image-klein](https://bfl.ai/blog/flux-3-image-klein)
 
@@ -97,42 +97,42 @@ Rebecca Louise Burwood saw the vulnerable victim "as her nanna" but stole to fun
 
 ---
 
-### 7. Meta employees say Lula’s accounts restricted in Brazil election: Report
+### 7. Leeds vs Manchester United: Premier League – teams, prediction, lineups
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The messages, reported by a Brazilian daily, say the platform recommended Bolsonaro&#039;s profile and his WhatsApp channel.
+Manchester United are mired in poor form - and Lisandro Martinez&#039;s meltdown - now they face on-the-up rivals Leeds.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/16/leeds-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/16/leeds-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss)
 
 ---
 
-### 8. How Israeli spyware used ‘zero click’ hack on Al Jazeera staff
+### 8. Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli spyware firms hacked into Al Jazeera devices in 2024 using a new ‘adfection’ method. Here&#039;s how it works.
+Rome prosecutors also name 12 senior military, police and prison officials over alleged abuse of detained activists.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israeli-spyware-used-zero-click-hack-on-al-jazeera-staff?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israeli-spyware-used-zero-click-hack-on-al-jazeera-staff?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss)
 
 ---
 
-### 9. Students in Europe are rising up to call for better education
+### 9. Families demand justice after Pakistan school collapse
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Violent unrest is gripping several countries across Europe, as student activists demand better education systems.
+Parents are demanding accountability after a school roof collapse in Pakistan&#039;s Peshawar killed 34 children.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss)
 
 ---
 
