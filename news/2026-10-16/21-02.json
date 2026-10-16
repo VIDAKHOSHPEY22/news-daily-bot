@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-16T21:02:30+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Piramidal (YC W24) Is Hiring",
+            "description": "<p>Article URL: <a href=\"https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009\">https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50121188\">https://news.ycombinator.com/item?id=50121188</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009",
+            "published": "Fri, 16 Oct 2026 17:08:55 +0000",
+            "fetched": "2026-10-16T21:02:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+            "description": "<p>Article URL: <a href=\"https://www.mercor.com/research/labor-index/benchmark-map/\">https://www.mercor.com/research/labor-index/benchmark-map/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50121179\">https://news.ycombinator.com/item?id=50121179</a></p>\n<p>Points: 5</p>\n<p># Comments: 2</p>",
+            "url": "https://www.mercor.com/research/labor-index/benchmark-map/",
+            "published": "Fri, 16 Oct 2026 17:08:38 +0000",
+            "fetched": "2026-10-16T21:02:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "/dev/null: social network for developers",
+            "description": "<p>Article URL: <a href=\"https://dev-null.sh\">https://dev-null.sh</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50121004\">https://news.ycombinator.com/item?id=50121004</a></p>\n<p>Points: 38</p>\n<p># Comments: 38</p>",
+            "url": "https://dev-null.sh",
+            "published": "Fri, 16 Oct 2026 16:57:49 +0000",
+            "fetched": "2026-10-16T21:02:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'",
+            "description": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\".",
+            "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 15:59:30 GMT",
+            "fetched": "2026-10-16T21:02:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+            "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+            "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 16:00:30 GMT",
+            "fetched": "2026-10-16T21:02:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man killed by tiger may have had medical records breached by NHS staff",
+            "description": "William Chapman, 24, was mauled to death at Yorkshire Wildlife Park, near Doncaster, on Saturday.",
+            "url": "https://www.bbc.co.uk/news/articles/c875prd12vkqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 16:53:07 GMT",
+            "fetched": "2026-10-16T21:02:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sally Rooney can’t sell her books in UK over support for Palestine Action",
+            "description": "We asked students what they think.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/sally-rooney-cant-sell-her-books-in-uk-over-support-for-palestine-action?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 16:54:49 +0000",
+            "fetched": "2026-10-16T21:02:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran’s president condemns environmental impact of war in Middle East",
+            "description": "Iranian President Masoud Pezeshkian has decried the ecological damage caused by conflict in the Middle East",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/irans-president-condemns-environmental-impact-of-war-in-middle-eas?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 16:45:03 +0000",
+            "fetched": "2026-10-16T21:02:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Spain to appeal to CAS after FIFA penalty for Islamophobic chants",
+            "description": "Spain appeals to Court of Arbitration for Sport following FIFA sanctions for fans&#039; behaviour during Egypt friendly.",
+            "url": "https://www.aljazeera.com/sports/2026/10/16/spain-to-appeal-to-cas-after-fifa-penalty-for-islamophobic-chants?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 16:35:32 +0000",
+            "fetched": "2026-10-16T21:02:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-16T21:02:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-16T21:02:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-16T21:02:30+03:30"
+        }
+    ]
+}

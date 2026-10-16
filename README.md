@@ -1,142 +1,168 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-16 16:40:25
+**Last Update:** 2026-10-16 21:02:30
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Folders Programming Language
+### 1. Piramidal (YC W24) Is Hiring
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://danieltemkin.com/esolangs/folders">https://danieltemkin.com/esolangs/folders</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50114342">https://news.ycombinator.com/item?id=50114342</a></p>
-<p>Points: 120</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009">https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50121188">https://news.ycombinator.com/item?id=50121188</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://danieltemkin.com/esolangs/folders](https://danieltemkin.com/esolangs/folders)
+🔗 **Read more:** [https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009](https://job-boards.greenhouse.io/piramidalinc/jobs/4443102009)
 
 ---
 
-### 2. Comparing Chromium Development at Google and Igalia
+### 2. 90% of US working hours are spent on tasks not covered well by AI benchmarks
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lwn.net/Articles/1094721/">https://lwn.net/Articles/1094721/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50112887">https://news.ycombinator.com/item?id=50112887</a></p>
-<p>Points: 67</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://www.mercor.com/research/labor-index/benchmark-map/">https://www.mercor.com/research/labor-index/benchmark-map/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50121179">https://news.ycombinator.com/item?id=50121179</a></p>
+<p>Points: 5</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://lwn.net/Articles/1094721/](https://lwn.net/Articles/1094721/)
+🔗 **Read more:** [https://www.mercor.com/research/labor-index/benchmark-map/](https://www.mercor.com/research/labor-index/benchmark-map/)
 
 ---
 
-### 3. Any window from your Mac, on your iPhone and iPad
+### 3. /dev/null: social network for developers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/Saffsanity/sill">https://github.com/Saffsanity/sill</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50112739">https://news.ycombinator.com/item?id=50112739</a></p>
-<p>Points: 190</p>
-<p># Comments: 48</p>
+<p>Article URL: <a href="https://dev-null.sh">https://dev-null.sh</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50121004">https://news.ycombinator.com/item?id=50121004</a></p>
+<p>Points: 38</p>
+<p># Comments: 38</p>
 
-🔗 **Read more:** [https://github.com/Saffsanity/sill](https://github.com/Saffsanity/sill)
+🔗 **Read more:** [https://dev-null.sh](https://dev-null.sh)
 
 ---
 
-### 4. British father fined for causing his two-year-old son's death in Cyprus hotel fall
+### 4. Zelensky says Ukraine has right to defend itself after Trump calls refinery strikes a 'disgrace'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Joshua Foster "lost control" of his son while showing him the view of a water park from a window.
+EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is "more difficult to work with than Putin".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Israeli settlers attack Palestinians in West Bank during olive harvest
+### 5. Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Israeli settlers were seen attacking Palestinian farmers and setting fire to olive trees in the West Bank.
+The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Norwegian teen 'hitman' detained for UK murder plot
+### 6. Man killed by tiger may have had medical records breached by NHS staff
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Johannes Natland, 19, travelled to West Yorkshire to carry out a "hit" in March last year.
+William Chapman, 24, was mauled to death at Yorkshire Wildlife Park, near Doncaster, on Saturday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c875prd12vkqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c875prd12vkqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Pro-Nazi chants before Ajax match slammed by Croatia leaders
+### 7. Sally Rooney can’t sell her books in UK over support for Palestine Action
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Croatia&#039;s Hajduk Split hosted Ajax on Thursday, but chants for pre-World War II regime precede UEFA Europa League game.
+We asked students what they think.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/16/pro-nazi-chants-ahead-of-ajax-match-slammed-by-croatia-leaders?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/16/pro-nazi-chants-ahead-of-ajax-match-slammed-by-croatia-leaders?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/sally-rooney-cant-sell-her-books-in-uk-over-support-for-palestine-action?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/sally-rooney-cant-sell-her-books-in-uk-over-support-for-palestine-action?traffic_source=rss)
 
 ---
 
-### 8. Fuel tanker fire engulfs market in southern Nigeria
+### 8. Iran’s president condemns environmental impact of war in Middle East
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A fire tore through Oluku market in Benin City after a tanker overturned and exploded.
+Iranian President Masoud Pezeshkian has decried the ecological damage caused by conflict in the Middle East
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/fuel-tanker-fire-engulfs-market-in-southern-nigeria?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/fuel-tanker-fire-engulfs-market-in-southern-nigeria?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/irans-president-condemns-environmental-impact-of-war-in-middle-eas?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/irans-president-condemns-environmental-impact-of-war-in-middle-eas?traffic_source=rss)
 
 ---
 
-### 9. Pakistan orders school inspections following deadly roof collapse
+### 9. Spain to appeal to CAS after FIFA penalty for Islamophobic chants
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Families demand justice for the 35 people killed; relatives say they had warned that the roof was leaking.
+Spain appeals to Court of Arbitration for Sport following FIFA sanctions for fans&#039; behaviour during Egypt friendly.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/pakistan-orders-school-inspections-following-deadly-roof-collapse?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/pakistan-orders-school-inspections-following-deadly-roof-collapse?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/16/spain-to-appeal-to-cas-after-fifa-penalty-for-islamophobic-chants?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/16/spain-to-appeal-to-cas-after-fifa-penalty-for-islamophobic-chants?traffic_source=rss)
 
 ---
 
-### 10. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 10. Tropical Cyclone 01P
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340)
+
+---
+
+### 11. Tropical Storm Champi
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339)
+
+---
+
+### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
@@ -146,32 +172,6 @@ Families demand justice for the 35 people killed; relatives say they had warned 
 Natural event: Wildfires
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310)
-
----
-
-### 11. Hurricane Trudy
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290)
-
----
-
-### 12. Prescribed Fire Jane 102 RX, Harney, Oregon
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25311](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25311)
 
 ---
 
