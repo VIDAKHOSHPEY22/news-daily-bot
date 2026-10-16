@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 02:55:54
+**Last Update:** 2026-10-17 03:12:26
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency">https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50124642">https://news.ycombinator.com/item?id=50124642</a></p>
-<p>Points: 22</p>
-<p># Comments: 9</p>
+<p>Points: 24</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/home-assistant/home-assistant.io/issues/49314">https://github.com/home-assistant/home-assistant.io/issues/49314</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50124251">https://news.ycombinator.com/item?id=50124251</a></p>
-<p>Points: 146</p>
-<p># Comments: 95</p>
+<p>Points: 154</p>
+<p># Comments: 103</p>
 
 🔗 **Read more:** [https://github.com/home-assistant/home-assistant.io/issues/49314](https://github.com/home-assistant/home-assistant.io/issues/49314)
 
@@ -52,13 +52,26 @@
 <p>Article URL: <a href="https://bfl.ai/blog/flux-3-image-klein">https://bfl.ai/blog/flux-3-image-klein</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50123580">https://news.ycombinator.com/item?id=50123580</a></p>
 <p>Points: 84</p>
-<p># Comments: 16</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://bfl.ai/blog/flux-3-image-klein](https://bfl.ai/blog/flux-3-image-klein)
 
 ---
 
-### 4. Watch: Will Ukraine get the support needed as tensions with US rise?
+### 4. Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Watch: Will Ukraine get the support needed as tensions with US rise?
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Zelensky thanked the "real leaders" ahead of a meeting with the EU in Brussels.
 
 ---
 
-### 5. Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role
+### 6. Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role
 
 **Source:** BBC
 
@@ -84,20 +97,20 @@ The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the
 
 ---
 
-### 6. Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements
+### 7. Albanian PM blames ‘foreign hands’ for unrest as student protests intensify
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rebecca Louise Burwood saw the vulnerable victim "as her nanna" but stole to fund her lifestyle.
+Riot police clash with protesters for fourth day, as young Albanians protest corruption and poor university conditions
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss)
 
 ---
 
-### 7. Leeds vs Manchester United: Premier League – teams, prediction, lineups
+### 8. Leeds vs Manchester United: Premier League – teams, prediction, lineups
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Manchester United are mired in poor form - and Lisandro Martinez&#039;s meltdown
 
 ---
 
-### 8. Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists
+### 9. Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Manchester United are mired in poor form - and Lisandro Martinez&#039;s meltdown
 Rome prosecutors also name 12 senior military, police and prison officials over alleged abuse of detained activists.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss)
-
----
-
-### 9. Families demand justice after Pakistan school collapse
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Parents are demanding accountability after a school roof collapse in Pakistan&#039;s Peshawar killed 34 children.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/families-demand-justice-after-pakistan-school-collapse?traffic_source=rss)
 
 ---
 
