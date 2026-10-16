@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-16 10:30:45
+**Last Update:** 2026-10-16 10:51:19
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Comparing Chromium Development at Google and Igalia
+### 1. Last rites for Gentoo's Chromium package
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lwn.net/Articles/1097760/">https://lwn.net/Articles/1097760/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50114359">https://news.ycombinator.com/item?id=50114359</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://lwn.net/Articles/1097760/](https://lwn.net/Articles/1097760/)
+
+---
+
+### 2. Comparing Chromium Development at Google and Igalia
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://lwn.net/Articles/1094721/">https://lwn.net/Articles/1094721/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50112887">https://news.ycombinator.com/item?id=50112887</a></p>
-<p>Points: 35</p>
-<p># Comments: 8</p>
+<p>Points: 37</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://lwn.net/Articles/1094721/](https://lwn.net/Articles/1094721/)
 
 ---
 
-### 2. Any window from your Mac, on your iPhone and iPad
+### 3. Any window from your Mac, on your iPhone and iPad
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/Saffsanity/sill">https://github.com/Saffsanity/sill</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50112739">https://news.ycombinator.com/item?id=50112739</a></p>
-<p>Points: 123</p>
+<p>Points: 125</p>
 <p># Comments: 25</p>
 
 🔗 **Read more:** [https://github.com/Saffsanity/sill](https://github.com/Saffsanity/sill)
-
----
-
-### 3. Thank You, Deno
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.vlt.io/blog/competition-keeps-javascript-moving">https://www.vlt.io/blog/competition-keeps-javascript-moving</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50112331">https://news.ycombinator.com/item?id=50112331</a></p>
-<p>Points: 52</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://www.vlt.io/blog/competition-keeps-javascript-moving](https://www.vlt.io/blog/competition-keeps-javascript-moving)
 
 ---
 
