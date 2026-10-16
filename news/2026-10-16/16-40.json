@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-16T16:40:25+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Folders Programming Language",
+            "description": "<p>Article URL: <a href=\"https://danieltemkin.com/esolangs/folders\">https://danieltemkin.com/esolangs/folders</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50114342\">https://news.ycombinator.com/item?id=50114342</a></p>\n<p>Points: 120</p>\n<p># Comments: 17</p>",
+            "url": "https://danieltemkin.com/esolangs/folders",
+            "published": "Fri, 16 Oct 2026 05:11:28 +0000",
+            "fetched": "2026-10-16T16:40:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Comparing Chromium Development at Google and Igalia",
+            "description": "<p>Article URL: <a href=\"https://lwn.net/Articles/1094721/\">https://lwn.net/Articles/1094721/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112887\">https://news.ycombinator.com/item?id=50112887</a></p>\n<p>Points: 67</p>\n<p># Comments: 19</p>",
+            "url": "https://lwn.net/Articles/1094721/",
+            "published": "Fri, 16 Oct 2026 01:56:37 +0000",
+            "fetched": "2026-10-16T16:40:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Any window from your Mac, on your iPhone and iPad",
+            "description": "<p>Article URL: <a href=\"https://github.com/Saffsanity/sill\">https://github.com/Saffsanity/sill</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112739\">https://news.ycombinator.com/item?id=50112739</a></p>\n<p>Points: 190</p>\n<p># Comments: 48</p>",
+            "url": "https://github.com/Saffsanity/sill",
+            "published": "Fri, 16 Oct 2026 01:43:17 +0000",
+            "fetched": "2026-10-16T16:40:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "British father fined for causing his two-year-old son's death in Cyprus hotel fall",
+            "description": "Joshua Foster \"lost control\" of his son while showing him the view of a water park from a window.",
+            "url": "https://www.bbc.co.uk/news/articles/cvj6j1klez88o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 13:01:06 GMT",
+            "fetched": "2026-10-16T16:40:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israeli settlers attack Palestinians in West Bank during olive harvest",
+            "description": "Israeli settlers were seen attacking Palestinian farmers and setting fire to olive trees in the West Bank.",
+            "url": "https://www.bbc.co.uk/news/videos/cqn06zx2r15jo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 11:40:41 GMT",
+            "fetched": "2026-10-16T16:40:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Norwegian teen 'hitman' detained for UK murder plot",
+            "description": "Johannes Natland, 19, travelled to West Yorkshire to carry out a \"hit\" in March last year.",
+            "url": "https://www.bbc.co.uk/news/articles/cw8rzpl1ldkdo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 12:51:39 GMT",
+            "fetched": "2026-10-16T16:40:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pro-Nazi chants before Ajax match slammed by Croatia leaders",
+            "description": "Croatia&#039;s Hajduk Split hosted Ajax on Thursday, but chants for pre-World War II regime precede UEFA Europa League game.",
+            "url": "https://www.aljazeera.com/sports/2026/10/16/pro-nazi-chants-ahead-of-ajax-match-slammed-by-croatia-leaders?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 12:42:30 +0000",
+            "fetched": "2026-10-16T16:40:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fuel tanker fire engulfs market in southern Nigeria",
+            "description": "A fire tore through Oluku market in Benin City after a tanker overturned and exploded.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/fuel-tanker-fire-engulfs-market-in-southern-nigeria?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 12:23:12 +0000",
+            "fetched": "2026-10-16T16:40:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pakistan orders school inspections following deadly roof collapse",
+            "description": "Families demand justice for the 35 people killed; relatives say they had warned that the roof was leaking.",
+            "url": "https://www.aljazeera.com/news/2026/10/16/pakistan-orders-school-inspections-following-deadly-roof-collapse?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 12:18:06 +0000",
+            "fetched": "2026-10-16T16:40:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-16T16:40:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Trudy",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290",
+            "published": "2026-10-13T18:00:00Z",
+            "fetched": "2026-10-16T16:40:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Jane 102 RX, Harney, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25311",
+            "published": "2026-10-13T10:24:00Z",
+            "fetched": "2026-10-16T16:40:25+03:30"
+        }
+    ]
+}
