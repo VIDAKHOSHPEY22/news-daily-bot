@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-16T10:30:45+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Comparing Chromium Development at Google and Igalia",
+            "description": "<p>Article URL: <a href=\"https://lwn.net/Articles/1094721/\">https://lwn.net/Articles/1094721/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112887\">https://news.ycombinator.com/item?id=50112887</a></p>\n<p>Points: 35</p>\n<p># Comments: 8</p>",
+            "url": "https://lwn.net/Articles/1094721/",
+            "published": "Fri, 16 Oct 2026 01:56:37 +0000",
+            "fetched": "2026-10-16T10:30:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Any window from your Mac, on your iPhone and iPad",
+            "description": "<p>Article URL: <a href=\"https://github.com/Saffsanity/sill\">https://github.com/Saffsanity/sill</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112739\">https://news.ycombinator.com/item?id=50112739</a></p>\n<p>Points: 123</p>\n<p># Comments: 25</p>",
+            "url": "https://github.com/Saffsanity/sill",
+            "published": "Fri, 16 Oct 2026 01:43:17 +0000",
+            "fetched": "2026-10-16T10:30:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Thank You, Deno",
+            "description": "<p>Article URL: <a href=\"https://www.vlt.io/blog/competition-keeps-javascript-moving\">https://www.vlt.io/blog/competition-keeps-javascript-moving</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50112331\">https://news.ycombinator.com/item?id=50112331</a></p>\n<p>Points: 52</p>\n<p># Comments: 5</p>",
+            "url": "https://www.vlt.io/blog/competition-keeps-javascript-moving",
+            "published": "Fri, 16 Oct 2026 00:52:40 +0000",
+            "fetched": "2026-10-16T10:30:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Three children and teacher killed in US primary school shooting",
+            "description": "The suspect was shot dead by an armed bystander who followed him into the Oregon school, police said.",
+            "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 03:45:09 GMT",
+            "fetched": "2026-10-16T10:30:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Banks say Healey planning to increase tax on their profits in Budget",
+            "description": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month.",
+            "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 06:42:12 GMT",
+            "fetched": "2026-10-16T10:30:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Same-day test helps doctors detect hidden infections in critically ill children",
+            "description": "Metagenomics offers a new way of detecting infections in intensive care patients.",
+            "url": "https://www.bbc.co.uk/news/articles/cw5yn83m8gypo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 00:34:45 GMT",
+            "fetched": "2026-10-16T10:30:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "In Israel, Netanyahu’s ultimate legacy is the opposition he has forged",
+            "description": "As Israel heads to the polls, PM Netanyahu’s most enduring domestic legacy may be the right-wing opposition he faces.",
+            "url": "https://www.aljazeera.com/news/2026/10/16/in-israel-netanyahus-ultimate-legacy-is-the-opposition-he-has-forged?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 06:41:15 +0000",
+            "fetched": "2026-10-16T10:30:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Which countries waste the most food, and how to reduce waste at home",
+            "description": "This World Food Day, 645 million people are going hungry, yet more than a billion tonnes of food is wasted annually.",
+            "url": "https://www.aljazeera.com/news/2026/10/16/which-countries-waste-the-most-food-and-how-to-reduce-waste-at-home?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 06:31:57 +0000",
+            "fetched": "2026-10-16T10:30:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Vibe coding: Game-changer or risky business?",
+            "description": "Vibe coding lets users build software with AI, but free alternatives to popular programmes raise security concerns.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/vibe-coding-game-changer-or-risky-business?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 06:01:34 +0000",
+            "fetched": "2026-10-16T10:30:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-16T10:30:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Trudy",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25290",
+            "published": "2026-10-13T18:00:00Z",
+            "fetched": "2026-10-16T10:30:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Jane 102 RX, Harney, Oregon",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25311",
+            "published": "2026-10-13T10:24:00Z",
+            "fetched": "2026-10-16T10:30:45+03:30"
+        }
+    ]
+}
