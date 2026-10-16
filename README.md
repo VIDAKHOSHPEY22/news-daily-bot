@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 00:24:42
+**Last Update:** 2026-10-17 00:54:54
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. I never authorized an integration that scans my secrets
+### 1. Why harnesses matter for energy (and token) efficiency
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency">https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50124642">https://news.ycombinator.com/item?id=50124642</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency)
+
+---
+
+### 2. I never authorized an integration that scans my secrets
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/home-assistant/home-assistant.io/issues/49314">https://github.com/home-assistant/home-assistant.io/issues/49314</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50124251">https://news.ycombinator.com/item?id=50124251</a></p>
-<p>Points: 14</p>
-<p># Comments: 0</p>
+<p>Points: 65</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://github.com/home-assistant/home-assistant.io/issues/49314](https://github.com/home-assistant/home-assistant.io/issues/49314)
 
 ---
 
-### 2. Flux 3 Image Klein: open weights, 5.6B parameters
+### 3. Flux 3 Image Klein: open weights, 5.6B parameters
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://bfl.ai/blog/flux-3-image-klein">https://bfl.ai/blog/flux-3-image-klein</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50123580">https://news.ycombinator.com/item?id=50123580</a></p>
-<p>Points: 16</p>
-<p># Comments: 4</p>
+<p>Points: 34</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://bfl.ai/blog/flux-3-image-klein](https://bfl.ai/blog/flux-3-image-klein)
-
----
-
-### 3. The Fatal Flaw of 911
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health">https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50123356">https://news.ycombinator.com/item?id=50123356</a></p>
-<p>Points: 24</p>
-<p># Comments: 19</p>
-
-🔗 **Read more:** [https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health](https://www.themarshallproject.org/2026/10/16/911-book-policing-mental-health)
 
 ---
 
@@ -97,7 +97,33 @@ Rebecca Louise Burwood saw the vulnerable victim "as her nanna" but stole to fun
 
 ---
 
-### 7. Students in Europe are rising up to call for better education
+### 7. Meta employees say Lula’s accounts restricted in Brazil election: Report
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The messages, reported by a Brazilian daily, say the platform recommended Bolsonaro&#039;s profile and his WhatsApp channel.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss)
+
+---
+
+### 8. How Israeli spyware used ‘zero click’ hack on Al Jazeera staff
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Israeli spyware firms hacked into Al Jazeera devices in 2024 using a new ‘adfection’ method. Here&#039;s how it works.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israeli-spyware-used-zero-click-hack-on-al-jazeera-staff?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israeli-spyware-used-zero-click-hack-on-al-jazeera-staff?traffic_source=rss)
+
+---
+
+### 9. Students in Europe are rising up to call for better education
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ Rebecca Louise Burwood saw the vulnerable victim "as her nanna" but stole to fun
 Violent unrest is gripping several countries across Europe, as student activists demand better education systems.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss)
-
----
-
-### 8. Food affordability fears plague Gaza as Israel halts commercial goods
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Commercial goods, such as fresh fruit, vegetables, meat and winter clothing, have not entered Gaza for two days.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/food-affordability-fears-plague-gaza-as-israel-halts-commercial-goods?traffic_source=rss)
-
----
-
-### 9. Oregon community mourns victims of school shooting
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Mourners quietly grieved at a makeshift memorial outside an elementary school in Bend, Oregon.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/16/oregon-community-mourns-victims-of-school-shooting?traffic_source=rss)
 
 ---
 

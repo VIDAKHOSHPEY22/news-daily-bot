@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-17T00:54:54+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why harnesses matter for energy (and token) efficiency",
+            "description": "<p>Article URL: <a href=\"https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency\">https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50124642\">https://news.ycombinator.com/item?id=50124642</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency",
+            "published": "Fri, 16 Oct 2026 21:01:23 +0000",
+            "fetched": "2026-10-17T00:54:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I never authorized an integration that scans my secrets",
+            "description": "<p>Article URL: <a href=\"https://github.com/home-assistant/home-assistant.io/issues/49314\">https://github.com/home-assistant/home-assistant.io/issues/49314</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50124251\">https://news.ycombinator.com/item?id=50124251</a></p>\n<p>Points: 65</p>\n<p># Comments: 19</p>",
+            "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+            "published": "Fri, 16 Oct 2026 20:33:41 +0000",
+            "fetched": "2026-10-17T00:54:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Flux 3 Image Klein: open weights, 5.6B parameters",
+            "description": "<p>Article URL: <a href=\"https://bfl.ai/blog/flux-3-image-klein\">https://bfl.ai/blog/flux-3-image-klein</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50123580\">https://news.ycombinator.com/item?id=50123580</a></p>\n<p>Points: 34</p>\n<p># Comments: 7</p>",
+            "url": "https://bfl.ai/blog/flux-3-image-klein",
+            "published": "Fri, 16 Oct 2026 19:47:13 +0000",
+            "fetched": "2026-10-17T00:54:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Will Ukraine get the support needed as tensions with US rise?",
+            "description": "Zelensky thanked the \"real leaders\" ahead of a meeting with the EU in Brussels.",
+            "url": "https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 15:45:10 GMT",
+            "fetched": "2026-10-17T00:54:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
+            "description": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.",
+            "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 16:00:30 GMT",
+            "fetched": "2026-10-17T00:54:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nurse stole £750k from 99-year-old woman for cosmetic surgery and home improvements",
+            "description": "Rebecca Louise Burwood saw the vulnerable victim \"as her nanna\" but stole to fund her lifestyle.",
+            "url": "https://www.bbc.co.uk/news/articles/cm9qzx43rlzjo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 16 Oct 2026 16:07:37 GMT",
+            "fetched": "2026-10-17T00:54:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Meta employees say Lula’s accounts restricted in Brazil election: Report",
+            "description": "The messages, reported by a Brazilian daily, say the platform recommended Bolsonaro&#039;s profile and his WhatsApp channel.",
+            "url": "https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 21:08:50 +0000",
+            "fetched": "2026-10-17T00:54:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How Israeli spyware used ‘zero click’ hack on Al Jazeera staff",
+            "description": "Israeli spyware firms hacked into Al Jazeera devices in 2024 using a new ‘adfection’ method. Here&#039;s how it works.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/how-israeli-spyware-used-zero-click-hack-on-al-jazeera-staff?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 21:08:44 +0000",
+            "fetched": "2026-10-17T00:54:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Students in Europe are rising up to call for better education",
+            "description": "Violent unrest is gripping several countries across Europe, as student activists demand better education systems.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/16/students-in-europe-are-rising-up-to-call-for-better-education?traffic_source=rss",
+            "published": "Fri, 16 Oct 2026 20:38:00 +0000",
+            "fetched": "2026-10-17T00:54:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-17T00:54:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-17T00:54:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-17T00:54:54+03:30"
+        }
+    ]
+}
