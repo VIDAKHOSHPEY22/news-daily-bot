@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-17T07:37:32+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+            "description": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+            "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 01:19:04 GMT",
+            "fetched": "2026-10-17T07:37:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump waives several Russia sanctions as new US law takes effect",
+            "description": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
+            "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 02:48:36 GMT",
+            "fetched": "2026-10-17T07:37:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Third runway at Heathrow Airport would drive growth, Healey says",
+            "description": "It comes after the prime minister refused to say whether he backed expansion.",
+            "url": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 03:57:16 GMT",
+            "fetched": "2026-10-17T07:37:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Southern California wildfire engulfs homes, prompts evacuation orders",
+            "description": "The fast-spreading Norte Fire in Orange County is fuelled by intense warm winds and unseasonably high temperatures.",
+            "url": "https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 03:30:36 +0000",
+            "fetched": "2026-10-17T07:37:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cameroonians await government reshuffle after Biya’s return",
+            "description": "After 10 weeks abroad, Biya returned to Cameroon but has yet to appoint a new government or vice president.",
+            "url": "https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 03:14:28 +0000",
+            "fetched": "2026-10-17T07:37:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazil’s Amazon deforestation hits lowest level on record",
+            "description": "Data show a 42 percent drop in forest clearance from a year earlier, giving Lula a boost before the election run-off.",
+            "url": "https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 02:49:21 +0000",
+            "fetched": "2026-10-17T07:37:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-17T07:37:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-17T07:37:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-17T07:37:32+03:30"
+        }
+    ]
+}

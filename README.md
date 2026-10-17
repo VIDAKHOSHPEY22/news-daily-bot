@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 03:12:26
+**Last Update:** 2026-10-17 07:37:32
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why harnesses matter for energy (and token) efficiency
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency">https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50124642">https://news.ycombinator.com/item?id=50124642</a></p>
-<p>Points: 24</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency](https://neuralwatt.com/news/why-harnesses-matter-for-energy-efficiency)
-
----
-
-### 2. I never authorized an integration that scans my secrets
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/home-assistant/home-assistant.io/issues/49314">https://github.com/home-assistant/home-assistant.io/issues/49314</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50124251">https://news.ycombinator.com/item?id=50124251</a></p>
-<p>Points: 154</p>
-<p># Comments: 103</p>
-
-🔗 **Read more:** [https://github.com/home-assistant/home-assistant.io/issues/49314](https://github.com/home-assistant/home-assistant.io/issues/49314)
-
----
-
-### 3. FLUX 3 Image Klein
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://bfl.ai/blog/flux-3-image-klein">https://bfl.ai/blog/flux-3-image-klein</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50123580">https://news.ycombinator.com/item?id=50123580</a></p>
-<p>Points: 84</p>
-<p># Comments: 17</p>
-
-🔗 **Read more:** [https://bfl.ai/blog/flux-3-image-klein](https://bfl.ai/blog/flux-3-image-klein)
-
----
-
-### 4. Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'
+### 1. Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'
 
 **Source:** BBC
 
@@ -71,72 +23,72 @@ The 16-year-old suspect previously attended the primary school and had targeted 
 
 ---
 
-### 5. Watch: Will Ukraine get the support needed as tensions with US rise?
+### 2. Trump waives several Russia sanctions as new US law takes effect
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Zelensky thanked the "real leaders" ahead of a meeting with the EU in Brussels.
+Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm2ke1v8e4geo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role
+### 3. Third runway at Heathrow Airport would drive growth, Healey says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump.
+It comes after the prime minister refused to say whether he backed expansion.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Albanian PM blames ‘foreign hands’ for unrest as student protests intensify
+### 4. Southern California wildfire engulfs homes, prompts evacuation orders
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Riot police clash with protesters for fourth day, as young Albanians protest corruption and poor university conditions
+The fast-spreading Norte Fire in Orange County is fuelled by intense warm winds and unseasonably high temperatures.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/albanian-pm-blames-foreign-hands-for-unrest-as-student-protests-intensify?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss)
 
 ---
 
-### 8. Leeds vs Manchester United: Premier League – teams, prediction, lineups
+### 5. Cameroonians await government reshuffle after Biya’s return
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Manchester United are mired in poor form - and Lisandro Martinez&#039;s meltdown - now they face on-the-up rivals Leeds.
+After 10 weeks abroad, Biya returned to Cameroon but has yet to appoint a new government or vice president.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/16/leeds-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/16/leeds-vs-manchester-united-premier-league-teams-prediction-lineups?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss)
 
 ---
 
-### 9. Italy probes Israel’s Katz over abuse, sexual assault of flotilla activists
+### 6. Brazil’s Amazon deforestation hits lowest level on record
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rome prosecutors also name 12 senior military, police and prison officials over alleged abuse of detained activists.
+Data show a 42 percent drop in forest clearance from a year earlier, giving Lula a boost before the election run-off.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss](https://www.aljazeera.com/news/2026/10/16/italy-probes-israels-katz-over-abuse-sexual-assault-of-flotilla-activists?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone 01P
+### 7. Tropical Cyclone 01P
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Storm Champi
+### 8. Typhoon Champi
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 9. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
