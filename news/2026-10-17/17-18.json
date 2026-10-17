@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-17T17:18:14+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+            "description": "<p>Article URL: <a href=\"https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017\">https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50129121\">https://news.ycombinator.com/item?id=50129121</a></p>\n<p>Points: 346</p>\n<p># Comments: 138</p>",
+            "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+            "published": "Sat, 17 Oct 2026 08:37:46 +0000",
+            "fetched": "2026-10-17T17:18:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek-v4.1-Flash-1017",
+            "description": "<p>Article URL: <a href=\"https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017\">https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50129045\">https://news.ycombinator.com/item?id=50129045</a></p>\n<p>Points: 271</p>\n<p># Comments: 104</p>",
+            "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+            "published": "Sat, 17 Oct 2026 08:21:25 +0000",
+            "fetched": "2026-10-17T17:18:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+            "description": "<p>Article URL: <a href=\"https://llmspeed.dev/\">https://llmspeed.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50127979\">https://news.ycombinator.com/item?id=50127979</a></p>\n<p>Points: 136</p>\n<p># Comments: 47</p>",
+            "url": "https://llmspeed.dev/",
+            "published": "Sat, 17 Oct 2026 04:36:53 +0000",
+            "fetched": "2026-10-17T17:18:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
+            "description": "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.",
+            "url": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 12:14:52 GMT",
+            "fetched": "2026-10-17T17:18:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
+            "description": "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.",
+            "url": "https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 12:56:09 GMT",
+            "fetched": "2026-10-17T17:18:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More NHS staff sacked over attacks victims' records",
+            "description": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
+            "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 13:18:32 GMT",
+            "fetched": "2026-10-17T17:18:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Child, four women among Palestinians injured in West Bank pogroms",
+            "description": "Attacks follow a religious edict by a prominent far-right rabbi permitting the seizure of Palestinian olives.",
+            "url": "https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 12:48:03 +0000",
+            "fetched": "2026-10-17T17:18:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Davidovich Fokina stuns top seed Zverev to reach Shanghai Masters final",
+            "description": "The 26th-ranked Spaniard fought back to win 5-7, 6-4, 6-3 and will play Daniil Medvedev or Rafael Jodar in the final.",
+            "url": "https://www.aljazeera.com/sports/2026/10/17/davidovich-fokina-stuns-top-seed-zverev-to-reach-shanghai-masters-final?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 12:46:48 +0000",
+            "fetched": "2026-10-17T17:18:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar",
+            "description": "A controversial ruling by a hardline Israeli rabbi has been condemned by Palestinians.",
+            "url": "https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 12:27:49 +0000",
+            "fetched": "2026-10-17T17:18:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-17T17:18:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-17T17:18:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-17T17:18:14+03:30"
+        }
+    ]
+}
