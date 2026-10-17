@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-17T20:28:15+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GLP-1 may slow biological aging",
+            "description": "<p>Article URL: <a href=\"https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging\">https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50132328\">https://news.ycombinator.com/item?id=50132328</a></p>\n<p>Points: 42</p>\n<p># Comments: 12</p>",
+            "url": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging",
+            "published": "Sat, 17 Oct 2026 16:10:21 +0000",
+            "fetched": "2026-10-17T20:28:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses",
+            "description": "<p>Article URL: <a href=\"https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/\">https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50132278\">https://news.ycombinator.com/item?id=50132278</a></p>\n<p>Points: 13</p>\n<p># Comments: 0</p>",
+            "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+            "published": "Sat, 17 Oct 2026 16:04:23 +0000",
+            "fetched": "2026-10-17T20:28:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Solar surpasses nuclear power globally for first time",
+            "description": "<p>Article URL: <a href=\"https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/\">https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50131256\">https://news.ycombinator.com/item?id=50131256</a></p>\n<p>Points: 213</p>\n<p># Comments: 120</p>",
+            "url": "https://www.pv-magazine.com/2026/09/29/solar-surpasses-nuclear-power-globally-for-first-time/",
+            "published": "Sat, 17 Oct 2026 14:01:01 +0000",
+            "fetched": "2026-10-17T20:28:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
+            "description": "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.",
+            "url": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 12:14:52 GMT",
+            "fetched": "2026-10-17T20:28:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More NHS staff sacked over attacks victims' records",
+            "description": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
+            "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 16:34:39 GMT",
+            "fetched": "2026-10-17T20:28:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
+            "description": "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.",
+            "url": "https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 12:56:09 GMT",
+            "fetched": "2026-10-17T20:28:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Buildings and cars set on fire as cost of living protests rock France",
+            "description": "Protesters have set fire to cars and buildings in France as demonstrations escalate.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-clip-france-clashes-protests-fr?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 16:00:40 +0000",
+            "fetched": "2026-10-17T20:28:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pope Leo leaves hospital after lung cancer surgery",
+            "description": "Pope Leo left Rome&#039;s Gemelli Hospital on Saturday after successful lung cancer surgery",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/pope-leo-leaves-hospital-after-lung-cancer-surgery?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 15:47:52 +0000",
+            "fetched": "2026-10-17T20:28:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Neto’s brace fires Chelsea past Everton but Martinez head injury mars win",
+            "description": "Argentinian international taken to hospital for precautionary tests after head clash with Everton&#039;s Jarrad Branthwaite.",
+            "url": "https://www.aljazeera.com/sports/2026/10/17/neto-brace-fires-chelsea-past-everton-but-martinez-head-injury-mars-win?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 15:25:27 +0000",
+            "fetched": "2026-10-17T20:28:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-17T20:28:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-17T20:28:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-17T20:28:15+03:30"
+        }
+    ]
+}
