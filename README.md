@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 13:00:20
+**Last Update:** 2026-10-17 17:05:36
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. "Tame" boar and deer are instinctively adapting to the wolf in the Netherlands
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf">https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129274">https://news.ycombinator.com/item?id=50129274</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf](https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf)
-
----
-
-### 2. DeepSeek: DeepSeek v4.1 Flash 1017
+### 1. DeepSeek: DeepSeek v4.1 Flash 1017
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017">https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129121">https://news.ycombinator.com/item?id=50129121</a></p>
-<p>Points: 63</p>
-<p># Comments: 3</p>
+<p>Points: 318</p>
+<p># Comments: 126</p>
 
 🔗 **Read more:** [https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
 
 ---
 
-### 3. DeepSeek-v4.1-Flash-1017
+### 2. DeepSeek-v4.1-Flash-1017
 
 **Source:** Hacker News
 
@@ -51,88 +35,104 @@
 **Description:**
 <p>Article URL: <a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017">https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129045">https://news.ycombinator.com/item?id=50129045</a></p>
-<p>Points: 96</p>
-<p># Comments: 33</p>
+<p>Points: 256</p>
+<p># Comments: 100</p>
 
 🔗 **Read more:** [https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
 
 ---
 
-### 4. Trump waives several Russia sanctions as row with Zelensky intensifies
+### 3. Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://llmspeed.dev/">https://llmspeed.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50127979">https://news.ycombinator.com/item?id=50127979</a></p>
+<p>Points: 131</p>
+<p># Comments: 47</p>
+
+🔗 **Read more:** [https://llmspeed.dev/](https://llmspeed.dev/)
+
+---
+
+### 4. Watch: 'Mood has really shifted' as Paris protesters clash with police
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US president temporarily ends many restrictions on Moscow recently passed by Congress over "national security" concerns.
+The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'
+### 5. UK must protect against Russian 'hybrid attacks', ex-national security adviser says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.
+Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond
+### 6. More NHS staff sacked over attacks victims' records
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Emergency services were called at about 16:45 on Friday, and pronounced both dead at the scene.
+Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Murder in Malaysia: Justice for Altantuya Shaariibuu
+### 7. Child, four women among Palestinians injured in West Bank pogroms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-101 East investigates if power and politics are shielding those behind the 2006 murder of a Mongolian woman in Malaysia.
+Attacks follow a religious edict by a prominent far-right rabbi permitting the seizure of Palestinian olives.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/101-east/2026/10/17/murder-in-malaysia-justice-for-altantuya-shaariibuu?traffic_source=rss](https://www.aljazeera.com/video/101-east/2026/10/17/murder-in-malaysia-justice-for-altantuya-shaariibuu?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/several-palestinians-injured-detained-in-ongoing-west-bank-pogrom?traffic_source=rss)
 
 ---
 
-### 8. Rubio’s Uzbekistan trip underlines Central Asia’s hunt for diverse partners
+### 8. Davidovich Fokina stuns top seed Zverev to reach Shanghai Masters final
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Can the United States reassert influence with pragmatic, transactional approach to Central Asia?
+The 26th-ranked Spaniard fought back to win 5-7, 6-4, 6-3 and will play Daniil Medvedev or Rafael Jodar in the final.
 
-🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/10/17/rubios-uzbekistan-trip-underlines-central-asias-hunt-for-diverse-partners?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/10/17/rubios-uzbekistan-trip-underlines-central-asias-hunt-for-diverse-partners?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/17/davidovich-fokina-stuns-top-seed-zverev-to-reach-shanghai-masters-final?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/17/davidovich-fokina-stuns-top-seed-zverev-to-reach-shanghai-masters-final?traffic_source=rss)
 
 ---
 
-### 9. Oregon school shooter was former special-needs student, police say
+### 9. Hardline Israeli rabbi ruling on stolen Palestinian olives prompts uproar
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Oregon school shooter was former special-needs student, police say
+A controversial ruling by a hardline Israeli rabbi has been condemned by Palestinians.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say-2?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/hardline-israeli-rabbi-ruling-on-stolen-palestinian-olives-sparks-uproar?traffic_source=rss)
 
 ---
 
