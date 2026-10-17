@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-17T22:45:10+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Qwen3.8-27B on the iPhone 18 Neural Engine at 15–70 tok/s (1.5 bpw)",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/anemll/status/2111517143087067309\">https://twitter.com/anemll/status/2111517143087067309</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50133500\">https://news.ycombinator.com/item?id=50133500</a></p>\n<p>Points: 24</p>\n<p># Comments: 4</p>",
+            "url": "https://twitter.com/anemll/status/2111517143087067309",
+            "published": "Sat, 17 Oct 2026 18:10:21 +0000",
+            "fetched": "2026-10-17T22:45:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenCode Hacked: User credentials leaked",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/opencode/status/2111516673953935833\">https://twitter.com/opencode/status/2111516673953935833</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50133401\">https://news.ycombinator.com/item?id=50133401</a></p>\n<p>Points: 99</p>\n<p># Comments: 26</p>",
+            "url": "https://twitter.com/opencode/status/2111516673953935833",
+            "published": "Sat, 17 Oct 2026 18:01:41 +0000",
+            "fetched": "2026-10-17T22:45:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Development statistics for the 7.2 kernel",
+            "description": "<p>Article URL: <a href=\"https://lwn.net/Articles/1088776/\">https://lwn.net/Articles/1088776/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50132950\">https://news.ycombinator.com/item?id=50132950</a></p>\n<p>Points: 80</p>\n<p># Comments: 34</p>",
+            "url": "https://lwn.net/Articles/1088776/",
+            "published": "Sat, 17 Oct 2026 17:14:12 +0000",
+            "fetched": "2026-10-17T22:45:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More NHS staff sacked over attacks victims' records",
+            "description": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
+            "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 16:34:39 GMT",
+            "fetched": "2026-10-17T22:45:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "European diplomats attacked by Israeli settlers in West Bank",
+            "description": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign.",
+            "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 18:38:57 GMT",
+            "fetched": "2026-10-17T22:45:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
+            "description": "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.",
+            "url": "https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 12:56:09 GMT",
+            "fetched": "2026-10-17T22:45:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko",
+            "description": "Hundreds of protesters rallied outside the office of Kyiv’s mayor Vitali Klitschko, demanding that he steps down.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 19:04:00 +0000",
+            "fetched": "2026-10-17T22:45:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Will the EU come to Ukraine’s rescue in war against Russia?",
+            "description": "US support at risk as Trump-Zelenskyy relations nosedive.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 19:03:49 +0000",
+            "fetched": "2026-10-17T22:45:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Is the US Embassy in Jerusalem for Israel or America?",
+            "description": "What led to the deaths of the nine Americans killed in the occupied West Bank since 2022?",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 18:41:30 +0000",
+            "fetched": "2026-10-17T22:45:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-17T22:45:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-17T22:45:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-17T22:45:10+03:30"
+        }
+    ]
+}
