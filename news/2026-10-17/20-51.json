@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-17T20:51:05+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Artie (YC S23) Is Hiring Enterprise AES and Senior Engineers",
+            "description": "<p>Article URL: <a href=\"https://www.artie.com/careers\">https://www.artie.com/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50132839\">https://news.ycombinator.com/item?id=50132839</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.artie.com/careers",
+            "published": "Sat, 17 Oct 2026 17:02:50 +0000",
+            "fetched": "2026-10-17T20:51:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GLP-1 may slow biological aging",
+            "description": "<p>Article URL: <a href=\"https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging\">https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50132328\">https://news.ycombinator.com/item?id=50132328</a></p>\n<p>Points: 60</p>\n<p># Comments: 34</p>",
+            "url": "https://www.universityofcalifornia.edu/news/new-study-shows-popular-glp-1-weight-loss-drug-may-slow-biological-aging",
+            "published": "Sat, 17 Oct 2026 16:10:21 +0000",
+            "fetched": "2026-10-17T20:51:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses",
+            "description": "<p>Article URL: <a href=\"https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/\">https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50132278\">https://news.ycombinator.com/item?id=50132278</a></p>\n<p>Points: 33</p>\n<p># Comments: 4</p>",
+            "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield/",
+            "published": "Sat, 17 Oct 2026 16:04:23 +0000",
+            "fetched": "2026-10-17T20:51:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: 'Mood has really shifted' as Paris protesters clash with police",
+            "description": "The BBC is on the ground at the Place de la République, where protesters and police clash after weeks of students demonstrations.",
+            "url": "https://www.bbc.co.uk/news/videos/c6vg08xlr8g3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 12:14:52 GMT",
+            "fetched": "2026-10-17T20:51:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More NHS staff sacked over attacks victims' records",
+            "description": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
+            "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 16:34:39 GMT",
+            "fetched": "2026-10-17T20:51:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK must protect against Russian 'hybrid attacks', ex-national security adviser says",
+            "description": "Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.",
+            "url": "https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 12:56:09 GMT",
+            "fetched": "2026-10-17T20:51:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Al Jazeera reports from Paris as protests turns violent",
+            "description": "In Paris, thousands are protesting teacher shortages, poor school facilities and cuts to public services.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/al-jazeera-reports-from-paris-as-protests-turns-violent?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 16:56:40 +0000",
+            "fetched": "2026-10-17T20:51:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why are Latin American countries building closer ties with Israel?",
+            "description": "A wave of new Latin American leaders reverses measures meant to isolate Israel after its genocidal war on Gaza.",
+            "url": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 16:54:44 +0000",
+            "fetched": "2026-10-17T20:51:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Egypt’s el-Sisi vows to defend Saudi Arabia from Houthi attacks",
+            "description": "Egyptian President Abdel Fattah el-Sisi has vowed to take &#039;any measure&#039; to defend Saudi Arabia amid Houthi attacks.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/10-17-egypt-saudi-houths-clip?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 16:49:07 +0000",
+            "fetched": "2026-10-17T20:51:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-17T20:51:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-17T20:51:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-17T20:51:05+03:30"
+        }
+    ]
+}
