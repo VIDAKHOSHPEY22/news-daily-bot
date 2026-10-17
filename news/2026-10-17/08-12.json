@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-17T08:12:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "\"In every study that considered the question\"",
+            "description": "<p>Article URL: <a href=\"https://unsung.aresluna.org/in-every-study-that-considered-the-question/\">https://unsung.aresluna.org/in-every-study-that-considered-the-question/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50127839\">https://news.ycombinator.com/item?id=50127839</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://unsung.aresluna.org/in-every-study-that-considered-the-question/",
+            "published": "Sat, 17 Oct 2026 04:08:27 +0000",
+            "fetched": "2026-10-17T08:12:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Butlerian Jihad",
+            "description": "<p>Article URL: <a href=\"https://dune.fandom.com/wiki/Butlerian_Jihad\">https://dune.fandom.com/wiki/Butlerian_Jihad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50127274\">https://news.ycombinator.com/item?id=50127274</a></p>\n<p>Points: 125</p>\n<p># Comments: 66</p>",
+            "url": "https://dune.fandom.com/wiki/Butlerian_Jihad",
+            "published": "Sat, 17 Oct 2026 02:21:08 +0000",
+            "fetched": "2026-10-17T08:12:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Flexport Is Hiring a Biz Ops Leader in Office of CEO",
+            "description": "<p>Article URL: <a href=\"https://www.flexport.com/company/careers/\">https://www.flexport.com/company/careers/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50126774\">https://news.ycombinator.com/item?id=50126774</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.flexport.com/company/careers/",
+            "published": "Sat, 17 Oct 2026 01:01:51 +0000",
+            "fetched": "2026-10-17T08:12:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+            "description": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+            "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 01:19:04 GMT",
+            "fetched": "2026-10-17T08:12:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump waives several Russia sanctions as new US law takes effect",
+            "description": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests.",
+            "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 02:48:36 GMT",
+            "fetched": "2026-10-17T08:12:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Third runway at Heathrow Airport would drive growth, Healey says",
+            "description": "It comes after the prime minister refused to say whether he backed expansion.",
+            "url": "https://www.bbc.co.uk/news/articles/cw0k07d2nj43o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 03:57:16 GMT",
+            "fetched": "2026-10-17T08:12:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Southern California wildfire engulfs homes, prompts evacuation orders",
+            "description": "The fast-spreading Norte Fire in Orange County is fuelled by intense warm winds and unseasonably high temperatures.",
+            "url": "https://www.aljazeera.com/news/2026/10/17/southern-california-wildfire-engulfs-homes-prompts-evacuation-orders?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 03:30:36 +0000",
+            "fetched": "2026-10-17T08:12:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cameroonians await government reshuffle after Biya’s return",
+            "description": "After 10 weeks abroad, Biya returned to Cameroon but has yet to appoint a new government or vice president.",
+            "url": "https://www.aljazeera.com/news/2026/10/17/cameroonians-await-government-reshuffle-after-biyas-return?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 03:14:28 +0000",
+            "fetched": "2026-10-17T08:12:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazil’s Amazon deforestation hits lowest level on record",
+            "description": "Data show a 42 percent drop in forest clearance from a year earlier, giving Lula a boost before the election run-off.",
+            "url": "https://www.aljazeera.com/news/2026/10/17/brazils-amazon-deforestation-hits-lowest-level-on-record?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 02:49:21 +0000",
+            "fetched": "2026-10-17T08:12:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-17T08:12:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-17T08:12:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-17T08:12:21+03:30"
+        }
+    ]
+}
