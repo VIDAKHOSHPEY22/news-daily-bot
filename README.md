@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 22:45:10
+**Last Update:** 2026-10-17 23:02:09
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Qwen3.8-27B on the iPhone 18 Neural Engine at 15–70 tok/s (1.5 bpw)
+### 1. Pattern Matching Beats Narrative Reasoning
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/anemll/status/2111517143087067309">https://twitter.com/anemll/status/2111517143087067309</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50133500">https://news.ycombinator.com/item?id=50133500</a></p>
-<p>Points: 24</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://blog.scottstevenson.net/p/pattern-matching-beats-narrative">https://blog.scottstevenson.net/p/pattern-matching-beats-narrative</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50133736">https://news.ycombinator.com/item?id=50133736</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://twitter.com/anemll/status/2111517143087067309](https://twitter.com/anemll/status/2111517143087067309)
+🔗 **Read more:** [https://blog.scottstevenson.net/p/pattern-matching-beats-narrative](https://blog.scottstevenson.net/p/pattern-matching-beats-narrative)
 
 ---
 
-### 2. OpenCode Hacked: User credentials leaked
+### 2. AI Can Write the Code. Who Verifies It?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it">https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50133713">https://news.ycombinator.com/item?id=50133713</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it](https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it)
+
+---
+
+### 3. OpenCode Hacked: User credentials leaked
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://twitter.com/opencode/status/2111516673953935833">https://twitter.com/opencode/status/2111516673953935833</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50133401">https://news.ycombinator.com/item?id=50133401</a></p>
-<p>Points: 99</p>
-<p># Comments: 26</p>
-
-🔗 **Read more:** [https://twitter.com/opencode/status/2111516673953935833](https://twitter.com/opencode/status/2111516673953935833)
-
----
-
-### 3. Development statistics for the 7.2 kernel
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://lwn.net/Articles/1088776/">https://lwn.net/Articles/1088776/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50132950">https://news.ycombinator.com/item?id=50132950</a></p>
-<p>Points: 80</p>
+<p>Points: 152</p>
 <p># Comments: 34</p>
 
-🔗 **Read more:** [https://lwn.net/Articles/1088776/](https://lwn.net/Articles/1088776/)
+🔗 **Read more:** [https://twitter.com/opencode/status/2111516673953935833](https://twitter.com/opencode/status/2111516673953935833)
 
 ---
 
