@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 23:02:09
+**Last Update:** 2026-10-18 01:39:57
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Pattern Matching Beats Narrative Reasoning
+### 1. Chrome and Edge are removing XSLT: what breaks and what does not
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/">https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50134617">https://news.ycombinator.com/item?id=50134617</a></p>
+<p>Points: 45</p>
+<p># Comments: 38</p>
+
+🔗 **Read more:** [https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/)
+
+---
+
+### 2. Microsoft and CMU Team Up to Train Early Career Software Engineers
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise">https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50133830">https://news.ycombinator.com/item?id=50133830</a></p>
+<p>Points: 34</p>
+<p># Comments: 31</p>
+
+🔗 **Read more:** [https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise)
+
+---
+
+### 3. Pattern Matching Beats Narrative Reasoning
 
 **Source:** Hacker News
 
@@ -19,46 +51,40 @@
 **Description:**
 <p>Article URL: <a href="https://blog.scottstevenson.net/p/pattern-matching-beats-narrative">https://blog.scottstevenson.net/p/pattern-matching-beats-narrative</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50133736">https://news.ycombinator.com/item?id=50133736</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 28</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [https://blog.scottstevenson.net/p/pattern-matching-beats-narrative](https://blog.scottstevenson.net/p/pattern-matching-beats-narrative)
 
 ---
 
-### 2. AI Can Write the Code. Who Verifies It?
+### 4. Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it">https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50133713">https://news.ycombinator.com/item?id=50133713</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.
 
-🔗 **Read more:** [https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it](https://mihaisplace.com/blog/ai-can-write-the-code-who-verifies-it)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. OpenCode Hacked: User credentials leaked
+### 5. How day of protests unfolded as disorder breaks out across France
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/opencode/status/2111516673953935833">https://twitter.com/opencode/status/2111516673953935833</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50133401">https://news.ycombinator.com/item?id=50133401</a></p>
-<p>Points: 152</p>
-<p># Comments: 34</p>
+Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.
 
-🔗 **Read more:** [https://twitter.com/opencode/status/2111516673953935833](https://twitter.com/opencode/status/2111516673953935833)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. More NHS staff sacked over attacks victims' records
+### 6. More NHS staff sacked over attacks victims' records
 
 **Source:** BBC
 
@@ -71,68 +97,42 @@ Nottingham University Hospitals NHS Trust says a new system will be brought in t
 
 ---
 
-### 5. European diplomats attacked by Israeli settlers in West Bank
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Israeli military condemns the violence but the prime minister's office says it is part of a "smear" campaign.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. UK must protect against Russian 'hybrid attacks', ex-national security adviser says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Lord Ricketts says more should be spent on improving the resilience of energy, transport, air traffic control and defence sites.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmze4y9rjepro?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Hundreds rally in Kyiv to demand the resignation of Mayor Vitali Klitschko
+### 7. Photos: No Kings rallies in US urge midterm voters to cast ballots early
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hundreds of protesters rallied outside the office of Kyiv’s mayor Vitali Klitschko, demanding that he steps down.
+Thousands gathered at events throughout the country on Saturday, building on two years of No Kings marches.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/hundreds-rally-in-kyiv-to-demand-the-resignation-of-mayor-vitali-klitschko?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss](https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss)
 
 ---
 
-### 8. Will the EU come to Ukraine’s rescue in war against Russia?
+### 8. Cost of living protests hit Belgium, Italy, Portugal and France
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US support at risk as Trump-Zelenskyy relations nosedive.
+Hundreds of thousands took to the streets for separate demonstrations putting pressure on governments across the EU.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/17/will-the-eu-come-to-ukraines-rescue-in-war-against-russia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss)
 
 ---
 
-### 9. Is the US Embassy in Jerusalem for Israel or America?
+### 9. Ten killed in fire at beach resort in Bangladesh
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-What led to the deaths of the nine Americans killed in the occupied West Bank since 2022?
+Ten people, including six members of the same family, were killed in a fire at a beach resort in Bangladesh.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/is-the-us-embassy-in-jerusalem-for-israel-or-america?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss)
 
 ---
 
