@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-17T13:00:20+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands",
+            "description": "<p>Article URL: <a href=\"https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf\">https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50129274\">https://news.ycombinator.com/item?id=50129274</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf",
+            "published": "Sat, 17 Oct 2026 09:08:16 +0000",
+            "fetched": "2026-10-17T13:00:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+            "description": "<p>Article URL: <a href=\"https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017\">https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50129121\">https://news.ycombinator.com/item?id=50129121</a></p>\n<p>Points: 63</p>\n<p># Comments: 3</p>",
+            "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+            "published": "Sat, 17 Oct 2026 08:37:46 +0000",
+            "fetched": "2026-10-17T13:00:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek-v4.1-Flash-1017",
+            "description": "<p>Article URL: <a href=\"https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017\">https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50129045\">https://news.ycombinator.com/item?id=50129045</a></p>\n<p>Points: 96</p>\n<p># Comments: 33</p>",
+            "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+            "published": "Sat, 17 Oct 2026 08:21:25 +0000",
+            "fetched": "2026-10-17T13:00:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+            "description": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns.",
+            "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 07:41:01 GMT",
+            "fetched": "2026-10-17T13:00:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'",
+            "description": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say.",
+            "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 06:49:48 GMT",
+            "fetched": "2026-10-17T13:00:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond",
+            "description": "Emergency services were called at about 16:45 on Friday, and pronounced both dead at the scene.",
+            "url": "https://www.bbc.co.uk/news/articles/cky83g11q46lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 08:34:44 GMT",
+            "fetched": "2026-10-17T13:00:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Murder in Malaysia: Justice for Altantuya Shaariibuu",
+            "description": "101 East investigates if power and politics are shielding those behind the 2006 murder of a Mongolian woman in Malaysia.",
+            "url": "https://www.aljazeera.com/video/101-east/2026/10/17/murder-in-malaysia-justice-for-altantuya-shaariibuu?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 08:40:47 +0000",
+            "fetched": "2026-10-17T13:00:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rubio’s Uzbekistan trip underlines Central Asia’s hunt for diverse partners",
+            "description": "Can the United States reassert influence with pragmatic, transactional approach to Central Asia?",
+            "url": "https://www.aljazeera.com/news-analysis/2026/10/17/rubios-uzbekistan-trip-underlines-central-asias-hunt-for-diverse-partners?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 08:27:28 +0000",
+            "fetched": "2026-10-17T13:00:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Oregon school shooter was former special-needs student, police say",
+            "description": "Oregon school shooter was former special-needs student, police say",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/oregon-school-shooter-was-former-special-needs-student-police-say-2?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 08:04:35 +0000",
+            "fetched": "2026-10-17T13:00:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-17T13:00:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-17T13:00:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-17T13:00:20+03:30"
+        }
+    ]
+}

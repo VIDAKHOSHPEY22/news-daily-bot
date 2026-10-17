@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-17 12:39:41
+**Last Update:** 2026-10-17 13:00:20
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Trump waives several Russia sanctions as row with Zelensky intensifies
+### 1. "Tame" boar and deer are instinctively adapting to the wolf in the Netherlands
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf">https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129274">https://news.ycombinator.com/item?id=50129274</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf](https://nos.nl/video/2635315-wildcamera-s-tonen-hoe-zwijnen-en-herten-zich-aanpassen-aan-de-wolf)
+
+---
+
+### 2. DeepSeek: DeepSeek v4.1 Flash 1017
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017">https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129121">https://news.ycombinator.com/item?id=50129121</a></p>
+<p>Points: 63</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017](https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017)
+
+---
+
+### 3. DeepSeek-v4.1-Flash-1017
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017">https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50129045">https://news.ycombinator.com/item?id=50129045</a></p>
+<p>Points: 96</p>
+<p># Comments: 33</p>
+
+🔗 **Read more:** [https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017](https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017)
+
+---
+
+### 4. Trump waives several Russia sanctions as row with Zelensky intensifies
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ The US president temporarily ends many restrictions on Moscow recently passed by
 
 ---
 
-### 2. Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'
+### 5. Oregon teacher fought school attacker before armed dad shot suspect 'multiple times'
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ The 16-year-old suspect previously attended the primary school and had targeted 
 
 ---
 
-### 3. Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond
+### 6. Boy, 16, and 80-year-old man die in light aircraft crash near Loch Lomond
 
 **Source:** BBC
 
@@ -49,7 +97,7 @@ Emergency services were called at about 16:45 on Friday, and pronounced both dea
 
 ---
 
-### 4. Murder in Malaysia: Justice for Altantuya Shaariibuu
+### 7. Murder in Malaysia: Justice for Altantuya Shaariibuu
 
 **Source:** Al Jazeera
 
@@ -62,7 +110,7 @@ Emergency services were called at about 16:45 on Friday, and pronounced both dea
 
 ---
 
-### 5. Rubio’s Uzbekistan trip underlines Central Asia’s hunt for diverse partners
+### 8. Rubio’s Uzbekistan trip underlines Central Asia’s hunt for diverse partners
 
 **Source:** Al Jazeera
 
@@ -75,7 +123,7 @@ Can the United States reassert influence with pragmatic, transactional approach 
 
 ---
 
-### 6. Oregon school shooter was former special-needs student, police say
+### 9. Oregon school shooter was former special-needs student, police say
 
 **Source:** Al Jazeera
 
@@ -88,7 +136,7 @@ Oregon school shooter was former special-needs student, police say
 
 ---
 
-### 7. Tropical Cyclone 01P
+### 10. Tropical Cyclone 01P
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Typhoon Champi
+### 11. Typhoon Champi
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
