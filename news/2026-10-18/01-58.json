@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-18T01:58:04+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Chrome and Edge are removing XSLT: what breaks and what does not",
+            "description": "<p>Article URL: <a href=\"https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/\">https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50134617\">https://news.ycombinator.com/item?id=50134617</a></p>\n<p>Points: 47</p>\n<p># Comments: 47</p>",
+            "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
+            "published": "Sat, 17 Oct 2026 20:07:33 +0000",
+            "fetched": "2026-10-18T01:58:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Microsoft and CMU Team Up to Train Early Career Software Engineers",
+            "description": "<p>Article URL: <a href=\"https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise\">https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50133830\">https://news.ycombinator.com/item?id=50133830</a></p>\n<p>Points: 35</p>\n<p># Comments: 36</p>",
+            "url": "https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise",
+            "published": "Sat, 17 Oct 2026 18:45:07 +0000",
+            "fetched": "2026-10-18T01:58:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pattern Matching Beats Narrative Reasoning",
+            "description": "<p>Article URL: <a href=\"https://blog.scottstevenson.net/p/pattern-matching-beats-narrative\">https://blog.scottstevenson.net/p/pattern-matching-beats-narrative</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50133736\">https://news.ycombinator.com/item?id=50133736</a></p>\n<p>Points: 30</p>\n<p># Comments: 15</p>",
+            "url": "https://blog.scottstevenson.net/p/pattern-matching-beats-narrative",
+            "published": "Sat, 17 Oct 2026 18:34:13 +0000",
+            "fetched": "2026-10-18T01:58:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+            "description": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+            "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 20:52:17 GMT",
+            "fetched": "2026-10-18T01:58:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How day of protests unfolded as disorder breaks out across France",
+            "description": "Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.",
+            "url": "https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 21:33:17 GMT",
+            "fetched": "2026-10-18T01:58:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More NHS staff sacked over attacks victims' records",
+            "description": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
+            "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 16:34:39 GMT",
+            "fetched": "2026-10-18T01:58:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Photos: No Kings rallies in US urge midterm voters to cast ballots early",
+            "description": "Thousands gathered at events throughout the country on Saturday, building on two years of No Kings marches.",
+            "url": "https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 21:08:10 +0000",
+            "fetched": "2026-10-18T01:58:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cost of living protests hit Belgium, Italy, Portugal and France",
+            "description": "Hundreds of thousands took to the streets for separate demonstrations putting pressure on governments across the EU.",
+            "url": "https://www.aljazeera.com/news/2026/10/17/cost-of-living-protests-hit-belgium-italy-portugal-and-france?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 21:02:26 +0000",
+            "fetched": "2026-10-18T01:58:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ten killed in fire at beach resort in Bangladesh",
+            "description": "Ten people, including six members of the same family, were killed in a fire at a beach resort in Bangladesh.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/17/17-10-sv-coxsbazaar-hotel-blaze-_-bd?traffic_source=rss",
+            "published": "Sat, 17 Oct 2026 20:50:01 +0000",
+            "fetched": "2026-10-18T01:58:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-18T01:58:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-18T01:58:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-18T01:58:04+03:30"
+        }
+    ]
+}
