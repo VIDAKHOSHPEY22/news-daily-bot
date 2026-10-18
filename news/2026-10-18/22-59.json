@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-18T22:59:58+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know so far about deadly fire at Canadian military base",
+            "description": "At least four people are confirmed to have died after a huge fire swept through the base.",
+            "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 17:48:53 GMT",
+            "fetched": "2026-10-18T22:59:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+            "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+            "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 12:07:31 GMT",
+            "fetched": "2026-10-18T22:59:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
+            "description": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 14:57:19 GMT",
+            "fetched": "2026-10-18T22:59:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies",
+            "description": "Gulf ministers urge action against Houthis as fighting displaces more than 233,000 people across Yemen.",
+            "url": "https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 18:44:30 +0000",
+            "fetched": "2026-10-18T22:59:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza bodybuilders find solace in strongman competition among the ruins",
+            "description": "Bodybuilders in Gaza are finding solace in testing their strength during a competition surrounded by rubble.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/gaza-bodybuilders-find-solace-in-strongman-competition-among-the-ruins?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 18:36:02 +0000",
+            "fetched": "2026-10-18T22:59:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why the US is holding secret talks with Myanmar’s military ruler",
+            "description": "Why is the Trump administration holding secret talks with Myanmar&#039;s military ruler, accused of genocide?",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/why-the-us-is-holding-secret-talks-with-myanmars-military-ruler?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 18:22:11 +0000",
+            "fetched": "2026-10-18T22:59:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-18T22:59:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-18T22:59:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-18T22:59:58+03:30"
+        }
+    ]
+}
