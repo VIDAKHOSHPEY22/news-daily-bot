@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-18T17:57:58+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "RepRapMicron",
+            "description": "<p>Article URL: <a href=\"https://github.com/VikOlliver/RepRapMicron/wiki\">https://github.com/VikOlliver/RepRapMicron/wiki</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141076\">https://news.ycombinator.com/item?id=50141076</a></p>\n<p>Points: 28</p>\n<p># Comments: 4</p>",
+            "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+            "published": "Sun, 18 Oct 2026 13:48:48 +0000",
+            "fetched": "2026-10-18T17:57:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Gen Z Is the First Generation Dumber Than Their Parents",
+            "description": "<p>Article URL: <a href=\"https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/\">https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50141053\">https://news.ycombinator.com/item?id=50141053</a></p>\n<p>Points: 40</p>\n<p># Comments: 33</p>",
+            "url": "https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/",
+            "published": "Sun, 18 Oct 2026 13:45:25 +0000",
+            "fetched": "2026-10-18T17:57:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+            "description": "<p>Article URL: <a href=\"https://github.com/0x23/MicroManipulatorStepper\">https://github.com/0x23/MicroManipulatorStepper</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50140001\">https://news.ycombinator.com/item?id=50140001</a></p>\n<p>Points: 56</p>\n<p># Comments: 5</p>",
+            "url": "https://github.com/0x23/MicroManipulatorStepper",
+            "published": "Sun, 18 Oct 2026 11:16:22 +0000",
+            "fetched": "2026-10-18T17:57:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+            "description": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+            "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 12:07:31 GMT",
+            "fetched": "2026-10-18T17:57:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
+            "description": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 11:14:33 GMT",
+            "fetched": "2026-10-18T17:57:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ending corridor care in hospitals for children a priority, says health secretary",
+            "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 12:09:04 GMT",
+            "fetched": "2026-10-18T17:57:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why have France’s school protests become a wider political crisis?",
+            "description": "The demonstrations have united students and ‘yellow vest’ supporters, exposing deeper anger over living standards.",
+            "url": "https://www.aljazeera.com/news/2026/10/18/why-have-frances-school-protests-become-a-wider-political-crisis?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 13:48:04 +0000",
+            "fetched": "2026-10-18T17:57:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sudan army accused of drone strike on livestock market",
+            "description": "Sudan’s army says it struck RSF command centres in South Darfur, but the RSF says a crowded livestock market was hit.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 13:37:03 +0000",
+            "fetched": "2026-10-18T17:57:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Was ancient India the world’s forgotten superpower?",
+            "description": "In Deja Vu’s latest episode, William Dalrymple explores ancient India’s global influence – and how it was overlooked.",
+            "url": "https://www.aljazeera.com/video/deja-vu-2/2026/10/18/was-ancient-india-the-worlds-forgotten-superpower?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 13:17:31 +0000",
+            "fetched": "2026-10-18T17:57:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-18T17:57:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-18T17:57:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-18T17:57:58+03:30"
+        }
+    ]
+}

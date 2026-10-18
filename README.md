@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-18 17:34:01
+**Last Update:** 2026-10-18 17:57:58
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Open MicroManipulator – A sub-micrometer 3D motion control plattform
+### 1. RepRapMicron
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/VikOlliver/RepRapMicron/wiki">https://github.com/VikOlliver/RepRapMicron/wiki</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50141076">https://news.ycombinator.com/item?id=50141076</a></p>
+<p>Points: 28</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://github.com/VikOlliver/RepRapMicron/wiki](https://github.com/VikOlliver/RepRapMicron/wiki)
+
+---
+
+### 2. Gen Z Is the First Generation Dumber Than Their Parents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/">https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50141053">https://news.ycombinator.com/item?id=50141053</a></p>
+<p>Points: 40</p>
+<p># Comments: 33</p>
+
+🔗 **Read more:** [https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/](https://www.vice.com/en/article/gen-z-is-the-first-generation-dumber-than-their-parents-neuroscientist-claims/)
+
+---
+
+### 3. Open MicroManipulator – A sub-micrometer 3D motion control plattform
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/0x23/MicroManipulatorStepper">https://github.com/0x23/MicroManipulatorStepper</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50140001">https://news.ycombinator.com/item?id=50140001</a></p>
-<p>Points: 44</p>
+<p>Points: 56</p>
 <p># Comments: 5</p>
 
 🔗 **Read more:** [https://github.com/0x23/MicroManipulatorStepper](https://github.com/0x23/MicroManipulatorStepper)
-
----
-
-### 2. Legal experts warn Meta's new terms still grant broad scraping permissions
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/">https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50139692">https://news.ycombinator.com/item?id=50139692</a></p>
-<p>Points: 62</p>
-<p># Comments: 15</p>
-
-🔗 **Read more:** [https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/](https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/)
-
----
-
-### 3. Parser Combinators
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://t3.at/blog/2026-10-17-parser-combinators/">https://t3.at/blog/2026-10-17-parser-combinators/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50139067">https://news.ycombinator.com/item?id=50139067</a></p>
-<p>Points: 89</p>
-<p># Comments: 44</p>
-
-🔗 **Read more:** [https://t3.at/blog/2026-10-17-parser-combinators/](https://t3.at/blog/2026-10-17-parser-combinators/)
 
 ---
 
@@ -71,20 +71,7 @@ Around 1,800 people were arrested after nationwide protests saw outbreaks of vio
 
 ---
 
-### 5. Watch: Parisians wake up to protest damage and looted shops
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Polanski says he will not overturn Green Party's 'Zionism is racism' motion
+### 5. Polanski says he will not overturn Green Party's 'Zionism is racism' motion
 
 **Source:** BBC
 
@@ -97,7 +84,46 @@ The Green Party leader said, while he wanted to amend it, the motion would stand
 
 ---
 
-### 7. Was ancient India the world’s forgotten superpower?
+### 6. Ending corridor care in hospitals for children a priority, says health secretary
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Why have France’s school protests become a wider political crisis?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The demonstrations have united students and ‘yellow vest’ supporters, exposing deeper anger over living standards.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/why-have-frances-school-protests-become-a-wider-political-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/why-have-frances-school-protests-become-a-wider-political-crisis?traffic_source=rss)
+
+---
+
+### 8. Sudan army accused of drone strike on livestock market
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Sudan’s army says it struck RSF command centres in South Darfur, but the RSF says a crowded livestock market was hit.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/sudan-army-accused-of-drone-strike-on-livestock-market?traffic_source=rss)
+
+---
+
+### 9. Was ancient India the world’s forgotten superpower?
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The Green Party leader said, while he wanted to amend it, the motion would stand
 In Deja Vu’s latest episode, William Dalrymple explores ancient India’s global influence – and how it was overlooked.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/deja-vu-2/2026/10/18/was-ancient-india-the-worlds-forgotten-superpower?traffic_source=rss](https://www.aljazeera.com/video/deja-vu-2/2026/10/18/was-ancient-india-the-worlds-forgotten-superpower?traffic_source=rss)
-
----
-
-### 8. Gaza families fear food shortages as Israel halts commercial shipments
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Residents report rising prices as the latest restrictions bite, leaving families unable to afford extra supplies.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/gaza-families-fear-food-shortages-as-israel-halts-commercial-shipments?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/gaza-families-fear-food-shortages-as-israel-halts-commercial-shipments?traffic_source=rss)
-
----
-
-### 9. Paris left reeling as student-led protests turn chaotic
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Some 1,800 people arrested and hundreds injured during nationwide demonstrations attended by hundreds of thousands.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss)
 
 ---
 
