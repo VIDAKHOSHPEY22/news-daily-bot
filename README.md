@@ -1,16 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-18 20:56:11
+**Last Update:** 2026-10-18 21:28:51
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting
+### 1. British Airways: Filming Crew W Meta Glasses Could Get Your Tickets Cancelled
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/">https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50143218">https://news.ycombinator.com/item?id=50143218</a></p>
+<p>Points: 28</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/](https://liveandletsfly.com/british-airways-meta-smart-glasses-filming/)
+
+---
+
+### 2. Someone Behind the Software
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://karrisaarinen.com/posts/someone-behind-the-software/">https://karrisaarinen.com/posts/someone-behind-the-software/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50142573">https://news.ycombinator.com/item?id=50142573</a></p>
+<p>Points: 39</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://karrisaarinen.com/posts/someone-behind-the-software/](https://karrisaarinen.com/posts/someone-behind-the-software/)
+
+---
+
+### 3. The Intel 8087 chip: floating-point addition and subtraction
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html">https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50142449">https://news.ycombinator.com/item?id=50142449</a></p>
+<p>Points: 29</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html](https://www.righto.com/2026/10/8087-addition-subtraction-microcode.html)
+
+---
+
+### 4. What we know so far about deadly fire at Canadian military base
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+At least four people are confirmed to have died after a huge fire swept through the base.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting
 
 **Source:** BBC
 
@@ -23,7 +84,7 @@ About 1,800 people were arrested after nationwide protests saw outbreaks of viol
 
 ---
 
-### 2. Polanski says he will not overturn Green Party's 'Zionism is racism' motion
+### 6. Polanski says he will not overturn Green Party's 'Zionism is racism' motion
 
 **Source:** BBC
 
@@ -36,20 +97,20 @@ The Green Party leader said, while he wanted to amend it, the motion would stand
 
 ---
 
-### 3. A wave of homemade, synthetic drugs sweeps US and deepens crisis
+### 7. Residents recount drone strikes in Ethiopia’s northern Tigray region
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.
+In Adigrat, a city close to the Eritrean border, residents recall recent drone strikes by Ethiopian forces
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/residents-recount-drone-strikes-in-ethiopias-northern-tigray-region?traffic_source=rss)
 
 ---
 
-### 4. Trump endorses Netanyahu in Israeli legislative elections
+### 8. Trump endorses Netanyahu in Israeli legislative elections
 
 **Source:** Al Jazeera
 
@@ -62,7 +123,7 @@ In a social media post ahead of the October 27 election, Trump calls Netanyahu a
 
 ---
 
-### 5. ‘Hybrid warfare’: Taiwan drives away 16 Chinese ships
+### 9. ‘Hybrid warfare’: Taiwan drives away 16 Chinese ships
 
 **Source:** Al Jazeera
 
@@ -75,20 +136,7 @@ China is ramping up its presence around Taiwan, in a pattern that Taipei said is
 
 ---
 
-### 6. French mayor attacked by settlers during occupied West Bank olive harvest
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Bernard Baudoux, Mayor of the French town of Aulnoye-Aymeries, says masked settlers attacked him in occupied West Bank.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss)
-
----
-
-### 7. Tropical Cyclone 01P
+### 10. Tropical Cyclone 01P
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Super Typhoon Champi
+### 11. Super Typhoon Champi
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
