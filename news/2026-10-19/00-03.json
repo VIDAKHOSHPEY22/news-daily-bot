@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-19T00:03:09+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tiny Brutalism – Thanks to HN it's on Steam",
+            "description": "<p>Article URL: <a href=\"https://store.steampowered.com/app/5426130/Tiny_Brutalism/\">https://store.steampowered.com/app/5426130/Tiny_Brutalism/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50144144\">https://news.ycombinator.com/item?id=50144144</a></p>\n<p>Points: 26</p>\n<p># Comments: 3</p>",
+            "url": "https://store.steampowered.com/app/5426130/Tiny_Brutalism/",
+            "published": "Sun, 18 Oct 2026 18:59:09 +0000",
+            "fetched": "2026-10-19T00:03:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Free Pascal compiler now supports dynamic packages",
+            "description": "<p>Article URL: <a href=\"https://www.getlazarus.org/dynamic/\">https://www.getlazarus.org/dynamic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50144066\">https://news.ycombinator.com/item?id=50144066</a></p>\n<p>Points: 42</p>\n<p># Comments: 11</p>",
+            "url": "https://www.getlazarus.org/dynamic/",
+            "published": "Sun, 18 Oct 2026 18:48:04 +0000",
+            "fetched": "2026-10-19T00:03:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Florida's HOAs and condo associations are making the housing crisis worse",
+            "description": "<p>Article URL: <a href=\"https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html\">https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50144005\">https://news.ycombinator.com/item?id=50144005</a></p>\n<p>Points: 108</p>\n<p># Comments: 170</p>",
+            "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
+            "published": "Sun, 18 Oct 2026 18:40:16 +0000",
+            "fetched": "2026-10-19T00:03:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Macron calls for calm in France and warns rioting must not escalate",
+            "description": "French President Emmanuel Macron made a national television address after rioting caused widespread damage.",
+            "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 20:06:20 GMT",
+            "fetched": "2026-10-19T00:03:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know so far about deadly fire at Canadian military base",
+            "description": "At least four people are confirmed to have died after a huge fire swept through the base.",
+            "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 19:42:37 GMT",
+            "fetched": "2026-10-19T00:03:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
+            "description": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 14:57:19 GMT",
+            "fetched": "2026-10-19T00:03:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India’s crackdown on cockroaches, critics and cameras",
+            "description": "A government at war with its critics - from young protesters to the media.",
+            "url": "https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 19:31:45 +0000",
+            "fetched": "2026-10-19T00:03:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How will Europe deal with youth-led protests?",
+            "description": "Demonstrations are spreading across the continent.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 19:15:21 +0000",
+            "fetched": "2026-10-19T00:03:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Clarence Seedorf calls out genocide in first Corinthians press conference",
+            "description": "Clarence Seedorf says football must be kept in perspective while genocides and conflicts continue around the world.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/clarence-seedorf-calls-out-genocide-in-first-corinthians-press-conference?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 19:12:30 +0000",
+            "fetched": "2026-10-19T00:03:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-19T00:03:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-19T00:03:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-19T00:03:09+03:30"
+        }
+    ]
+}

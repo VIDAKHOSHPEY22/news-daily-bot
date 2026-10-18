@@ -1,16 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-18 22:59:58
+**Last Update:** 2026-10-19 00:03:09
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. What we know so far about deadly fire at Canadian military base
+### 1. Tiny Brutalism – Thanks to HN it's on Steam
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://store.steampowered.com/app/5426130/Tiny_Brutalism/">https://store.steampowered.com/app/5426130/Tiny_Brutalism/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50144144">https://news.ycombinator.com/item?id=50144144</a></p>
+<p>Points: 26</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://store.steampowered.com/app/5426130/Tiny_Brutalism/](https://store.steampowered.com/app/5426130/Tiny_Brutalism/)
+
+---
+
+### 2. Free Pascal compiler now supports dynamic packages
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.getlazarus.org/dynamic/">https://www.getlazarus.org/dynamic/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50144066">https://news.ycombinator.com/item?id=50144066</a></p>
+<p>Points: 42</p>
+<p># Comments: 11</p>
+
+🔗 **Read more:** [https://www.getlazarus.org/dynamic/](https://www.getlazarus.org/dynamic/)
+
+---
+
+### 3. Florida's HOAs and condo associations are making the housing crisis worse
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html">https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50144005">https://news.ycombinator.com/item?id=50144005</a></p>
+<p>Points: 108</p>
+<p># Comments: 170</p>
+
+🔗 **Read more:** [https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html](https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html)
+
+---
+
+### 4. Macron calls for calm in France and warns rioting must not escalate
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+French President Emmanuel Macron made a national television address after rioting caused widespread damage.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. What we know so far about deadly fire at Canadian military base
 
 **Source:** BBC
 
@@ -23,20 +84,7 @@ At least four people are confirmed to have died after a huge fire swept through 
 
 ---
 
-### 2. Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss)
-
----
-
-### 3. Polanski says he will not overturn Green Party's 'Zionism is racism' motion
+### 6. Polanski says he will not overturn Green Party's 'Zionism is racism' motion
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ The Green Party leader said, while he wanted to amend it, the motion would stand
 
 ---
 
-### 4. GCC condemns Houthi attacks on Saudi Arabia as Yemen fighting intensifies
+### 7. India’s crackdown on cockroaches, critics and cameras
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gulf ministers urge action against Houthis as fighting displaces more than 233,000 people across Yemen.
+A government at war with its critics - from young protesters to the media.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/gcc-condemns-houthi-attacks-on-saudi-arabia-as-yemen-fighting-intensifies?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss](https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss)
 
 ---
 
-### 5. Gaza bodybuilders find solace in strongman competition among the ruins
+### 8. How will Europe deal with youth-led protests?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bodybuilders in Gaza are finding solace in testing their strength during a competition surrounded by rubble.
+Demonstrations are spreading across the continent.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/gaza-bodybuilders-find-solace-in-strongman-competition-among-the-ruins?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/gaza-bodybuilders-find-solace-in-strongman-competition-among-the-ruins?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss)
 
 ---
 
-### 6. Why the US is holding secret talks with Myanmar’s military ruler
+### 9. Clarence Seedorf calls out genocide in first Corinthians press conference
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Why is the Trump administration holding secret talks with Myanmar&#039;s military ruler, accused of genocide?
+Clarence Seedorf says football must be kept in perspective while genocides and conflicts continue around the world.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/why-the-us-is-holding-secret-talks-with-myanmars-military-ruler?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/why-the-us-is-holding-secret-talks-with-myanmars-military-ruler?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/clarence-seedorf-calls-out-genocide-in-first-corinthians-press-conference?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/clarence-seedorf-calls-out-genocide-in-first-corinthians-press-conference?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone 01P
+### 10. Tropical Cyclone 01P
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Super Typhoon Champi
+### 11. Super Typhoon Champi
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
