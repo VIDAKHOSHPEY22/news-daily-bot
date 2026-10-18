@@ -1,16 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-18 08:18:02
+**Last Update:** 2026-10-18 09:11:25
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You
+### 1. A Mole Infiltrated the Highest Ranks of American Militias
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.propublica.org/article/ap3-oath-keepers-militia-mole">https://www.propublica.org/article/ap3-oath-keepers-militia-mole</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50138044">https://news.ycombinator.com/item?id=50138044</a></p>
+<p>Points: 13</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.propublica.org/article/ap3-oath-keepers-militia-mole](https://www.propublica.org/article/ap3-oath-keepers-militia-mole)
+
+---
+
+### 2. Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50137950">https://news.ycombinator.com/item?id=50137950</a></p>
+<p>Points: 16</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://sphinx-six-theta.vercel.app/](https://sphinx-six-theta.vercel.app/)
+
+---
+
+### 3. How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You
 
 **Source:** Hacker News
 
@@ -19,42 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything">https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50137620">https://news.ycombinator.com/item?id=50137620</a></p>
-<p>Points: 10</p>
-<p># Comments: 2</p>
+<p>Points: 48</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything](https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything)
-
----
-
-### 2. NY announces game ownership bill requiring ownership rather than licensing
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends">https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50136536">https://news.ycombinator.com/item?id=50136536</a></p>
-<p>Points: 157</p>
-<p># Comments: 40</p>
-
-🔗 **Read more:** [https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends)
-
----
-
-### 3. Codex Desktop continuously generates Crashpad pending dumps
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/openai/codex/issues/25921">https://github.com/openai/codex/issues/25921</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50133231">https://news.ycombinator.com/item?id=50133231</a></p>
-<p>Points: 108</p>
-<p># Comments: 36</p>
-
-🔗 **Read more:** [https://github.com/openai/codex/issues/25921](https://github.com/openai/codex/issues/25921)
 
 ---
 
@@ -97,42 +98,42 @@ Nottingham University Hospitals NHS Trust says a new system will be brought in t
 
 ---
 
-### 7. At least 19 dead in stampede at Kolkata Hindu festival
+### 7. Why Marco Rubio’s visit to Mumbai has ruffled feathers in India
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A seven-year-old girl was among at least 19 people killed in a stampede during a Hindu festival in Kolkata, India.
+US secretary of state is skipping New Delhi, and opposition leaders complain his arrangements are humiliating.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss)
 
 ---
 
-### 8. Tunisia’s economic crisis deepens as the promise of a better life fades
+### 8. Deaths, injuries after fire at Alberta military base: Canada minister
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Joblessness, failing services and rising costs deepen hardship across the country.
+Defence Minister David McGuinty says people were killed and injured, but provides no figures or cause of fire.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss)
 
 ---
 
-### 9. Rubio wants ‘crackdown’ on settler violence after US journalist attack
+### 9. St Petersburg under attack from Ukrainian drone swarm
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rubio wants ‘crackdown’ on settler violence after US journalist attack
+Video posted on social media shows multiple explosions in St Petersburg, Russia after a suspected Ukrainian drone swarm.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss)
 
 ---
 
