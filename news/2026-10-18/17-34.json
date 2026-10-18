@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-18T17:34:01+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Open MicroManipulator – A sub-micrometer 3D motion control plattform",
+            "description": "<p>Article URL: <a href=\"https://github.com/0x23/MicroManipulatorStepper\">https://github.com/0x23/MicroManipulatorStepper</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50140001\">https://news.ycombinator.com/item?id=50140001</a></p>\n<p>Points: 44</p>\n<p># Comments: 5</p>",
+            "url": "https://github.com/0x23/MicroManipulatorStepper",
+            "published": "Sun, 18 Oct 2026 11:16:22 +0000",
+            "fetched": "2026-10-18T17:34:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
+            "description": "<p>Article URL: <a href=\"https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/\">https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50139692\">https://news.ycombinator.com/item?id=50139692</a></p>\n<p>Points: 62</p>\n<p># Comments: 15</p>",
+            "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+            "published": "Sun, 18 Oct 2026 10:21:51 +0000",
+            "fetched": "2026-10-18T17:34:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Parser Combinators",
+            "description": "<p>Article URL: <a href=\"https://t3.at/blog/2026-10-17-parser-combinators/\">https://t3.at/blog/2026-10-17-parser-combinators/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50139067\">https://news.ycombinator.com/item?id=50139067</a></p>\n<p>Points: 89</p>\n<p># Comments: 44</p>",
+            "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+            "published": "Sun, 18 Oct 2026 08:19:53 +0000",
+            "fetched": "2026-10-18T17:34:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+            "description": "Around 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+            "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 12:07:31 GMT",
+            "fetched": "2026-10-18T17:34:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Parisians wake up to protest damage and looted shops",
+            "description": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living.",
+            "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 10:58:39 GMT",
+            "fetched": "2026-10-18T17:34:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
+            "description": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 11:14:33 GMT",
+            "fetched": "2026-10-18T17:34:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Was ancient India the world’s forgotten superpower?",
+            "description": "In Deja Vu’s latest episode, William Dalrymple explores ancient India’s global influence – and how it was overlooked.",
+            "url": "https://www.aljazeera.com/video/deja-vu-2/2026/10/18/was-ancient-india-the-worlds-forgotten-superpower?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 13:17:31 +0000",
+            "fetched": "2026-10-18T17:34:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza families fear food shortages as Israel halts commercial shipments",
+            "description": "Residents report rising prices as the latest restrictions bite, leaving families unable to afford extra supplies.",
+            "url": "https://www.aljazeera.com/news/2026/10/18/gaza-families-fear-food-shortages-as-israel-halts-commercial-shipments?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 13:16:13 +0000",
+            "fetched": "2026-10-18T17:34:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Paris left reeling as student-led protests turn chaotic",
+            "description": "Some 1,800 people arrested and hundreds injured during nationwide demonstrations attended by hundreds of thousands.",
+            "url": "https://www.aljazeera.com/news/2026/10/18/paris-left-reeling-as-student-led-protests-turn-chaotic?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 13:08:06 +0000",
+            "fetched": "2026-10-18T17:34:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-18T17:34:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-18T17:34:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-18T17:34:01+03:30"
+        }
+    ]
+}
