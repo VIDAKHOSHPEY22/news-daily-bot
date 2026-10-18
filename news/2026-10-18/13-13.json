@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-18T13:13:38+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Urgent plan needed to end 'corridor care' for children, health secretary says",
+            "description": "Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.",
+            "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 08:51:41 GMT",
+            "fetched": "2026-10-18T13:13:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests",
+            "description": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+            "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 05:56:20 GMT",
+            "fetched": "2026-10-18T13:13:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Moment historic French town hall spire collapses in flames amid protests",
+            "description": "An historic town hall in the southern French city of Limoges was set ablaze during national protests.",
+            "url": "https://www.bbc.co.uk/news/videos/c6e3xjw37wn7o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 00:49:42 GMT",
+            "fetched": "2026-10-18T13:13:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Food or medicine? The impossible choices facing Sudan’s chronically ill",
+            "description": "Sudanese are facing growing costs of medicine caused by the country&#039;s civil war.",
+            "url": "https://www.aljazeera.com/features/2026/10/18/food-or-medicine-the-impossible-choices-facing-sudans-chronically-ill?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 09:22:44 +0000",
+            "fetched": "2026-10-18T13:13:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fighting intensifies across Yemen as humanitarian crisis deepens",
+            "description": "Clashes between Yemeni forces and Houthis cause casualties on both sides as aid agencies warn of humanitarian crisis.",
+            "url": "https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 09:16:54 +0000",
+            "fetched": "2026-10-18T13:13:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "LIVE: Leeds United vs Manchester United – Premier League",
+            "description": "Follow updates, including team news, from our live text commentary stream as Bruno Fernandes, Marcus Rashford headline.",
+            "url": "https://www.aljazeera.com/sports/liveblog/2026/10/18/live-leeds-united-vs-manchester-united-premier-league?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 09:16:06 +0000",
+            "fetched": "2026-10-18T13:13:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-18T13:13:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-18T13:13:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-18T13:13:38+03:30"
+        }
+    ]
+}

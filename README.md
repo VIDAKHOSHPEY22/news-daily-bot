@@ -1,65 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-18 09:11:25
+**Last Update:** 2026-10-18 13:13:38
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. A Mole Infiltrated the Highest Ranks of American Militias
+### 1. Urgent plan needed to end 'corridor care' for children, health secretary says
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://www.propublica.org/article/ap3-oath-keepers-militia-mole">https://www.propublica.org/article/ap3-oath-keepers-militia-mole</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50138044">https://news.ycombinator.com/item?id=50138044</a></p>
-<p>Points: 13</p>
-<p># Comments: 0</p>
+Yvette Cooper also announces £140m investment in England's urgent care system, ahead of winter.
 
-🔗 **Read more:** [https://www.propublica.org/article/ap3-oath-keepers-militia-mole](https://www.propublica.org/article/ap3-oath-keepers-militia-mole)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Show HN: Sphinx – a hook that quizzes you on your AI's code before shipping
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>FOSS, Basically it plugs into your existing coding agent workflow and every time you push to prod it'll throw up a questionnaire that checks if you understand how the code you're pushing works.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50137950">https://news.ycombinator.com/item?id=50137950</a></p>
-<p>Points: 16</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://sphinx-six-theta.vercel.app/](https://sphinx-six-theta.vercel.app/)
-
----
-
-### 3. How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything">https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50137620">https://news.ycombinator.com/item?id=50137620</a></p>
-<p>Points: 48</p>
-<p># Comments: 22</p>
-
-🔗 **Read more:** [https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything](https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything)
-
----
-
-### 4. Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests
+### 2. Violent clashes, looting and buildings ablaze in France as more than 1,200 arrested after protests
 
 **Source:** BBC
 
@@ -72,7 +36,7 @@ Disorder broke out in cities across the country on a day in which more than half
 
 ---
 
-### 5. Watch: Moment historic French town hall spire collapses in flames amid protests
+### 3. Watch: Moment historic French town hall spire collapses in flames amid protests
 
 **Source:** BBC
 
@@ -85,59 +49,46 @@ An historic town hall in the southern French city of Limoges was set ablaze duri
 
 ---
 
-### 6. More NHS staff sacked over attacks victims' records
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Why Marco Rubio’s visit to Mumbai has ruffled feathers in India
+### 4. Food or medicine? The impossible choices facing Sudan’s chronically ill
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US secretary of state is skipping New Delhi, and opposition leaders complain his arrangements are humiliating.
+Sudanese are facing growing costs of medicine caused by the country&#039;s civil war.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/why-marco-rubios-visit-to-mumbai-has-ruffled-feathers-in-india?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/18/food-or-medicine-the-impossible-choices-facing-sudans-chronically-ill?traffic_source=rss](https://www.aljazeera.com/features/2026/10/18/food-or-medicine-the-impossible-choices-facing-sudans-chronically-ill?traffic_source=rss)
 
 ---
 
-### 8. Deaths, injuries after fire at Alberta military base: Canada minister
+### 5. Fighting intensifies across Yemen as humanitarian crisis deepens
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Defence Minister David McGuinty says people were killed and injured, but provides no figures or cause of fire.
+Clashes between Yemeni forces and Houthis cause casualties on both sides as aid agencies warn of humanitarian crisis.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/deaths-injuries-after-fire-at-alberta-military-base-canada-minister?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/fighting-intensifies-across-yemen-as-humanitarian-crisis-deepens?traffic_source=rss)
 
 ---
 
-### 9. St Petersburg under attack from Ukrainian drone swarm
+### 6. LIVE: Leeds United vs Manchester United – Premier League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Video posted on social media shows multiple explosions in St Petersburg, Russia after a suspected Ukrainian drone swarm.
+Follow updates, including team news, from our live text commentary stream as Bruno Fernandes, Marcus Rashford headline.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/st-petersburg-under-attack-from-ukrainian-drone-swarm?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/10/18/live-leeds-united-vs-manchester-united-premier-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/10/18/live-leeds-united-vs-manchester-united-premier-league?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone 01P
+### 7. Tropical Cyclone 01P
 
 **Source:** NASA
 
@@ -150,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Super Typhoon Champi
+### 8. Super Typhoon Champi
 
 **Source:** NASA
 
@@ -163,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 9. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
