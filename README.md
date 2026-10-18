@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-18 04:19:23
+**Last Update:** 2026-10-18 08:18:02
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. JDK 28
+### 1. How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openjdk.org/projects/jdk/28/">https://openjdk.org/projects/jdk/28/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50135379">https://news.ycombinator.com/item?id=50135379</a></p>
-<p>Points: 41</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything">https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50137620">https://news.ycombinator.com/item?id=50137620</a></p>
+<p>Points: 10</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://openjdk.org/projects/jdk/28/](https://openjdk.org/projects/jdk/28/)
+🔗 **Read more:** [https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything](https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything)
 
 ---
 
-### 2. Chrome and Edge are removing XSLT: what breaks and what does not
+### 2. NY announces game ownership bill requiring ownership rather than licensing
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/">https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50134617">https://news.ycombinator.com/item?id=50134617</a></p>
-<p>Points: 74</p>
-<p># Comments: 74</p>
+<p>Article URL: <a href="https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends">https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50136536">https://news.ycombinator.com/item?id=50136536</a></p>
+<p>Points: 157</p>
+<p># Comments: 40</p>
 
-🔗 **Read more:** [https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/)
+🔗 **Read more:** [https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends](https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends)
 
 ---
 
-### 3. Microsoft and CMU team up to train early career software engineers
+### 3. Codex Desktop continuously generates Crashpad pending dumps
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise">https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50133830">https://news.ycombinator.com/item?id=50133830</a></p>
-<p>Points: 56</p>
-<p># Comments: 66</p>
+<p>Article URL: <a href="https://github.com/openai/codex/issues/25921">https://github.com/openai/codex/issues/25921</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50133231">https://news.ycombinator.com/item?id=50133231</a></p>
+<p>Points: 108</p>
+<p># Comments: 36</p>
 
-🔗 **Read more:** [https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise)
+🔗 **Read more:** [https://github.com/openai/codex/issues/25921](https://github.com/openai/codex/issues/25921)
 
 ---
 
@@ -71,16 +71,16 @@ Disorder broke out in cities across the country on a day in which more than half
 
 ---
 
-### 5. How day of protests unfolded as disorder breaks out across France
+### 5. Watch: Moment historic French town hall spire collapses in flames amid protests
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Demonstrations across the country turned violent, with cars and buildings set alight and shops ransacked.
+An historic town hall in the southern French city of Limoges was set ablaze during national protests.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwz0vy770gpzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6e3xjw37wn7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6e3xjw37wn7o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Nottingham University Hospitals NHS Trust says a new system will be brought in t
 
 ---
 
-### 7. Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats
+### 7. At least 19 dead in stampede at Kolkata Hindu festival
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fires reported on three tankers as masked settlers attack European politicians in the occupied West Bank.
+A seven-year-old girl was among at least 19 people killed in a stampede during a Hindu festival in Kolkata, India.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss)
 
 ---
 
-### 8. US ambassador urges Israel to prosecute attackers of American journalist
+### 8. Tunisia’s economic crisis deepens as the promise of a better life fades
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump-appointed Ambassador Mike Huckabee calls attack in occupied West Bank a &#039;despicable act of terror&#039;.
+Joblessness, failing services and rising costs deepen hardship across the country.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/us-ambassador-calls-on-israel-to-prosecute-settlers-over-journalist-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss)
 
 ---
 
-### 9. Saudi-led coalition intercepts drones as Egypt weighs sending help
+### 9. Rubio wants ‘crackdown’ on settler violence after US journalist attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Forces intercepted and destroyed four drones over Saudi Arabia&#039;s Riyadh, Eastern Province and southern region.
+Rubio wants ‘crackdown’ on settler violence after US journalist attack
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss)
 
 ---
 
@@ -149,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Typhoon Champi
+### 11. Super Typhoon Champi
 
 **Source:** NASA
 

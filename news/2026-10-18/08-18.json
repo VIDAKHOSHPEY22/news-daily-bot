@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-18T08:18:02+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How the Elizabeth Holmes Doc 'You Can See Everything' Is Deceiving You",
+            "description": "<p>Article URL: <a href=\"https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything\">https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50137620\">https://news.ycombinator.com/item?id=50137620</a></p>\n<p>Points: 10</p>\n<p># Comments: 2</p>",
+            "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+            "published": "Sun, 18 Oct 2026 03:19:49 +0000",
+            "fetched": "2026-10-18T08:18:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "NY announces game ownership bill requiring ownership rather than licensing",
+            "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends\">https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50136536\">https://news.ycombinator.com/item?id=50136536</a></p>\n<p>Points: 157</p>\n<p># Comments: 40</p>",
+            "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+            "published": "Sun, 18 Oct 2026 00:14:22 +0000",
+            "fetched": "2026-10-18T08:18:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Codex Desktop continuously generates Crashpad pending dumps",
+            "description": "<p>Article URL: <a href=\"https://github.com/openai/codex/issues/25921\">https://github.com/openai/codex/issues/25921</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50133231\">https://news.ycombinator.com/item?id=50133231</a></p>\n<p>Points: 108</p>\n<p># Comments: 36</p>",
+            "url": "https://github.com/openai/codex/issues/25921",
+            "published": "Sat, 17 Oct 2026 17:45:08 +0000",
+            "fetched": "2026-10-18T08:18:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Violent clashes, looting and buildings ablaze in France as over 1,000 arrested after protests",
+            "description": "Disorder broke out in cities across the country on a day in which more than half a million joined cost of living protests.",
+            "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 20:52:17 GMT",
+            "fetched": "2026-10-18T08:18:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Moment historic French town hall spire collapses in flames amid protests",
+            "description": "An historic town hall in the southern French city of Limoges was set ablaze during national protests.",
+            "url": "https://www.bbc.co.uk/news/videos/c6e3xjw37wn7o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 00:49:42 GMT",
+            "fetched": "2026-10-18T08:18:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More NHS staff sacked over attacks victims' records",
+            "description": "Nottingham University Hospitals NHS Trust says a new system will be brought in to protect records.",
+            "url": "https://www.bbc.co.uk/news/articles/cmd7q8ld3dd3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 17 Oct 2026 16:34:39 GMT",
+            "fetched": "2026-10-18T08:18:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least 19 dead in stampede at Kolkata Hindu festival",
+            "description": "A seven-year-old girl was among at least 19 people killed in a stampede during a Hindu festival in Kolkata, India.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/at-least-19-dead-in-stampede-at-kolkata-hindu-festival?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 04:21:46 +0000",
+            "fetched": "2026-10-18T08:18:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tunisia’s economic crisis deepens as the promise of a better life fades",
+            "description": "Joblessness, failing services and rising costs deepen hardship across the country.",
+            "url": "https://www.aljazeera.com/economy/2026/10/18/tunisias-economic-crisis-deepens-as-the-promise-of-a-better-life-fades?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 04:14:42 +0000",
+            "fetched": "2026-10-18T08:18:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rubio wants ‘crackdown’ on settler violence after US journalist attack",
+            "description": "Rubio wants ‘crackdown’ on settler violence after US journalist attack",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/rubio-wants-crackdown-on-settler-violence-after-us-journalist-attack?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 03:44:25 +0000",
+            "fetched": "2026-10-18T08:18:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-18T08:18:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-18T08:18:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-18T08:18:02+03:30"
+        }
+    ]
+}
