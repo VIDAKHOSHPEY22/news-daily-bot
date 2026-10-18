@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-18T20:56:11+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnt out cars and shattered glass on Paris streets after protests turn to riots and looting",
+            "description": "About 1,800 people were arrested after nationwide protests saw outbreaks of violence and vandalism.",
+            "url": "https://www.bbc.co.uk/news/articles/c574pdzl0k4no?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 12:07:31 GMT",
+            "fetched": "2026-10-18T20:56:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
+            "description": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 14:57:19 GMT",
+            "fetched": "2026-10-18T20:56:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+            "description": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic.",
+            "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 05:04:31 GMT",
+            "fetched": "2026-10-18T20:56:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump endorses Netanyahu in Israeli legislative elections",
+            "description": "In a social media post ahead of the October 27 election, Trump calls Netanyahu a &#039;Strong, Brave, and Brilliant&#039; leader.",
+            "url": "https://www.aljazeera.com/news/2026/10/18/trump-endorses-netanyahu-in-israeli-legislative-elections?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 16:36:26 +0000",
+            "fetched": "2026-10-18T20:56:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Hybrid warfare’: Taiwan drives away 16 Chinese ships",
+            "description": "China is ramping up its presence around Taiwan, in a pattern that Taipei said is designed to &#039;alter the status quo&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/10/18/taiwan-drives-away-16-chinese-ships-accused-of-maritime-harassment?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 16:25:52 +0000",
+            "fetched": "2026-10-18T20:56:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "French mayor attacked by settlers during occupied West Bank olive harvest",
+            "description": "Bernard Baudoux, Mayor of the French town of Aulnoye-Aymeries, says masked settlers attacked him in occupied West Bank.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/18-10-sv-mayor-of-france-assaulted-by-settlers-ps?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 16:25:43 +0000",
+            "fetched": "2026-10-18T20:56:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-18T20:56:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-18T20:56:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-18T20:56:11+03:30"
+        }
+    ]
+}
