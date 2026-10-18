@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-18 03:37:42
+**Last Update:** 2026-10-18 04:19:23
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://openjdk.org/projects/jdk/28/">https://openjdk.org/projects/jdk/28/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50135379">https://news.ycombinator.com/item?id=50135379</a></p>
-<p>Points: 35</p>
-<p># Comments: 12</p>
+<p>Points: 41</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://openjdk.org/projects/jdk/28/](https://openjdk.org/projects/jdk/28/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/">https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50134617">https://news.ycombinator.com/item?id=50134617</a></p>
-<p>Points: 68</p>
-<p># Comments: 70</p>
+<p>Points: 74</p>
+<p># Comments: 74</p>
 
 🔗 **Read more:** [https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/](https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise">https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50133830">https://news.ycombinator.com/item?id=50133830</a></p>
-<p>Points: 54</p>
-<p># Comments: 65</p>
+<p>Points: 56</p>
+<p># Comments: 66</p>
 
 🔗 **Read more:** [https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise](https://www.cs.cmu.edu/news/2026/microsoft-cmu-praise)
 
@@ -97,7 +97,20 @@ Nottingham University Hospitals NHS Trust says a new system will be brought in t
 
 ---
 
-### 7. US ambassador urges Israel to prosecute attackers of American journalist
+### 7. Iran war live: Tankers hit in Hormuz; Israeli settlers attack EU diplomats
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Fires reported on three tankers as masked settlers attack European politicians in the occupied West Bank.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tankers-hit-in-hormuz-israeli-settlers-attack-eu-diplomats?traffic_source=rss)
+
+---
+
+### 8. US ambassador urges Israel to prosecute attackers of American journalist
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Trump-appointed Ambassador Mike Huckabee calls attack in occupied West Bank a &#
 
 ---
 
-### 8. Saudi-led coalition intercepts drones as Egypt weighs sending help
+### 9. Saudi-led coalition intercepts drones as Egypt weighs sending help
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Trump-appointed Ambassador Mike Huckabee calls attack in occupied West Bank a &#
 Forces intercepted and destroyed four drones over Saudi Arabia&#039;s Riyadh, Eastern Province and southern region.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss](https://www.aljazeera.com/news/2026/10/17/saudi-led-coalition-intercepts-drones-as-egypt-weighs-sending-help?traffic_source=rss)
-
----
-
-### 9. Photos: No Kings rallies in US urge midterm voters to cast ballots early
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Thousands gathered at events throughout the country on Saturday, building on two years of No Kings marches.
-
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss](https://www.aljazeera.com/gallery/2026/10/17/photos-no-kings-rallies-in-us-urge-midterm-voters-to-cast-ballots-early?traffic_source=rss)
 
 ---
 
