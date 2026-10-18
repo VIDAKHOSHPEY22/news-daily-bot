@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-19T02:28:04+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+            "description": "<p>I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.<p>I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this.<p>Important feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contacts, otherwise you get only phone numbers for many of them and search doesn't work properly.<p>This is a single user install because it's both gray area and very private - so point your agent at the repo and let it set things up.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50145715\">https://news.ycombinator.com/item?id=50145715</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/finereli/whatsapp-mcp",
+            "published": "Sun, 18 Oct 2026 21:36:10 +0000",
+            "fetched": "2026-10-19T02:28:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+            "description": "<p><a href=\"https://x.com/Jiaru_Zou/status/2110400256647340476\" rel=\"nofollow\">https://x.com/Jiaru_Zou/status/2110400256647340476</a><p><a href=\"https://github.com/togethercomputer/HybridAgent\" rel=\"nofollow\">https://github.com/togethercomputer/HybridAgent</a><p><a href=\"https://huggingface.co/collections/togethercomputer/hybridagent\" rel=\"nofollow\">https://huggingface.co/collections/togethercomputer/hybridag...</a><p>Evaluations: <a href=\"https://arxiv.org/html/2610.18861v1#S5\" rel=\"nofollow\">https://arxiv.org/html/2610.18861v1#S5</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50145337\">https://news.ycombinator.com/item?id=50145337</a></p>\n<p>Points: 106</p>\n<p># Comments: 46</p>",
+            "url": "https://arxiv.org/abs/2610.18861",
+            "published": "Sun, 18 Oct 2026 20:48:14 +0000",
+            "fetched": "2026-10-19T02:28:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
+            "description": "<p>Article URL: <a href=\"https://github.com/Netflix/vmaf\">https://github.com/Netflix/vmaf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50145295\">https://news.ycombinator.com/item?id=50145295</a></p>\n<p>Points: 11</p>\n<p># Comments: 4</p>",
+            "url": "https://github.com/Netflix/vmaf",
+            "published": "Sun, 18 Oct 2026 20:43:40 +0000",
+            "fetched": "2026-10-19T02:28:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Macron calls for 'calm and order' after riots across France",
+            "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+            "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 20:33:21 GMT",
+            "fetched": "2026-10-19T02:28:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know so far about deadly fire at Canadian military base",
+            "description": "At least four people are confirmed to have died after a huge fire swept through the base.",
+            "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 21:37:56 GMT",
+            "fetched": "2026-10-19T02:28:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
+            "description": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 14:57:19 GMT",
+            "fetched": "2026-10-19T02:28:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Alberta independence referendum: Will separatists survive a loss?",
+            "description": "Alberta’s independence movement faces likely defeat, but history suggests losing a referendum may not end the fight.",
+            "url": "https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 21:53:13 +0000",
+            "fetched": "2026-10-19T02:28:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Macron condemns violence after riots lead to looting and mass arrests",
+            "description": "French President Emmanuel Macron says protesters who attacked government buildings need to pay for their crimes.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 21:10:47 +0000",
+            "fetched": "2026-10-19T02:28:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fire engulfs Albania’s Supreme Court as protests enter fifth day",
+            "description": "Offices at the Supreme Court in Tirana were set ablaze as anti-government protests continue.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 20:26:03 +0000",
+            "fetched": "2026-10-19T02:28:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-19T02:28:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-19T02:28:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-19T02:28:04+03:30"
+        }
+    ]
+}
