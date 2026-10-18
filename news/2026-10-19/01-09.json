@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-19T01:09:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hybrid Reasoning Agents: 35–55% fewer tokens and up to 2.6× faster inference",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2610.18861\">https://arxiv.org/abs/2610.18861</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50145337\">https://news.ycombinator.com/item?id=50145337</a></p>\n<p>Points: 22</p>\n<p># Comments: 3</p>",
+            "url": "https://arxiv.org/abs/2610.18861",
+            "published": "Sun, 18 Oct 2026 20:48:14 +0000",
+            "fetched": "2026-10-19T01:09:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
+            "description": "<p>Article URL: <a href=\"https://github.com/Netflix/vmaf\">https://github.com/Netflix/vmaf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50145295\">https://news.ycombinator.com/item?id=50145295</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/Netflix/vmaf",
+            "published": "Sun, 18 Oct 2026 20:43:40 +0000",
+            "fetched": "2026-10-19T01:09:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Free Pascal compiler now supports dynamic packages",
+            "description": "<p>Article URL: <a href=\"https://www.getlazarus.org/dynamic/\">https://www.getlazarus.org/dynamic/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50144066\">https://news.ycombinator.com/item?id=50144066</a></p>\n<p>Points: 67</p>\n<p># Comments: 13</p>",
+            "url": "https://www.getlazarus.org/dynamic/",
+            "published": "Sun, 18 Oct 2026 18:48:04 +0000",
+            "fetched": "2026-10-19T01:09:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Macron calls for 'calm and order' after riots across France",
+            "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+            "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 20:33:21 GMT",
+            "fetched": "2026-10-19T01:09:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know so far about deadly fire at Canadian military base",
+            "description": "At least four people are confirmed to have died after a huge fire swept through the base.",
+            "url": "https://www.bbc.co.uk/news/articles/cmgelrq8x92do?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 21:37:56 GMT",
+            "fetched": "2026-10-19T01:09:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
+            "description": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 14:57:19 GMT",
+            "fetched": "2026-10-19T01:09:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Macron condemns violence after riots lead to looting and mass arrests",
+            "description": "French President Emmanuel Macron says protesters who attacked government buildings need to pay for their crimes.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 21:10:47 +0000",
+            "fetched": "2026-10-19T01:09:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fire engulfs Albania’s Supreme Court as protests enter fifth day",
+            "description": "Offices at the Supreme Court in Tirana were set ablaze as anti-government protests continue.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 20:26:03 +0000",
+            "fetched": "2026-10-19T01:09:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Anger and shame’: Macron denounces France’s nationwide rioting, looting",
+            "description": "President Macron promises to increase security, but stops short of announcing a state of emergency or curfew.",
+            "url": "https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 20:19:22 +0000",
+            "fetched": "2026-10-19T01:09:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-19T01:09:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-19T01:09:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-19T01:09:36+03:30"
+        }
+    ]
+}

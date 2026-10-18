@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-19 00:03:09
+**Last Update:** 2026-10-19 01:09:36
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tiny Brutalism – Thanks to HN it's on Steam
+### 1. Hybrid Reasoning Agents: 35–55% fewer tokens and up to 2.6× faster inference
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://store.steampowered.com/app/5426130/Tiny_Brutalism/">https://store.steampowered.com/app/5426130/Tiny_Brutalism/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50144144">https://news.ycombinator.com/item?id=50144144</a></p>
-<p>Points: 26</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2610.18861">https://arxiv.org/abs/2610.18861</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50145337">https://news.ycombinator.com/item?id=50145337</a></p>
+<p>Points: 22</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://store.steampowered.com/app/5426130/Tiny_Brutalism/](https://store.steampowered.com/app/5426130/Tiny_Brutalism/)
+🔗 **Read more:** [https://arxiv.org/abs/2610.18861](https://arxiv.org/abs/2610.18861)
 
 ---
 
-### 2. Free Pascal compiler now supports dynamic packages
+### 2. Netflix vmaf: Perceptual video quality assessment based on multi-method fusion
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/Netflix/vmaf">https://github.com/Netflix/vmaf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50145295">https://news.ycombinator.com/item?id=50145295</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://github.com/Netflix/vmaf](https://github.com/Netflix/vmaf)
+
+---
+
+### 3. Free Pascal compiler now supports dynamic packages
 
 **Source:** Hacker News
 
@@ -35,37 +51,21 @@
 **Description:**
 <p>Article URL: <a href="https://www.getlazarus.org/dynamic/">https://www.getlazarus.org/dynamic/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50144066">https://news.ycombinator.com/item?id=50144066</a></p>
-<p>Points: 42</p>
-<p># Comments: 11</p>
+<p>Points: 67</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://www.getlazarus.org/dynamic/](https://www.getlazarus.org/dynamic/)
 
 ---
 
-### 3. Florida's HOAs and condo associations are making the housing crisis worse
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html">https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50144005">https://news.ycombinator.com/item?id=50144005</a></p>
-<p>Points: 108</p>
-<p># Comments: 170</p>
-
-🔗 **Read more:** [https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html](https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html)
-
----
-
-### 4. Macron calls for calm in France and warns rioting must not escalate
+### 4. Macron calls for 'calm and order' after riots across France
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-French President Emmanuel Macron made a national television address after rioting caused widespread damage.
+French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ The Green Party leader said, while he wanted to amend it, the motion would stand
 
 ---
 
-### 7. India’s crackdown on cockroaches, critics and cameras
+### 7. Macron condemns violence after riots lead to looting and mass arrests
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A government at war with its critics - from young protesters to the media.
+French President Emmanuel Macron says protesters who attacked government buildings need to pay for their crimes.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss](https://www.aljazeera.com/video/the-listening-post/2026/10/18/indias-crackdown-on-cockroaches-critics-and-cameras?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/macron-condemns-violence-after-riots-lead-to-looting-and-mass-arrests?traffic_source=rss)
 
 ---
 
-### 8. How will Europe deal with youth-led protests?
+### 8. Fire engulfs Albania’s Supreme Court as protests enter fifth day
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Demonstrations are spreading across the continent.
+Offices at the Supreme Court in Tirana were set ablaze as anti-government protests continue.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/18/how-will-europe-deal-with-youth-led-protests?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/albania-protests-supreme-court-fire?traffic_source=rss)
 
 ---
 
-### 9. Clarence Seedorf calls out genocide in first Corinthians press conference
+### 9. ‘Anger and shame’: Macron denounces France’s nationwide rioting, looting
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Clarence Seedorf says football must be kept in perspective while genocides and conflicts continue around the world.
+President Macron promises to increase security, but stops short of announcing a state of emergency or curfew.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/18/clarence-seedorf-calls-out-genocide-in-first-corinthians-press-conference?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/18/clarence-seedorf-calls-out-genocide-in-first-corinthians-press-conference?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/macron-denounces-frances-nationwide-rioting-looting?traffic_source=rss)
 
 ---
 
