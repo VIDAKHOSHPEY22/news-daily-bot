@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-19T08:26:29+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Strot – Compile an LLM's intent once, run decisions locally forever",
+            "description": "<p>Article URL: <a href=\"https://github.com/strot-ai/Project-STROT\">https://github.com/strot-ai/Project-STROT</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50148396\">https://news.ycombinator.com/item?id=50148396</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/strot-ai/Project-STROT",
+            "published": "Mon, 19 Oct 2026 04:32:07 +0000",
+            "fetched": "2026-10-19T08:26:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Superlite: A Faster Alternatie to Superpowers",
+            "description": "<p>Article URL: <a href=\"https://contextfirst.blog/superlite-hand-an-agent-a-spec/\">https://contextfirst.blog/superlite-hand-an-agent-a-spec/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50147492\">https://news.ycombinator.com/item?id=50147492</a></p>\n<p>Points: 28</p>\n<p># Comments: 12</p>",
+            "url": "https://contextfirst.blog/superlite-hand-an-agent-a-spec/",
+            "published": "Mon, 19 Oct 2026 02:01:16 +0000",
+            "fetched": "2026-10-19T08:26:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Footage of the Flock search that a judge ruled was uncosntitutional",
+            "description": "<p>Article URL: <a href=\"https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/\">https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50147455\">https://news.ycombinator.com/item?id=50147455</a></p>\n<p>Points: 59</p>\n<p># Comments: 18</p>",
+            "url": "https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/",
+            "published": "Mon, 19 Oct 2026 01:55:03 +0000",
+            "fetched": "2026-10-19T08:26:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Macron calls for 'calm and order' after riots across France",
+            "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+            "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 20:33:21 GMT",
+            "fetched": "2026-10-19T08:26:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+            "description": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+            "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 00:06:25 GMT",
+            "fetched": "2026-10-19T08:26:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Russian saboteur working for Ukraine shares reconnaissance videos",
+            "description": "In a BBC World Service documentary, the man claims to have played a role in drone attacks on his home soil.",
+            "url": "https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 00:28:44 GMT",
+            "fetched": "2026-10-19T08:26:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pope greeted by crowds in first major appearance since lung cancer surgery",
+            "description": "Pope Leo pledges a gradual return to duties in an address to the Catholic faithful in St Peter&#039;s Square at the Vatican.",
+            "url": "https://www.aljazeera.com/news/2026/10/19/pope-greeted-by-crowds-in-first-major-appearance-since-lung-cancer-surgery?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 04:42:13 +0000",
+            "fetched": "2026-10-19T08:26:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lula and Bolsonaro spar in Brazil’s fiery first presidential run-off debate",
+            "description": "Brazil&#039;s president and his opponent lob a barrage of attacks on each other in debate a week before the October 25 vote.",
+            "url": "https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 04:27:00 +0000",
+            "fetched": "2026-10-19T08:26:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘It broke my heart’: Limoges residents reel after town hall fire",
+            "description": "Residents in Limoges, France, are expressing shock and anger after protests saw their 140-year-old town hall set ablaze.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/19/it-broke-my-heart-limoges-residents-reel-after-town-hall-fire?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 03:40:52 +0000",
+            "fetched": "2026-10-19T08:26:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Wati",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-19T08:26:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-19T08:26:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg A81",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320",
+            "published": "2023-01-27T00:00:00Z",
+            "fetched": "2026-10-19T08:26:29+03:30"
+        }
+    ]
+}
