@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-19T03:46:10+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+            "description": "<p>I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.<p>I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this.<p>Important feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contacts, otherwise you get only phone numbers for many of them and search doesn't work properly.<p>This is a single user install because it's both gray area and very private - so point your agent at the repo and let it set things up.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50145715\">https://news.ycombinator.com/item?id=50145715</a></p>\n<p>Points: 25</p>\n<p># Comments: 13</p>",
+            "url": "https://github.com/finereli/whatsapp-mcp",
+            "published": "Sun, 18 Oct 2026 21:36:10 +0000",
+            "fetched": "2026-10-19T03:46:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+            "description": "<p><a href=\"https://x.com/Jiaru_Zou/status/2110400256647340476\" rel=\"nofollow\">https://x.com/Jiaru_Zou/status/2110400256647340476</a><p><a href=\"https://github.com/togethercomputer/HybridAgent\" rel=\"nofollow\">https://github.com/togethercomputer/HybridAgent</a><p><a href=\"https://huggingface.co/collections/togethercomputer/hybridagent\" rel=\"nofollow\">https://huggingface.co/collections/togethercomputer/hybridag...</a><p>Evaluations: <a href=\"https://arxiv.org/html/2610.18861v1#S5\" rel=\"nofollow\">https://arxiv.org/html/2610.18861v1#S5</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50145337\">https://news.ycombinator.com/item?id=50145337</a></p>\n<p>Points: 157</p>\n<p># Comments: 93</p>",
+            "url": "https://arxiv.org/abs/2610.18861",
+            "published": "Sun, 18 Oct 2026 20:48:14 +0000",
+            "fetched": "2026-10-19T03:46:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Netflix vmaf: Perceptual video quality assessment based on multi-method fusion",
+            "description": "<p>Article URL: <a href=\"https://github.com/Netflix/vmaf\">https://github.com/Netflix/vmaf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50145295\">https://news.ycombinator.com/item?id=50145295</a></p>\n<p>Points: 14</p>\n<p># Comments: 6</p>",
+            "url": "https://github.com/Netflix/vmaf",
+            "published": "Sun, 18 Oct 2026 20:43:40 +0000",
+            "fetched": "2026-10-19T03:46:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Macron calls for 'calm and order' after riots across France",
+            "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+            "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 20:33:21 GMT",
+            "fetched": "2026-10-19T03:46:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Major fire at Canada military base leaves four dead, dozens injured",
+            "description": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\".",
+            "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 23:06:09 GMT",
+            "fetched": "2026-10-19T03:46:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+            "description": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+            "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 00:06:25 GMT",
+            "fetched": "2026-10-19T03:46:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Protesters disrupt Ben-Gvir event forcing him off stage",
+            "description": "Israeli protesters disrupted a Tel Aviv university event featuring far-right National Security Minister Itamar Ben-Gvir.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 23:06:16 +0000",
+            "fetched": "2026-10-19T03:46:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Venezuela opposition renews support for Maria Corina Machado as leader",
+            "description": "The exiled Nobel laureate has petitioned for new elections in Venezuela and for the country to allow her return.",
+            "url": "https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 22:41:49 +0000",
+            "fetched": "2026-10-19T03:46:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Alberta independence referendum: Will separatists survive a loss?",
+            "description": "Alberta’s independence movement faces likely defeat, but history suggests losing a referendum may not end the fight.",
+            "url": "https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 21:53:13 +0000",
+            "fetched": "2026-10-19T03:46:10+03:30"
+        }
+    ]
+}
