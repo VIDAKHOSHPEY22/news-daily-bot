@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-19 03:46:10
+**Last Update:** 2026-10-19 04:35:46
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: WhatsApp MCP running free on Cloudflare
+### 1. William Gibson and the trademarking of cyberspace
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://colo.to/cyberspace.html">https://colo.to/cyberspace.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50146625">https://news.ycombinator.com/item?id=50146625</a></p>
+<p>Points: 22</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://colo.to/cyberspace.html](https://colo.to/cyberspace.html)
+
+---
+
+### 2. How RC2's π table was made
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://khalidhamadeh.com/writing/rc2-pi-table">https://khalidhamadeh.com/writing/rc2-pi-table</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50146286">https://news.ycombinator.com/item?id=50146286</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://khalidhamadeh.com/writing/rc2-pi-table](https://khalidhamadeh.com/writing/rc2-pi-table)
+
+---
+
+### 3. Show HN: WhatsApp MCP running free on Cloudflare
 
 **Source:** Hacker News
 
@@ -20,43 +52,10 @@
 <p>I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.<p>I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this.<p>Important feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contacts, otherwise you get only phone numbers for many of them and search doesn't work properly.<p>This is a single user install because it's both gray area and very private - so point your agent at the repo and let it set things up.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50145715">https://news.ycombinator.com/item?id=50145715</a></p>
-<p>Points: 25</p>
-<p># Comments: 13</p>
+<p>Points: 32</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://github.com/finereli/whatsapp-mcp](https://github.com/finereli/whatsapp-mcp)
-
----
-
-### 2. Hybrid Reasoning Agents: LLM agents that think in latent space, act through text
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p><a href="https://x.com/Jiaru_Zou/status/2110400256647340476" rel="nofollow">https://x.com/Jiaru_Zou/status/2110400256647340476</a><p><a href="https://github.com/togethercomputer/HybridAgent" rel="nofollow">https://github.com/togethercomputer/HybridAgent</a><p><a href="https://huggingface.co/collections/togethercomputer/hybridagent" rel="nofollow">https://huggingface.co/collections/togethercomputer/hybridag...</a><p>Evaluations: <a href="https://arxiv.org/html/2610.18861v1#S5" rel="nofollow">https://arxiv.org/html/2610.18861v1#S5</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50145337">https://news.ycombinator.com/item?id=50145337</a></p>
-<p>Points: 157</p>
-<p># Comments: 93</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2610.18861](https://arxiv.org/abs/2610.18861)
-
----
-
-### 3. Netflix vmaf: Perceptual video quality assessment based on multi-method fusion
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/Netflix/vmaf">https://github.com/Netflix/vmaf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50145295">https://news.ycombinator.com/item?id=50145295</a></p>
-<p>Points: 14</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://github.com/Netflix/vmaf](https://github.com/Netflix/vmaf)
 
 ---
 
@@ -73,20 +72,7 @@ French President Emmanuel Macron gives a national address after widespread disor
 
 ---
 
-### 5. Major fire at Canada military base leaves four dead, dozens injured
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Prime Minister Carney said military and emergency crews fought the flames throughout the night in "some of the worst conditions imaginable".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Inside the shadowy world of anti-Putin sabotage from within Russia
+### 5. Inside the shadowy world of anti-Putin sabotage from within Russia
 
 **Source:** BBC
 
@@ -99,7 +85,46 @@ Two men tell of the work they say they have been doing to support Ukrainian inte
 
 ---
 
-### 7. Protesters disrupt Ben-Gvir event forcing him off stage
+### 6. Watch: Russian saboteur working for Ukraine shares reconnaissance videos
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+In a BBC World Service documentary, the man claims to have played a role in drone attacks on his home soil.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Iran&#039;s Foreign Minister Abbas Araghchi says Israeli Prime Minister Benjamin Netanyahu seeks more war before elections.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss)
+
+---
+
+### 8. Flight from Israel makes emergency landing in Bulgaria after bomb threat
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Crew of Austrian Airlines flight OS82 decides to land in Sofia after receiving bomb threat, Bulgarian authorities say.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss)
+
+---
+
+### 9. Protesters disrupt Ben-Gvir event forcing him off stage
 
 **Source:** Al Jazeera
 
@@ -112,29 +137,42 @@ Israeli protesters disrupted a Tel Aviv university event featuring far-right Nat
 
 ---
 
-### 8. Venezuela opposition renews support for Maria Corina Machado as leader
+### 10. Tropical Cyclone 01P
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-The exiled Nobel laureate has petitioned for new elections in Venezuela and for the country to allow her return.
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/venezuela-opposition-renews-support-for-maria-corina-machado-as-leader?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340)
 
 ---
 
-### 9. Alberta independence referendum: Will separatists survive a loss?
+### 11. Super Typhoon Champi
 
-**Source:** Al Jazeera
+**Source:** NASA
 
-**Category:** world
+**Category:** nature
 
 **Description:**
-Alberta’s independence movement faces likely defeat, but history suggests losing a referendum may not end the fight.
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss?traffic_source=rss](https://www.aljazeera.com/news/2026/10/18/alberta-independence-referendum-will-separatists-survive-a-loss?traffic_source=rss)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339)
+
+---
+
+### 12. Iceberg A81
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Sea and Lake Ice
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-19T04:35:46+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "William Gibson and the trademarking of cyberspace",
+            "description": "<p>Article URL: <a href=\"https://colo.to/cyberspace.html\">https://colo.to/cyberspace.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50146625\">https://news.ycombinator.com/item?id=50146625</a></p>\n<p>Points: 22</p>\n<p># Comments: 0</p>",
+            "url": "https://colo.to/cyberspace.html",
+            "published": "Sun, 18 Oct 2026 23:37:57 +0000",
+            "fetched": "2026-10-19T04:35:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How RC2's π table was made",
+            "description": "<p>Article URL: <a href=\"https://khalidhamadeh.com/writing/rc2-pi-table\">https://khalidhamadeh.com/writing/rc2-pi-table</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50146286\">https://news.ycombinator.com/item?id=50146286</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://khalidhamadeh.com/writing/rc2-pi-table",
+            "published": "Sun, 18 Oct 2026 22:48:07 +0000",
+            "fetched": "2026-10-19T04:35:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+            "description": "<p>I wanted my humble Claude on mobile to access my WhatsApp messages but the only options I could find either required WhatsApp Business or an actual server to run Baileys on.<p>I wanted to run it for free on ClaudeFlare and with my personal WhatsApp account, so I built this.<p>Important feature - it connects to your Google account as well as WhatsApp to grab the names of all your WhatsApp contacts, otherwise you get only phone numbers for many of them and search doesn't work properly.<p>This is a single user install because it's both gray area and very private - so point your agent at the repo and let it set things up.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50145715\">https://news.ycombinator.com/item?id=50145715</a></p>\n<p>Points: 32</p>\n<p># Comments: 22</p>",
+            "url": "https://github.com/finereli/whatsapp-mcp",
+            "published": "Sun, 18 Oct 2026 21:36:10 +0000",
+            "fetched": "2026-10-19T04:35:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Macron calls for 'calm and order' after riots across France",
+            "description": "French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.",
+            "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 18 Oct 2026 20:33:21 GMT",
+            "fetched": "2026-10-19T04:35:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+            "description": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+            "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 00:06:25 GMT",
+            "fetched": "2026-10-19T04:35:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Russian saboteur working for Ukraine shares reconnaissance videos",
+            "description": "In a BBC World Service documentary, the man claims to have played a role in drone attacks on his home soil.",
+            "url": "https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 00:28:44 GMT",
+            "fetched": "2026-10-19T04:35:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Tehran says Netanyahu seeks more war; Yemen fighting flares",
+            "description": "Iran&#039;s Foreign Minister Abbas Araghchi says Israeli Prime Minister Benjamin Netanyahu seeks more war before elections.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/10/18/iran-war-live-tehran-says-netanyahu-seeks-more-war-yemen-fighting-flares?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 23:59:34 +0000",
+            "fetched": "2026-10-19T04:35:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Flight from Israel makes emergency landing in Bulgaria after bomb threat",
+            "description": "Crew of Austrian Airlines flight OS82 decides to land in Sofia after receiving bomb threat, Bulgarian authorities say.",
+            "url": "https://www.aljazeera.com/news/2026/10/18/flight-from-israel-makes-emergency-landing-in-bulgaria-after-bomb-threat?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 23:58:05 +0000",
+            "fetched": "2026-10-19T04:35:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Protesters disrupt Ben-Gvir event forcing him off stage",
+            "description": "Israeli protesters disrupted a Tel Aviv university event featuring far-right National Security Minister Itamar Ben-Gvir.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/18/protesters-disrupt-ben-gvir-event-forcing-him-off-stage?traffic_source=rss",
+            "published": "Sun, 18 Oct 2026 23:06:16 +0000",
+            "fetched": "2026-10-19T04:35:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 01P",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-19T04:35:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-19T04:35:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg A81",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320",
+            "published": "2023-01-27T00:00:00Z",
+            "fetched": "2026-10-19T04:35:46+03:30"
+        }
+    ]
+}
