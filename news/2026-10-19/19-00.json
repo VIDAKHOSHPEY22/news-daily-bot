@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-19T19:00:14+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "WFP stops provision to half a million people in Gaza over lack of funding",
+            "description": "<p>Article URL: <a href=\"https://www.middleeasteye.net/news/world-food-programme-stops-funding-half-million-people-gaza-over-lack-funding\">https://www.middleeasteye.net/news/world-food-programme-stops-funding-half-million-people-gaza-over-lack-funding</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50153384\">https://news.ycombinator.com/item?id=50153384</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://www.middleeasteye.net/news/world-food-programme-stops-funding-half-million-people-gaza-over-lack-funding",
+            "published": "Mon, 19 Oct 2026 15:06:00 +0000",
+            "fetched": "2026-10-19T19:00:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Maybe There Was an Egg Cartel After All",
+            "description": "<p>Article URL: <a href=\"https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411\">https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50152970\">https://news.ycombinator.com/item?id=50152970</a></p>\n<p>Points: 39</p>\n<p># Comments: 27</p>",
+            "url": "https://www.politico.com/news/magazine/2026/10/18/egg-prices-conspiracy-affordability-issue-01100411",
+            "published": "Mon, 19 Oct 2026 14:31:11 +0000",
+            "fetched": "2026-10-19T19:00:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Beyond These Stars",
+            "description": "<p>Article URL: <a href=\"https://store.steampowered.com/app/2295060/Beyond_These_Stars/\">https://store.steampowered.com/app/2295060/Beyond_These_Stars/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50152701\">https://news.ycombinator.com/item?id=50152701</a></p>\n<p>Points: 10</p>\n<p># Comments: 5</p>",
+            "url": "https://store.steampowered.com/app/2295060/Beyond_These_Stars/",
+            "published": "Mon, 19 Oct 2026 14:06:10 +0000",
+            "fetched": "2026-10-19T19:00:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Are the French riots a warning of an intense election to come?",
+            "description": "Rioting, looting and vandalism has gripped France over the weekend after protests spiralled out of control across the country.",
+            "url": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 13:43:27 GMT",
+            "fetched": "2026-10-19T19:00:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Australian MP critically injured after being hit by car in apparent attack",
+            "description": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack.",
+            "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 14:09:54 GMT",
+            "fetched": "2026-10-19T19:00:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman says she 'closed eyes and tried not to be there' during alleged Russell Brand rape",
+            "description": "The 51-year-old faces three counts of rape, three charges of sexual assault and one of indecent assault.",
+            "url": "https://www.bbc.co.uk/news/articles/cvj6jylk3456o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 13:01:50 GMT",
+            "fetched": "2026-10-19T19:00:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Man City’s Semenyo out for up to eight weeks due to knee injury",
+            "description": "City coach confirmed Semenyo&#039;s injury but said Haaland would be available for the Champions League match on Tuesday.",
+            "url": "https://www.aljazeera.com/sports/2026/10/19/man-citys-semenyo-out-for-up-to-eight-weeks-due-to-knee-injury?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 15:07:19 +0000",
+            "fetched": "2026-10-19T19:00:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Famine fears as aid cuts and shipment restrictions coincide in Gaza",
+            "description": "Displaced families in Gaza fear worsening food insecurity as planned aid cuts coincide with continued restrictions.",
+            "url": "https://www.aljazeera.com/news/2026/10/19/famine-fears-as-aid-cuts-and-shipment-restrictions-coincide-in-gaza?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 15:05:16 +0000",
+            "fetched": "2026-10-19T19:00:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who is cult leader Paul Mackenzie, accused of convincing followers to die?",
+            "description": "A Kenyan court is set to hand down the first judgement in the &#039;doomsday&#039; cult case.",
+            "url": "https://www.aljazeera.com/news/2026/10/19/who-is-cult-leader-paul-mackenzie-accused-of-convincing-followers-to-die?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 14:54:24 +0000",
+            "fetched": "2026-10-19T19:00:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Wati",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-19T19:00:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-19T19:00:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-19T19:00:14+03:30"
+        }
+    ]
+}
