@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-19T14:28:43+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Linux 7.3 Released",
+            "description": "<p>Article URL: <a href=\"https://lwn.net/Articles/1101143/\">https://lwn.net/Articles/1101143/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50149392\">https://news.ycombinator.com/item?id=50149392</a></p>\n<p>Points: 215</p>\n<p># Comments: 90</p>",
+            "url": "https://lwn.net/Articles/1101143/",
+            "published": "Mon, 19 Oct 2026 07:23:57 +0000",
+            "fetched": "2026-10-19T14:28:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling",
+            "description": "<p>Article URL: <a href=\"https://crystl.dev/guides/tmux-for-ai-agents/\">https://crystl.dev/guides/tmux-for-ai-agents/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50148855\">https://news.ycombinator.com/item?id=50148855</a></p>\n<p>Points: 37</p>\n<p># Comments: 19</p>",
+            "url": "https://crystl.dev/guides/tmux-for-ai-agents/",
+            "published": "Mon, 19 Oct 2026 05:55:31 +0000",
+            "fetched": "2026-10-19T14:28:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Flatpak – An Insecurity Nightmare",
+            "description": "<p>Article URL: <a href=\"https://oro.gay/posts/flatpak-an-insecurity-nightmare/\">https://oro.gay/posts/flatpak-an-insecurity-nightmare/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50148601\">https://news.ycombinator.com/item?id=50148601</a></p>\n<p>Points: 50</p>\n<p># Comments: 34</p>",
+            "url": "https://oro.gay/posts/flatpak-an-insecurity-nightmare/",
+            "published": "Mon, 19 Oct 2026 05:11:24 +0000",
+            "fetched": "2026-10-19T14:28:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Companies exploiting welfare system by using residents as 'cash cows', BBC finds",
+            "description": "Agents try to attract people on housing benefit by using social media videos that offer free rooms and holidays.",
+            "url": "https://www.bbc.co.uk/news/articles/cm62y80yxw9vo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 04:59:47 GMT",
+            "fetched": "2026-10-19T14:28:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+            "description": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+            "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 00:06:25 GMT",
+            "fetched": "2026-10-19T14:28:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Russian saboteur working for Ukraine shares reconnaissance videos",
+            "description": "In a BBC World Service documentary, the man claims to have played a role in drone attacks on his home soil.",
+            "url": "https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 00:28:44 GMT",
+            "fetched": "2026-10-19T14:28:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Australian MP Helen Haines critically injured in ‘deliberate’ car ramming",
+            "description": "Lawmaker was struck by a car outside her office in what Prime Minister ⁠Anthony Albanese called a &#039;deliberate act&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/10/19/australian-mp-helen-haines-critically-injured-in-deliberate-car-ramming?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 10:35:48 +0000",
+            "fetched": "2026-10-19T14:28:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What’s wrong with schools in France?",
+            "description": "Angry French students have blocked access to their schools for four weeks. AJLabs breaks down what they want and why.",
+            "url": "https://www.aljazeera.com/video/by-the-numbers-3/2026/10/19/whats-wrong-with-schools-in-france?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 10:33:38 +0000",
+            "fetched": "2026-10-19T14:28:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "WFP cuts aid to ‌500,000 Palestinians in Gaza amid funding shortages",
+            "description": "The UN agency says funding shortages threaten to reverse &#039;modest and fragile&#039; progress on food security.",
+            "url": "https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 10:08:06 +0000",
+            "fetched": "2026-10-19T14:28:43+03:30"
+        }
+    ]
+}

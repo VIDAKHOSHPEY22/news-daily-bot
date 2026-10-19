@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-19 11:08:45
+**Last Update:** 2026-10-19 14:28:43
 
 **Total News:** 9
 
-**Sources:** Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Companies exploiting welfare system by using residents as 'cash cows', BBC finds
+### 1. Linux 7.3 Released
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://lwn.net/Articles/1101143/">https://lwn.net/Articles/1101143/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50149392">https://news.ycombinator.com/item?id=50149392</a></p>
+<p>Points: 215</p>
+<p># Comments: 90</p>
+
+🔗 **Read more:** [https://lwn.net/Articles/1101143/](https://lwn.net/Articles/1101143/)
+
+---
+
+### 2. Tmux and Claude Code: Sessions, Send-Keys, and the Ceiling
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://crystl.dev/guides/tmux-for-ai-agents/">https://crystl.dev/guides/tmux-for-ai-agents/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50148855">https://news.ycombinator.com/item?id=50148855</a></p>
+<p>Points: 37</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [https://crystl.dev/guides/tmux-for-ai-agents/](https://crystl.dev/guides/tmux-for-ai-agents/)
+
+---
+
+### 3. Flatpak – An Insecurity Nightmare
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://oro.gay/posts/flatpak-an-insecurity-nightmare/">https://oro.gay/posts/flatpak-an-insecurity-nightmare/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50148601">https://news.ycombinator.com/item?id=50148601</a></p>
+<p>Points: 50</p>
+<p># Comments: 34</p>
+
+🔗 **Read more:** [https://oro.gay/posts/flatpak-an-insecurity-nightmare/](https://oro.gay/posts/flatpak-an-insecurity-nightmare/)
+
+---
+
+### 4. Companies exploiting welfare system by using residents as 'cash cows', BBC finds
 
 **Source:** BBC
 
@@ -23,20 +71,7 @@ Agents try to attract people on housing benefit by using social media videos tha
 
 ---
 
-### 2. France's government under pressure after widespread violence
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 3. Inside the shadowy world of anti-Putin sabotage from within Russia
+### 5. Inside the shadowy world of anti-Putin sabotage from within Russia
 
 **Source:** BBC
 
@@ -49,81 +84,55 @@ Two men tell of the work they say they have been doing to support Ukrainian inte
 
 ---
 
-### 4. Losing Cuba, the global trickster
+### 6. Watch: Russian saboteur working for Ukraine shares reconnaissance videos
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+In a BBC World Service documentary, the man claims to have played a role in drone attacks on his home soil.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Australian MP Helen Haines critically injured in ‘deliberate’ car ramming
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Cuban Revolution, with all its contradictions, has given plenty to the world. Its fall will be a major loss.
+Lawmaker was struck by a car outside her office in what Prime Minister ⁠Anthony Albanese called a &#039;deliberate act&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/19/losing-cuba-the-global-trickster?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/19/losing-cuba-the-global-trickster?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/australian-mp-helen-haines-critically-injured-in-deliberate-car-ramming?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/australian-mp-helen-haines-critically-injured-in-deliberate-car-ramming?traffic_source=rss)
 
 ---
 
-### 5. In pro-Palestine hub of Athens, Israeli buyers increase local resentment
+### 8. What’s wrong with schools in France?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In Exarchia, residents say short-term rentals are driving up rents and eroding its character.
+Angry French students have blocked access to their schools for four weeks. AJLabs breaks down what they want and why.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/19/in-pro-palestine-hub-of-athens-israeli-buyers-increase-local-resentment?traffic_source=rss](https://www.aljazeera.com/features/2026/10/19/in-pro-palestine-hub-of-athens-israeli-buyers-increase-local-resentment?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/by-the-numbers-3/2026/10/19/whats-wrong-with-schools-in-france?traffic_source=rss](https://www.aljazeera.com/video/by-the-numbers-3/2026/10/19/whats-wrong-with-schools-in-france?traffic_source=rss)
 
 ---
 
-### 6. No ‘turmoil’ at the White House
+### 9. WFP cuts aid to ‌500,000 Palestinians in Gaza amid funding shortages
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The media had a field day with Zacharia’s short tenure, but claims of chaos in Trump administration are exaggerated.
+The UN agency says funding shortages threaten to reverse &#039;modest and fragile&#039; progress on food security.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/19/no-turmoil-at-the-white-house?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/19/no-turmoil-at-the-white-house?traffic_source=rss)
-
----
-
-### 7. Tropical Cyclone Wati
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340)
-
----
-
-### 8. Super Typhoon Champi
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339)
-
----
-
-### 9. Prescribed Fire Newman Piles RX, Coconino, Arizona
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/wfp-cuts-aid-to-500000-palestinians-in-gaza-amid-funding-shortages?traffic_source=rss)
 
 ---
 
