@@ -1,77 +1,42 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-19 08:26:29
+**Last Update:** 2026-10-19 11:08:45
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: Strot – Compile an LLM's intent once, run decisions locally forever
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/strot-ai/Project-STROT">https://github.com/strot-ai/Project-STROT</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50148396">https://news.ycombinator.com/item?id=50148396</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/strot-ai/Project-STROT](https://github.com/strot-ai/Project-STROT)
-
----
-
-### 2. Superlite: A Faster Alternatie to Superpowers
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://contextfirst.blog/superlite-hand-an-agent-a-spec/">https://contextfirst.blog/superlite-hand-an-agent-a-spec/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50147492">https://news.ycombinator.com/item?id=50147492</a></p>
-<p>Points: 28</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://contextfirst.blog/superlite-hand-an-agent-a-spec/](https://contextfirst.blog/superlite-hand-an-agent-a-spec/)
-
----
-
-### 3. Footage of the Flock search that a judge ruled was uncosntitutional
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/">https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50147455">https://news.ycombinator.com/item?id=50147455</a></p>
-<p>Points: 59</p>
-<p># Comments: 18</p>
-
-🔗 **Read more:** [https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/](https://www.404media.co/watch-footage-of-the-flock-search-a-judge-ruled-unconstitutional/)
-
----
-
-### 4. Macron calls for 'calm and order' after riots across France
+### 1. Companies exploiting welfare system by using residents as 'cash cows', BBC finds
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-French President Emmanuel Macron gives a national address after widespread disorder and as some looting continued in Paris.
+Agents try to attract people on housing benefit by using social media videos that offer free rooms and holidays.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm62y80yxw9vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm62y80yxw9vo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Inside the shadowy world of anti-Putin sabotage from within Russia
+### 2. France's government under pressure after widespread violence
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 3. Inside the shadowy world of anti-Putin sabotage from within Russia
 
 **Source:** BBC
 
@@ -84,59 +49,46 @@ Two men tell of the work they say they have been doing to support Ukrainian inte
 
 ---
 
-### 6. Watch: Russian saboteur working for Ukraine shares reconnaissance videos
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-In a BBC World Service documentary, the man claims to have played a role in drone attacks on his home soil.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwd09vlv78rvo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Pope greeted by crowds in first major appearance since lung cancer surgery
+### 4. Losing Cuba, the global trickster
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pope Leo pledges a gradual return to duties in an address to the Catholic faithful in St Peter&#039;s Square at the Vatican.
+The Cuban Revolution, with all its contradictions, has given plenty to the world. Its fall will be a major loss.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/pope-greeted-by-crowds-in-first-major-appearance-since-lung-cancer-surgery?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/pope-greeted-by-crowds-in-first-major-appearance-since-lung-cancer-surgery?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/19/losing-cuba-the-global-trickster?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/19/losing-cuba-the-global-trickster?traffic_source=rss)
 
 ---
 
-### 8. Lula and Bolsonaro spar in Brazil’s fiery first presidential run-off debate
+### 5. In pro-Palestine hub of Athens, Israeli buyers increase local resentment
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Brazil&#039;s president and his opponent lob a barrage of attacks on each other in debate a week before the October 25 vote.
+In Exarchia, residents say short-term rentals are driving up rents and eroding its character.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/lula-and-bolsonaro-spar-in-brazils-fiery-first-presidential-run-off-debate?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/19/in-pro-palestine-hub-of-athens-israeli-buyers-increase-local-resentment?traffic_source=rss](https://www.aljazeera.com/features/2026/10/19/in-pro-palestine-hub-of-athens-israeli-buyers-increase-local-resentment?traffic_source=rss)
 
 ---
 
-### 9. ‘It broke my heart’: Limoges residents reel after town hall fire
+### 6. No ‘turmoil’ at the White House
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Residents in Limoges, France, are expressing shock and anger after protests saw their 140-year-old town hall set ablaze.
+The media had a field day with Zacharia’s short tenure, but claims of chaos in Trump administration are exaggerated.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/19/it-broke-my-heart-limoges-residents-reel-after-town-hall-fire?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/19/it-broke-my-heart-limoges-residents-reel-after-town-hall-fire?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/19/no-turmoil-at-the-white-house?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/19/no-turmoil-at-the-white-house?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone Wati
+### 7. Tropical Cyclone Wati
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Super Typhoon Champi
+### 8. Super Typhoon Champi
 
 **Source:** NASA
 
@@ -162,16 +114,16 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Iceberg A81
+### 9. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Sea and Lake Ice
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6320)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310)
 
 ---
 

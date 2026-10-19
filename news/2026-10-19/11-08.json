@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-19T11:08:45+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Companies exploiting welfare system by using residents as 'cash cows', BBC finds",
+            "description": "Agents try to attract people on housing benefit by using social media videos that offer free rooms and holidays.",
+            "url": "https://www.bbc.co.uk/news/articles/cm62y80yxw9vo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 04:59:47 GMT",
+            "fetched": "2026-10-19T11:08:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "France's government under pressure after widespread violence",
+            "description": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes.",
+            "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 04:16:46 GMT",
+            "fetched": "2026-10-19T11:08:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Inside the shadowy world of anti-Putin sabotage from within Russia",
+            "description": "Two men tell of the work they say they have been doing to support Ukrainian intelligence during the war.",
+            "url": "https://www.bbc.co.uk/news/articles/c6pwgzkj8zzgo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 00:06:25 GMT",
+            "fetched": "2026-10-19T11:08:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Losing Cuba, the global trickster",
+            "description": "The Cuban Revolution, with all its contradictions, has given plenty to the world. Its fall will be a major loss.",
+            "url": "https://www.aljazeera.com/opinions/2026/10/19/losing-cuba-the-global-trickster?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 07:02:58 +0000",
+            "fetched": "2026-10-19T11:08:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "In pro-Palestine hub of Athens, Israeli buyers increase local resentment",
+            "description": "In Exarchia, residents say short-term rentals are driving up rents and eroding its character.",
+            "url": "https://www.aljazeera.com/features/2026/10/19/in-pro-palestine-hub-of-athens-israeli-buyers-increase-local-resentment?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 06:51:10 +0000",
+            "fetched": "2026-10-19T11:08:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "No ‘turmoil’ at the White House",
+            "description": "The media had a field day with Zacharia’s short tenure, but claims of chaos in Trump administration are exaggerated.",
+            "url": "https://www.aljazeera.com/opinions/2026/10/19/no-turmoil-at-the-white-house?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 06:50:43 +0000",
+            "fetched": "2026-10-19T11:08:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Wati",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-19T11:08:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-19T11:08:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-19T11:08:45+03:30"
+        }
+    ]
+}
