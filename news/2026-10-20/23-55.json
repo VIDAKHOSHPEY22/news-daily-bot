@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-20T23:55:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
+            "description": "The head of UK Counter Terrorism Policing said they consider Iranian state involvement \"highly likely\".",
+            "url": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 18:32:14 GMT",
+            "fetched": "2026-10-20T23:55:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+            "description": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+            "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 20:01:04 GMT",
+            "fetched": "2026-10-20T23:55:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
+            "description": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.",
+            "url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 15:32:36 GMT",
+            "fetched": "2026-10-20T23:55:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "EU revises Arctic strategy as pressure from Russia, US grows",
+            "description": "The new strategy shifts the bloc&#039;s focus from long-term climate concerns to urgent security measures.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 20:05:39 +0000",
+            "fetched": "2026-10-20T23:55:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Is money ruining US elections?",
+            "description": "Who pays for US elections and what do they get? Josh Rushing asks Lawrence Lessig and Bradley Smith.",
+            "url": "https://www.aljazeera.com/video/lets-focus/2026/10/20/is-money-ruining-us-elections?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 19:59:46 +0000",
+            "fetched": "2026-10-20T23:55:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "PSG fans divided over protests in France as Barcelona game goes ahead",
+            "description": "Champions League football game takes place amid backdrop of unrest over education issues and the cost of living.",
+            "url": "https://www.aljazeera.com/sports/2026/10/20/psg-fans-divided-over-protests-in-france-as-barcelona-game-goes-ahead?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 19:55:37 +0000",
+            "fetched": "2026-10-20T23:55:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 02S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-20T23:55:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-20T23:55:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-20T23:55:19+03:30"
+        }
+    ]
+}
