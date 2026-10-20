@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-20 09:22:01
+**Last Update:** 2026-10-20 09:39:10
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/">https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50161505">https://news.ycombinator.com/item?id=50161505</a></p>
-<p>Points: 12</p>
-<p># Comments: 3</p>
+<p>Points: 23</p>
+<p># Comments: 33</p>
 
 🔗 **Read more:** [https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/](https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/)
 
@@ -37,26 +37,26 @@
 Peter Bishop.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50161408">https://news.ycombinator.com/item?id=50161408</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Points: 21</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://deathplanswitch.com/](https://deathplanswitch.com/)
 
 ---
 
-### 3. U.S. Supreme Court to review 1868 federal ban on home distilling of liquor
+### 3. Go will reject certificate chains containing eight distrusted SPKIs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/">https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50161207">https://news.ycombinator.com/item?id=50161207</a></p>
-<p>Points: 27</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://github.com/golang/go/issues/82345">https://github.com/golang/go/issues/82345</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50160877">https://news.ycombinator.com/item?id=50160877</a></p>
+<p>Points: 45</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/](https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/)
+🔗 **Read more:** [https://github.com/golang/go/issues/82345](https://github.com/golang/go/issues/82345)
 
 ---
 
