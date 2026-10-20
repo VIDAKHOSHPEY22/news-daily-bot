@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-20T04:38:49+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+            "description": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
+            "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 21:14:53 GMT",
+            "fetched": "2026-10-20T04:38:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Clean up begins after French riots but police remain",
+            "description": "Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted.",
+            "url": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 21:30:08 GMT",
+            "fetched": "2026-10-20T04:38:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+            "description": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
+            "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 20:49:00 GMT",
+            "fetched": "2026-10-20T04:38:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Release Epstein files’, protester interrupts JD Vance’s speech",
+            "description": "A protester demanding the release of the Epstein files interrupted US Vice President JD Vance&#039;s speech.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/release-epstein-files-protester-interrupts-jd-vances-speech?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 00:18:48 +0000",
+            "fetched": "2026-10-20T04:38:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death",
+            "description": "US lawmaker says that government must arrest Israeli commander allegedly responsible for attack while he is in the US.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 00:18:20 +0000",
+            "fetched": "2026-10-20T04:38:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hegseth meets Netanyahu in unannounced Israel visit",
+            "description": "Hegseth has travelled to Israel to meet Netanyahu ahead of a closely contested election, Axios reported, citing sources.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 00:08:01 +0000",
+            "fetched": "2026-10-20T04:38:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Wati",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-20T04:38:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-20T04:38:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-20T04:38:49+03:30"
+        }
+    ]
+}

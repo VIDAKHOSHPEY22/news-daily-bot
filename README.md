@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-20 03:45:21
+**Last Update:** 2026-10-20 04:38:49
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Token-maxxing is dead, OpenRouter's token usage plateaus
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://openrouter.ai/rankings">https://openrouter.ai/rankings</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50159464">https://news.ycombinator.com/item?id=50159464</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://openrouter.ai/rankings](https://openrouter.ai/rankings)
-
----
-
-### 2. Drupal is now light-years ahead of its reputation
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://dri.es/state-of-drupal-presentation-september-2026">https://dri.es/state-of-drupal-presentation-september-2026</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50158408">https://news.ycombinator.com/item?id=50158408</a></p>
-<p>Points: 16</p>
-<p># Comments: 11</p>
-
-🔗 **Read more:** [https://dri.es/state-of-drupal-presentation-september-2026](https://dri.es/state-of-drupal-presentation-september-2026)
-
----
-
-### 3. OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://bsd.network/@brynet/117407035545900963">https://bsd.network/@brynet/117407035545900963</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50158138">https://news.ycombinator.com/item?id=50158138</a></p>
-<p>Points: 62</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://bsd.network/@brynet/117407035545900963](https://bsd.network/@brynet/117407035545900963)
-
----
-
-### 4. Curfew imposed in parts of central Paris and other cities after rioting across France
+### 1. Curfew imposed in parts of central Paris and other cities after rioting across France
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ It comes after the country's interior minister admits that police "lost control"
 
 ---
 
-### 5. Watch: Clean up begins after French riots but police remain
+### 2. Watch: Clean up begins after French riots but police remain
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Outside of Paris, Marseille saw some of the worst damage, with shop owners repor
 
 ---
 
-### 6. Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC
+### 3. Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC
 
 **Source:** BBC
 
@@ -97,7 +49,33 @@ Serhii Beskrestnov says there has not been enough time to warn people about inco
 
 ---
 
-### 7. Hegseth meets Netanyahu in unannounced Israel visit
+### 4. ‘Release Epstein files’, protester interrupts JD Vance’s speech
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+A protester demanding the release of the Epstein files interrupted US Vice President JD Vance&#039;s speech.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/release-epstein-files-protester-interrupts-jd-vances-speech?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/release-epstein-files-protester-interrupts-jd-vances-speech?traffic_source=rss)
+
+---
+
+### 5. Rashida Tlaib demands arrest of Israeli soldier linked to Hind Rajab death
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US lawmaker says that government must arrest Israeli commander allegedly responsible for attack while he is in the US.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/rashida-tlaib-demands-arrest-of-israeli-soldier-linked-to-hind-rajab-death?traffic_source=rss)
+
+---
+
+### 6. Hegseth meets Netanyahu in unannounced Israel visit
 
 **Source:** Al Jazeera
 
@@ -110,33 +88,7 @@ Hegseth has travelled to Israel to meet Netanyahu ahead of a closely contested e
 
 ---
 
-### 8. Iran war live: Trump says US hits Iran hard ‘economically and militarily’
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Trump says US continues to hit Iran &#039;economically and militarily&#039; while praising Russia for doing &#039;nothing&#039; to aid Iran.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss)
-
----
-
-### 9. Mahmoud Khalil takes deportation fight to the US Supreme Court
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Lawyers for the former student leader seek to overturn an appeals court decision that would allow for his removal.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/mahmoud-khalil-takes-deportation-fight-to-the-us-supreme-court?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/mahmoud-khalil-takes-deportation-fight-to-the-us-supreme-court?traffic_source=rss)
-
----
-
-### 10. Tropical Cyclone Wati
+### 7. Tropical Cyclone Wati
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Super Typhoon Champi
+### 8. Super Typhoon Champi
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 9. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
