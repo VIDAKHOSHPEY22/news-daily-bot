@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-20T03:45:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Token-maxxing is dead, OpenRouter's token usage plateaus",
+            "description": "<p>Article URL: <a href=\"https://openrouter.ai/rankings\">https://openrouter.ai/rankings</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50159464\">https://news.ycombinator.com/item?id=50159464</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+            "url": "https://openrouter.ai/rankings",
+            "published": "Mon, 19 Oct 2026 23:40:15 +0000",
+            "fetched": "2026-10-20T03:45:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Drupal is now light-years ahead of its reputation",
+            "description": "<p>Article URL: <a href=\"https://dri.es/state-of-drupal-presentation-september-2026\">https://dri.es/state-of-drupal-presentation-september-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50158408\">https://news.ycombinator.com/item?id=50158408</a></p>\n<p>Points: 16</p>\n<p># Comments: 11</p>",
+            "url": "https://dri.es/state-of-drupal-presentation-september-2026",
+            "published": "Mon, 19 Oct 2026 21:38:02 +0000",
+            "fetched": "2026-10-20T03:45:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+            "description": "<p>Article URL: <a href=\"https://bsd.network/@brynet/117407035545900963\">https://bsd.network/@brynet/117407035545900963</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50158138\">https://news.ycombinator.com/item?id=50158138</a></p>\n<p>Points: 62</p>\n<p># Comments: 10</p>",
+            "url": "https://bsd.network/@brynet/117407035545900963",
+            "published": "Mon, 19 Oct 2026 21:11:45 +0000",
+            "fetched": "2026-10-20T03:45:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+            "description": "It comes after the country's interior minister admits that police \"lost control\" in some cities.",
+            "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 21:14:53 GMT",
+            "fetched": "2026-10-20T03:45:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Clean up begins after French riots but police remain",
+            "description": "Outside of Paris, Marseille saw some of the worst damage, with shop owners reporting more than 600 premises having been looted.",
+            "url": "https://www.bbc.co.uk/news/videos/cwr7y0e57r50o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 21:30:08 GMT",
+            "fetched": "2026-10-20T03:45:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC",
+            "description": "Serhii Beskrestnov says there has not been enough time to warn people about incoming missile attacks. The White House said there had been no changes to intelligence sharing.",
+            "url": "https://www.bbc.co.uk/news/articles/cmj47yx572z5o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 20:49:00 GMT",
+            "fetched": "2026-10-20T03:45:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hegseth meets Netanyahu in unannounced Israel visit",
+            "description": "Hegseth has travelled to Israel to meet Netanyahu ahead of a closely contested election, Axios reported, citing sources.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 00:08:01 +0000",
+            "fetched": "2026-10-20T03:45:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Trump says US hits Iran hard ‘economically and militarily’",
+            "description": "Trump says US continues to hit Iran &#039;economically and militarily&#039; while praising Russia for doing &#039;nothing&#039; to aid Iran.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 00:00:00 +0000",
+            "fetched": "2026-10-20T03:45:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mahmoud Khalil takes deportation fight to the US Supreme Court",
+            "description": "Lawyers for the former student leader seek to overturn an appeals court decision that would allow for his removal.",
+            "url": "https://www.aljazeera.com/news/2026/10/19/mahmoud-khalil-takes-deportation-fight-to-the-us-supreme-court?traffic_source=rss",
+            "published": "Mon, 19 Oct 2026 23:56:32 +0000",
+            "fetched": "2026-10-20T03:45:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Wati",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-20T03:45:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-20T03:45:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-20T03:45:21+03:30"
+        }
+    ]
+}

@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-20 01:59:51
+**Last Update:** 2026-10-20 03:45:21
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Curfew imposed in parts of central Paris and other cities after rioting across France
+### 1. Token-maxxing is dead, OpenRouter's token usage plateaus
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openrouter.ai/rankings">https://openrouter.ai/rankings</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50159464">https://news.ycombinator.com/item?id=50159464</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://openrouter.ai/rankings](https://openrouter.ai/rankings)
+
+---
+
+### 2. Drupal is now light-years ahead of its reputation
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://dri.es/state-of-drupal-presentation-september-2026">https://dri.es/state-of-drupal-presentation-september-2026</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50158408">https://news.ycombinator.com/item?id=50158408</a></p>
+<p>Points: 16</p>
+<p># Comments: 11</p>
+
+🔗 **Read more:** [https://dri.es/state-of-drupal-presentation-september-2026](https://dri.es/state-of-drupal-presentation-september-2026)
+
+---
+
+### 3. OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://bsd.network/@brynet/117407035545900963">https://bsd.network/@brynet/117407035545900963</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50158138">https://news.ycombinator.com/item?id=50158138</a></p>
+<p>Points: 62</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://bsd.network/@brynet/117407035545900963](https://bsd.network/@brynet/117407035545900963)
+
+---
+
+### 4. Curfew imposed in parts of central Paris and other cities after rioting across France
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ It comes after the country's interior minister admits that police "lost control"
 
 ---
 
-### 2. Watch: Clean up begins after French riots but police remain
+### 5. Watch: Clean up begins after French riots but police remain
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ Outside of Paris, Marseille saw some of the worst damage, with shop owners repor
 
 ---
 
-### 3. Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC
+### 6. Ukrainians dying because US restricting intelligence sharing, Zelensky adviser tells BBC
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ Serhii Beskrestnov says there has not been enough time to warn people about inco
 
 ---
 
-### 4. Egyptian parliament delays vote on military support for Saudi Arabia
+### 7. Hegseth meets Netanyahu in unannounced Israel visit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lawmakers adjourn session as opposition party tells members to abstain over unclear commitment.
+Hegseth has travelled to Israel to meet Netanyahu ahead of a closely contested election, Axios reported, citing sources.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/egyptian-parliament-delays-vote-on-military-support-for-saudi-arabia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/hegseth-meets-netanyahu-in-unannounced-israel-visit?traffic_source=rss)
 
 ---
 
-### 5. 160 people reported killed in escalating drone attacks across Sudan
+### 8. Iran war live: Trump says US hits Iran hard ‘economically and militarily’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rights groups warn increasing attacks by unmanned aircraft are targeting civilians and infrastructure.
+Trump says US continues to hit Iran &#039;economically and militarily&#039; while praising Russia for doing &#039;nothing&#039; to aid Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/160-reported-killed-in-escalating-drone-attacks-across-sudan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/20/draft-3?traffic_source=rss)
 
 ---
 
-### 6. Could your halal pension be funding Israel’s military?
+### 9. Mahmoud Khalil takes deportation fight to the US Supreme Court
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-HSBC’s ‘sharia-compliant’ fund invested over $100 million in companies linked to Israel’s military.
+Lawyers for the former student leader seek to overturn an appeals court decision that would allow for his removal.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/19/could-your-halal-pension-be-funding-israels-military?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/19/mahmoud-khalil-takes-deportation-fight-to-the-us-supreme-court?traffic_source=rss](https://www.aljazeera.com/news/2026/10/19/mahmoud-khalil-takes-deportation-fight-to-the-us-supreme-court?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone Wati
+### 10. Tropical Cyclone Wati
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Super Typhoon Champi
+### 11. Super Typhoon Champi
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Prescribed Fire Newman Piles RX, Coconino, Arizona
+### 12. Prescribed Fire Newman Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
