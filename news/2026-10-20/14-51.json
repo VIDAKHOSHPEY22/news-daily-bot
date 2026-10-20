@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-20T14:51:52+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Google cloud outage takes down banks",
+            "description": "<p>Article URL: <a href=\"https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/\">https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50163961\">https://news.ycombinator.com/item?id=50163961</a></p>\n<p>Points: 19</p>\n<p># Comments: 5</p>",
+            "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+            "published": "Tue, 20 Oct 2026 10:26:02 +0000",
+            "fetched": "2026-10-20T14:51:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Revolut down as users report app not working",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cxdd8mm6qy4mo\">https://www.bbc.com/news/articles/cxdd8mm6qy4mo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50163625\">https://news.ycombinator.com/item?id=50163625</a></p>\n<p>Points: 45</p>\n<p># Comments: 15</p>",
+            "url": "https://www.bbc.com/news/articles/cxdd8mm6qy4mo",
+            "published": "Tue, 20 Oct 2026 09:54:48 +0000",
+            "fetched": "2026-10-20T14:51:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AfD Leak: What 421,179 Hacked Emails Show about the German Far Right",
+            "description": "<p>Article URL: <a href=\"https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/\">https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50163502\">https://news.ycombinator.com/item?id=50163502</a></p>\n<p>Points: 241</p>\n<p># Comments: 210</p>",
+            "url": "https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/",
+            "published": "Tue, 20 Oct 2026 09:35:40 +0000",
+            "fetched": "2026-10-20T14:51:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+            "description": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+            "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 10:06:34 GMT",
+            "fetched": "2026-10-20T14:51:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How the attack on an Australian MP unfolded",
+            "description": "BBC's Katy Watson is in Wangaratta visiting the scene of the incident and the church where the community has held a vigil for the independent MP.",
+            "url": "https://www.bbc.co.uk/news/videos/cqkglz3ljedyo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 06:02:05 GMT",
+            "fetched": "2026-10-20T14:51:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+            "description": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region.",
+            "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 11:09:11 GMT",
+            "fetched": "2026-10-20T14:51:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack",
+            "description": "Barrack highlights limits of US interventions, admitting past regime changes in the Middle East were often mistakes.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/us-leaving-oil-for-security-approach-not-middle-east-envoy-tom-barrack?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 10:36:57 +0000",
+            "fetched": "2026-10-20T14:51:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans",
+            "description": "The prime ministers of Norway and Finland will also attend the discussions in Oslo.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 10:24:28 +0000",
+            "fetched": "2026-10-20T14:51:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump’s approval ratings plummet: what that means for the US midterms",
+            "description": "Sitting presidents usually see a dip in approval ratings before midterms, but Trump&#039;s ratings are at a historic low.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/trumps-approval-ratings-plummet-what-that-means-for-the-us-midterms?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 10:13:19 +0000",
+            "fetched": "2026-10-20T14:51:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Wati",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-20T14:51:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-20T14:51:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-20T14:51:52+03:30"
+        }
+    ]
+}
