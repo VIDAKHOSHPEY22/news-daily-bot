@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-21T03:16:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site",
+            "description": "<p>Article URL: <a href=\"https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/\">https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50173487\">https://news.ycombinator.com/item?id=50173487</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+            "published": "Tue, 20 Oct 2026 22:21:05 +0000",
+            "fetched": "2026-10-21T03:16:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
+            "description": "<p>Article URL: <a href=\"https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/\">https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50170917\">https://news.ycombinator.com/item?id=50170917</a></p>\n<p>Points: 49</p>\n<p># Comments: 20</p>",
+            "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+            "published": "Tue, 20 Oct 2026 18:51:40 +0000",
+            "fetched": "2026-10-21T03:16:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "SimCity, but with Permits",
+            "description": "<p>Article URL: <a href=\"https://permit.petercai.com/\">https://permit.petercai.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50170593\">https://news.ycombinator.com/item?id=50170593</a></p>\n<p>Points: 421</p>\n<p># Comments: 227</p>",
+            "url": "https://permit.petercai.com/",
+            "published": "Tue, 20 Oct 2026 18:29:09 +0000",
+            "fetched": "2026-10-21T03:16:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
+            "description": "The head of UK Counter Terrorism Policing said they consider Iranian state involvement \"highly likely\".",
+            "url": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 18:32:14 GMT",
+            "fetched": "2026-10-21T03:16:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+            "description": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+            "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 21:27:39 GMT",
+            "fetched": "2026-10-21T03:16:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK government to make Jackdaw gas field announcement",
+            "description": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
+            "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 17:33:42 GMT",
+            "fetched": "2026-10-21T03:16:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "NATO to send additional patrol planes to Black Sea after drone attacks",
+            "description": "The alliance announces the deployment after a series of deadly drone attacks in the region.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 23:19:52 +0000",
+            "fetched": "2026-10-21T03:16:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The Gambia to pay reparations to ex-dictator’s victims from sale of US mansion",
+            "description": "The Gambia confirmed it received $2.5m from the sale of a US mansion belonging to former president Jammeh.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/the-gambia-to-pay-reparations-to-ex-dictators-victims-from-sale-of-us-mansion?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 22:51:35 +0000",
+            "fetched": "2026-10-21T03:16:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal",
+            "description": "The US president&#039;s remarks come amid a deepening feud with Ukraine&#039;s President Volodymyr Zelenskyy.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 22:20:13 +0000",
+            "fetched": "2026-10-21T03:16:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 02S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-21T03:16:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-21T03:16:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-21T03:16:03+03:30"
+        }
+    ]
+}

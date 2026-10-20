@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-21 00:13:27
+**Last Update:** 2026-10-21 03:16:03
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident
+### 1. Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/">https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50173487">https://news.ycombinator.com/item?id=50173487</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
+
+---
+
+### 2. Academics have a duty to defend open knowledge systems like Wikipedia
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/">https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50170917">https://news.ycombinator.com/item?id=50170917</a></p>
+<p>Points: 49</p>
+<p># Comments: 20</p>
+
+🔗 **Read more:** [https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/](https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/)
+
+---
+
+### 3. SimCity, but with Permits
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://permit.petercai.com/">https://permit.petercai.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50170593">https://news.ycombinator.com/item?id=50170593</a></p>
+<p>Points: 421</p>
+<p># Comments: 227</p>
+
+🔗 **Read more:** [https://permit.petercai.com/](https://permit.petercai.com/)
+
+---
+
+### 4. Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ The head of UK Counter Terrorism Policing said they consider Iranian state invol
 
 ---
 
-### 2. Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo
+### 5. Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo
 
 **Source:** BBC
 
@@ -36,59 +84,59 @@ Ukraine had accused the US of withholding key intelligence - a claim rejected as
 
 ---
 
-### 3. Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds
+### 6. UK government to make Jackdaw gas field announcement
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.
+The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. UK police re-arrest two men on suspicion of assisting Iran’s intelligence
+### 7. NATO to send additional patrol planes to Black Sea after drone attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Duo was first arrested for suspected link to incident at US-run airbase used for striking Iran during this year&#039;s war.
+The alliance announces the deployment after a series of deadly drone attacks in the region.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss)
 
 ---
 
-### 5. France riots leave thousands of businesses damaged
+### 8. The Gambia to pay reparations to ex-dictator’s victims from sale of US mansion
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Weekend riots in France left more than 3,000 businesses damaged with owners facing devastating losses
+The Gambia confirmed it received $2.5m from the sale of a US mansion belonging to former president Jammeh.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/france-riots-leave-thousands-of-businesses-damaged?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/france-riots-leave-thousands-of-businesses-damaged?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/the-gambia-to-pay-reparations-to-ex-dictators-victims-from-sale-of-us-mansion?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/the-gambia-to-pay-reparations-to-ex-dictators-victims-from-sale-of-us-mansion?traffic_source=rss)
 
 ---
 
-### 6. EU revises Arctic strategy as pressure from Russia, US grows
+### 9. ‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The new strategy shifts the bloc&#039;s focus from long-term climate concerns to urgent security measures.
+The US president&#039;s remarks come amid a deepening feud with Ukraine&#039;s President Volodymyr Zelenskyy.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone 02S
+### 10. Tropical Cyclone 02S
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
+### 11. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire COOLEY, Mendocino, California
+### 12. Wildfire COOLEY, Mendocino, California
 
 **Source:** NASA
 
