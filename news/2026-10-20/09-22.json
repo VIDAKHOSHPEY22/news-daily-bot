@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-20T09:22:01+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Americans Are Spending More Money to Drive Worse Cars",
+            "description": "<p>Article URL: <a href=\"https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/\">https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50161505\">https://news.ycombinator.com/item?id=50161505</a></p>\n<p>Points: 12</p>\n<p># Comments: 3</p>",
+            "url": "https://www.theatlantic.com/technology/2026/10/americans-not-buying-electric-cars/689071/",
+            "published": "Tue, 20 Oct 2026 04:55:36 +0000",
+            "fetched": "2026-10-20T09:22:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Death Plan Switch, a self-hosted dead man's switch for solo devs",
+            "description": "<p>Hi HN,<p>I'm Peter Bishop and I've been working in graphics and web tech for over 25yrs.<p>I've recently launched Death Plan Switch to solve a major problem in my succession plan. What if I go missing or die? The right people are told and my business can continue to operate for my clients.<p>There's a backstory to this project, I was hospitalised in 2012 and lost my business back then and I couldn't get the data to my technical 2IC in time without frustrating my clients.<p>Death Plan Switch solves this problem, it's free to download and use or study under the MIT license.<p>I've been using it for the last few weeks. It was authored with the help of Claude Code after writing an extensive MD document and it passed 42 unit tests.<p>I hope you get some use out of it, or it inspires your own succession plans. My clients are telling me this is a strong sales feature when they trust me with their hosting and technology accounts.<p>Happy to answer any questions.<p>Kind regards,\nPeter Bishop.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50161408\">https://news.ycombinator.com/item?id=50161408</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://deathplanswitch.com/",
+            "published": "Tue, 20 Oct 2026 04:37:43 +0000",
+            "fetched": "2026-10-20T09:22:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "U.S. Supreme Court to review 1868 federal ban on home distilling of liquor",
+            "description": "<p>Article URL: <a href=\"https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/\">https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50161207\">https://news.ycombinator.com/item?id=50161207</a></p>\n<p>Points: 27</p>\n<p># Comments: 24</p>",
+            "url": "https://www.staradvertiser.com/2026/10/19/breaking-news/u-s-supreme-court-to-review-1868-federal-ban-on-home-distilling-of-liquor/",
+            "published": "Tue, 20 Oct 2026 04:02:26 +0000",
+            "fetched": "2026-10-20T09:22:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+            "description": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+            "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 01:31:09 GMT",
+            "fetched": "2026-10-20T09:22:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "We asked teens what schools should teach them about work. This is what they said",
+            "description": "Teenagers say they want more work experience at school and opportunities to improve their communication skills.",
+            "url": "https://www.bbc.co.uk/news/articles/c6m2dmdxgz2xo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 05:00:14 GMT",
+            "fetched": "2026-10-20T09:22:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+            "description": "The country's interior minister admits that police \"lost control\" in some cities following a weekend of riots.",
+            "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 19 Oct 2026 21:14:53 GMT",
+            "fetched": "2026-10-20T09:22:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel’s elections 2026 explained in maps and charts",
+            "description": "Israelis vote on October 27 in the sixth election since 2019. Here’s how the system works and who gets left out.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/israels-elections-2026-explained-in-maps-and-charts?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 05:25:31 +0000",
+            "fetched": "2026-10-20T09:22:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Supreme Court to hear case on race in school admissions",
+            "description": "A group of parents claims local admission policy boosts Black and Latino students while constraining Asian applicants.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/us-supreme-court-to-hear-case-on-race-in-school-admissions?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 04:38:07 +0000",
+            "fetched": "2026-10-20T09:22:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Japan launches historic mission to bring back Mars moon samples",
+            "description": "Japan has launched a five-year uncrewed mission to collect samples from Phobos, one of Mars’ two moons.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/japan-launches-historic-mission-to-bring-back-mars-moon-samples?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 04:08:33 +0000",
+            "fetched": "2026-10-20T09:22:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Wati",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-20T09:22:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-20T09:22:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-20T09:22:01+03:30"
+        }
+    ]
+}
