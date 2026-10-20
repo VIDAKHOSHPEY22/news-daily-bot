@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-21 03:16:03
+**Last Update:** 2026-10-21 03:28:30
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -97,7 +97,20 @@ The long-awaited decision about the controversial North Sea field is expected on
 
 ---
 
-### 7. NATO to send additional patrol planes to Black Sea after drone attacks
+### 7. Moment plane crashes on a busy highway in the US
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Moment plane crashes on a busy highway in the US
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/moment-plane-crashes-on-a-busy-highway-in-the-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/moment-plane-crashes-on-a-busy-highway-in-the-us?traffic_source=rss)
+
+---
+
+### 8. NATO to send additional patrol planes to Black Sea after drone attacks
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The alliance announces the deployment after a series of deadly drone attacks in 
 
 ---
 
-### 8. The Gambia to pay reparations to ex-dictator’s victims from sale of US mansion
+### 9. The Gambia to pay reparations to ex-dictator’s victims from sale of US mansion
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The alliance announces the deployment after a series of deadly drone attacks in 
 The Gambia confirmed it received $2.5m from the sale of a US mansion belonging to former president Jammeh.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/the-gambia-to-pay-reparations-to-ex-dictators-victims-from-sale-of-us-mansion?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/the-gambia-to-pay-reparations-to-ex-dictators-victims-from-sale-of-us-mansion?traffic_source=rss)
-
----
-
-### 9. ‘I don’t care how it’s done’: Trump pressures Ukraine to cut peace deal
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The US president&#039;s remarks come amid a deepening feud with Ukraine&#039;s President Volodymyr Zelenskyy.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/i-dont-care-how-its-done-trump-pressures-ukraine-to-cut-peace-deal?traffic_source=rss)
 
 ---
 
