@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-20 23:55:19
+**Last Update:** 2026-10-21 00:13:27
 
 **Total News:** 9
 
-**Sources:** Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, BBC, NASA
 
 ---
 
@@ -49,7 +49,33 @@ The sixth report from Covid inquiry criticises the lack of PPE and the way patie
 
 ---
 
-### 4. EU revises Arctic strategy as pressure from Russia, US grows
+### 4. UK police re-arrest two men on suspicion of assisting Iran’s intelligence
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Duo was first arrested for suspected link to incident at US-run airbase used for striking Iran during this year&#039;s war.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss)
+
+---
+
+### 5. France riots leave thousands of businesses damaged
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Weekend riots in France left more than 3,000 businesses damaged with owners facing devastating losses
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/france-riots-leave-thousands-of-businesses-damaged?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/france-riots-leave-thousands-of-businesses-damaged?traffic_source=rss)
+
+---
+
+### 6. EU revises Arctic strategy as pressure from Russia, US grows
 
 **Source:** Al Jazeera
 
@@ -59,32 +85,6 @@ The sixth report from Covid inquiry criticises the lack of PPE and the way patie
 The new strategy shifts the bloc&#039;s focus from long-term climate concerns to urgent security measures.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows?traffic_source=rss)
-
----
-
-### 5. Is money ruining US elections?
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Who pays for US elections and what do they get? Josh Rushing asks Lawrence Lessig and Bradley Smith.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/lets-focus/2026/10/20/is-money-ruining-us-elections?traffic_source=rss](https://www.aljazeera.com/video/lets-focus/2026/10/20/is-money-ruining-us-elections?traffic_source=rss)
-
----
-
-### 6. PSG fans divided over protests in France as Barcelona game goes ahead
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Champions League football game takes place amid backdrop of unrest over education issues and the cost of living.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/20/psg-fans-divided-over-protests-in-france-as-barcelona-game-goes-ahead?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/20/psg-fans-divided-over-protests-in-france-as-barcelona-game-goes-ahead?traffic_source=rss)
 
 ---
 

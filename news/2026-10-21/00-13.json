@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-21T00:13:27+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
+            "description": "The head of UK Counter Terrorism Policing said they consider Iranian state involvement \"highly likely\".",
+            "url": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 18:32:14 GMT",
+            "fetched": "2026-10-21T00:13:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo",
+            "description": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+            "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 20:01:04 GMT",
+            "fetched": "2026-10-21T00:13:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
+            "description": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.",
+            "url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 15:32:36 GMT",
+            "fetched": "2026-10-21T00:13:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK police re-arrest two men on suspicion of assisting Iran’s intelligence",
+            "description": "Duo was first arrested for suspected link to incident at US-run airbase used for striking Iran during this year&#039;s war.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/uk-police-re-arrest-two-men-on-suspicion-of-assisting-iranian-intelligence?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 20:17:53 +0000",
+            "fetched": "2026-10-21T00:13:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "France riots leave thousands of businesses damaged",
+            "description": "Weekend riots in France left more than 3,000 businesses damaged with owners facing devastating losses",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/france-riots-leave-thousands-of-businesses-damaged?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 20:16:01 +0000",
+            "fetched": "2026-10-21T00:13:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "EU revises Arctic strategy as pressure from Russia, US grows",
+            "description": "The new strategy shifts the bloc&#039;s focus from long-term climate concerns to urgent security measures.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/eu-revises-arctic-strategy-as-pressure-from-russia-us-grows?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 20:05:39 +0000",
+            "fetched": "2026-10-21T00:13:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 02S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-21T00:13:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-21T00:13:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-21T00:13:27+03:30"
+        }
+    ]
+}
