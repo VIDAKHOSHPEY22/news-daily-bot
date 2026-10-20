@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-20 14:51:52
+**Last Update:** 2026-10-20 15:22:43
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/">https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50163961">https://news.ycombinator.com/item?id=50163961</a></p>
-<p>Points: 19</p>
-<p># Comments: 5</p>
+<p>Points: 46</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/](https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/)
 
@@ -35,26 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.bbc.com/news/articles/cxdd8mm6qy4mo">https://www.bbc.com/news/articles/cxdd8mm6qy4mo</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50163625">https://news.ycombinator.com/item?id=50163625</a></p>
-<p>Points: 45</p>
-<p># Comments: 15</p>
+<p>Points: 61</p>
+<p># Comments: 31</p>
 
 🔗 **Read more:** [https://www.bbc.com/news/articles/cxdd8mm6qy4mo](https://www.bbc.com/news/articles/cxdd8mm6qy4mo)
 
 ---
 
-### 3. AfD Leak: What 421,179 Hacked Emails Show about the German Far Right
+### 3. DeepSeek just open-sourced its inference engine
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/">https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50163502">https://news.ycombinator.com/item?id=50163502</a></p>
-<p>Points: 241</p>
-<p># Comments: 210</p>
+<p>Article URL: <a href="https://github.com/deepseek-ai/DeepInfer">https://github.com/deepseek-ai/DeepInfer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50163277">https://news.ycombinator.com/item?id=50163277</a></p>
+<p>Points: 524</p>
+<p># Comments: 182</p>
 
-🔗 **Read more:** [https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/](https://www.heistberlin.com/news/afd-leak-what-421-179-hacked-emails-show-about-the-german-far-right/)
+🔗 **Read more:** [https://github.com/deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer)
 
 ---
 
@@ -71,20 +71,7 @@ Influential Labour figures had been pushing for equalising CGT and income tax, b
 
 ---
 
-### 5. How the attack on an Australian MP unfolded
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-BBC's Katy Watson is in Wangaratta visiting the scene of the incident and the church where the community has held a vigil for the independent MP.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cqkglz3ljedyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cqkglz3ljedyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. UK to deploy jets to defend Saudi Arabia from Houthi attacks
+### 5. UK to deploy jets to defend Saudi Arabia from Houthi attacks
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The UK announces it will provide additional defensive military support to Saudi 
 
 ---
 
-### 7. US leaving oil-for-security approach, not Middle East: Envoy Tom Barrack
+### 6. Man charged with attack on Australian MP as suspect's father says she is family friend
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Barrack highlights limits of US interventions, admitting past regime changes in the Middle East were often mistakes.
+Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/us-leaving-oil-for-security-approach-not-middle-east-envoy-tom-barrack?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/us-leaving-oil-for-security-approach-not-middle-east-envoy-tom-barrack?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Zelenskyy to hold talks on Russia-Ukraine war with Witkoff, Europeans
+### 7. Myanmar’s detained ex-leader Suu Kyi receives package from King Charles III
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The prime ministers of Norway and Finland will also attend the discussions in Oslo.
+Military-backed government says it delivered two books and diplomatic correspondence to Aung San Suu Kyi.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/zelenskyy-to-hold-peace-talks-in-oslo-with-witkoff-kushner-attending?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/myanmars-detained-ex-leader-suu-kyi-receives-package-from-king-charles-iii?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/myanmars-detained-ex-leader-suu-kyi-receives-package-from-king-charles-iii?traffic_source=rss)
 
 ---
 
-### 9. Trump’s approval ratings plummet: what that means for the US midterms
+### 8. Masoud Pezeshkian: Peace, Not Surrender
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sitting presidents usually see a dip in approval ratings before midterms, but Trump&#039;s ratings are at a historic low.
+Iranian President Masoud Pezeshkian on sanctions, regional conflict, US-Israel tensions and his call for Muslim unity.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/trumps-approval-ratings-plummet-what-that-means-for-the-us-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/trumps-approval-ratings-plummet-what-that-means-for-the-us-midterms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/al-jazeera-world/2026/10/20/masoud-pezeshkian-peace-not-surrender?traffic_source=rss](https://www.aljazeera.com/video/al-jazeera-world/2026/10/20/masoud-pezeshkian-peace-not-surrender?traffic_source=rss)
+
+---
+
+### 9. France’s growing debt woes: How bond markets set countries’ borrowing costs
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+France&#039;s rising debt is unnerving investors, but countries such as the US and Japan owe even greater sums.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/20/frances-growing-debt-woes-how-bond-markets-set-countries-borrowing-costs?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/20/frances-growing-debt-woes-how-bond-markets-set-countries-borrowing-costs?traffic_source=rss)
 
 ---
 

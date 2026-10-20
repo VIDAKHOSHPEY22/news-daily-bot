@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-20T15:22:43+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Google cloud outage takes down banks",
+            "description": "<p>Article URL: <a href=\"https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/\">https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50163961\">https://news.ycombinator.com/item?id=50163961</a></p>\n<p>Points: 46</p>\n<p># Comments: 14</p>",
+            "url": "https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/",
+            "published": "Tue, 20 Oct 2026 10:26:02 +0000",
+            "fetched": "2026-10-20T15:22:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Revolut down as users report app not working",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cxdd8mm6qy4mo\">https://www.bbc.com/news/articles/cxdd8mm6qy4mo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50163625\">https://news.ycombinator.com/item?id=50163625</a></p>\n<p>Points: 61</p>\n<p># Comments: 31</p>",
+            "url": "https://www.bbc.com/news/articles/cxdd8mm6qy4mo",
+            "published": "Tue, 20 Oct 2026 09:54:48 +0000",
+            "fetched": "2026-10-20T15:22:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepSeek just open-sourced its inference engine",
+            "description": "<p>Article URL: <a href=\"https://github.com/deepseek-ai/DeepInfer\">https://github.com/deepseek-ai/DeepInfer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50163277\">https://news.ycombinator.com/item?id=50163277</a></p>\n<p>Points: 524</p>\n<p># Comments: 182</p>",
+            "url": "https://github.com/deepseek-ai/DeepInfer",
+            "published": "Tue, 20 Oct 2026 09:08:54 +0000",
+            "fetched": "2026-10-20T15:22:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+            "description": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain.",
+            "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 10:06:34 GMT",
+            "fetched": "2026-10-20T15:22:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+            "description": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region.",
+            "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 11:50:43 GMT",
+            "fetched": "2026-10-20T15:22:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man charged with attack on Australian MP as suspect's father says she is family friend",
+            "description": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years.",
+            "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 11:25:35 GMT",
+            "fetched": "2026-10-20T15:22:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Myanmar’s detained ex-leader Suu Kyi receives package from King Charles III",
+            "description": "Military-backed government says it delivered two books and diplomatic correspondence to Aung San Suu Kyi.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/myanmars-detained-ex-leader-suu-kyi-receives-package-from-king-charles-iii?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 11:07:55 +0000",
+            "fetched": "2026-10-20T15:22:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Masoud Pezeshkian: Peace, Not Surrender",
+            "description": "Iranian President Masoud Pezeshkian on sanctions, regional conflict, US-Israel tensions and his call for Muslim unity.",
+            "url": "https://www.aljazeera.com/video/al-jazeera-world/2026/10/20/masoud-pezeshkian-peace-not-surrender?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 11:02:31 +0000",
+            "fetched": "2026-10-20T15:22:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "France’s growing debt woes: How bond markets set countries’ borrowing costs",
+            "description": "France&#039;s rising debt is unnerving investors, but countries such as the US and Japan owe even greater sums.",
+            "url": "https://www.aljazeera.com/economy/2026/10/20/frances-growing-debt-woes-how-bond-markets-set-countries-borrowing-costs?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 10:53:01 +0000",
+            "fetched": "2026-10-20T15:22:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Wati",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25340",
+            "published": "2026-10-16T06:00:00Z",
+            "fetched": "2026-10-20T15:22:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon Champi",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25339",
+            "published": "2026-10-15T12:00:00Z",
+            "fetched": "2026-10-20T15:22:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Newman Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25310",
+            "published": "2026-10-14T10:42:00Z",
+            "fetched": "2026-10-20T15:22:43+03:30"
+        }
+    ]
+}
