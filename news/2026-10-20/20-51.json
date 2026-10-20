@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-20T20:51:55+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+            "description": "<p>Article URL: <a href=\"https://github.com/google-pytorch/torch_tpu\">https://github.com/google-pytorch/torch_tpu</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50169053\">https://news.ycombinator.com/item?id=50169053</a></p>\n<p>Points: 25</p>\n<p># Comments: 7</p>",
+            "url": "https://github.com/google-pytorch/torch_tpu",
+            "published": "Tue, 20 Oct 2026 16:40:24 +0000",
+            "fetched": "2026-10-20T20:51:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Voxtral 3",
+            "description": "<p>Article URL: <a href=\"https://mistral.ai/news/voxtral-3/\">https://mistral.ai/news/voxtral-3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50168396\">https://news.ycombinator.com/item?id=50168396</a></p>\n<p>Points: 100</p>\n<p># Comments: 21</p>",
+            "url": "https://mistral.ai/news/voxtral-3/",
+            "published": "Tue, 20 Oct 2026 16:02:07 +0000",
+            "fetched": "2026-10-20T20:51:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Making a VGA Driver in SystemVerilog",
+            "description": "<p>Article URL: <a href=\"https://lukaswerner.com/post/2026-10-20@bottom-up-vga\">https://lukaswerner.com/post/2026-10-20@bottom-up-vga</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50168376\">https://news.ycombinator.com/item?id=50168376</a></p>\n<p>Points: 17</p>\n<p># Comments: 0</p>",
+            "url": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
+            "published": "Tue, 20 Oct 2026 16:00:15 +0000",
+            "fetched": "2026-10-20T20:51:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
+            "description": "Counter-terror police say the men are being held on suspicion of assisting a foreign intelligence service, an offence under the National Security Act.",
+            "url": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 17:16:04 GMT",
+            "fetched": "2026-10-20T20:51:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
+            "description": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.",
+            "url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 15:32:36 GMT",
+            "fetched": "2026-10-20T20:51:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Google says services recovering after cloud outage hits UK banks and websites",
+            "description": "Revolut was one of the hardest hit, with banking services going down for many customers.",
+            "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 15:37:26 GMT",
+            "fetched": "2026-10-20T20:51:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Turkiye moves to ratify Mecca defence pact with Pakistan, Saudi Arabia",
+            "description": "Trilateral deal between Saudi Arabia, Turkiye and Pakistan lays out provisions for joint defence.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/turkiye-moves-to-ratify-mecca-joint-defence-agreement?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 16:34:20 +0000",
+            "fetched": "2026-10-20T20:51:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Macron lines up more Gulf diesel as France battles soaring fuel prices",
+            "description": "The UAE and Bahrain deals increase French commitments to 295,000 tonnes a month, just over 10 percent of consumption.",
+            "url": "https://www.aljazeera.com/economy/2026/10/20/macron-lines-up-more-gulf-diesel-as-france-battles-soaring-fuel?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 16:33:43 +0000",
+            "fetched": "2026-10-20T20:51:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Is Cyprus becoming Israel’s backyard?",
+            "description": "Israeli capital, water technology, and real estate are making Cyprus a strategic and economic extension of Israel.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/aje-onl-nf_is-cyprus-becoming-israels-backyard-201026?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 16:23:12 +0000",
+            "fetched": "2026-10-20T20:51:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 02S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-20T20:51:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-20T20:51:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-20T20:51:55+03:30"
+        }
+    ]
+}
