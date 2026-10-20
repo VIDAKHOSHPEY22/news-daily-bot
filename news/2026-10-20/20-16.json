@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-20T20:16:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Voxtral 3",
+            "description": "<p>Article URL: <a href=\"https://mistral.ai/news/voxtral-3/\">https://mistral.ai/news/voxtral-3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50168396\">https://news.ycombinator.com/item?id=50168396</a></p>\n<p>Points: 41</p>\n<p># Comments: 4</p>",
+            "url": "https://mistral.ai/news/voxtral-3/",
+            "published": "Tue, 20 Oct 2026 16:02:07 +0000",
+            "fetched": "2026-10-20T20:16:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Making a VGA Driver in SystemVerilog",
+            "description": "<p>Article URL: <a href=\"https://lukaswerner.com/post/2026-10-20@bottom-up-vga\">https://lukaswerner.com/post/2026-10-20@bottom-up-vga</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50168376\">https://news.ycombinator.com/item?id=50168376</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+            "url": "https://lukaswerner.com/post/2026-10-20@bottom-up-vga",
+            "published": "Tue, 20 Oct 2026 16:00:15 +0000",
+            "fetched": "2026-10-20T20:16:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why do we have so many meetings?",
+            "description": "<p>Article URL: <a href=\"https://www.nber.org/papers/w35706\">https://www.nber.org/papers/w35706</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50167732\">https://news.ycombinator.com/item?id=50167732</a></p>\n<p>Points: 35</p>\n<p># Comments: 38</p>",
+            "url": "https://www.nber.org/papers/w35706",
+            "published": "Tue, 20 Oct 2026 15:19:19 +0000",
+            "fetched": "2026-10-20T20:16:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
+            "description": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital.",
+            "url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 15:32:36 GMT",
+            "fetched": "2026-10-20T20:16:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Google says services recovering after cloud outage hits UK banks and websites",
+            "description": "Revolut was one of the hardest hit, with banking services going down for many customers.",
+            "url": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 15:37:26 GMT",
+            "fetched": "2026-10-20T20:16:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "BBC Three, BBC Scotland and Radio 4 Extra broadcast channels to close",
+            "description": "The closures are announced as the corporation continues to try to save £500m over two years.",
+            "url": "https://www.bbc.co.uk/news/articles/cqx2v800nnr2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 13:10:43 GMT",
+            "fetched": "2026-10-20T20:16:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ferry catches fire near Indonesian port, all passengers rescued",
+            "description": "A fire broke out aboard the KMP Batumandi as the ferry approached Merak Port in western Indonesia on Tuesday",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/20/ferry-catches-fire-near-indonesian-port-all-passengers-rescued?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 16:13:16 +0000",
+            "fetched": "2026-10-20T20:16:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump official claims record-breaking 300,000 visas were revoked",
+            "description": "The revocations targeted US visa holders who had allegedly broken the law, a spokesperson said.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/trump-official-claims-record-breaking-300000-visas-were-revoked?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 16:02:47 +0000",
+            "fetched": "2026-10-20T20:16:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lavrov backs Tehran, but does Russia also gain from the US-Iran crisis?",
+            "description": "Moscow pledges support to its sanctioned ally, but analysts say the war Iran wants to end has filled Russia’s coffers.",
+            "url": "https://www.aljazeera.com/news/2026/10/20/lavrov-backs-tehran-but-does-russia-also-gain-from-the-us-iran-crisis?traffic_source=rss",
+            "published": "Tue, 20 Oct 2026 16:01:01 +0000",
+            "fetched": "2026-10-20T20:16:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 02S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-20T20:16:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-20T20:16:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-20T20:16:36+03:30"
+        }
+    ]
+}
