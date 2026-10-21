@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-21T23:32:39+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Plex laid off the whole player team",
+            "description": "<p>Article URL: <a href=\"https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5\">https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50186318\">https://news.ycombinator.com/item?id=50186318</a></p>\n<p>Points: 21</p>\n<p># Comments: 5</p>",
+            "url": "https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5",
+            "published": "Wed, 21 Oct 2026 19:32:10 +0000",
+            "fetched": "2026-10-21T23:32:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Mistral Large 4",
+            "description": "<p>Article URL: <a href=\"https://docs.mistral.ai/models/mistral-large-4-0\">https://docs.mistral.ai/models/mistral-large-4-0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50186129\">https://news.ycombinator.com/item?id=50186129</a></p>\n<p>Points: 94</p>\n<p># Comments: 11</p>",
+            "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+            "published": "Wed, 21 Oct 2026 19:20:55 +0000",
+            "fetched": "2026-10-21T23:32:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude Duet",
+            "description": "<p>Article URL: <a href=\"https://claude.com/product/claude-duet\">https://claude.com/product/claude-duet</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50186037\">https://news.ycombinator.com/item?id=50186037</a></p>\n<p>Points: 87</p>\n<p># Comments: 96</p>",
+            "url": "https://claude.com/product/claude-duet",
+            "published": "Wed, 21 Oct 2026 19:14:01 +0000",
+            "fetched": "2026-10-21T23:32:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+            "description": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
+            "url": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 15:36:31 GMT",
+            "fetched": "2026-10-21T23:32:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Google staff resign in backlash over its AI contracts with military",
+            "description": "The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.",
+            "url": "https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 15:41:25 GMT",
+            "fetched": "2026-10-21T23:32:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Websites taken down worldwide as critical cyber-security update issued",
+            "description": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+            "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 19:54:57 GMT",
+            "fetched": "2026-10-21T23:32:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What happened to Australian politician Helen Haines?",
+            "description": "Australian Lawmaker Helen Haines has lost both legs after a car rammed into her.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/what-happened-to-australian-politician-helen-haines?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 19:38:02 +0000",
+            "fetched": "2026-10-21T23:32:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Conservative Party suspends ex-candidate filmed in Al Jazeera investigation",
+            "description": "An undercover investigation by Al Jazeera, launched in 2021, infiltrated Turning Point UK.",
+            "url": "https://www.aljazeera.com/news/2026/10/21/conservative-party-suspends-ex-candidate-filmed-in-al-jazeera-investigation?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 19:36:54 +0000",
+            "fetched": "2026-10-21T23:32:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India’s ‘Cockroach’ leaders free after a week in jail",
+            "description": "Two top leaders of India’s Cockroach Party, Ashutosh Ranka and Saurav Das, have been released after a week in jail.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/indias-cockroach-leaders-free-after-a-week-in-jail?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 19:17:51 +0000",
+            "fetched": "2026-10-21T23:32:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-21T23:32:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-21T23:32:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-21T23:32:39+03:30"
+        }
+    ]
+}

@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-21 22:53:21
+**Last Update:** 2026-10-21 23:32:39
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Claude Duet
+### 1. Plex laid off the whole player team
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5">https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50186318">https://news.ycombinator.com/item?id=50186318</a></p>
+<p>Points: 21</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5](https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5)
+
+---
+
+### 2. Mistral Large 4
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://docs.mistral.ai/models/mistral-large-4-0">https://docs.mistral.ai/models/mistral-large-4-0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50186129">https://news.ycombinator.com/item?id=50186129</a></p>
+<p>Points: 94</p>
+<p># Comments: 11</p>
+
+🔗 **Read more:** [https://docs.mistral.ai/models/mistral-large-4-0](https://docs.mistral.ai/models/mistral-large-4-0)
+
+---
+
+### 3. Claude Duet
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://claude.com/product/claude-duet">https://claude.com/product/claude-duet</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50186037">https://news.ycombinator.com/item?id=50186037</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Points: 87</p>
+<p># Comments: 96</p>
 
 🔗 **Read more:** [https://claude.com/product/claude-duet](https://claude.com/product/claude-duet)
-
----
-
-### 2. GitLab CVSS 10.0 Integer Overflow issue
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/">https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50185869">https://news.ycombinator.com/item?id=50185869</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/)
-
----
-
-### 3. Canary Tokens
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://canarytokens.org/">https://canarytokens.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50185630">https://news.ycombinator.com/item?id=50185630</a></p>
-<p>Points: 20</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://canarytokens.org/](https://canarytokens.org/)
 
 ---
 
@@ -84,55 +84,55 @@ The BBC speaks to several current and former Google DeepMind employees about the
 
 ---
 
-### 6. Russia says it is ready to resume talks with Ukraine and US to end war
+### 6. Websites taken down worldwide as critical cyber-security update issued
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.
+The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Russia willing to resume peace talks with Ukraine, US after Witkoff visit
+### 7. What happened to Australian politician Helen Haines?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russian President Vladimir Putin has signalled Moscow is willing in principle to resume talks with Ukraine and the US.
+Australian Lawmaker Helen Haines has lost both legs after a car rammed into her.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/what-happened-to-australian-politician-helen-haines?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/what-happened-to-australian-politician-helen-haines?traffic_source=rss)
 
 ---
 
-### 8. Steelers and Saints set for historic NFL clash in riot-hit Paris
+### 8. Conservative Party suspends ex-candidate filmed in Al Jazeera investigation
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The NFL’s Steelers and Saints will play in Paris on Sunday despite the riots.
+An undercover investigation by Al Jazeera, launched in 2021, infiltrated Turning Point UK.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/steelers-and-saints-set-for-historic-nfl-clash-in-riot-hit-paris?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/steelers-and-saints-set-for-historic-nfl-clash-in-riot-hit-paris?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/conservative-party-suspends-ex-candidate-filmed-in-al-jazeera-investigation?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/conservative-party-suspends-ex-candidate-filmed-in-al-jazeera-investigation?traffic_source=rss)
 
 ---
 
-### 9. Iran determined to keep uranium amid increased war odds, flurry of meetings
+### 9. India’s ‘Cockroach’ leaders free after a week in jail
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran had &#039;nothing new&#039; to tell Washington after latest nuclear proposals reportedly offered by mediators.
+Two top leaders of India’s Cockroach Party, Ashutosh Ranka and Saurav Das, have been released after a week in jail.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/indias-cockroach-leaders-free-after-a-week-in-jail?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/indias-cockroach-leaders-free-after-a-week-in-jail?traffic_source=rss)
 
 ---
 
