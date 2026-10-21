@@ -1,138 +1,139 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-21 13:50:41
+**Last Update:** 2026-10-21 18:38:24
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds
+### 1. Patch the Planet: global response coordination as agents uncover vulnerabilities
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/">https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50177916">https://news.ycombinator.com/item?id=50177916</a></p>
-<p>Points: 51</p>
-<p># Comments: 14</p>
+<p><a href="https://patchtheplanet.org/" rel="nofollow">https://patchtheplanet.org/</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50181175">https://news.ycombinator.com/item?id=50181175</a></p>
+<p>Points: 64</p>
+<p># Comments: 32</p>
 
-🔗 **Read more:** [https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
+🔗 **Read more:** [https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)
 
 ---
 
-### 2. The 1.5°C goal of the Paris Agreement is no longer viable
+### 2. The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/">https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50177911">https://news.ycombinator.com/item?id=50177911</a></p>
-<p>Points: 130</p>
-<p># Comments: 119</p>
+<p>Article URL: <a href="https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/">https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50181137">https://news.ycombinator.com/item?id=50181137</a></p>
+<p>Points: 104</p>
+<p># Comments: 42</p>
 
-🔗 **Read more:** [https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/](https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/)
+🔗 **Read more:** [https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/](https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/)
 
 ---
 
-### 3. Pillowfort Is Closing
+### 3. DuckDB 2.0.0 LTS "Cinnamon Teal"
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.pillowfort.social/posts/8413273">https://www.pillowfort.social/posts/8413273</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50176301">https://news.ycombinator.com/item?id=50176301</a></p>
-<p>Points: 47</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://duckdb.org/2026/10/21/announcing-duckdb-200">https://duckdb.org/2026/10/21/announcing-duckdb-200</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50181136">https://news.ycombinator.com/item?id=50181136</a></p>
+<p>Points: 74</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.pillowfort.social/posts/8413273](https://www.pillowfort.social/posts/8413273)
+🔗 **Read more:** [https://duckdb.org/2026/10/21/announcing-duckdb-200](https://duckdb.org/2026/10/21/announcing-duckdb-200)
 
 ---
 
-### 4. Chris Mason: Jackdaw approved but tricky energy trade-offs remain
+### 4. Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Jackdaw and Rosebank are case studies in the slow motion awkwardness the UK has over energy.
+While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cked35dz47y7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cked35dz47y7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Russia frees US citizen Stephen Hubbard, state media reports
+### 5. US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Stephen Hubbard has been taken to Pulkovo Airport, Putin said during talks with US envoy Steve Witkoff.
+The 74-year-old former teacher, who was captured, has been released without any "swap" required, Trump says.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Inflation and government borrowing highest for a year ahead of next week's Budget
+### 6. 'I was only 8 but I realised my friend was dead' - Aberfan survivor recalls moment of disaster
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).
+Four people who were children at the time of the Aberfan disaster recall the moment when a coal waste tip collapsed 60 years ago.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6n4e0vj018qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6n4e0vj018qo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Attack on Australian MP Haines: How threats against legislators have soared
+### 7. Musk pledges $10bn in SpaceX shares for US children: Who really gains?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Abuse, threats against Australian lawmakers are rising in a country where political violence has historically been rare.
+The pledge, which Trump says will go through tax-friendly &#039;Trump accounts&#039;, comes two weeks before the US midterms.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/attack-on-australian-mp-haines-how-threats-against-legislators-have-soared?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/attack-on-australian-mp-haines-how-threats-against-legislators-have-soared?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/musk-pledges-10bn-in-spacex-shares-for-us-children-who-really-gains?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/musk-pledges-10bn-in-spacex-shares-for-us-children-who-really-gains?traffic_source=rss)
 
 ---
 
-### 8. Blast heard in Yemen’s Aden as Houthis claim attack on military camp
+### 8. US envoy Witkoff calls Russia’s Putin a ‘humanitarian’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Smoke seen rising near airport in Aden as Houthis say they attacked a military camp with a ballistic missile.
+US envoy Steve Witkoff praised Russian President Vladimir Putin as a ‘humanitarian’.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/us-envoy-witkoff-calls-russias-putin-a?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/us-envoy-witkoff-calls-russias-putin-a?traffic_source=rss)
 
 ---
 
-### 9. Australian MP loses both legs in vehicle attack as suspect appears in court
+### 9. Russia releases American Stephen Hubbard after four years in prison
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Independent lawmaker Helen Haines is in stable condition, her husband says, as suspect charged with three offences.
+Hubbard was jailed after being accused of fighting alongside Ukrainian forces against Russia.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/russia-releases-american-stephen-hubbard-after-four-years-in-prison?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/russia-releases-american-stephen-hubbard-after-four-years-in-prison?traffic_source=rss)
 
 ---
 
