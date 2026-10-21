@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-22 02:00:07
+**Last Update:** 2026-10-22 03:28:03
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Railway Security(Compromise) Disclosure
+### 1. There isn't an easy exploit for this PHP vulnerability
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://eliastaylor.com/noexploit/">https://eliastaylor.com/noexploit/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50188948">https://news.ycombinator.com/item?id=50188948</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://eliastaylor.com/noexploit/](https://eliastaylor.com/noexploit/)
+
+---
+
+### 2. Railway Security Disclosure
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://blog.railway.com/p/security-disclosure-wednesday-october-21st">https://blog.railway.com/p/security-disclosure-wednesday-october-21st</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50188228">https://news.ycombinator.com/item?id=50188228</a></p>
-<p>Points: 24</p>
-<p># Comments: 2</p>
+<p>Points: 229</p>
+<p># Comments: 103</p>
 
 🔗 **Read more:** [https://blog.railway.com/p/security-disclosure-wednesday-october-21st](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
 
 ---
 
-### 2. AWS rates PHP RCE as Important so Amazon Linux 2023 patch may take 20 days
+### 3. PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/amazonlinux/amazon-linux-2023/issues/1148">https://github.com/amazonlinux/amazon-linux-2023/issues/1148</a></p>
+<p>Article URL: <a href="https://aws.amazon.com/security/security-bulletins/2026-143-aws/">https://aws.amazon.com/security/security-bulletins/2026-143-aws/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50187708">https://news.ycombinator.com/item?id=50187708</a></p>
-<p>Points: 62</p>
-<p># Comments: 13</p>
+<p>Points: 94</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://github.com/amazonlinux/amazon-linux-2023/issues/1148](https://github.com/amazonlinux/amazon-linux-2023/issues/1148)
-
----
-
-### 3. CleanFrame: A quieter home screen for Samsung The Frame
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/nthnclrk/CleanFrame">https://github.com/nthnclrk/CleanFrame</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50187659">https://news.ycombinator.com/item?id=50187659</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/nthnclrk/CleanFrame](https://github.com/nthnclrk/CleanFrame)
+🔗 **Read more:** [https://aws.amazon.com/security/security-bulletins/2026-143-aws/](https://aws.amazon.com/security/security-bulletins/2026-143-aws/)
 
 ---
 
@@ -91,48 +91,48 @@ The vulnerabilities with PHP, a programming language widely used across the inte
 **Category:** world
 
 **Description:**
-Russia says it is "ready in principle" to resume peace talks and US President Donald Trump says the world is "the closest we've been" to ending the war.
+Moscow says it is "ready in principle" to resume peace talks and US President Donald Trump says the world is "the closest we've been" to ending the war.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Canadian publisher cuts ties with best-selling writer Orelien over AI use
+### 7. Pope Leo needs no further treatment after cancer surgery, doctors say
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Publisher Boreal says investigations confirmed the Haitian-Canadian Thelyson Orelien used AI in his breakthrough novel.
+The 71-year-old leader of the Catholic Church has had the lower lobe of his right lung removed in surgery.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/canadian-publisher-cuts-ties-with-best-selling-writer-orelien-over-ai-use?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/canadian-publisher-cuts-ties-with-best-selling-writer-orelien-over-ai-use?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss)
 
 ---
 
-### 8. Video shows Israeli settler assaulting Palestinian child
+### 8. Nigeria’s first Ebola case matches DR Congo strain, health officials say
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.
+The Bundibugyo strain outbreak is the DR Congo&#039;s deadliest ever and has now reached West Africa for the first time.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child-2?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss)
 
 ---
 
-### 9. Man United captain Fernandes slams Carrick’s tactics after Como hammering
+### 9. US orders departure of personnel from Saudi Arabia, citing Houthi threat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Manchester United winless run continues with 4-1 Champions League humbling in Como, and Bruno Fernandes slams tactics.
+US State Department says Iran-aligned Houthis have &#039;increasingly ⁠⁠engaged in hostilities&#039; against Saudi Arabia.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/21/man-united-captain-fernandes-slams-carricks-tactics-after-como-hammering?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/21/man-united-captain-fernandes-slams-carricks-tactics-after-como-hammering?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss)
 
 ---
 

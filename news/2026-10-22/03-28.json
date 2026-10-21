@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-22T03:28:03+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "There isn't an easy exploit for this PHP vulnerability",
+            "description": "<p>Article URL: <a href=\"https://eliastaylor.com/noexploit/\">https://eliastaylor.com/noexploit/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50188948\">https://news.ycombinator.com/item?id=50188948</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://eliastaylor.com/noexploit/",
+            "published": "Wed, 21 Oct 2026 23:13:27 +0000",
+            "fetched": "2026-10-22T03:28:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Railway Security Disclosure",
+            "description": "<p>Article URL: <a href=\"https://blog.railway.com/p/security-disclosure-wednesday-october-21st\">https://blog.railway.com/p/security-disclosure-wednesday-october-21st</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50188228\">https://news.ycombinator.com/item?id=50188228</a></p>\n<p>Points: 229</p>\n<p># Comments: 103</p>",
+            "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+            "published": "Wed, 21 Oct 2026 21:58:03 +0000",
+            "fetched": "2026-10-22T03:28:03+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)",
+            "description": "<p>Article URL: <a href=\"https://aws.amazon.com/security/security-bulletins/2026-143-aws/\">https://aws.amazon.com/security/security-bulletins/2026-143-aws/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50187708\">https://news.ycombinator.com/item?id=50187708</a></p>\n<p>Points: 94</p>\n<p># Comments: 22</p>",
+            "url": "https://aws.amazon.com/security/security-bulletins/2026-143-aws/",
+            "published": "Wed, 21 Oct 2026 21:12:59 +0000",
+            "fetched": "2026-10-22T03:28:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+            "description": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
+            "url": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 15:36:31 GMT",
+            "fetched": "2026-10-22T03:28:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Websites taken down worldwide as critical cyber-security update issued",
+            "description": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+            "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 19:54:57 GMT",
+            "fetched": "2026-10-22T03:28:03+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+            "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+            "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 21:27:41 GMT",
+            "fetched": "2026-10-22T03:28:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pope Leo needs no further treatment after cancer surgery, doctors say",
+            "description": "The 71-year-old leader of the Catholic Church has had the lower lobe of his right lung removed in surgery.",
+            "url": "https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 23:20:58 +0000",
+            "fetched": "2026-10-22T03:28:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nigeria’s first Ebola case matches DR Congo strain, health officials say",
+            "description": "The Bundibugyo strain outbreak is the DR Congo&#039;s deadliest ever and has now reached West Africa for the first time.",
+            "url": "https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 23:20:12 +0000",
+            "fetched": "2026-10-22T03:28:03+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US orders departure of personnel from Saudi Arabia, citing Houthi threat",
+            "description": "US State Department says Iran-aligned Houthis have &#039;increasingly ⁠⁠engaged in hostilities&#039; against Saudi Arabia.",
+            "url": "https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 23:13:35 +0000",
+            "fetched": "2026-10-22T03:28:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-22T03:28:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-22T03:28:03+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-22T03:28:03+03:30"
+        }
+    ]
+}
