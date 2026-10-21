@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-21T08:32:24+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "In Hilbert space, all things are quantumly possible",
+            "description": "<p>Article URL: <a href=\"https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/\">https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50175185\">https://news.ycombinator.com/item?id=50175185</a></p>\n<p>Points: 44</p>\n<p># Comments: 18</p>",
+            "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+            "published": "Wed, 21 Oct 2026 02:04:15 +0000",
+            "fetched": "2026-10-21T08:32:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Future of CSS",
+            "description": "<p>Article URL: <a href=\"https://www.joshwcomeau.com/css/interop-2027/\">https://www.joshwcomeau.com/css/interop-2027/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50175070\">https://news.ycombinator.com/item?id=50175070</a></p>\n<p>Points: 124</p>\n<p># Comments: 40</p>",
+            "url": "https://www.joshwcomeau.com/css/interop-2027/",
+            "published": "Wed, 21 Oct 2026 01:47:28 +0000",
+            "fetched": "2026-10-21T08:32:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Good type against all odds",
+            "description": "<p>Article URL: <a href=\"https://unsung.aresluna.org/good-type-against-all-odds/\">https://unsung.aresluna.org/good-type-against-all-odds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50175059\">https://news.ycombinator.com/item?id=50175059</a></p>\n<p>Points: 55</p>\n<p># Comments: 8</p>",
+            "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+            "published": "Wed, 21 Oct 2026 01:45:07 +0000",
+            "fetched": "2026-10-21T08:32:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
+            "description": "The head of UK Counter Terrorism Policing said they consider Iranian state involvement \"highly likely\".",
+            "url": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 18:32:14 GMT",
+            "fetched": "2026-10-21T08:32:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
+            "description": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+            "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 03:59:18 GMT",
+            "fetched": "2026-10-21T08:32:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK government expected to approve Jackdaw gas field",
+            "description": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
+            "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 04:41:04 GMT",
+            "fetched": "2026-10-21T08:32:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Italy approves sweeping security measures in response to protests",
+            "description": "Italy&#039;s government approves sending 500 troops to Milan after clashes and protests.",
+            "url": "https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 04:13:00 +0000",
+            "fetched": "2026-10-21T08:32:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Elon Musk says SpaceX and Tesla exploring largest merger in history",
+            "description": "Tech mogul says tie-up has a &#039;lot of merit&#039;, given firms&#039; complementary work on AI.",
+            "url": "https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 03:51:39 +0000",
+            "fetched": "2026-10-21T08:32:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Faecal waste pollutes drinking water in Mexico’s Yucatan, Greenpeace says",
+            "description": "The report says nearby pig farms and municipal wastewater are the likely sources of contamination.",
+            "url": "https://www.aljazeera.com/news/2026/10/21/faecal-waste-pollutes-drinking-water-in-mexicos-yucatan-greenpeace-says?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 03:02:29 +0000",
+            "fetched": "2026-10-21T08:32:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 02S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-21T08:32:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-21T08:32:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-21T08:32:24+03:30"
+        }
+    ]
+}
