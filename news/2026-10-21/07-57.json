@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-21T07:57:06+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident",
+            "description": "The head of UK Counter Terrorism Policing said they consider Iranian state involvement \"highly likely\".",
+            "url": "https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 18:32:14 GMT",
+            "fetched": "2026-10-21T07:57:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'",
+            "description": "Ukraine had accused the US of withholding key intelligence - a claim rejected as \"scandalous\" by Washington.",
+            "url": "https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 03:59:18 GMT",
+            "fetched": "2026-10-21T07:57:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK government to make Jackdaw gas field announcement",
+            "description": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
+            "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 20 Oct 2026 17:33:42 GMT",
+            "fetched": "2026-10-21T07:57:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Elon Musk says SpaceX and Tesla exploring largest merger in history",
+            "description": "Tech mogul says tie-up has a &#039;lot of merit&#039;, given firms&#039; complementary work on AI.",
+            "url": "https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 03:51:39 +0000",
+            "fetched": "2026-10-21T07:57:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Faecal waste pollutes drinking water in Mexico’s Yucatan, Greenpeace says",
+            "description": "The report says nearby pig farms and municipal wastewater are the likely sources of contamination.",
+            "url": "https://www.aljazeera.com/news/2026/10/21/faecal-waste-pollutes-drinking-water-in-mexicos-yucatan-greenpeace-says?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 03:02:29 +0000",
+            "fetched": "2026-10-21T07:57:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Portugal cost-of-living protesters pour back into camps cleared by police",
+            "description": "Police arrested 55 people while clearing protest camps in Lisbon and Porto.",
+            "url": "https://www.aljazeera.com/news/2026/10/21/portugal-cost-of-living-protesters-pour-back-into-camps-cleared-by-police?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 02:19:06 +0000",
+            "fetched": "2026-10-21T07:57:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 02S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-21T07:57:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-21T07:57:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-21T07:57:06+03:30"
+        }
+    ]
+}

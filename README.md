@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-21 03:28:30
+**Last Update:** 2026-10-21 07:57:06
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Feds Suspect Ransom Negotiator Ran ShinyHunters Extortion Site
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/">https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50173487">https://news.ycombinator.com/item?id=50173487</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/)
-
----
-
-### 2. Academics have a duty to defend open knowledge systems like Wikipedia
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/">https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50170917">https://news.ycombinator.com/item?id=50170917</a></p>
-<p>Points: 49</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/](https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/)
-
----
-
-### 3. SimCity, but with Permits
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://permit.petercai.com/">https://permit.petercai.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50170593">https://news.ycombinator.com/item?id=50170593</a></p>
-<p>Points: 421</p>
-<p># Comments: 227</p>
-
-🔗 **Read more:** [https://permit.petercai.com/](https://permit.petercai.com/)
-
----
-
-### 4. Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident
+### 1. Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ The head of UK Counter Terrorism Policing said they consider Iranian state invol
 
 ---
 
-### 5. Zelensky says US intelligence sharing 'works now' after talks with Trump envoy in Oslo
+### 2. US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Ukraine had accused the US of withholding key intelligence - a claim rejected as
 
 ---
 
-### 6. UK government to make Jackdaw gas field announcement
+### 3. UK government to make Jackdaw gas field announcement
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ The long-awaited decision about the controversial North Sea field is expected on
 
 ---
 
-### 7. Moment plane crashes on a busy highway in the US
+### 4. Elon Musk says SpaceX and Tesla exploring largest merger in history
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Moment plane crashes on a busy highway in the US
+Tech mogul says tie-up has a &#039;lot of merit&#039;, given firms&#039; complementary work on AI.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/20/moment-plane-crashes-on-a-busy-highway-in-the-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/20/moment-plane-crashes-on-a-busy-highway-in-the-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in?traffic_source=rss)
 
 ---
 
-### 8. NATO to send additional patrol planes to Black Sea after drone attacks
+### 5. Faecal waste pollutes drinking water in Mexico’s Yucatan, Greenpeace says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The alliance announces the deployment after a series of deadly drone attacks in the region.
+The report says nearby pig farms and municipal wastewater are the likely sources of contamination.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/nato-to-send-additional-patrol-planes-to-black-sea-after-drone-attacks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/faecal-waste-pollutes-drinking-water-in-mexicos-yucatan-greenpeace-says?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/faecal-waste-pollutes-drinking-water-in-mexicos-yucatan-greenpeace-says?traffic_source=rss)
 
 ---
 
-### 9. The Gambia to pay reparations to ex-dictator’s victims from sale of US mansion
+### 6. Portugal cost-of-living protesters pour back into camps cleared by police
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Gambia confirmed it received $2.5m from the sale of a US mansion belonging to former president Jammeh.
+Police arrested 55 people while clearing protest camps in Lisbon and Porto.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/20/the-gambia-to-pay-reparations-to-ex-dictators-victims-from-sale-of-us-mansion?traffic_source=rss](https://www.aljazeera.com/news/2026/10/20/the-gambia-to-pay-reparations-to-ex-dictators-victims-from-sale-of-us-mansion?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/portugal-cost-of-living-protesters-pour-back-into-camps-cleared-by-police?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/portugal-cost-of-living-protesters-pour-back-into-camps-cleared-by-police?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone 02S
+### 7. Tropical Cyclone 02S
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
+### 8. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire COOLEY, Mendocino, California
+### 9. Wildfire COOLEY, Mendocino, California
 
 **Source:** NASA
 
