@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-21 08:32:24
+**Last Update:** 2026-10-21 13:30:01
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. In Hilbert space, all things are quantumly possible
+### 1. Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/">https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50175185">https://news.ycombinator.com/item?id=50175185</a></p>
-<p>Points: 44</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/">https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50177916">https://news.ycombinator.com/item?id=50177916</a></p>
+<p>Points: 30</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/](https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/)
+🔗 **Read more:** [https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
 
 ---
 
-### 2. The Future of CSS
+### 2. The 1.5°C goal of the Paris Agreement is no longer viable
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.joshwcomeau.com/css/interop-2027/">https://www.joshwcomeau.com/css/interop-2027/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50175070">https://news.ycombinator.com/item?id=50175070</a></p>
-<p>Points: 124</p>
-<p># Comments: 40</p>
+<p>Article URL: <a href="https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/">https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50177911">https://news.ycombinator.com/item?id=50177911</a></p>
+<p>Points: 94</p>
+<p># Comments: 43</p>
 
-🔗 **Read more:** [https://www.joshwcomeau.com/css/interop-2027/](https://www.joshwcomeau.com/css/interop-2027/)
+🔗 **Read more:** [https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/](https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/)
 
 ---
 
-### 3. Good type against all odds
+### 3. Pillowfort Is Closing
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://unsung.aresluna.org/good-type-against-all-odds/">https://unsung.aresluna.org/good-type-against-all-odds/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50175059">https://news.ycombinator.com/item?id=50175059</a></p>
-<p>Points: 55</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://www.pillowfort.social/posts/8413273">https://www.pillowfort.social/posts/8413273</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50176301">https://news.ycombinator.com/item?id=50176301</a></p>
+<p>Points: 47</p>
+<p># Comments: 24</p>
 
-🔗 **Read more:** [https://unsung.aresluna.org/good-type-against-all-odds/](https://unsung.aresluna.org/good-type-against-all-odds/)
+🔗 **Read more:** [https://www.pillowfort.social/posts/8413273](https://www.pillowfort.social/posts/8413273)
 
 ---
 
-### 4. Two men re-arrested on suspicion of assisting Iran intelligence after RAF Fairford incident
+### 4. Chris Mason: Jackdaw approved but tricky energy trade-offs remain
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The head of UK Counter Terrorism Policing said they consider Iranian state involvement "highly likely".
+Jackdaw and Rosebank are case studies in the slow motion awkwardness the UK has over energy.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqm26z110vzko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cked35dz47y7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cked35dz47y7o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. US envoy to meet Putin in Russia as Zelensky says intelligence sharing 'works now'
+### 5. Russia frees US citizen Stephen Hubbard, state media reports
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ukraine had accused the US of withholding key intelligence - a claim rejected as "scandalous" by Washington.
+Stephen Hubbard has been taken to Pulkovo Airport, Putin said during talks with US envoy Steve Witkoff.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq5ynkx3xy11o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. UK government expected to approve Jackdaw gas field
+### 6. Inflation and government borrowing highest for a year ahead of next week's Budget
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.
+Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Italy approves sweeping security measures in response to protests
+### 7. Attack on Australian MP Haines: How threats against legislators have soared
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Italy&#039;s government approves sending 500 troops to Milan after clashes and protests.
+Abuse, threats against Australian lawmakers are rising in a country where political violence has historically been rare.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/italy-approves-sweeping-security-measures-in-response-to-protests?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/attack-on-australian-mp-haines-how-threats-against-legislators-have-soared?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/attack-on-australian-mp-haines-how-threats-against-legislators-have-soared?traffic_source=rss)
 
 ---
 
-### 8. Elon Musk says SpaceX and Tesla exploring largest merger in history
+### 8. Blast heard in Yemen’s Aden as Houthis claim attack on military camp
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tech mogul says tie-up has a &#039;lot of merit&#039;, given firms&#039; complementary work on AI.
+Smoke seen rising near airport in Aden as Houthis say they attacked a military camp with a ballistic missile.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/21/elon-musk-says-spacex-and-tesla-exploring-largest-merger-in?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss)
 
 ---
 
-### 9. Faecal waste pollutes drinking water in Mexico’s Yucatan, Greenpeace says
+### 9. Australian MP loses both legs in vehicle attack as suspect appears in court
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The report says nearby pig farms and municipal wastewater are the likely sources of contamination.
+Independent lawmaker Helen Haines is in stable condition, her husband says, as suspect charged with three offences.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/faecal-waste-pollutes-drinking-water-in-mexicos-yucatan-greenpeace-says?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/faecal-waste-pollutes-drinking-water-in-mexicos-yucatan-greenpeace-says?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss)
 
 ---
 

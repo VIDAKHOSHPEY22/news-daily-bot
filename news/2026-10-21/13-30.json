@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-21T13:30:01+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+            "description": "<p>Article URL: <a href=\"https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/\">https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50177916\">https://news.ycombinator.com/item?id=50177916</a></p>\n<p>Points: 30</p>\n<p># Comments: 7</p>",
+            "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+            "published": "Wed, 21 Oct 2026 09:08:08 +0000",
+            "fetched": "2026-10-21T13:30:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The 1.5°C goal of the Paris Agreement is no longer viable",
+            "description": "<p>Article URL: <a href=\"https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/\">https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50177911\">https://news.ycombinator.com/item?id=50177911</a></p>\n<p>Points: 94</p>\n<p># Comments: 43</p>",
+            "url": "https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/",
+            "published": "Wed, 21 Oct 2026 09:07:49 +0000",
+            "fetched": "2026-10-21T13:30:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pillowfort Is Closing",
+            "description": "<p>Article URL: <a href=\"https://www.pillowfort.social/posts/8413273\">https://www.pillowfort.social/posts/8413273</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50176301\">https://news.ycombinator.com/item?id=50176301</a></p>\n<p>Points: 47</p>\n<p># Comments: 24</p>",
+            "url": "https://www.pillowfort.social/posts/8413273",
+            "published": "Wed, 21 Oct 2026 05:05:37 +0000",
+            "fetched": "2026-10-21T13:30:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Jackdaw approved but tricky energy trade-offs remain",
+            "description": "Jackdaw and Rosebank are case studies in the slow motion awkwardness the UK has over energy.",
+            "url": "https://www.bbc.co.uk/news/articles/cked35dz47y7o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 08:49:44 GMT",
+            "fetched": "2026-10-21T13:30:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia frees US citizen Stephen Hubbard, state media reports",
+            "description": "Stephen Hubbard has been taken to Pulkovo Airport, Putin said during talks with US envoy Steve Witkoff.",
+            "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 09:22:23 GMT",
+            "fetched": "2026-10-21T13:30:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+            "description": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS).",
+            "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 09:45:31 GMT",
+            "fetched": "2026-10-21T13:30:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Attack on Australian MP Haines: How threats against legislators have soared",
+            "description": "Abuse, threats against Australian lawmakers are rising in a country where political violence has historically been rare.",
+            "url": "https://www.aljazeera.com/news/2026/10/21/attack-on-australian-mp-haines-how-threats-against-legislators-have-soared?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 09:24:47 +0000",
+            "fetched": "2026-10-21T13:30:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Blast heard in Yemen’s Aden as Houthis claim attack on military camp",
+            "description": "Smoke seen rising near airport in Aden as Houthis say they attacked a military camp with a ballistic missile.",
+            "url": "https://www.aljazeera.com/news/2026/10/21/blast-heard-in-yemens-aden-as-houthis-claim-attack-on-military-camp?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 09:02:18 +0000",
+            "fetched": "2026-10-21T13:30:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Australian MP loses both legs in vehicle attack as suspect appears in court",
+            "description": "Independent lawmaker Helen Haines is in stable condition, her husband says, as suspect charged with three offences.",
+            "url": "https://www.aljazeera.com/news/2026/10/21/australian-mp-loses-both-legs-in-vehicle-attack-as-suspect-appears-in-court?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 08:34:37 +0000",
+            "fetched": "2026-10-21T13:30:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 02S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-21T13:30:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-21T13:30:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-21T13:30:01+03:30"
+        }
+    ]
+}
