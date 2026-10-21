@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-21 18:38:24
+**Last Update:** 2026-10-21 18:53:50
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Patch the Planet: global response coordination as agents uncover vulnerabilities
+### 1. Another day, another GitHub incident
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.githubstatus.com/incidents/nms1dpzmh9d9">https://www.githubstatus.com/incidents/nms1dpzmh9d9</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50182130">https://news.ycombinator.com/item?id=50182130</a></p>
+<p>Points: 8</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.githubstatus.com/incidents/nms1dpzmh9d9](https://www.githubstatus.com/incidents/nms1dpzmh9d9)
+
+---
+
+### 2. Patch the Planet: global response coordination as agents uncover vulnerabilities
 
 **Source:** Hacker News
 
@@ -20,14 +36,14 @@
 <p><a href="https://patchtheplanet.org/" rel="nofollow">https://patchtheplanet.org/</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50181175">https://news.ycombinator.com/item?id=50181175</a></p>
-<p>Points: 64</p>
-<p># Comments: 32</p>
+<p>Points: 76</p>
+<p># Comments: 35</p>
 
 🔗 **Read more:** [https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/](https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/)
 
 ---
 
-### 2. The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck
+### 3. The No Kings Takedown Is Why You Shouldn't Rent Your Megaphone from Zuck
 
 **Source:** Hacker News
 
@@ -36,26 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/">https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50181137">https://news.ycombinator.com/item?id=50181137</a></p>
-<p>Points: 104</p>
-<p># Comments: 42</p>
+<p>Points: 150</p>
+<p># Comments: 85</p>
 
 🔗 **Read more:** [https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/](https://www.techdirt.com/2026/10/20/accident-or-not-the-no-kings-takedown-is-why-you-shouldnt-rent-your-megaphone-from-zuck/)
-
----
-
-### 3. DuckDB 2.0.0 LTS "Cinnamon Teal"
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://duckdb.org/2026/10/21/announcing-duckdb-200">https://duckdb.org/2026/10/21/announcing-duckdb-200</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50181136">https://news.ycombinator.com/item?id=50181136</a></p>
-<p>Points: 74</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://duckdb.org/2026/10/21/announcing-duckdb-200](https://duckdb.org/2026/10/21/announcing-duckdb-200)
 
 ---
 
@@ -85,20 +85,33 @@ The 74-year-old former teacher, who was captured, has been released without any 
 
 ---
 
-### 6. 'I was only 8 but I realised my friend was dead' - Aberfan survivor recalls moment of disaster
+### 6. Aberfan disaster 'most tragic of days imaginable' says King on 60th anniversary
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Four people who were children at the time of the Aberfan disaster recall the moment when a coal waste tip collapsed 60 years ago.
+The Aberfan Disaster saw 116 children and 28 adults killed when a colliery spoil tip.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6n4e0vj018qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6n4e0vj018qo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crgj9d4zgj5yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Musk pledges $10bn in SpaceX shares for US children: Who really gains?
+### 7. Russia to send first diesel tanker to the US amid Trump deal
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Russia will send on Thursday its first diesel tanker to the US to an undisclosed port.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/21/russia-to-send-first-diesel-tanker-to-the-us-amid-trump-deal?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/21/russia-to-send-first-diesel-tanker-to-the-us-amid-trump-deal?traffic_source=rss)
+
+---
+
+### 8. Musk pledges $10bn in SpaceX shares for US children: Who really gains?
 
 **Source:** Al Jazeera
 
@@ -111,7 +124,7 @@ The pledge, which Trump says will go through tax-friendly &#039;Trump accounts&#
 
 ---
 
-### 8. US envoy Witkoff calls Russia’s Putin a ‘humanitarian’
+### 9. US envoy Witkoff calls Russia’s Putin a ‘humanitarian’
 
 **Source:** Al Jazeera
 
@@ -121,19 +134,6 @@ The pledge, which Trump says will go through tax-friendly &#039;Trump accounts&#
 US envoy Steve Witkoff praised Russian President Vladimir Putin as a ‘humanitarian’.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/us-envoy-witkoff-calls-russias-putin-a?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/us-envoy-witkoff-calls-russias-putin-a?traffic_source=rss)
-
----
-
-### 9. Russia releases American Stephen Hubbard after four years in prison
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Hubbard was jailed after being accused of fighting alongside Ukrainian forces against Russia.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/russia-releases-american-stephen-hubbard-after-four-years-in-prison?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/russia-releases-american-stephen-hubbard-after-four-years-in-prison?traffic_source=rss)
 
 ---
 
