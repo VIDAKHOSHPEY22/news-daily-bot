@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-21T22:53:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude Duet",
+            "description": "<p>Article URL: <a href=\"https://claude.com/product/claude-duet\">https://claude.com/product/claude-duet</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50186037\">https://news.ycombinator.com/item?id=50186037</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://claude.com/product/claude-duet",
+            "published": "Wed, 21 Oct 2026 19:14:01 +0000",
+            "fetched": "2026-10-21T22:53:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GitLab CVSS 10.0 Integer Overflow issue",
+            "description": "<p>Article URL: <a href=\"https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/\">https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50185869\">https://news.ycombinator.com/item?id=50185869</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+            "published": "Wed, 21 Oct 2026 19:01:12 +0000",
+            "fetched": "2026-10-21T22:53:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Canary Tokens",
+            "description": "<p>Article URL: <a href=\"https://canarytokens.org/\">https://canarytokens.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50185630\">https://news.ycombinator.com/item?id=50185630</a></p>\n<p>Points: 20</p>\n<p># Comments: 2</p>",
+            "url": "https://canarytokens.org/",
+            "published": "Wed, 21 Oct 2026 18:45:04 +0000",
+            "fetched": "2026-10-21T22:53:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+            "description": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
+            "url": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 15:36:31 GMT",
+            "fetched": "2026-10-21T22:53:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Google staff resign in backlash over its AI contracts with military",
+            "description": "The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.",
+            "url": "https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 15:41:25 GMT",
+            "fetched": "2026-10-21T22:53:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+            "description": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg.",
+            "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 17:42:34 GMT",
+            "fetched": "2026-10-21T22:53:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia willing to resume peace talks with Ukraine, US after Witkoff visit",
+            "description": "Russian President Vladimir Putin has signalled Moscow is willing in principle to resume talks with Ukraine and the US.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/russia-willing-to-resume-peace-talks-with-ukraine-us-after-witkoff-visit?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 19:01:05 +0000",
+            "fetched": "2026-10-21T22:53:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Steelers and Saints set for historic NFL clash in riot-hit Paris",
+            "description": "The NFL’s Steelers and Saints will play in Paris on Sunday despite the riots.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/steelers-and-saints-set-for-historic-nfl-clash-in-riot-hit-paris?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 18:59:37 +0000",
+            "fetched": "2026-10-21T22:53:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran determined to keep uranium amid increased war odds, flurry of meetings",
+            "description": "Tehran had &#039;nothing new&#039; to tell Washington after latest nuclear proposals reportedly offered by mediators.",
+            "url": "https://www.aljazeera.com/news/2026/10/21/iran-determined-to-keep-uranium-amid-increased-war-odds-flurry-of-meetings?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 18:58:29 +0000",
+            "fetched": "2026-10-21T22:53:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-21T22:53:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-21T22:53:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-21T22:53:21+03:30"
+        }
+    ]
+}
