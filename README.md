@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-21 13:30:01
+**Last Update:** 2026-10-21 13:50:41
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/">https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50177916">https://news.ycombinator.com/item?id=50177916</a></p>
-<p>Points: 30</p>
-<p># Comments: 7</p>
+<p>Points: 51</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/">https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50177911">https://news.ycombinator.com/item?id=50177911</a></p>
-<p>Points: 94</p>
-<p># Comments: 43</p>
+<p>Points: 130</p>
+<p># Comments: 119</p>
 
 🔗 **Read more:** [https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/](https://unric.org/en/unep-emissions-gap-report-2026-1-5-degree-overshoot/)
 
