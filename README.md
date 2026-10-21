@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-21 23:32:39
+**Last Update:** 2026-10-22 02:00:07
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Plex laid off the whole player team
+### 1. Railway Security(Compromise) Disclosure
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5">https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50186318">https://news.ycombinator.com/item?id=50186318</a></p>
-<p>Points: 21</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://blog.railway.com/p/security-disclosure-wednesday-october-21st">https://blog.railway.com/p/security-disclosure-wednesday-october-21st</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50188228">https://news.ycombinator.com/item?id=50188228</a></p>
+<p>Points: 24</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5](https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5)
+🔗 **Read more:** [https://blog.railway.com/p/security-disclosure-wednesday-october-21st](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
 
 ---
 
-### 2. Mistral Large 4
+### 2. AWS rates PHP RCE as Important so Amazon Linux 2023 patch may take 20 days
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://docs.mistral.ai/models/mistral-large-4-0">https://docs.mistral.ai/models/mistral-large-4-0</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50186129">https://news.ycombinator.com/item?id=50186129</a></p>
-<p>Points: 94</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://github.com/amazonlinux/amazon-linux-2023/issues/1148">https://github.com/amazonlinux/amazon-linux-2023/issues/1148</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50187708">https://news.ycombinator.com/item?id=50187708</a></p>
+<p>Points: 62</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://docs.mistral.ai/models/mistral-large-4-0](https://docs.mistral.ai/models/mistral-large-4-0)
+🔗 **Read more:** [https://github.com/amazonlinux/amazon-linux-2023/issues/1148](https://github.com/amazonlinux/amazon-linux-2023/issues/1148)
 
 ---
 
-### 3. Claude Duet
+### 3. CleanFrame: A quieter home screen for Samsung The Frame
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://claude.com/product/claude-duet">https://claude.com/product/claude-duet</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50186037">https://news.ycombinator.com/item?id=50186037</a></p>
-<p>Points: 87</p>
-<p># Comments: 96</p>
+<p>Article URL: <a href="https://github.com/nthnclrk/CleanFrame">https://github.com/nthnclrk/CleanFrame</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50187659">https://news.ycombinator.com/item?id=50187659</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://claude.com/product/claude-duet](https://claude.com/product/claude-duet)
+🔗 **Read more:** [https://github.com/nthnclrk/CleanFrame](https://github.com/nthnclrk/CleanFrame)
 
 ---
 
@@ -71,20 +71,7 @@ The UK government says the field, which is opposed by environmental campaigners,
 
 ---
 
-### 5. Google staff resign in backlash over its AI contracts with military
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The BBC speaks to several current and former Google DeepMind employees about their concerns with AI use on the battlefield.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmreyvepnv0po?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Websites taken down worldwide as critical cyber-security update issued
+### 5. Websites taken down worldwide as critical cyber-security update issued
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The vulnerabilities with PHP, a programming language widely used across the inte
 
 ---
 
-### 7. What happened to Australian politician Helen Haines?
+### 6. Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Australian Lawmaker Helen Haines has lost both legs after a car rammed into her.
+Russia says it is "ready in principle" to resume peace talks and US President Donald Trump says the world is "the closest we've been" to ending the war.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/what-happened-to-australian-politician-helen-haines?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/what-happened-to-australian-politician-helen-haines?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Conservative Party suspends ex-candidate filmed in Al Jazeera investigation
+### 7. Canadian publisher cuts ties with best-selling writer Orelien over AI use
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An undercover investigation by Al Jazeera, launched in 2021, infiltrated Turning Point UK.
+Publisher Boreal says investigations confirmed the Haitian-Canadian Thelyson Orelien used AI in his breakthrough novel.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/conservative-party-suspends-ex-candidate-filmed-in-al-jazeera-investigation?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/conservative-party-suspends-ex-candidate-filmed-in-al-jazeera-investigation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/canadian-publisher-cuts-ties-with-best-selling-writer-orelien-over-ai-use?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/canadian-publisher-cuts-ties-with-best-selling-writer-orelien-over-ai-use?traffic_source=rss)
 
 ---
 
-### 9. India’s ‘Cockroach’ leaders free after a week in jail
+### 8. Video shows Israeli settler assaulting Palestinian child
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Two top leaders of India’s Cockroach Party, Ashutosh Ranka and Saurav Das, have been released after a week in jail.
+An Israeli settler was filmed shouting at and assaulting a Palestinian child during an attack on a family east of Yatta.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/indias-cockroach-leaders-free-after-a-week-in-jail?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/indias-cockroach-leaders-free-after-a-week-in-jail?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/21/video-shows-israeli-settler-assaulting-palestinian-child-2?traffic_source=rss)
+
+---
+
+### 9. Man United captain Fernandes slams Carrick’s tactics after Como hammering
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Manchester United winless run continues with 4-1 Champions League humbling in Como, and Bruno Fernandes slams tactics.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/21/man-united-captain-fernandes-slams-carricks-tactics-after-como-hammering?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/21/man-united-captain-fernandes-slams-carricks-tactics-after-como-hammering?traffic_source=rss)
 
 ---
 
