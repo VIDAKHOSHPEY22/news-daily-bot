@@ -1,94 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-22 08:00:26
+**Last Update:** 2026-10-22 09:40:52
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences
+### 1. OpenAI CLI
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/openai/openai-cli">https://github.com/openai/openai-cli</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50191507">https://news.ycombinator.com/item?id=50191507</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://github.com/openai/openai-cli](https://github.com/openai/openai-cli)
+
+---
+
+### 2. I can't believe PowerShell is good
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.spacebar.news/powershell-is-actually-good/">https://www.spacebar.news/powershell-is-actually-good/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50190959">https://news.ycombinator.com/item?id=50190959</a></p>
+<p>Points: 42</p>
+<p># Comments: 38</p>
+
+🔗 **Read more:** [https://www.spacebar.news/powershell-is-actually-good/](https://www.spacebar.news/powershell-is-actually-good/)
+
+---
+
+### 3. The recently proposed o(n log n) integer multiplication algorithm [pdf]
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf">https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50190455">https://news.ycombinator.com/item?id=50190455</a></p>
+<p>Points: 116</p>
+<p># Comments: 69</p>
+
+🔗 **Read more:** [https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf](https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf)
+
+---
+
+### 4. UK working to identify exposure after global cyber-security warning
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.
+Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Websites taken down worldwide as critical cyber-security update issued
+### 5. Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.
+President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks
+### 6. Criminals who skip sentencing will face solitary confinement or lose social visits
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Moscow says it is "ready in principle" to resume peace talks and US President Donald Trump says the world is "the closest we've been" to ending the war.
+Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Australian TV reporter rescues man from sinking car
+### 7. El Salvador’s Bukele threatens Haitian gangs over abducted soldiers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Australian TV reporter rescues man from sinking car
+President Nayib Bukele says he has initiated military operation to rescue four Salvadoran soldiers abducted in Haiti.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/el-salvadors-bukele-threatens-haitian-gangs-over-abducted-soldiers?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/el-salvadors-bukele-threatens-haitian-gangs-over-abducted-soldiers?traffic_source=rss)
 
 ---
 
-### 5. Trump administration seeks Supreme Court approval to build Big Bend wall
+### 8. El-Sayed in face-off against rival Rogers for Michigan Senate seat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US federal judge blocked wall&#039;s construction on Texas-Mexico border amid an ongoing legal battle.
+El-Sayed in face-off against rival Rogers for Michigan Senate seat
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/trump-administration-seeks-supreme-court-approval-to-build-big-bend-wall?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/trump-administration-seeks-supreme-court-approval-to-build-big-bend-wall?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/22/el-sayed-in-face-off-against-rival-rogers-for-michigan-senate-seat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/22/el-sayed-in-face-off-against-rival-rogers-for-michigan-senate-seat?traffic_source=rss)
 
 ---
 
-### 6. Can Trump deport Congresswoman Ilhan Omar?
+### 9. North Korea to resume propaganda broadcasts, South Korea urges dialogue
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Can Trump deport Congresswoman Ilhan Omar?
+Pyongyang plans to resume broadcasting anti-South Korea propaganda along the armed border.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/22/can-trump-deport-congresswoman-ilhan-omar?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/22/can-trump-deport-congresswoman-ilhan-omar?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone Agueda
+### 10. Tropical Cyclone Agueda
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
+### 11. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire COOLEY, Mendocino, California
+### 12. Wildfire COOLEY, Mendocino, California
 
 **Source:** NASA
 

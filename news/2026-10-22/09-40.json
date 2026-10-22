@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-22T09:40:52+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI CLI",
+            "description": "<p>Article URL: <a href=\"https://github.com/openai/openai-cli\">https://github.com/openai/openai-cli</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50191507\">https://news.ycombinator.com/item?id=50191507</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/openai/openai-cli",
+            "published": "Thu, 22 Oct 2026 05:23:11 +0000",
+            "fetched": "2026-10-22T09:40:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I can't believe PowerShell is good",
+            "description": "<p>Article URL: <a href=\"https://www.spacebar.news/powershell-is-actually-good/\">https://www.spacebar.news/powershell-is-actually-good/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50190959\">https://news.ycombinator.com/item?id=50190959</a></p>\n<p>Points: 42</p>\n<p># Comments: 38</p>",
+            "url": "https://www.spacebar.news/powershell-is-actually-good/",
+            "published": "Thu, 22 Oct 2026 03:47:37 +0000",
+            "fetched": "2026-10-22T09:40:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+            "description": "<p>Article URL: <a href=\"https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf\">https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50190455\">https://news.ycombinator.com/item?id=50190455</a></p>\n<p>Points: 116</p>\n<p># Comments: 69</p>",
+            "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+            "published": "Thu, 22 Oct 2026 02:30:52 +0000",
+            "fetched": "2026-10-22T09:40:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK working to identify exposure after global cyber-security warning",
+            "description": "Governments and companies are scrambling to protect their websites, as Amazon says it experienced attacks before the warning was made public.",
+            "url": "https://www.bbc.co.uk/news/articles/cmx23d0k57d3o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 06:05:03 GMT",
+            "fetched": "2026-10-22T09:40:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+            "description": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
+            "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 19:58:06 GMT",
+            "fetched": "2026-10-22T09:40:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
+            "description": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing.",
+            "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 01:17:25 GMT",
+            "fetched": "2026-10-22T09:40:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "El Salvador’s Bukele threatens Haitian gangs over abducted soldiers",
+            "description": "President Nayib Bukele says he has initiated military operation to rescue four Salvadoran soldiers abducted in Haiti.",
+            "url": "https://www.aljazeera.com/news/2026/10/22/el-salvadors-bukele-threatens-haitian-gangs-over-abducted-soldiers?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 05:36:33 +0000",
+            "fetched": "2026-10-22T09:40:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "El-Sayed in face-off against rival Rogers for Michigan Senate seat",
+            "description": "El-Sayed in face-off against rival Rogers for Michigan Senate seat",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/el-sayed-in-face-off-against-rival-rogers-for-michigan-senate-seat?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 05:00:56 +0000",
+            "fetched": "2026-10-22T09:40:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "North Korea to resume propaganda broadcasts, South Korea urges dialogue",
+            "description": "Pyongyang plans to resume broadcasting anti-South Korea propaganda along the armed border.",
+            "url": "https://www.aljazeera.com/news/2026/10/22/north-korea-to-resume-propaganda-broadcasts-south-korea-urges-dialogue?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 04:45:41 +0000",
+            "fetched": "2026-10-22T09:40:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-22T09:40:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-22T09:40:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-22T09:40:52+03:30"
+        }
+    ]
+}
