@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-23T00:07:25+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A complete bypass of eMudhra’s 1FA OTP login system",
+            "description": "<p>Article URL: <a href=\"https://mastodon.catgirl.cloud/@49016/117475976434068995\">https://mastodon.catgirl.cloud/@49016/117475976434068995</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50199757\">https://news.ycombinator.com/item?id=50199757</a></p>\n<p>Points: 81</p>\n<p># Comments: 19</p>",
+            "url": "https://mastodon.catgirl.cloud/@49016/117475976434068995",
+            "published": "Thu, 22 Oct 2026 19:14:01 +0000",
+            "fetched": "2026-10-23T00:07:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hedra is a 3D open world game I wrote from scratch while in highschool",
+            "description": "<p>Article URL: <a href=\"https://github.com/maxilevi/project-hedra/tree/pre-ai\">https://github.com/maxilevi/project-hedra/tree/pre-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50199389\">https://news.ycombinator.com/item?id=50199389</a></p>\n<p>Points: 47</p>\n<p># Comments: 13</p>",
+            "url": "https://github.com/maxilevi/project-hedra/tree/pre-ai",
+            "published": "Thu, 22 Oct 2026 18:44:36 +0000",
+            "fetched": "2026-10-23T00:07:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest",
+            "description": "<p>Article URL: <a href=\"https://3d.camilleworld.com/play/\">https://3d.camilleworld.com/play/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50199349\">https://news.ycombinator.com/item?id=50199349</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://3d.camilleworld.com/play/",
+            "published": "Thu, 22 Oct 2026 18:39:39 +0000",
+            "fetched": "2026-10-23T00:07:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public",
+            "description": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains.",
+            "url": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 17:46:58 GMT",
+            "fetched": "2026-10-23T00:07:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Race to update services' computer systems after cyber-security flaw found",
+            "description": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+            "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 17:12:51 GMT",
+            "fetched": "2026-10-23T00:07:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "AI discovered a massive cyber-security flaw - here's what happened",
+            "description": "The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you.",
+            "url": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 12:17:44 GMT",
+            "fetched": "2026-10-23T00:07:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Thousands gather at final student-led rally ahead of Serbia election",
+            "description": "The student movement aims to end Vucic&#039;s 14 years of rule at Sunday&#039;s vote, as he holds a rival rally across town.",
+            "url": "https://www.aljazeera.com/news/2026/10/22/thousands-gather-at-final-student-led-rally-ahead-of-serbia-election?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 20:21:12 +0000",
+            "fetched": "2026-10-23T00:07:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why has the Libya-Turkiye maritime deal stirred controversy?",
+            "description": "Some countries in the region say it infringes on their rights.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/10/22/why-has-the-libya-turkiye-maritime-deal-stirred-controversy?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 20:13:21 +0000",
+            "fetched": "2026-10-23T00:07:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Epstein, Iran and ‘drain the swamp’: Have Republicans shifted before vote?",
+            "description": "Some of the core issues that drove Trump&#039;s US supporters and the MAGA movement are no longer Republican talking points.",
+            "url": "https://www.aljazeera.com/news/2026/10/22/epstein-iran-and-drain-the-swamp-have-republicans-shifted-before-vote?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 20:05:22 +0000",
+            "fetched": "2026-10-23T00:07:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-23T00:07:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-23T00:07:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-23T00:07:25+03:30"
+        }
+    ]
+}

@@ -1,16 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-22 23:26:39
+**Last Update:** 2026-10-23 00:07:25
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. eMudhra logins can be bruteforced
+### 1. A complete bypass of eMudhra’s 1FA OTP login system
 
 **Source:** Hacker News
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://mastodon.catgirl.cloud/@49016/117475976434068995">https://mastodon.catgirl.cloud/@49016/117475976434068995</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50199757">https://news.ycombinator.com/item?id=50199757</a></p>
-<p>Points: 33</p>
-<p># Comments: 6</p>
+<p>Points: 81</p>
+<p># Comments: 19</p>
 
 🔗 **Read more:** [https://mastodon.catgirl.cloud/@49016/117475976434068995](https://mastodon.catgirl.cloud/@49016/117475976434068995)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/maxilevi/project-hedra/tree/pre-ai">https://github.com/maxilevi/project-hedra/tree/pre-ai</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50199389">https://news.ycombinator.com/item?id=50199389</a></p>
-<p>Points: 36</p>
-<p># Comments: 8</p>
+<p>Points: 47</p>
+<p># Comments: 13</p>
 
 🔗 **Read more:** [https://github.com/maxilevi/project-hedra/tree/pre-ai](https://github.com/maxilevi/project-hedra/tree/pre-ai)
 
@@ -51,7 +51,7 @@
 **Description:**
 <p>Article URL: <a href="https://3d.camilleworld.com/play/">https://3d.camilleworld.com/play/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50199349">https://news.ycombinator.com/item?id=50199349</a></p>
-<p>Points: 6</p>
+<p>Points: 9</p>
 <p># Comments: 1</p>
 
 🔗 **Read more:** [https://3d.camilleworld.com/play/](https://3d.camilleworld.com/play/)
@@ -97,42 +97,42 @@ The BBC's technology correspondent Joe Tidy explains how it happened, and what i
 
 ---
 
-### 7. How the Turkiye-Libya deal is reshaping the Mediterranean
+### 7. Thousands gather at final student-led rally ahead of Serbia election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-How the Turkiye-Libya deal is reshaping the Mediterranean
+The student movement aims to end Vucic&#039;s 14 years of rule at Sunday&#039;s vote, as he holds a rival rally across town.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/22/how-the-turkiye-libya-deal-is-reshaping-the-mediterranean?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/22/how-the-turkiye-libya-deal-is-reshaping-the-mediterranean?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/thousands-gather-at-final-student-led-rally-ahead-of-serbia-election?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/thousands-gather-at-final-student-led-rally-ahead-of-serbia-election?traffic_source=rss)
 
 ---
 
-### 8. White evangelical support for Trump slips but still strong as midterms near
+### 8. Why has the Libya-Turkiye maritime deal stirred controversy?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Poll finds white evangelicals still outpace other demographic groups in supporting Trump, as he rallies right-wing base.
+Some countries in the region say it infringes on their rights.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/white-evangelical-support-for-trump-slips-but-still-strong-as-midterms-near?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/white-evangelical-support-for-trump-slips-but-still-strong-as-midterms-near?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/22/why-has-the-libya-turkiye-maritime-deal-stirred-controversy?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/22/why-has-the-libya-turkiye-maritime-deal-stirred-controversy?traffic_source=rss)
 
 ---
 
-### 9. WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries
+### 9. Epstein, Iran and ‘drain the swamp’: Have Republicans shifted before vote?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Health officials are investigating where Nigeria&#039;s first patient, confirmed this week, was infected.
+Some of the core issues that drove Trump&#039;s US supporters and the MAGA movement are no longer Republican talking points.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/who-warns-more-complex-ebola-outbreak-now-present-in-3-african-countries?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/who-warns-more-complex-ebola-outbreak-now-present-in-3-african-countries?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/epstein-iran-and-drain-the-swamp-have-republicans-shifted-before-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/epstein-iran-and-drain-the-swamp-have-republicans-shifted-before-vote?traffic_source=rss)
 
 ---
 
