@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-22 13:29:47
+**Last Update:** 2026-10-22 15:37:41
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Faster than earcut: triangulating 3.7M map polygons in 489 ms
+### 1. Several Linux kernel vulnerabilities accidentally posted to public mailing list
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities">https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50193804">https://news.ycombinator.com/item?id=50193804</a></p>
+<p>Points: 36</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities](https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities)
+
+---
+
+### 2. Faster than earcut: triangulating 3.7M map polygons in 489 ms
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://globus.software/blog/2026/10/16/cutting-map-polygons/">https://globus.software/blog/2026/10/16/cutting-map-polygons/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50193170">https://news.ycombinator.com/item?id=50193170</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 57</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://globus.software/blog/2026/10/16/cutting-map-polygons/](https://globus.software/blog/2026/10/16/cutting-map-polygons/)
 
 ---
 
-### 2. CVE-2026-111943: Compromised Intermediate Certificate Authority
+### 3. CVE-2026-111943: Compromised Intermediate Certificate Authority
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://nvd.nist.gov/vuln/detail/cve-2026-111943">https://nvd.nist.gov/vuln/detail/cve-2026-111943</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50192900">https://news.ycombinator.com/item?id=50192900</a></p>
-<p>Points: 72</p>
-<p># Comments: 16</p>
+<p>Points: 169</p>
+<p># Comments: 42</p>
 
 🔗 **Read more:** [https://nvd.nist.gov/vuln/detail/cve-2026-111943](https://nvd.nist.gov/vuln/detail/cve-2026-111943)
-
----
-
-### 3. Achieving AI-style reasoning without an LLM
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/">https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50192868">https://news.ycombinator.com/item?id=50192868</a></p>
-<p>Points: 10</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/](https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/)
 
 ---
 
@@ -84,55 +84,55 @@ The bank says it is using more AI leading to a 5% reduction in its workforce.
 
 ---
 
-### 6. Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push
+### 6. Russell Brand accuser said alleged rape 'really hurt', court hears
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.
+The friend of a woman claiming to have been raped by Russell Brand says she said he was  "quite aggressive".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Brazil’s president appeals to undecided voters ahead of run-off
+### 7. What is the Turkiye-Libya maritime deal, and why are the EU, Egypt opposed?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Brazil’s two presidential candidates Lula and Bolsonaro are trying to win over the 30 million voters.
+Eastern Libya’s parliament backs a sea border pact with Ankara, a shift that analysts say redraws Libya’s alliances.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/22/brazils-president-appeals-to-undecided-voters-ahead-of-run-off?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/22/brazils-president-appeals-to-undecided-voters-ahead-of-run-off?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss)
 
 ---
 
-### 8. ‘Facebook’s wrongdoing’: Why has Meta been fined $25bn in New Mexico?
+### 8. France reports first human Shamonda virus case, says no health risk
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The tech giant has been accused of misleading users regarding data privacy linked to the Cambridge Analytica scandal.
+Until now, the virus was considered non-transferable to humans, making the patient the first documented human case.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/facebooks-wrongdoing-why-has-meta-been-fined-25bn-in-new-mexico?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/facebooks-wrongdoing-why-has-meta-been-fined-25bn-in-new-mexico?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss)
 
 ---
 
-### 9. Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 now displaced
+### 9. Southeast Asia’s toxic haze spurs calls for legal action against polluters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yemen&#039;s government forces launched hundreds of strikes on Houthi locations, a spokesperson says.
+ASEAN&#039;s consensus-driven approach and a lack of enforcement mechanisms make legal action difficult, experts say.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/fighting-rages-in-yemens-taiz-as-un-warns-nearly-260000-now-displaced?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/fighting-rages-in-yemens-taiz-as-un-warns-nearly-260000-now-displaced?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/22/southeast-asias-toxic-haze-spurs-calls-for-legal-action-against-polluters?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/22/southeast-asias-toxic-haze-spurs-calls-for-legal-action-against-polluters?traffic_source=rss)
 
 ---
 

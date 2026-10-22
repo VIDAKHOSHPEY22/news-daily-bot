@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-22T15:37:41+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Several Linux kernel vulnerabilities accidentally posted to public mailing list",
+            "description": "<p>Article URL: <a href=\"https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities\">https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50193804\">https://news.ycombinator.com/item?id=50193804</a></p>\n<p>Points: 36</p>\n<p># Comments: 5</p>",
+            "url": "https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities",
+            "published": "Thu, 22 Oct 2026 11:12:37 +0000",
+            "fetched": "2026-10-22T15:37:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+            "description": "<p>Article URL: <a href=\"https://globus.software/blog/2026/10/16/cutting-map-polygons/\">https://globus.software/blog/2026/10/16/cutting-map-polygons/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50193170\">https://news.ycombinator.com/item?id=50193170</a></p>\n<p>Points: 57</p>\n<p># Comments: 10</p>",
+            "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+            "published": "Thu, 22 Oct 2026 09:31:18 +0000",
+            "fetched": "2026-10-22T15:37:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+            "description": "<p>Article URL: <a href=\"https://nvd.nist.gov/vuln/detail/cve-2026-111943\">https://nvd.nist.gov/vuln/detail/cve-2026-111943</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50192900\">https://news.ycombinator.com/item?id=50192900</a></p>\n<p>Points: 169</p>\n<p># Comments: 42</p>",
+            "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+            "published": "Thu, 22 Oct 2026 08:51:31 +0000",
+            "fetched": "2026-10-22T15:37:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What is PHP and why did it spark an international cyber-security alert?",
+            "description": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+            "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 11:15:58 GMT",
+            "fetched": "2026-10-22T15:37:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+            "description": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+            "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 09:37:58 GMT",
+            "fetched": "2026-10-22T15:37:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand accuser said alleged rape 'really hurt', court hears",
+            "description": "The friend of a woman claiming to have been raped by Russell Brand says she said he was  \"quite aggressive\".",
+            "url": "https://www.bbc.co.uk/news/articles/c9e8lz4mrg88o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 11:00:35 GMT",
+            "fetched": "2026-10-22T15:37:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What is the Turkiye-Libya maritime deal, and why are the EU, Egypt opposed?",
+            "description": "Eastern Libya’s parliament backs a sea border pact with Ankara, a shift that analysts say redraws Libya’s alliances.",
+            "url": "https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 11:36:02 +0000",
+            "fetched": "2026-10-22T15:37:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "France reports first human Shamonda virus case, says no health risk",
+            "description": "Until now, the virus was considered non-transferable to humans, making the patient the first documented human case.",
+            "url": "https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 11:28:05 +0000",
+            "fetched": "2026-10-22T15:37:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Southeast Asia’s toxic haze spurs calls for legal action against polluters",
+            "description": "ASEAN&#039;s consensus-driven approach and a lack of enforcement mechanisms make legal action difficult, experts say.",
+            "url": "https://www.aljazeera.com/economy/2026/10/22/southeast-asias-toxic-haze-spurs-calls-for-legal-action-against-polluters?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 11:19:38 +0000",
+            "fetched": "2026-10-22T15:37:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-22T15:37:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-22T15:37:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-22T15:37:41+03:30"
+        }
+    ]
+}
