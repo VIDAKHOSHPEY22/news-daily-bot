@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-22T08:00:26+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+            "description": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
+            "url": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 15:36:31 GMT",
+            "fetched": "2026-10-22T08:00:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Websites taken down worldwide as critical cyber-security update issued",
+            "description": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+            "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 19:54:57 GMT",
+            "fetched": "2026-10-22T08:00:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+            "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+            "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 21:27:41 GMT",
+            "fetched": "2026-10-22T08:00:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Australian TV reporter rescues man from sinking car",
+            "description": "Australian TV reporter rescues man from sinking car",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 04:19:33 +0000",
+            "fetched": "2026-10-22T08:00:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump administration seeks Supreme Court approval to build Big Bend wall",
+            "description": "US federal judge blocked wall&#039;s construction on Texas-Mexico border amid an ongoing legal battle.",
+            "url": "https://www.aljazeera.com/news/2026/10/22/trump-administration-seeks-supreme-court-approval-to-build-big-bend-wall?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 03:19:38 +0000",
+            "fetched": "2026-10-22T08:00:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can Trump deport Congresswoman Ilhan Omar?",
+            "description": "Can Trump deport Congresswoman Ilhan Omar?",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/can-trump-deport-congresswoman-ilhan-omar?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 02:34:46 +0000",
+            "fetched": "2026-10-22T08:00:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-22T08:00:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-22T08:00:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-22T08:00:26+03:30"
+        }
+    ]
+}

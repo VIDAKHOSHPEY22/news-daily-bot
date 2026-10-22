@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-22 04:18:24
+**Last Update:** 2026-10-22 08:00:26
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. When Do We Become the Person We Ought to Be?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought">https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50189278">https://news.ycombinator.com/item?id=50189278</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought](https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought)
-
----
-
-### 2. mitmproxy adds --emudhra option
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b">https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50189232">https://news.ycombinator.com/item?id=50189232</a></p>
-<p>Points: 62</p>
-<p># Comments: 17</p>
-
-🔗 **Read more:** [https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
-
----
-
-### 3. Airbnb bans making guests do dishes and take out the trash
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update">https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50189150">https://news.ycombinator.com/item?id=50189150</a></p>
-<p>Points: 35</p>
-<p># Comments: 21</p>
-
-🔗 **Read more:** [https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update](https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update)
-
----
-
-### 4. Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences
+### 1. Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ The UK government says the field, which is opposed by environmental campaigners,
 
 ---
 
-### 5. Websites taken down worldwide as critical cyber-security update issued
+### 2. Websites taken down worldwide as critical cyber-security update issued
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ The vulnerabilities with PHP, a programming language widely used across the inte
 
 ---
 
-### 6. Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks
+### 3. Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ Moscow says it is "ready in principle" to resume peace talks and US President Do
 
 ---
 
-### 7. World leaders warn against security flaw found in PHP computer programming
+### 4. Australian TV reporter rescues man from sinking car
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-AI was used to pinpoint two vulnerabilities in the PHP language, used by more than 70 percent of websites.
+Australian TV reporter rescues man from sinking car
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/22/australian-tv-reporter-rescues-man-from-sinking-car?traffic_source=rss)
 
 ---
 
-### 8. Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’
+### 5. Trump administration seeks Supreme Court approval to build Big Bend wall
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran&#039;s IRGC threatens to invade any country that attacks it under a new &#039;offensive and asymmetrical&#039; doctrine.
+US federal judge blocked wall&#039;s construction on Texas-Mexico border amid an ongoing legal battle.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/trump-administration-seeks-supreme-court-approval-to-build-big-bend-wall?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/trump-administration-seeks-supreme-court-approval-to-build-big-bend-wall?traffic_source=rss)
 
 ---
 
-### 9. US accuses Canada of election interference ahead of midterms
+### 6. Can Trump deport Congresswoman Ilhan Omar?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Washington cites Canadian tariffs, political meetings and anti-Trump ads as evidence of attempted election interference.
+Can Trump deport Congresswoman Ilhan Omar?
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/22/can-trump-deport-congresswoman-ilhan-omar?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/22/can-trump-deport-congresswoman-ilhan-omar?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone Agueda
+### 7. Tropical Cyclone Agueda
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
+### 8. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire COOLEY, Mendocino, California
+### 9. Wildfire COOLEY, Mendocino, California
 
 **Source:** NASA
 
