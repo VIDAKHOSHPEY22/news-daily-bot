@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-22 15:37:41
+**Last Update:** 2026-10-22 18:38:57
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Several Linux kernel vulnerabilities accidentally posted to public mailing list
+### 1. Quad9 (DNS Resolver) to Exit France
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities">https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50193804">https://news.ycombinator.com/item?id=50193804</a></p>
-<p>Points: 36</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://quad9.net/news/blog/au-revoir-france/">https://quad9.net/news/blog/au-revoir-france/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50195959">https://news.ycombinator.com/item?id=50195959</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities](https://www.phoronix.com/news/LKML-New-Trend-Vulnerabilities)
+🔗 **Read more:** [https://quad9.net/news/blog/au-revoir-france/](https://quad9.net/news/blog/au-revoir-france/)
 
 ---
 
-### 2. Faster than earcut: triangulating 3.7M map polygons in 489 ms
+### 2. What's Getting Pwned
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://globus.software/blog/2026/10/16/cutting-map-polygons/">https://globus.software/blog/2026/10/16/cutting-map-polygons/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50193170">https://news.ycombinator.com/item?id=50193170</a></p>
-<p>Points: 57</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://pwn.watch/">https://pwn.watch/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50195543">https://news.ycombinator.com/item?id=50195543</a></p>
+<p>Points: 52</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://globus.software/blog/2026/10/16/cutting-map-polygons/](https://globus.software/blog/2026/10/16/cutting-map-polygons/)
+🔗 **Read more:** [https://pwn.watch/](https://pwn.watch/)
 
 ---
 
-### 3. CVE-2026-111943: Compromised Intermediate Certificate Authority
+### 3. eMudhra to Exit Global SSL/TLS Certificate Business
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nvd.nist.gov/vuln/detail/cve-2026-111943">https://nvd.nist.gov/vuln/detail/cve-2026-111943</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50192900">https://news.ycombinator.com/item?id=50192900</a></p>
-<p>Points: 169</p>
-<p># Comments: 42</p>
+<p>Article URL: <a href="https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business">https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50195110">https://news.ycombinator.com/item?id=50195110</a></p>
+<p>Points: 220</p>
+<p># Comments: 121</p>
 
-🔗 **Read more:** [https://nvd.nist.gov/vuln/detail/cve-2026-111943](https://nvd.nist.gov/vuln/detail/cve-2026-111943)
+🔗 **Read more:** [https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business](https://emudhra.com/en/press-release/emudhra-to-exit-global-ssl-tls-certificate-business)
 
 ---
 
-### 4. What is PHP and why did it spark an international cyber-security alert?
+### 4. AI discovered a massive cyber-security flaw - here's what happened
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.
+The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The friend of a woman claiming to have been raped by Russell Brand says she said
 
 ---
 
-### 7. What is the Turkiye-Libya maritime deal, and why are the EU, Egypt opposed?
+### 7. Carney and Erdogan launch ‘strong and resilient’ Canada-Turkiye partnership
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Eastern Libya’s parliament backs a sea border pact with Ankara, a shift that analysts say redraws Libya’s alliances.
+On trade, investment and innovation, leaders will work toward conclusion of a Canada-Turkiye Free Trade Agreement.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/what-is-the-turkiye-libya-maritime-deal-and-why-are-the-eu-egypt-opposed?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/carney-and-erdogan-launch-strong-and-resilient-canada-turkiye-partnership?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/carney-and-erdogan-launch-strong-and-resilient-canada-turkiye-partnership?traffic_source=rss)
 
 ---
 
-### 8. France reports first human Shamonda virus case, says no health risk
+### 8. Netanyahu promises Iran regime change: Can Israel topple Tehran government?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Until now, the virus was considered non-transferable to humans, making the patient the first documented human case.
+Israel can inflict devastating damage on Iran, but analysts question its ability to overthrow Tehran’s government.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/france-reports-first-human-shamonda-virus-case-says-no-health-risk?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/netanyahu-promises-iran-regime-change-can-israel-topple-tehran-government?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/netanyahu-promises-iran-regime-change-can-israel-topple-tehran-government?traffic_source=rss)
 
 ---
 
-### 9. Southeast Asia’s toxic haze spurs calls for legal action against polluters
+### 9. Germany arrests Ukrainian man accused of spying for Russia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-ASEAN&#039;s consensus-driven approach and a lack of enforcement mechanisms make legal action difficult, experts say.
+Military has raised the threat level of ​Russian sabotage against German troops and facilities.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/22/southeast-asias-toxic-haze-spurs-calls-for-legal-action-against-polluters?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/22/southeast-asias-toxic-haze-spurs-calls-for-legal-action-against-polluters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/germany-arrests-ukrainian-man-accused-of-spying-for-russia?traffic_source=rss)
 
 ---
 
