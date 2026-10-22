@@ -1,60 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-23 00:07:25
+**Last Update:** 2026-10-23 02:43:16
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. A complete bypass of eMudhra’s 1FA OTP login system
+### 1. Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mastodon.catgirl.cloud/@49016/117475976434068995">https://mastodon.catgirl.cloud/@49016/117475976434068995</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50199757">https://news.ycombinator.com/item?id=50199757</a></p>
-<p>Points: 81</p>
-<p># Comments: 19</p>
+<p>Hey HN, we recently open sourced our Consumer Agent Testing Tool to help teams iterate against proprietary assistants like Muse and Instinct. We built this to reduce our own frustrations with building an MCP/API for these agents to consume.<p>The problem: testing against these tools is hard! Agent memory + account statefulness make reproducibility, in the ways required for repeatable/reliable outcomes, between agents and the APIs/MCPs they interact with very challenging.<p>The solution: CATT lets devs test their services against a surrogate Muse or Instinct agent (not affiliated with either of these companies). Testers define starting conditions, approvals, and success conditions for their service's state. CATT then records the full interaction (incl. tool calls, responses) so it can diff what happened from what the agent reports. Runs can be tested in local builds or via CI, with or without LLM backing.<p>CATT is designed to emulate the important parts of personal assistant interactions. Its got:<p>- Tool calls and command-line tool access
+- Simulated approvals for service actions
+- Outcomes tracking and comparison
+- Optional MCP profile based on an unofficial Muse template<p>There are limitations to how much we know about different assistant specific behaviors so the tool labels its assumptions as `documented`, `unofficial`, `assumed` or `unknown` for developer review. We'll do our best to keep the tool updated as new insights about the internal workings of these assistants come to light. It is an area of active research and interest, a good example is this recent report on how Instinct uses Exa for web search [0].<p>Are you building a connector or MCP? If yes, we'd like to hear from you! Have you had assistants behave incoherently, use stale information, or procalim success without evidence? What else should we add tests for?<p>The best way to get started is...to point your coding assistant at the repo and ask it to integrate the tool with your CI or local testing pipeline!<p>Hope it's helpful!<p>[0]: <a href="https://www.sunbeam.ai/thoughts/instinct-is-using-exa-for-web-search" rel="nofollow">https://www.sunbeam.ai/thoughts/instinct-is-using-exa-for-we...</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50201860">https://news.ycombinator.com/item?id=50201860</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://mastodon.catgirl.cloud/@49016/117475976434068995](https://mastodon.catgirl.cloud/@49016/117475976434068995)
+🔗 **Read more:** [https://github.com/Coverage-Cat/consumer-agent-testing-tool](https://github.com/Coverage-Cat/consumer-agent-testing-tool)
 
 ---
 
-### 2. Hedra is a 3D open world game I wrote from scratch while in highschool
+### 2. Railpass
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/maxilevi/project-hedra/tree/pre-ai">https://github.com/maxilevi/project-hedra/tree/pre-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50199389">https://news.ycombinator.com/item?id=50199389</a></p>
-<p>Points: 47</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://train.samismith.com/">https://train.samismith.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50201414">https://news.ycombinator.com/item?id=50201414</a></p>
+<p>Points: 22</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://github.com/maxilevi/project-hedra/tree/pre-ai](https://github.com/maxilevi/project-hedra/tree/pre-ai)
+🔗 **Read more:** [https://train.samismith.com/](https://train.samismith.com/)
 
 ---
 
-### 3. Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest
+### 3. Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://3d.camilleworld.com/play/">https://3d.camilleworld.com/play/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50199349">https://news.ycombinator.com/item?id=50199349</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations">https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50201259">https://news.ycombinator.com/item?id=50201259</a></p>
+<p>Points: 134</p>
+<p># Comments: 43</p>
 
-🔗 **Read more:** [https://3d.camilleworld.com/play/](https://3d.camilleworld.com/play/)
+🔗 **Read more:** [https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations)
 
 ---
 
@@ -84,55 +88,55 @@ Websites were taken offline after the developers of programming language PHP sai
 
 ---
 
-### 6. AI discovered a massive cyber-security flaw - here's what happened
+### 6. Musk has restored access to Ukraine's Starlink network, Trump says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you.
+Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Thousands gather at final student-led rally ahead of Serbia election
+### 7. US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The student movement aims to end Vucic&#039;s 14 years of rule at Sunday&#039;s vote, as he holds a rival rally across town.
+The prize comes less than two weeks after US President Donald Trump announced sanctions against the court.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/thousands-gather-at-final-student-led-rally-ahead-of-serbia-election?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/thousands-gather-at-final-student-led-rally-ahead-of-serbia-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss)
 
 ---
 
-### 8. Why has the Libya-Turkiye maritime deal stirred controversy?
+### 8. Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Some countries in the region say it infringes on their rights.
+Gonzalez’s Citizen Revolution Movement has denounced the arrest as politically motivated, calling for her release.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/22/why-has-the-libya-turkiye-maritime-deal-stirred-controversy?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/22/why-has-the-libya-turkiye-maritime-deal-stirred-controversy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe?traffic_source=rss)
 
 ---
 
-### 9. Epstein, Iran and ‘drain the swamp’: Have Republicans shifted before vote?
+### 9. US judge blocks federal operations seeking to identify non-citizen voters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Some of the core issues that drove Trump&#039;s US supporters and the MAGA movement are no longer Republican talking points.
+Homeland Security targets nine states in fraud investigations that critics say intimidate voters.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/epstein-iran-and-drain-the-swamp-have-republicans-shifted-before-vote?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/epstein-iran-and-drain-the-swamp-have-republicans-shifted-before-vote?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/us-judge-blocks-federal-operations-seeking-to-identify-non-citizen-voters?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/us-judge-blocks-federal-operations-seeking-to-identify-non-citizen-voters?traffic_source=rss)
 
 ---
 
