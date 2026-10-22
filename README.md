@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-22 20:51:28
+**Last Update:** 2026-10-22 23:26:39
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public
+### 1. eMudhra logins can be bruteforced
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://mastodon.catgirl.cloud/@49016/117475976434068995">https://mastodon.catgirl.cloud/@49016/117475976434068995</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50199757">https://news.ycombinator.com/item?id=50199757</a></p>
+<p>Points: 33</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://mastodon.catgirl.cloud/@49016/117475976434068995](https://mastodon.catgirl.cloud/@49016/117475976434068995)
+
+---
+
+### 2. Hedra is a 3D open world game I wrote from scratch while in highschool
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/maxilevi/project-hedra/tree/pre-ai">https://github.com/maxilevi/project-hedra/tree/pre-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50199389">https://news.ycombinator.com/item?id=50199389</a></p>
+<p>Points: 36</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://github.com/maxilevi/project-hedra/tree/pre-ai](https://github.com/maxilevi/project-hedra/tree/pre-ai)
+
+---
+
+### 3. Show HN: Build a world on your phone, explore it in XR on Vision Pro and Quest
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://3d.camilleworld.com/play/">https://3d.camilleworld.com/play/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50199349">https://news.ycombinator.com/item?id=50199349</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://3d.camilleworld.com/play/](https://3d.camilleworld.com/play/)
+
+---
+
+### 4. Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ The defence secretary says the UK needs to be ready for scenarios including impa
 
 ---
 
-### 2. Race to update services' computer systems after cyber-security flaw found
+### 5. Race to update services' computer systems after cyber-security flaw found
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ Websites were taken offline after the developers of programming language PHP sai
 
 ---
 
-### 3. AI discovered a massive cyber-security flaw - here's what happened
+### 6. AI discovered a massive cyber-security flaw - here's what happened
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ The BBC's technology correspondent Joe Tidy explains how it happened, and what i
 
 ---
 
-### 4. Albanian lawmakers scuffle in parliament as street protests continue
+### 7. How the Turkiye-Libya deal is reshaping the Mediterranean
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Albanian lawmakers have scuffled in parliament, throwing objects at one another and ripping microphones from desks.
+How the Turkiye-Libya deal is reshaping the Mediterranean
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_albanian-lawmakers-scuffle-in-parliament-221026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_albanian-lawmakers-scuffle-in-parliament-221026?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/22/how-the-turkiye-libya-deal-is-reshaping-the-mediterranean?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/22/how-the-turkiye-libya-deal-is-reshaping-the-mediterranean?traffic_source=rss)
 
 ---
 
-### 5. FIFA announces USA to host first Women’s Club World Cup in 2028
+### 8. White evangelical support for Trump slips but still strong as midterms near
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-FIFA to stage inaugural Women&#039;s Club World Cup, with 16 of football&#039;s top teams, in United States in 2028.
+Poll finds white evangelicals still outpace other demographic groups in supporting Trump, as he rallies right-wing base.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/22/fifa-announces-usa-to-host-womens-2028-world-cup?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/22/fifa-announces-usa-to-host-womens-2028-world-cup?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/white-evangelical-support-for-trump-slips-but-still-strong-as-midterms-near?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/white-evangelical-support-for-trump-slips-but-still-strong-as-midterms-near?traffic_source=rss)
 
 ---
 
-### 6. Two Syrian security officers killed in raid on ISIL cell near Damascus
+### 9. WHO warns ‘more complex’ Ebola outbreak now present in 3 African countries
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Syrian Interior Ministry says five suspected fighters killed and six arrested outside of Damascus.
+Health officials are investigating where Nigeria&#039;s first patient, confirmed this week, was infected.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/two-syrian-security-officers-killed-in-raid-on-isil-cell-near-damascus?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/two-syrian-security-officers-killed-in-raid-on-isil-cell-near-damascus?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/who-warns-more-complex-ebola-outbreak-now-present-in-3-african-countries?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/who-warns-more-complex-ebola-outbreak-now-present-in-3-african-countries?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone Agueda
+### 10. Tropical Cyclone Agueda
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
+### 11. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire COOLEY, Mendocino, California
+### 12. Wildfire COOLEY, Mendocino, California
 
 **Source:** NASA
 
