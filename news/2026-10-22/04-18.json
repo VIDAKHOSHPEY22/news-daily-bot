@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-22T04:18:24+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "When Do We Become the Person We Ought to Be?",
+            "description": "<p>Article URL: <a href=\"https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought\">https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50189278\">https://news.ycombinator.com/item?id=50189278</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought",
+            "published": "Wed, 21 Oct 2026 23:57:41 +0000",
+            "fetched": "2026-10-22T04:18:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "mitmproxy adds --emudhra option",
+            "description": "<p>Article URL: <a href=\"https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b\">https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50189232\">https://news.ycombinator.com/item?id=50189232</a></p>\n<p>Points: 62</p>\n<p># Comments: 17</p>",
+            "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+            "published": "Wed, 21 Oct 2026 23:51:37 +0000",
+            "fetched": "2026-10-22T04:18:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Airbnb bans making guests do dishes and take out the trash",
+            "description": "<p>Article URL: <a href=\"https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update\">https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50189150\">https://news.ycombinator.com/item?id=50189150</a></p>\n<p>Points: 35</p>\n<p># Comments: 21</p>",
+            "url": "https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update",
+            "published": "Wed, 21 Oct 2026 23:38:32 +0000",
+            "fetched": "2026-10-22T04:18:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+            "description": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month.",
+            "url": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 15:36:31 GMT",
+            "fetched": "2026-10-22T04:18:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Websites taken down worldwide as critical cyber-security update issued",
+            "description": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+            "url": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 19:54:57 GMT",
+            "fetched": "2026-10-22T04:18:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+            "description": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war.",
+            "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 21:27:41 GMT",
+            "fetched": "2026-10-22T04:18:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "World leaders warn against security flaw found in PHP computer programming",
+            "description": "AI was used to pinpoint two vulnerabilities in the PHP language, used by more than 70 percent of websites.",
+            "url": "https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 00:10:27 +0000",
+            "fetched": "2026-10-22T04:18:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’",
+            "description": "Iran&#039;s IRGC threatens to invade any country that attacks it under a new &#039;offensive and asymmetrical&#039; doctrine.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 00:00:00 +0000",
+            "fetched": "2026-10-22T04:18:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US accuses Canada of election interference ahead of midterms",
+            "description": "Washington cites Canadian tariffs, political meetings and anti-Trump ads as evidence of attempted election interference.",
+            "url": "https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss",
+            "published": "Wed, 21 Oct 2026 23:52:21 +0000",
+            "fetched": "2026-10-22T04:18:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-22T04:18:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-22T04:18:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-22T04:18:24+03:30"
+        }
+    ]
+}

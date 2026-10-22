@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-22 03:28:03
+**Last Update:** 2026-10-22 04:18:24
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. There isn't an easy exploit for this PHP vulnerability
+### 1. When Do We Become the Person We Ought to Be?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://eliastaylor.com/noexploit/">https://eliastaylor.com/noexploit/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50188948">https://news.ycombinator.com/item?id=50188948</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought">https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50189278">https://news.ycombinator.com/item?id=50189278</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://eliastaylor.com/noexploit/](https://eliastaylor.com/noexploit/)
+🔗 **Read more:** [https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought](https://www.graphsaboutreligion.com/p/when-do-we-become-the-person-we-ought)
 
 ---
 
-### 2. Railway Security Disclosure
+### 2. mitmproxy adds --emudhra option
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.railway.com/p/security-disclosure-wednesday-october-21st">https://blog.railway.com/p/security-disclosure-wednesday-october-21st</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50188228">https://news.ycombinator.com/item?id=50188228</a></p>
-<p>Points: 229</p>
-<p># Comments: 103</p>
+<p>Article URL: <a href="https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b">https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50189232">https://news.ycombinator.com/item?id=50189232</a></p>
+<p>Points: 62</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://blog.railway.com/p/security-disclosure-wednesday-october-21st](https://blog.railway.com/p/security-disclosure-wednesday-october-21st)
+🔗 **Read more:** [https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b)
 
 ---
 
-### 3. PHP web runtimes (CVE-2026-109618 and CVE-2026-109619)
+### 3. Airbnb bans making guests do dishes and take out the trash
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://aws.amazon.com/security/security-bulletins/2026-143-aws/">https://aws.amazon.com/security/security-bulletins/2026-143-aws/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50187708">https://news.ycombinator.com/item?id=50187708</a></p>
-<p>Points: 94</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update">https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50189150">https://news.ycombinator.com/item?id=50189150</a></p>
+<p>Points: 35</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://aws.amazon.com/security/security-bulletins/2026-143-aws/](https://aws.amazon.com/security/security-bulletins/2026-143-aws/)
+🔗 **Read more:** [https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update](https://www.theverge.com/tech/1015844/airbnb-chores-house-rules-update)
 
 ---
 
@@ -97,42 +97,42 @@ Moscow says it is "ready in principle" to resume peace talks and US President Do
 
 ---
 
-### 7. Pope Leo needs no further treatment after cancer surgery, doctors say
+### 7. World leaders warn against security flaw found in PHP computer programming
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 71-year-old leader of the Catholic Church has had the lower lobe of his right lung removed in surgery.
+AI was used to pinpoint two vulnerabilities in the PHP language, used by more than 70 percent of websites.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/pope-leo-needs-no-further-treatment-after-cancer-surgery-doctors-say?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/world-leaders-warn-against-security-flaw-found-in-php-computer-programming?traffic_source=rss)
 
 ---
 
-### 8. Nigeria’s first Ebola case matches DR Congo strain, health officials say
+### 8. Iran war live: IRGC vows invasion as defence doctrine turns ‘offensive’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Bundibugyo strain outbreak is the DR Congo&#039;s deadliest ever and has now reached West Africa for the first time.
+Iran&#039;s IRGC threatens to invade any country that attacks it under a new &#039;offensive and asymmetrical&#039; doctrine.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/nigerias-first-ebola-case-matches-dr-congo-strain-health-officials-say?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/22/iran-war-live-irgc-vows-invasion-as-defence-doctrine-turns-offensive?traffic_source=rss)
 
 ---
 
-### 9. US orders departure of personnel from Saudi Arabia, citing Houthi threat
+### 9. US accuses Canada of election interference ahead of midterms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US State Department says Iran-aligned Houthis have &#039;increasingly ⁠⁠engaged in hostilities&#039; against Saudi Arabia.
+Washington cites Canadian tariffs, political meetings and anti-Trump ads as evidence of attempted election interference.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/us-orders-departure-of-personnel-from-saudi-arabia-citing-houthi-threat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss](https://www.aljazeera.com/news/2026/10/21/us-accuses-canada-of-election-interference-ahead-of-midterms?traffic_source=rss)
 
 ---
 
