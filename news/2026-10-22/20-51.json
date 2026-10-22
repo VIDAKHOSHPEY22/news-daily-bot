@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-22T20:51:28+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public",
+            "description": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains.",
+            "url": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 16:40:38 GMT",
+            "fetched": "2026-10-22T20:51:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Race to update services' computer systems after cyber-security flaw found",
+            "description": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+            "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 17:12:51 GMT",
+            "fetched": "2026-10-22T20:51:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "AI discovered a massive cyber-security flaw - here's what happened",
+            "description": "The BBC's technology correspondent Joe Tidy explains how it happened, and what it means for you.",
+            "url": "https://www.bbc.co.uk/news/videos/cq0ld7e0jg2eo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 12:17:44 GMT",
+            "fetched": "2026-10-22T20:51:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Albanian lawmakers scuffle in parliament as street protests continue",
+            "description": "Albanian lawmakers have scuffled in parliament, throwing objects at one another and ripping microphones from desks.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/aje-onl-nf_albanian-lawmakers-scuffle-in-parliament-221026?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 16:35:12 +0000",
+            "fetched": "2026-10-22T20:51:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FIFA announces USA to host first Women’s Club World Cup in 2028",
+            "description": "FIFA to stage inaugural Women&#039;s Club World Cup, with 16 of football&#039;s top teams, in United States in 2028.",
+            "url": "https://www.aljazeera.com/sports/2026/10/22/fifa-announces-usa-to-host-womens-2028-world-cup?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 16:34:38 +0000",
+            "fetched": "2026-10-22T20:51:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Two Syrian security officers killed in raid on ISIL cell near Damascus",
+            "description": "The Syrian Interior Ministry says five suspected fighters killed and six arrested outside of Damascus.",
+            "url": "https://www.aljazeera.com/news/2026/10/22/two-syrian-security-officers-killed-in-raid-on-isil-cell-near-damascus?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 16:24:43 +0000",
+            "fetched": "2026-10-22T20:51:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-22T20:51:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-22T20:51:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-22T20:51:28+03:30"
+        }
+    ]
+}
