@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-22T13:29:47+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+            "description": "<p>Article URL: <a href=\"https://globus.software/blog/2026/10/16/cutting-map-polygons/\">https://globus.software/blog/2026/10/16/cutting-map-polygons/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50193170\">https://news.ycombinator.com/item?id=50193170</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+            "published": "Thu, 22 Oct 2026 09:31:18 +0000",
+            "fetched": "2026-10-22T13:29:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+            "description": "<p>Article URL: <a href=\"https://nvd.nist.gov/vuln/detail/cve-2026-111943\">https://nvd.nist.gov/vuln/detail/cve-2026-111943</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50192900\">https://news.ycombinator.com/item?id=50192900</a></p>\n<p>Points: 72</p>\n<p># Comments: 16</p>",
+            "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+            "published": "Thu, 22 Oct 2026 08:51:31 +0000",
+            "fetched": "2026-10-22T13:29:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Achieving AI-style reasoning without an LLM",
+            "description": "<p>Article URL: <a href=\"https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/\">https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50192868\">https://news.ycombinator.com/item?id=50192868</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+            "url": "https://fleetingswallow.com/minotaur-ai-deep-dive-achieving-reasoning-without-a-language-model/",
+            "published": "Thu, 22 Oct 2026 08:46:58 +0000",
+            "fetched": "2026-10-22T13:29:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What is PHP and why did it spark an international cyber-security alert?",
+            "description": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+            "url": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 06:24:59 GMT",
+            "fetched": "2026-10-22T13:29:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Barclays cutting 5,000 jobs as it increases reliance on AI",
+            "description": "The bank says it is using more AI leading to a 5% reduction in its workforce.",
+            "url": "https://www.bbc.co.uk/news/articles/cm4g1p347qgxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 09:37:58 GMT",
+            "fetched": "2026-10-22T13:29:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
+            "description": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes.",
+            "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 21 Oct 2026 19:58:06 GMT",
+            "fetched": "2026-10-22T13:29:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazil’s president appeals to undecided voters ahead of run-off",
+            "description": "Brazil’s two presidential candidates Lula and Bolsonaro are trying to win over the 30 million voters.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/22/brazils-president-appeals-to-undecided-voters-ahead-of-run-off?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 09:42:42 +0000",
+            "fetched": "2026-10-22T13:29:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Facebook’s wrongdoing’: Why has Meta been fined $25bn in New Mexico?",
+            "description": "The tech giant has been accused of misleading users regarding data privacy linked to the Cambridge Analytica scandal.",
+            "url": "https://www.aljazeera.com/news/2026/10/22/facebooks-wrongdoing-why-has-meta-been-fined-25bn-in-new-mexico?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 09:23:53 +0000",
+            "fetched": "2026-10-22T13:29:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fighting rages in Yemen’s Taiz as UN warns nearly 260,000 now displaced",
+            "description": "Yemen&#039;s government forces launched hundreds of strikes on Houthi locations, a spokesperson says.",
+            "url": "https://www.aljazeera.com/news/2026/10/22/fighting-rages-in-yemens-taiz-as-un-warns-nearly-260000-now-displaced?traffic_source=rss",
+            "published": "Thu, 22 Oct 2026 09:00:05 +0000",
+            "fetched": "2026-10-22T13:29:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-22T13:29:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-22T13:29:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-22T13:29:47+03:30"
+        }
+    ]
+}
