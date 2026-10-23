@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-23 22:33:13
+**Last Update:** 2026-10-23 22:51:37
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. I turned my TV into a Game Boy Color with a Pokemon town as my home screen
+### 1. Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://artificialanalysis.ai/models/kimi-k3-1-pro">https://artificialanalysis.ai/models/kimi-k3-1-pro</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50213337">https://news.ycombinator.com/item?id=50213337</a></p>
+<p>Points: 19</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://artificialanalysis.ai/models/kimi-k3-1-pro](https://artificialanalysis.ai/models/kimi-k3-1-pro)
+
+---
+
+### 2. I turned my TV into a Game Boy Color with a Pokemon town as my home screen
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://twitter.com/robbietilton/status/2111936458923851923">https://twitter.com/robbietilton/status/2111936458923851923</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50212668">https://news.ycombinator.com/item?id=50212668</a></p>
-<p>Points: 15</p>
-<p># Comments: 5</p>
+<p>Points: 24</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://twitter.com/robbietilton/status/2111936458923851923](https://twitter.com/robbietilton/status/2111936458923851923)
 
 ---
 
-### 2. Air Purifiers as White Noise Machines
+### 3. Air Purifiers as White Noise Machines
 
 **Source:** Hacker News
 
@@ -35,56 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.jefftk.com/p/air-purifiers-as-white-noise-machines">https://www.jefftk.com/p/air-purifiers-as-white-noise-machines</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50212507">https://news.ycombinator.com/item?id=50212507</a></p>
-<p>Points: 9</p>
-<p># Comments: 6</p>
+<p>Points: 11</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://www.jefftk.com/p/air-purifiers-as-white-noise-machines](https://www.jefftk.com/p/air-purifiers-as-white-noise-machines)
 
 ---
 
-### 3. Can we replace a $150k Looker with a bucket of HTML files?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://david.lequin.dev/blog/bi-software-is-dead/">https://david.lequin.dev/blog/bi-software-is-dead/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50212320">https://news.ycombinator.com/item?id=50212320</a></p>
-<p>Points: 40</p>
-<p># Comments: 24</p>
-
-🔗 **Read more:** [https://david.lequin.dev/blog/bi-software-is-dead/](https://david.lequin.dev/blog/bi-software-is-dead/)
-
----
-
-### 4. Meghan says she was informed about 'disturbing allegations' against her father in 2018
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Meghan statement offers answers after years of questions about her relationship with father
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Today, without exactly using the word, Meghan claimed vindication.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Watch: Moment part of Brighton's historic West Pier collapses
+### 4. Watch: Moment part of Brighton's historic West Pier collapses
 
 **Source:** BBC
 
@@ -97,7 +71,46 @@ Footage taken during Storm Austen shows a section of the famous landmark battere
 
 ---
 
-### 7. Israel locks down occupied West Bank after Hebron shooting
+### 5. Meghan says she was informed about 'disturbing allegations' against her father in 2018
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Meghan statement offers answers after years of questions about her relationship with father
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Today, without exactly using the word, Meghan claimed vindication.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. Aston Villa vs Manchester City: Premier League – teams, prediction, lineups
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Man City are the only team with a perfect Premier League record, but face a Villa side determined to climb the table.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/23/aston-villa-vs-manchester-city-premier-league-teams-prediction-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/23/aston-villa-vs-manchester-city-premier-league-teams-prediction-lineups?traffic_source=rss)
+
+---
+
+### 8. Israel locks down occupied West Bank after Hebron shooting
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Israel has imposed a lockdown across the occupied West Bank after a shooting nea
 
 ---
 
-### 8. Former FBI officials charged in connection with Hunter Biden laptop probe
+### 9. Former FBI officials charged in connection with Hunter Biden laptop probe
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Israel has imposed a lockdown across the occupied West Bank after a shooting nea
 Lawyers for two accused officials say Department of Justice seeking to revive scandal in the run-up to midterm vote.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/former-fbi-officials-charged-in-connection-with-hunter-biden-laptop-probe?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/former-fbi-officials-charged-in-connection-with-hunter-biden-laptop-probe?traffic_source=rss)
-
----
-
-### 9. Trump administration sues to block possible Democratic win in Alaska
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The lawsuit raises concerns the US administration may be looking to meddle in some of this midterm cycle’s races.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska?traffic_source=rss)
 
 ---
 
