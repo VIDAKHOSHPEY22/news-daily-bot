@@ -1,77 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-23 22:51:37
+**Last Update:** 2026-10-24 01:53:55
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line
+### 1. CVE Tracker
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://artificialanalysis.ai/models/kimi-k3-1-pro">https://artificialanalysis.ai/models/kimi-k3-1-pro</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50213337">https://news.ycombinator.com/item?id=50213337</a></p>
-<p>Points: 19</p>
+<p>Article URL: <a href="https://cve.0xosprey.com/">https://cve.0xosprey.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50215530">https://news.ycombinator.com/item?id=50215530</a></p>
+<p>Points: 9</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://artificialanalysis.ai/models/kimi-k3-1-pro](https://artificialanalysis.ai/models/kimi-k3-1-pro)
+🔗 **Read more:** [https://cve.0xosprey.com/](https://cve.0xosprey.com/)
 
 ---
 
-### 2. I turned my TV into a Game Boy Color with a Pokemon town as my home screen
+### 2. No Source Code? No Problem
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/robbietilton/status/2111936458923851923">https://twitter.com/robbietilton/status/2111936458923851923</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50212668">https://news.ycombinator.com/item?id=50212668</a></p>
-<p>Points: 24</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://queue.acm.org/doi/10.1145/945131.945155">https://queue.acm.org/doi/10.1145/945131.945155</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50214994">https://news.ycombinator.com/item?id=50214994</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://twitter.com/robbietilton/status/2111936458923851923](https://twitter.com/robbietilton/status/2111936458923851923)
+🔗 **Read more:** [https://queue.acm.org/doi/10.1145/945131.945155](https://queue.acm.org/doi/10.1145/945131.945155)
 
 ---
 
-### 3. Air Purifiers as White Noise Machines
+### 3. A whirlwind tour of systemd-nspawn containers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.jefftk.com/p/air-purifiers-as-white-noise-machines">https://www.jefftk.com/p/air-purifiers-as-white-noise-machines</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50212507">https://news.ycombinator.com/item?id=50212507</a></p>
+<p>Article URL: <a href="https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/">https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50214983">https://news.ycombinator.com/item?id=50214983</a></p>
 <p>Points: 11</p>
-<p># Comments: 10</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.jefftk.com/p/air-purifiers-as-white-noise-machines](https://www.jefftk.com/p/air-purifiers-as-white-noise-machines)
+🔗 **Read more:** [https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/](https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/)
 
 ---
 
-### 4. Watch: Moment part of Brighton's historic West Pier collapses
+### 4. Storm Austen brings power cuts and travel disruption as more wind and rain forecast
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Footage taken during Storm Austen shows a section of the famous landmark battered by large waves and collapsing into the water.
+A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwe8ln10l6nyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwe8ln10l6nyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Meghan says she was informed about 'disturbing allegations' against her father in 2018
+### 5. Watch: Trees ripped up as Storm Austen batters Britain
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The first named storm of the season brought powerful gusts to Jersey, and in southern England the wild weather disrupted travel with fallen trees blocking railway lines and roads.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6x2qdpnn35po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6x2qdpnn35po?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Meghan says she was informed about 'disturbing allegations' against her father in 2018
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The Duchess of Sussex issues a statement following reports her father Thomas Mar
 
 ---
 
-### 6. Meghan statement offers answers after years of questions about her relationship with father
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Today, without exactly using the word, Meghan claimed vindication.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Aston Villa vs Manchester City: Premier League – teams, prediction, lineups
+### 7. Why is Israel increasing its presence in the Balkans?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Man City are the only team with a perfect Premier League record, but face a Villa side determined to climb the table.
+In the Balkans, leaders are deepening ties with Israel through defence, surveillance, and political backing. But why?
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/23/aston-villa-vs-manchester-city-premier-league-teams-prediction-lineups?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/23/aston-villa-vs-manchester-city-premier-league-teams-prediction-lineups?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss)
 
 ---
 
-### 8. Israel locks down occupied West Bank after Hebron shooting
+### 8. Masked gunmen kill seven in attack on church funeral in Jordan
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel has imposed a lockdown across the occupied West Bank after a shooting near Hebron killed two Israeli soldiers.
+At least seven people were killed and 34 wounded after two masked gunmen opened fire at a church in Karak, Jordan.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss)
 
 ---
 
-### 9. Former FBI officials charged in connection with Hunter Biden laptop probe
+### 9. ‘Generation Right’: Israeli youth show strong support for the right
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lawyers for two accused officials say Department of Justice seeking to revive scandal in the run-up to midterm vote.
+Some three quarters of Jewish first-time voters identify as right or centre-right, higher than rest of Israeli society.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/former-fbi-officials-charged-in-connection-with-hunter-biden-laptop-probe?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/former-fbi-officials-charged-in-connection-with-hunter-biden-laptop-probe?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/generation-right-israeli-youth-show-strong-support-for-the-right?traffic_source=rss)
 
 ---
 
