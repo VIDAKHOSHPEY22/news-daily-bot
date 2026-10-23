@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-23T08:34:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Median product \"lifespan\" has fallen from ~4y down to ~1.5y",
+            "description": "<p>The \"product graveyard\" of SaaSHub has been tracking the status (and lifespan) of hundreds of thousands of products. It's been hovering around 4y for quite some time. However, there's a sharp decline in 2026 leading to about 1.5y these days. <a href=\"https://www.saashub.com/product-graveyard\" rel=\"nofollow\">https://www.saashub.com/product-graveyard</a> That's a huge drop. And, it matches my \"human\" observations. A lot of products are being vibe coded, released, and soon after that abandoned. It's become too cheap to produce software. So, a lot of people have been experimenting for 'free' with their ideas - only to find out that they weren't viable... or that they couldn't bring customers in. Distribution and marketing have become much more important than before - within the context that everyone can build \"features\" for free.<p>Anyhow, I expect this trend of shortening product lifespan to continue even further down. Or maybe, at some point people will realised that there are no users for their products as every user can \"build\" their own and custom product. Leaving us with a dozen huge platforms that host and help you build those apps. Until then - it's a crazy gold rush and a lot of makers are abandoning their empty buckets.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50204125\">https://news.ycombinator.com/item?id=50204125</a></p>\n<p>Points: 14</p>\n<p># Comments: 3</p>",
+            "url": "https://news.ycombinator.com/item?id=50204125",
+            "published": "Fri, 23 Oct 2026 03:20:38 +0000",
+            "fetched": "2026-10-23T08:34:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "This I Believe",
+            "description": "<p>Article URL: <a href=\"https://www.awakin.org/v2/read/view.php?tid=468\">https://www.awakin.org/v2/read/view.php?tid=468</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50203759\">https://news.ycombinator.com/item?id=50203759</a></p>\n<p>Points: 15</p>\n<p># Comments: 3</p>",
+            "url": "https://www.awakin.org/v2/read/view.php?tid=468",
+            "published": "Fri, 23 Oct 2026 02:19:38 +0000",
+            "fetched": "2026-10-23T08:34:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The foolishness of \"natural language programming\" (1978)",
+            "description": "<p>Article URL: <a href=\"https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html\">https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50203161\">https://news.ycombinator.com/item?id=50203161</a></p>\n<p>Points: 75</p>\n<p># Comments: 59</p>",
+            "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+            "published": "Fri, 23 Oct 2026 00:52:01 +0000",
+            "fetched": "2026-10-23T08:34:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public",
+            "description": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains.",
+            "url": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 21:29:44 GMT",
+            "fetched": "2026-10-23T08:34:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Race to update services' computer systems after cyber-security flaw found",
+            "description": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+            "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 17:12:51 GMT",
+            "fetched": "2026-10-23T08:34:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Musk has restored access to Ukraine's Starlink network, Trump says",
+            "description": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+            "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 21:42:39 GMT",
+            "fetched": "2026-10-23T08:34:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Keeping Madhubala alive: The fight for Karachi’s captive elephants",
+            "description": "Karachi&#039;s last two African elephants remain in captivity. Their sisters are already dead. Will they survive?",
+            "url": "https://www.aljazeera.com/features/2026/10/23/keeping-madhubala-alive-the-fight-for-karachis-captive-elephants?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 04:27:55 +0000",
+            "fetched": "2026-10-23T08:34:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel arrests 36 Palestinians in the West Bank, attacks on farmers ramp up",
+            "description": "Israeli pogroms on Palestinian farmers and their lands during the olive harvest season intensify.",
+            "url": "https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 04:09:28 +0000",
+            "fetched": "2026-10-23T08:34:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US tech stocks tumble as investors fret over AI spending",
+            "description": "Tech-heavy Nasdaq falls 2.6 percent as debate rages over whether AI is a bubble.",
+            "url": "https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 03:13:13 +0000",
+            "fetched": "2026-10-23T08:34:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-23T08:34:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-23T08:34:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-23T08:34:35+03:30"
+        }
+    ]
+}
