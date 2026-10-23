@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-23 13:24:48
+**Last Update:** 2026-10-23 13:45:35
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge">https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50204926">https://news.ycombinator.com/item?id=50204926</a></p>
-<p>Points: 28</p>
-<p># Comments: 14</p>
+<p>Points: 33</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge](https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.awakin.org/v2/read/view.php?tid=468">https://www.awakin.org/v2/read/view.php?tid=468</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50203759">https://news.ycombinator.com/item?id=50203759</a></p>
-<p>Points: 86</p>
-<p># Comments: 32</p>
+<p>Points: 89</p>
+<p># Comments: 33</p>
 
 🔗 **Read more:** [https://www.awakin.org/v2/read/view.php?tid=468](https://www.awakin.org/v2/read/view.php?tid=468)
 
@@ -51,14 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html">https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50203161">https://news.ycombinator.com/item?id=50203161</a></p>
-<p>Points: 175</p>
-<p># Comments: 100</p>
+<p>Points: 181</p>
+<p># Comments: 103</p>
 
 🔗 **Read more:** [https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
 
 ---
 
-### 4. Watch: BBC presenter battles strong winds as storm hits Newquay
+### 4. Meghan says she was informed about 'disturbing allegations' against her father in 2018
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images found in the Philippines.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Watch: BBC presenter battles strong winds as storm hits Newquay
 
 **Source:** BBC
 
@@ -71,46 +84,20 @@ BBC lead weather presenter Simon King is in Newquay as the "full force" of the s
 
 ---
 
-### 5. Detective raped by colleague says Met handling of case 'like being raped again'
+### 6. Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Linda Williams was attacked by David Carrick, who was jailed in 2023 for sexual offences against 12 women.
+The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckdd83dz0153o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckdd83dz0153o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Watch: Met chief Rowley not fit for job, says detective raped by colleague
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Det Con Linda Williams, a victim of serial abuser David Carrick, says she has no faith in the system.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. NBA’s Irving praises Al-Shaair’s ‘selfless act’ after Hind Rajab fine paid
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Kyrie Irving explains paying fine and praises Azeez Al-Shaair for continuously honouring slain Palestinian children.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/23/nbas-irving-praises-al-shaairs-selfless-act-after-hind-rajab-fine-paid?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/23/nbas-irving-praises-al-shaairs-selfless-act-after-hind-rajab-fine-paid?traffic_source=rss)
-
----
-
-### 8. What role does the military play in Israeli schools?
+### 7. What role does the military play in Israeli schools?
 
 **Source:** Al Jazeera
 
@@ -123,7 +110,7 @@ For Israeli teenagers, military life ordinarily kicks off in school.
 
 ---
 
-### 9. Pulaku: The two faces of Nigeria’s vigilantes
+### 8. Pulaku: The two faces of Nigeria’s vigilantes
 
 **Source:** Al Jazeera
 
@@ -133,6 +120,19 @@ For Israeli teenagers, military life ordinarily kicks off in school.
 Allegations of torture and abuse shadow a Fulani-led vigilante group despite its role in clamping down on kidnappers.
 
 🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/10/23/pulaku-the-two-faces-of-nigerias-vigilantes?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/10/23/pulaku-the-two-faces-of-nigerias-vigilantes?traffic_source=rss)
+
+---
+
+### 9. Hamilton calls for Palestine and DR Congo freedom as Rwanda takes F1 spotlight
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Rwanda&#039;s controversial Formula One GP leads Lewis Hamilton to call for freedom for DR Congo, while renewing Palestine plea.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/23/hamilton-calls-for-palestine-sudan-and-congo-freedom-with-f1-in-spotlight?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/23/hamilton-calls-for-palestine-sudan-and-congo-freedom-with-f1-in-spotlight?traffic_source=rss)
 
 ---
 
