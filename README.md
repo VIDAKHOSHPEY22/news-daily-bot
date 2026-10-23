@@ -1,68 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-23 03:31:40
+**Last Update:** 2026-10-23 08:00:40
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: CATT 0.2.1: Test agents/services against a Muse/Instinct-alike, in CI
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Hey HN, we recently open sourced our Consumer Agent Testing Tool to help teams iterate against proprietary assistants like Muse and Instinct. We built this to reduce our own frustrations with building an MCP/API for these agents to consume.<p>The problem: testing against these tools is hard! Agent memory + account statefulness make reproducibility, in the ways required for repeatable/reliable outcomes, between agents and the APIs/MCPs they interact with very challenging.<p>The solution: CATT lets devs test their services against a surrogate Muse or Instinct agent (not affiliated with either of these companies). Testers define starting conditions, approvals, and success conditions for their service's state. CATT then records the full interaction (incl. tool calls, responses) so it can diff what happened from what the agent reports. Runs can be tested in local builds or via CI, with or without LLM backing.<p>CATT is designed to emulate the important parts of personal assistant interactions. Its got:<p>- Tool calls and command-line tool access
-- Simulated approvals for service actions
-- Outcomes tracking and comparison
-- Optional MCP profile based on an unofficial Muse template<p>There are limitations to how much we know about different assistant specific behaviors so the tool labels its assumptions as `documented`, `unofficial`, `assumed` or `unknown` for developer review. We'll do our best to keep the tool updated as new insights about the internal workings of these assistants come to light. It is an area of active research and interest, a good example is this recent report on how Instinct uses Exa for web search [0].<p>Are you building a connector or MCP? If yes, we'd like to hear from you! Have you had assistants behave incoherently, use stale information, or procalim success without evidence? What else should we add tests for?<p>The best way to get started is...to point your coding assistant at the repo and ask it to integrate the tool with your CI or local testing pipeline!<p>Hope it's helpful!<p>[0]: <a href="https://www.sunbeam.ai/thoughts/instinct-is-using-exa-for-web-search" rel="nofollow">https://www.sunbeam.ai/thoughts/instinct-is-using-exa-for-we...</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50201860">https://news.ycombinator.com/item?id=50201860</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/Coverage-Cat/consumer-agent-testing-tool](https://github.com/Coverage-Cat/consumer-agent-testing-tool)
-
----
-
-### 2. Railpass
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://train.samismith.com/">https://train.samismith.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50201414">https://news.ycombinator.com/item?id=50201414</a></p>
-<p>Points: 30</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://train.samismith.com/](https://train.samismith.com/)
-
----
-
-### 3. Jared Kushner Hacked Phone Reveals Secret Negotiations, Millions in Transactions
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations">https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50201259">https://news.ycombinator.com/item?id=50201259</a></p>
-<p>Points: 197</p>
-<p># Comments: 77</p>
-
-🔗 **Read more:** [https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations)
-
----
-
-### 4. Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public
+### 1. Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public
 
 **Source:** BBC
 
@@ -75,7 +23,7 @@ The defence secretary says the UK needs to be ready for scenarios including impa
 
 ---
 
-### 5. Race to update services' computer systems after cyber-security flaw found
+### 2. Race to update services' computer systems after cyber-security flaw found
 
 **Source:** BBC
 
@@ -88,7 +36,7 @@ Websites were taken offline after the developers of programming language PHP sai
 
 ---
 
-### 6. Musk has restored access to Ukraine's Starlink network, Trump says
+### 3. Musk has restored access to Ukraine's Starlink network, Trump says
 
 **Source:** BBC
 
@@ -101,46 +49,46 @@ Ukraine relies on Starlink for a range of military uses - its owner Elon Musk ha
 
 ---
 
-### 7. Almost all shallow-water coral reefs now face extinction risk, study warns
+### 4. US tech stocks tumble as investors fret over AI spending
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-World authority on threatened wildlife classifies 96 percent of assessed coral reef systems as &quot;critically endangered&quot;.
+Tech-heavy Nasdaq falls 2.6 percent as debate rages over whether AI is a bubble.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/almost-all-shallow-water-coral-reefs-now-face-extinction-risk-study-warns?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/almost-all-shallow-water-coral-reefs-now-face-extinction-risk-study-warns?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending?traffic_source=rss)
 
 ---
 
-### 8. Hundreds of Ethiopians cross into Kenya to flee regional fighting
+### 5. Venezuelans demand elections in first national protest in nearly two years
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dispute over raising flag of Somali Regional State devolves into fighting between regional forces.
+No date has been set to decide on a successor for Nicolas Maduro after the former president was captured by US forces.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/hundreds-of-ethiopians-cross-into-kenya-to-flee-regional-fighting?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/hundreds-of-ethiopians-cross-into-kenya-to-flee-regional-fighting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/venezuelans-demand-elections-in-first-national-protest-in-nearly-two-years?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/venezuelans-demand-elections-in-first-national-protest-in-nearly-two-years?traffic_source=rss)
 
 ---
 
-### 9. US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award
+### 6. Indian developer turns ‘Cockroach’ protests into video game
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The prize comes less than two weeks after US President Donald Trump announced sanctions against the court.
+A 27-year-old Indian developer has created a satirical video game inspired by the Cockroach Party-led protests.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/indian-developer-turns-cockroach-protests-into-video-game?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/indian-developer-turns-cockroach-protests-into-video-game?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone Agueda
+### 7. Tropical Cyclone Agueda
 
 **Source:** NASA
 
@@ -153,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
+### 8. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
 
 **Source:** NASA
 
@@ -166,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire COOLEY, Mendocino, California
+### 9. Wildfire COOLEY, Mendocino, California
 
 **Source:** NASA
 

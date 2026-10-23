@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-23T08:00:40+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public",
+            "description": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains.",
+            "url": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 21:29:44 GMT",
+            "fetched": "2026-10-23T08:00:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Race to update services' computer systems after cyber-security flaw found",
+            "description": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+            "url": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 17:12:51 GMT",
+            "fetched": "2026-10-23T08:00:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Musk has restored access to Ukraine's Starlink network, Trump says",
+            "description": "Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.",
+            "url": "https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 22 Oct 2026 21:42:39 GMT",
+            "fetched": "2026-10-23T08:00:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US tech stocks tumble as investors fret over AI spending",
+            "description": "Tech-heavy Nasdaq falls 2.6 percent as debate rages over whether AI is a bubble.",
+            "url": "https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 03:13:13 +0000",
+            "fetched": "2026-10-23T08:00:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Venezuelans demand elections in first national protest in nearly two years",
+            "description": "No date has been set to decide on a successor for Nicolas Maduro after the former president was captured by US forces.",
+            "url": "https://www.aljazeera.com/news/2026/10/23/venezuelans-demand-elections-in-first-national-protest-in-nearly-two-years?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 03:12:12 +0000",
+            "fetched": "2026-10-23T08:00:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Indian developer turns ‘Cockroach’ protests into video game",
+            "description": "A 27-year-old Indian developer has created a satirical video game inspired by the Cockroach Party-led protests.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/indian-developer-turns-cockroach-protests-into-video-game?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 02:44:35 +0000",
+            "fetched": "2026-10-23T08:00:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-23T08:00:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-23T08:00:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-23T08:00:40+03:30"
+        }
+    ]
+}
