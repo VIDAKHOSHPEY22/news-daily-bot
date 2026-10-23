@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-23T18:43:24+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "When the Term \"Heatwave\" Is No Longer Enough",
+            "description": "<p>Article URL: <a href=\"https://coveringclimatenow.org/from-us-story/when-the-term-heatwave-is-no-longer-enough/\">https://coveringclimatenow.org/from-us-story/when-the-term-heatwave-is-no-longer-enough/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50209961\">https://news.ycombinator.com/item?id=50209961</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://coveringclimatenow.org/from-us-story/when-the-term-heatwave-is-no-longer-enough/",
+            "published": "Fri, 23 Oct 2026 14:46:26 +0000",
+            "fetched": "2026-10-23T18:43:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Investor-owned utilities charge 23% more for electricity than public providers",
+            "description": "<p>Article URL: <a href=\"https://www.kadoa.com/energy-prices/insights/investor-owned-utilities\">https://www.kadoa.com/energy-prices/insights/investor-owned-utilities</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50208837\">https://news.ycombinator.com/item?id=50208837</a></p>\n<p>Points: 311</p>\n<p># Comments: 233</p>",
+            "url": "https://www.kadoa.com/energy-prices/insights/investor-owned-utilities",
+            "published": "Fri, 23 Oct 2026 13:41:10 +0000",
+            "fetched": "2026-10-23T18:43:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Shitter – A Nitter Fork",
+            "description": "<p>Article URL: <a href=\"https://codeberg.org/shitter/shitter\">https://codeberg.org/shitter/shitter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50208343\">https://news.ycombinator.com/item?id=50208343</a></p>\n<p>Points: 103</p>\n<p># Comments: 62</p>",
+            "url": "https://codeberg.org/shitter/shitter",
+            "published": "Fri, 23 Oct 2026 13:02:23 +0000",
+            "fetched": "2026-10-23T18:43:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
+            "description": "The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 14:43:48 GMT",
+            "fetched": "2026-10-23T18:43:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: BBC presenter battles strong winds as storm hits Newquay",
+            "description": "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives.",
+            "url": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 08:26:47 GMT",
+            "fetched": "2026-10-23T18:43:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+            "description": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.",
+            "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 14:15:23 GMT",
+            "fetched": "2026-10-23T18:43:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What to know as Brazil prepares for tense presidential run-off",
+            "description": "Polls show leftist incumbent Lula closing gap on right-wing rival Flavio Bolsonaro ahead of second round of voting.",
+            "url": "https://www.aljazeera.com/news/2026/10/23/what-to-know-as-brazil-prepares-for-tense-presidential-run-off?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 14:56:05 +0000",
+            "fetched": "2026-10-23T18:43:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Conte dismisses reports of Man United takeover with Carrick’s job uncertain",
+            "description": "Ex-Chelsea boss Antonio Conte denies Manchester United link, says reports he demanded full control of club &#039;unfounded&#039;.",
+            "url": "https://www.aljazeera.com/sports/2026/10/23/conte-dismisses-reports-of-man-united-takeover-with-carricks-job-uncertain?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 14:16:14 +0000",
+            "fetched": "2026-10-23T18:43:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mississippi releases video of 1-year-old’s fatal police shooting",
+            "description": "Mississippi released bodycam footage of the fatal shooting of 1-year-old Kohen Wiley.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/mississippi-releases-video-of-1-year-olds-fatal-police-shooting?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 14:15:52 +0000",
+            "fetched": "2026-10-23T18:43:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-23T18:43:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-23T18:43:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-23T18:43:24+03:30"
+        }
+    ]
+}
