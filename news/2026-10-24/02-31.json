@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-24T02:31:42+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
+            "description": "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather.",
+            "url": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 21:10:47 GMT",
+            "fetched": "2026-10-24T02:31:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Trees ripped up as Storm Austen batters Britain",
+            "description": "The first named storm of the season brought powerful gusts to Jersey, and in southern England the wild weather disrupted travel with fallen trees blocking railway lines and roads.",
+            "url": "https://www.bbc.co.uk/news/videos/c6x2qdpnn35po?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 21:01:31 GMT",
+            "fetched": "2026-10-24T02:31:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
+            "description": "The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 18:17:06 GMT",
+            "fetched": "2026-10-24T02:31:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kenya announces second Ebola death, says ‘no evidence’ of community spread",
+            "description": "The Ebola outbreak has now spread to four countries across eastern, central ⁠⁠and western Africa.",
+            "url": "https://www.aljazeera.com/news/2026/10/23/kenya-announces-second-ebola-death-says-no-evidence-of-community-spread?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 22:33:48 +0000",
+            "fetched": "2026-10-24T02:31:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why is Israel increasing its presence in the Balkans?",
+            "description": "In the Balkans, leaders are deepening ties with Israel through defence, surveillance, and political backing. But why?",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/why-is-israel-increasing-its-presence-in-the-balkans?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 22:01:52 +0000",
+            "fetched": "2026-10-24T02:31:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Masked gunmen kill seven in attack on church funeral in Jordan",
+            "description": "At least seven people were killed and 34 wounded after two masked gunmen opened fire at a church in Karak, Jordan.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/aje-onl-nf_masked-gunmen-kill-seven-in-attack-on-church-jordan-231026?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 21:27:32 +0000",
+            "fetched": "2026-10-24T02:31:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-24T02:31:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-24T02:31:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-24T02:31:42+03:30"
+        }
+    ]
+}
