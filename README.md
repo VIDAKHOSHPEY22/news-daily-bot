@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-23 02:43:16
+**Last Update:** 2026-10-23 03:31:40
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
@@ -39,8 +39,8 @@
 **Description:**
 <p>Article URL: <a href="https://train.samismith.com/">https://train.samismith.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50201414">https://news.ycombinator.com/item?id=50201414</a></p>
-<p>Points: 22</p>
-<p># Comments: 2</p>
+<p>Points: 30</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://train.samismith.com/](https://train.samismith.com/)
 
@@ -55,8 +55,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations">https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50201259">https://news.ycombinator.com/item?id=50201259</a></p>
-<p>Points: 134</p>
-<p># Comments: 43</p>
+<p>Points: 197</p>
+<p># Comments: 77</p>
 
 🔗 **Read more:** [https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations](https://www.vanityfair.com/story/jared-kushner-hacked-phone-secret-negotiations)
 
@@ -101,7 +101,33 @@ Ukraine relies on Starlink for a range of military uses - its owner Elon Musk ha
 
 ---
 
-### 7. US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award
+### 7. Almost all shallow-water coral reefs now face extinction risk, study warns
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+World authority on threatened wildlife classifies 96 percent of assessed coral reef systems as &quot;critically endangered&quot;.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/almost-all-shallow-water-coral-reefs-now-face-extinction-risk-study-warns?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/almost-all-shallow-water-coral-reefs-now-face-extinction-risk-study-warns?traffic_source=rss)
+
+---
+
+### 8. Hundreds of Ethiopians cross into Kenya to flee regional fighting
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Dispute over raising flag of Somali Regional State devolves into fighting between regional forces.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/hundreds-of-ethiopians-cross-into-kenya-to-flee-regional-fighting?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/hundreds-of-ethiopians-cross-into-kenya-to-flee-regional-fighting?traffic_source=rss)
+
+---
+
+### 9. US-sanctioned ICC wins Sakharov Prize, EU’s top human rights award
 
 **Source:** Al Jazeera
 
@@ -111,32 +137,6 @@ Ukraine relies on Starlink for a range of military uses - its owner Elon Musk ha
 The prize comes less than two weeks after US President Donald Trump announced sanctions against the court.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award?traffic_source=rss)
-
----
-
-### 8. Ecuador opposition leader Luisa Gonzalez arrested in campaign finance probe
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Gonzalez’s Citizen Revolution Movement has denounced the arrest as politically motivated, calling for her release.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/ecuador-opposition-leader-luisa-gonzalez-arrested-in-campaign-finance-probe?traffic_source=rss)
-
----
-
-### 9. US judge blocks federal operations seeking to identify non-citizen voters
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Homeland Security targets nine states in fraud investigations that critics say intimidate voters.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/22/us-judge-blocks-federal-operations-seeking-to-identify-non-citizen-voters?traffic_source=rss](https://www.aljazeera.com/news/2026/10/22/us-judge-blocks-federal-operations-seeking-to-identify-non-citizen-voters?traffic_source=rss)
 
 ---
 
