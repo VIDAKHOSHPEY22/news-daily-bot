@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-23T13:24:48+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I Did This Without Your Knowledge",
+            "description": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge\">https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50204926\">https://news.ycombinator.com/item?id=50204926</a></p>\n<p>Points: 28</p>\n<p># Comments: 14</p>",
+            "url": "https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge",
+            "published": "Fri, 23 Oct 2026 05:51:45 +0000",
+            "fetched": "2026-10-23T13:24:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "This I Believe (1952)",
+            "description": "<p>Article URL: <a href=\"https://www.awakin.org/v2/read/view.php?tid=468\">https://www.awakin.org/v2/read/view.php?tid=468</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50203759\">https://news.ycombinator.com/item?id=50203759</a></p>\n<p>Points: 86</p>\n<p># Comments: 32</p>",
+            "url": "https://www.awakin.org/v2/read/view.php?tid=468",
+            "published": "Fri, 23 Oct 2026 02:19:38 +0000",
+            "fetched": "2026-10-23T13:24:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The foolishness of \"natural language programming\" (1978)",
+            "description": "<p>Article URL: <a href=\"https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html\">https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50203161\">https://news.ycombinator.com/item?id=50203161</a></p>\n<p>Points: 175</p>\n<p># Comments: 100</p>",
+            "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+            "published": "Fri, 23 Oct 2026 00:52:01 +0000",
+            "fetched": "2026-10-23T13:24:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: BBC presenter battles strong winds as storm hits Newquay",
+            "description": "BBC lead weather presenter Simon King is in Newquay as the \"full force\" of the storm arrives.",
+            "url": "https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 08:26:47 GMT",
+            "fetched": "2026-10-23T13:24:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Detective raped by colleague says Met handling of case 'like being raped again'",
+            "description": "Linda Williams was attacked by David Carrick, who was jailed in 2023 for sexual offences against 12 women.",
+            "url": "https://www.bbc.co.uk/news/articles/ckdd83dz0153o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 05:00:05 GMT",
+            "fetched": "2026-10-23T13:24:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Met chief Rowley not fit for job, says detective raped by colleague",
+            "description": "Det Con Linda Williams, a victim of serial abuser David Carrick, says she has no faith in the system.",
+            "url": "https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 05:00:12 GMT",
+            "fetched": "2026-10-23T13:24:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "NBA’s Irving praises Al-Shaair’s ‘selfless act’ after Hind Rajab fine paid",
+            "description": "Kyrie Irving explains paying fine and praises Azeez Al-Shaair for continuously honouring slain Palestinian children.",
+            "url": "https://www.aljazeera.com/sports/2026/10/23/nbas-irving-praises-al-shaairs-selfless-act-after-hind-rajab-fine-paid?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 09:40:57 +0000",
+            "fetched": "2026-10-23T13:24:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What role does the military play in Israeli schools?",
+            "description": "For Israeli teenagers, military life ordinarily kicks off in school.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/what-role-does-the-military-play-in-israeli-schools?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 09:32:33 +0000",
+            "fetched": "2026-10-23T13:24:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pulaku: The two faces of Nigeria’s vigilantes",
+            "description": "Allegations of torture and abuse shadow a Fulani-led vigilante group despite its role in clamping down on kidnappers.",
+            "url": "https://www.aljazeera.com/features/longform/2026/10/23/pulaku-the-two-faces-of-nigerias-vigilantes?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 09:30:05 +0000",
+            "fetched": "2026-10-23T13:24:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-23T13:24:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455",
+            "published": "2026-10-18T08:25:00Z",
+            "fetched": "2026-10-23T13:24:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire COOLEY, Mendocino, California",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25450",
+            "published": "2026-10-16T20:14:00Z",
+            "fetched": "2026-10-23T13:24:48+03:30"
+        }
+    ]
+}

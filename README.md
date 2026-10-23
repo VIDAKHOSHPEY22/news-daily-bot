@@ -1,33 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-23 08:34:35
+**Last Update:** 2026-10-23 13:24:48
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Median product "lifespan" has fallen from ~4y down to ~1.5y
+### 1. I Did This Without Your Knowledge
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>The "product graveyard" of SaaSHub has been tracking the status (and lifespan) of hundreds of thousands of products. It's been hovering around 4y for quite some time. However, there's a sharp decline in 2026 leading to about 1.5y these days. <a href="https://www.saashub.com/product-graveyard" rel="nofollow">https://www.saashub.com/product-graveyard</a> That's a huge drop. And, it matches my "human" observations. A lot of products are being vibe coded, released, and soon after that abandoned. It's become too cheap to produce software. So, a lot of people have been experimenting for 'free' with their ideas - only to find out that they weren't viable... or that they couldn't bring customers in. Distribution and marketing have become much more important than before - within the context that everyone can build "features" for free.<p>Anyhow, I expect this trend of shortening product lifespan to continue even further down. Or maybe, at some point people will realised that there are no users for their products as every user can "build" their own and custom product. Leaving us with a dozen huge platforms that host and help you build those apps. Until then - it's a crazy gold rush and a lot of makers are abandoning their empty buckets.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50204125">https://news.ycombinator.com/item?id=50204125</a></p>
-<p>Points: 14</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge">https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50204926">https://news.ycombinator.com/item?id=50204926</a></p>
+<p>Points: 28</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=50204125](https://news.ycombinator.com/item?id=50204125)
+🔗 **Read more:** [https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge](https://www.lesswrong.com/posts/3375SZNGA5dKHQMie/i-did-this-without-your-knowledge)
 
 ---
 
-### 2. This I Believe
+### 2. This I Believe (1952)
 
 **Source:** Hacker News
 
@@ -36,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.awakin.org/v2/read/view.php?tid=468">https://www.awakin.org/v2/read/view.php?tid=468</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50203759">https://news.ycombinator.com/item?id=50203759</a></p>
-<p>Points: 15</p>
-<p># Comments: 3</p>
+<p>Points: 86</p>
+<p># Comments: 32</p>
 
 🔗 **Read more:** [https://www.awakin.org/v2/read/view.php?tid=468](https://www.awakin.org/v2/read/view.php?tid=468)
 
@@ -52,88 +51,88 @@
 **Description:**
 <p>Article URL: <a href="https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html">https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50203161">https://news.ycombinator.com/item?id=50203161</a></p>
-<p>Points: 75</p>
-<p># Comments: 59</p>
+<p>Points: 175</p>
+<p># Comments: 100</p>
 
 🔗 **Read more:** [https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
 
 ---
 
-### 4. Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns public
+### 4. Watch: BBC presenter battles strong winds as storm hits Newquay
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains.
+BBC lead weather presenter Simon King is in Newquay as the "full force" of the storm arrives.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Race to update services' computer systems after cyber-security flaw found
+### 5. Detective raped by colleague says Met handling of case 'like being raped again'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Websites were taken offline after the developers of programming language PHP said "critical vulnerabilities" had been discovered.
+Linda Williams was attacked by David Carrick, who was jailed in 2023 for sexual offences against 12 women.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckdd83dz0153o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckdd83dz0153o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Musk has restored access to Ukraine's Starlink network, Trump says
+### 6. Watch: Met chief Rowley not fit for job, says detective raped by colleague
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ukraine relies on Starlink for a range of military uses - its owner Elon Musk has repeatedly denied restricting access.
+Det Con Linda Williams, a victim of serial abuser David Carrick, says she has no faith in the system.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq74pjpmx0e8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c3wyv7lr15nvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Keeping Madhubala alive: The fight for Karachi’s captive elephants
+### 7. NBA’s Irving praises Al-Shaair’s ‘selfless act’ after Hind Rajab fine paid
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Karachi&#039;s last two African elephants remain in captivity. Their sisters are already dead. Will they survive?
+Kyrie Irving explains paying fine and praises Azeez Al-Shaair for continuously honouring slain Palestinian children.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/23/keeping-madhubala-alive-the-fight-for-karachis-captive-elephants?traffic_source=rss](https://www.aljazeera.com/features/2026/10/23/keeping-madhubala-alive-the-fight-for-karachis-captive-elephants?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/23/nbas-irving-praises-al-shaairs-selfless-act-after-hind-rajab-fine-paid?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/23/nbas-irving-praises-al-shaairs-selfless-act-after-hind-rajab-fine-paid?traffic_source=rss)
 
 ---
 
-### 8. Israel arrests 36 Palestinians in the West Bank, attacks on farmers ramp up
+### 8. What role does the military play in Israeli schools?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli pogroms on Palestinian farmers and their lands during the olive harvest season intensify.
+For Israeli teenagers, military life ordinarily kicks off in school.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/israel-arrests-36-palestinians-in-the-west-bank-attacks-on-farmers-ramp-up?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/what-role-does-the-military-play-in-israeli-schools?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/what-role-does-the-military-play-in-israeli-schools?traffic_source=rss)
 
 ---
 
-### 9. US tech stocks tumble as investors fret over AI spending
+### 9. Pulaku: The two faces of Nigeria’s vigilantes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tech-heavy Nasdaq falls 2.6 percent as debate rages over whether AI is a bubble.
+Allegations of torture and abuse shadow a Fulani-led vigilante group despite its role in clamping down on kidnappers.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/10/23/pulaku-the-two-faces-of-nigerias-vigilantes?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/10/23/pulaku-the-two-faces-of-nigerias-vigilantes?traffic_source=rss)
 
 ---
 
