@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-23T22:33:13+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I turned my TV into a Game Boy Color with a Pokemon town as my home screen",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/robbietilton/status/2111936458923851923\">https://twitter.com/robbietilton/status/2111936458923851923</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50212668\">https://news.ycombinator.com/item?id=50212668</a></p>\n<p>Points: 15</p>\n<p># Comments: 5</p>",
+            "url": "https://twitter.com/robbietilton/status/2111936458923851923",
+            "published": "Fri, 23 Oct 2026 17:40:22 +0000",
+            "fetched": "2026-10-23T22:33:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Air Purifiers as White Noise Machines",
+            "description": "<p>Article URL: <a href=\"https://www.jefftk.com/p/air-purifiers-as-white-noise-machines\">https://www.jefftk.com/p/air-purifiers-as-white-noise-machines</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50212507\">https://news.ycombinator.com/item?id=50212507</a></p>\n<p>Points: 9</p>\n<p># Comments: 6</p>",
+            "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+            "published": "Fri, 23 Oct 2026 17:28:36 +0000",
+            "fetched": "2026-10-23T22:33:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Can we replace a $150k Looker with a bucket of HTML files?",
+            "description": "<p>Article URL: <a href=\"https://david.lequin.dev/blog/bi-software-is-dead/\">https://david.lequin.dev/blog/bi-software-is-dead/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50212320\">https://news.ycombinator.com/item?id=50212320</a></p>\n<p>Points: 40</p>\n<p># Comments: 24</p>",
+            "url": "https://david.lequin.dev/blog/bi-software-is-dead/",
+            "published": "Fri, 23 Oct 2026 17:15:03 +0000",
+            "fetched": "2026-10-23T22:33:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
+            "description": "The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 18:17:06 GMT",
+            "fetched": "2026-10-23T22:33:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan statement offers answers after years of questions about her relationship with father",
+            "description": "Today, without exactly using the word, Meghan claimed vindication.",
+            "url": "https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 17:27:50 GMT",
+            "fetched": "2026-10-23T22:33:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Moment part of Brighton's historic West Pier collapses",
+            "description": "Footage taken during Storm Austen shows a section of the famous landmark battered by large waves and collapsing into the water.",
+            "url": "https://www.bbc.co.uk/news/videos/cwe8ln10l6nyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 13:03:29 GMT",
+            "fetched": "2026-10-23T22:33:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel locks down occupied West Bank after Hebron shooting",
+            "description": "Israel has imposed a lockdown across the occupied West Bank after a shooting near Hebron killed two Israeli soldiers.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 18:38:26 +0000",
+            "fetched": "2026-10-23T22:33:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Former FBI officials charged in connection with Hunter Biden laptop probe",
+            "description": "Lawyers for two accused officials say Department of Justice seeking to revive scandal in the run-up to midterm vote.",
+            "url": "https://www.aljazeera.com/news/2026/10/23/former-fbi-officials-charged-in-connection-with-hunter-biden-laptop-probe?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 18:22:51 +0000",
+            "fetched": "2026-10-23T22:33:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump administration sues to block possible Democratic win in Alaska",
+            "description": "The lawsuit raises concerns the US administration may be looking to meddle in some of this midterm cycle’s races.",
+            "url": "https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 17:57:54 +0000",
+            "fetched": "2026-10-23T22:33:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-23T22:33:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-23T22:33:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-23T22:33:13+03:30"
+        }
+    ]
+}

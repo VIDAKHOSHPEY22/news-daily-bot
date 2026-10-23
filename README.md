@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-23 18:43:24
+**Last Update:** 2026-10-23 22:33:13
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. When the Term "Heatwave" Is No Longer Enough
+### 1. I turned my TV into a Game Boy Color with a Pokemon town as my home screen
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://coveringclimatenow.org/from-us-story/when-the-term-heatwave-is-no-longer-enough/">https://coveringclimatenow.org/from-us-story/when-the-term-heatwave-is-no-longer-enough/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50209961">https://news.ycombinator.com/item?id=50209961</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://twitter.com/robbietilton/status/2111936458923851923">https://twitter.com/robbietilton/status/2111936458923851923</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50212668">https://news.ycombinator.com/item?id=50212668</a></p>
+<p>Points: 15</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://coveringclimatenow.org/from-us-story/when-the-term-heatwave-is-no-longer-enough/](https://coveringclimatenow.org/from-us-story/when-the-term-heatwave-is-no-longer-enough/)
+🔗 **Read more:** [https://twitter.com/robbietilton/status/2111936458923851923](https://twitter.com/robbietilton/status/2111936458923851923)
 
 ---
 
-### 2. Investor-owned utilities charge 23% more for electricity than public providers
+### 2. Air Purifiers as White Noise Machines
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.kadoa.com/energy-prices/insights/investor-owned-utilities">https://www.kadoa.com/energy-prices/insights/investor-owned-utilities</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50208837">https://news.ycombinator.com/item?id=50208837</a></p>
-<p>Points: 311</p>
-<p># Comments: 233</p>
+<p>Article URL: <a href="https://www.jefftk.com/p/air-purifiers-as-white-noise-machines">https://www.jefftk.com/p/air-purifiers-as-white-noise-machines</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50212507">https://news.ycombinator.com/item?id=50212507</a></p>
+<p>Points: 9</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.kadoa.com/energy-prices/insights/investor-owned-utilities](https://www.kadoa.com/energy-prices/insights/investor-owned-utilities)
+🔗 **Read more:** [https://www.jefftk.com/p/air-purifiers-as-white-noise-machines](https://www.jefftk.com/p/air-purifiers-as-white-noise-machines)
 
 ---
 
-### 3. Shitter – A Nitter Fork
+### 3. Can we replace a $150k Looker with a bucket of HTML files?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://codeberg.org/shitter/shitter">https://codeberg.org/shitter/shitter</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50208343">https://news.ycombinator.com/item?id=50208343</a></p>
-<p>Points: 103</p>
-<p># Comments: 62</p>
+<p>Article URL: <a href="https://david.lequin.dev/blog/bi-software-is-dead/">https://david.lequin.dev/blog/bi-software-is-dead/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50212320">https://news.ycombinator.com/item?id=50212320</a></p>
+<p>Points: 40</p>
+<p># Comments: 24</p>
 
-🔗 **Read more:** [https://codeberg.org/shitter/shitter](https://codeberg.org/shitter/shitter)
+🔗 **Read more:** [https://david.lequin.dev/blog/bi-software-is-dead/](https://david.lequin.dev/blog/bi-software-is-dead/)
 
 ---
 
@@ -71,72 +71,85 @@ The Duchess of Sussex issues a statement following reports her father Thomas Mar
 
 ---
 
-### 5. Watch: BBC presenter battles strong winds as storm hits Newquay
+### 5. Meghan statement offers answers after years of questions about her relationship with father
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-BBC lead weather presenter Simon King is in Newquay as the "full force" of the storm arrives.
+Today, without exactly using the word, Meghan claimed vindication.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmzxlgkyl3vpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Deadly shooting near Paris investigated as 'crime of terrorism', minister says
+### 6. Watch: Moment part of Brighton's historic West Pier collapses
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended.
+Footage taken during Storm Austen shows a section of the famous landmark battered by large waves and collapsing into the water.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwe8ln10l6nyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwe8ln10l6nyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. What to know as Brazil prepares for tense presidential run-off
+### 7. Israel locks down occupied West Bank after Hebron shooting
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Polls show leftist incumbent Lula closing gap on right-wing rival Flavio Bolsonaro ahead of second round of voting.
+Israel has imposed a lockdown across the occupied West Bank after a shooting near Hebron killed two Israeli soldiers.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/what-to-know-as-brazil-prepares-for-tense-presidential-run-off?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/what-to-know-as-brazil-prepares-for-tense-presidential-run-off?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/israel-locks-down-occupied-west-bank-after-hebron-shooting?traffic_source=rss)
 
 ---
 
-### 8. Conte dismisses reports of Man United takeover with Carrick’s job uncertain
+### 8. Former FBI officials charged in connection with Hunter Biden laptop probe
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ex-Chelsea boss Antonio Conte denies Manchester United link, says reports he demanded full control of club &#039;unfounded&#039;.
+Lawyers for two accused officials say Department of Justice seeking to revive scandal in the run-up to midterm vote.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/23/conte-dismisses-reports-of-man-united-takeover-with-carricks-job-uncertain?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/23/conte-dismisses-reports-of-man-united-takeover-with-carricks-job-uncertain?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/former-fbi-officials-charged-in-connection-with-hunter-biden-laptop-probe?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/former-fbi-officials-charged-in-connection-with-hunter-biden-laptop-probe?traffic_source=rss)
 
 ---
 
-### 9. Mississippi releases video of 1-year-old’s fatal police shooting
+### 9. Trump administration sues to block possible Democratic win in Alaska
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mississippi released bodycam footage of the fatal shooting of 1-year-old Kohen Wiley.
+The lawsuit raises concerns the US administration may be looking to meddle in some of this midterm cycle’s races.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/mississippi-releases-video-of-1-year-olds-fatal-police-shooting?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/mississippi-releases-video-of-1-year-olds-fatal-police-shooting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/trump-administration-sues-to-block-possible-democratic-win-in-alaska?traffic_source=rss)
 
 ---
 
-### 10. Hurricane Vance
+### 10. Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590)
+
+---
+
+### 11. Hurricane Vance
 
 **Source:** NASA
 
@@ -149,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Cyclone Agueda
+### 12. Tropical Cyclone Agueda
 
 **Source:** NASA
 
@@ -159,19 +172,6 @@ Natural event: Severe Storms
 Natural event: Severe Storms
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457)
-
----
-
-### 12. Prescribed Fire STE - Goodin Ridge RX, McCreary, Kentucky
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25455)
 
 ---
 
