@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-24T14:48:55+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Node.js Vulnerability Blog",
+            "description": "<p>Article URL: <a href=\"https://nodejs.org/en/blog/vulnerability\">https://nodejs.org/en/blog/vulnerability</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50220145\">https://news.ycombinator.com/item?id=50220145</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+            "url": "https://nodejs.org/en/blog/vulnerability",
+            "published": "Sat, 24 Oct 2026 11:08:47 +0000",
+            "fetched": "2026-10-24T14:48:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I Don't Understand Quantum Physics (2018)",
+            "description": "<p>Article URL: <a href=\"https://www.southampton.ac.uk/~doug/quantum_physics/index.html\">https://www.southampton.ac.uk/~doug/quantum_physics/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50219666\">https://news.ycombinator.com/item?id=50219666</a></p>\n<p>Points: 77</p>\n<p># Comments: 36</p>",
+            "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+            "published": "Sat, 24 Oct 2026 09:53:26 +0000",
+            "fetched": "2026-10-24T14:48:55+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps",
+            "description": "<p>Article URL: <a href=\"https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497\">https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50219177\">https://news.ycombinator.com/item?id=50219177</a></p>\n<p>Points: 16</p>\n<p># Comments: 4</p>",
+            "url": "https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497",
+            "published": "Sat, 24 Oct 2026 08:06:39 +0000",
+            "fetched": "2026-10-24T14:48:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
+            "description": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
+            "url": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 11:00:48 GMT",
+            "fetched": "2026-10-24T14:48:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Between quick wins and big dreams lies Burnham's biggest test",
+            "description": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
+            "url": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 11:03:57 GMT",
+            "fetched": "2026-10-24T14:48:55+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mum dies after trying to rescue sons swept away at sea in Bahamas",
+            "description": "The children were subsequently rescued from the water, police say.",
+            "url": "https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 09:45:47 GMT",
+            "fetched": "2026-10-24T14:48:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "German police detain suspect after fire engulfs Hitler’s Eagle’s Nest",
+            "description": "No injuries were reported at the building, while police said a ‘suspicious person’ had been taken into custody.",
+            "url": "https://www.aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 11:01:05 +0000",
+            "fetched": "2026-10-24T14:48:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bayern say coach Kompany ‘stable’ in hospital but will be out for weeks",
+            "description": "Bayern Munich coach Vincent Kompany collapsed during training on Friday but is said to be &#039;stable&#039; in hospital.",
+            "url": "https://www.aljazeera.com/sports/2026/10/24/bayern-say-coach-kompany-stable-in-hospital-but-will-be-out-for-weeks?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 10:59:34 +0000",
+            "fetched": "2026-10-24T14:48:55+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Deadly ‘racist’ attack in France: Are hate crimes rising in Europe?",
+            "description": "Monitoring group reports more Muslims in Europe face racial discrimination as &#039;terrorist&#039; attack kills one in France.",
+            "url": "https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 10:47:07 +0000",
+            "fetched": "2026-10-24T14:48:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-24T14:48:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-24T14:48:55+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-24T14:48:55+03:30"
+        }
+    ]
+}

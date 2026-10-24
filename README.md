@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-24 12:54:11
+**Last Update:** 2026-10-24 14:48:55
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended
+### 1. Node.js Vulnerability Blog
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/">https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50218633">https://news.ycombinator.com/item?id=50218633</a></p>
-<p>Points: 98</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://nodejs.org/en/blog/vulnerability">https://nodejs.org/en/blog/vulnerability</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50220145">https://news.ycombinator.com/item?id=50220145</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/)
+🔗 **Read more:** [https://nodejs.org/en/blog/vulnerability](https://nodejs.org/en/blog/vulnerability)
 
 ---
 
-### 2. OBS Studio 33
+### 2. I Don't Understand Quantum Physics (2018)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/obsproject/obs-studio/releases/tag/33.0.0">https://github.com/obsproject/obs-studio/releases/tag/33.0.0</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50218430">https://news.ycombinator.com/item?id=50218430</a></p>
-<p>Points: 126</p>
-<p># Comments: 32</p>
+<p>Article URL: <a href="https://www.southampton.ac.uk/~doug/quantum_physics/index.html">https://www.southampton.ac.uk/~doug/quantum_physics/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50219666">https://news.ycombinator.com/item?id=50219666</a></p>
+<p>Points: 77</p>
+<p># Comments: 36</p>
 
-🔗 **Read more:** [https://github.com/obsproject/obs-studio/releases/tag/33.0.0](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
+🔗 **Read more:** [https://www.southampton.ac.uk/~doug/quantum_physics/index.html](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
 
 ---
 
-### 3. How close can pure functional programming get to C?
+### 3. Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://rtfeldman.com/fp-vs-c">https://rtfeldman.com/fp-vs-c</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50218195">https://news.ycombinator.com/item?id=50218195</a></p>
-<p>Points: 107</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497">https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50219177">https://news.ycombinator.com/item?id=50219177</a></p>
+<p>Points: 16</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://rtfeldman.com/fp-vs-c](https://rtfeldman.com/fp-vs-c)
+🔗 **Read more:** [https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
 
 ---
 
-### 4. France prepares for day of protest a week after nationwide riots
+### 4. Plan for Northern Olympics to get £7m in Healey's Budget
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deployed over some may defy restrictions.
+The full feasibility study will look in detail at how hosting the Games in northern England could work.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Met investigates reports of letter detailing claims about Meghan's father
+### 5. Between quick wins and big dreams lies Burnham's biggest test
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Scotland Yard opens an inquiry after the Duchess of Sussex said she was sent a letter containing "disturbing allegations".
+The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. UK to invest £100m in 'world first' AI Biosecurity Lab
+### 6. Mum dies after trying to rescue sons swept away at sea in Bahamas
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.
+The children were subsequently rescued from the water, police say.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Why is Israel launching a new military operation in the occupied West Bank?
+### 7. German police detain suspect after fire engulfs Hitler’s Eagle’s Nest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Netanyahu says &#039;we will destroy this place&#039; as Israeli forces begin days-long operation with raids and demolitions.
+No injuries were reported at the building, while police said a ‘suspicious person’ had been taken into custody.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest?traffic_source=rss)
 
 ---
 
-### 8. Bolivian teachers strike over wages and education reform
+### 8. Bayern say coach Kompany ‘stable’ in hospital but will be out for weeks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bolivian teachers strike over wages and education reform
+Bayern Munich coach Vincent Kompany collapsed during training on Friday but is said to be &#039;stable&#039; in hospital.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/bolivian-teachers-strike-over-wages-and-education-reform?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/bolivian-teachers-strike-over-wages-and-education-reform?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/24/bayern-say-coach-kompany-stable-in-hospital-but-will-be-out-for-weeks?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/24/bayern-say-coach-kompany-stable-in-hospital-but-will-be-out-for-weeks?traffic_source=rss)
 
 ---
 
-### 9. The Muslims finding belonging in southern Spain
+### 9. Deadly ‘racist’ attack in France: Are hate crimes rising in Europe?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Centuries after the end of Islamic rule, some Muslims are choosing Andalusia, drawn by traces of its past.
+Monitoring group reports more Muslims in Europe face racial discrimination as &#039;terrorist&#039; attack kills one in France.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/10/24/the-muslims-finding-belonging-in-southern-spain?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/10/24/the-muslims-finding-belonging-in-southern-spain?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss)
 
 ---
 
