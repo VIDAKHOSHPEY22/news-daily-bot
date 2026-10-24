@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-24T04:20:15+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+            "description": "<p>Article URL: <a href=\"https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8\">https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50216791\">https://news.ycombinator.com/item?id=50216791</a></p>\n<p>Points: 29</p>\n<p># Comments: 6</p>",
+            "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
+            "published": "Fri, 23 Oct 2026 23:30:17 +0000",
+            "fetched": "2026-10-24T04:20:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "German court calls Google aerial imagery 'spying'",
+            "description": "<p>Article URL: <a href=\"https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/\">https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50216142\">https://news.ycombinator.com/item?id=50216142</a></p>\n<p>Points: 24</p>\n<p># Comments: 7</p>",
+            "url": "https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/",
+            "published": "Fri, 23 Oct 2026 22:18:49 +0000",
+            "fetched": "2026-10-24T04:20:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "CVE Tracker",
+            "description": "<p>Article URL: <a href=\"https://cve.0xosprey.com/\">https://cve.0xosprey.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50215530\">https://news.ycombinator.com/item?id=50215530</a></p>\n<p>Points: 85</p>\n<p># Comments: 28</p>",
+            "url": "https://cve.0xosprey.com/",
+            "published": "Fri, 23 Oct 2026 21:21:47 +0000",
+            "fetched": "2026-10-24T04:20:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Storm Austen brings power cuts and travel disruption as more wind and rain forecast",
+            "description": "A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather.",
+            "url": "https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 21:10:47 GMT",
+            "fetched": "2026-10-24T04:20:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan says she was informed about 'disturbing allegations' against her father in 2018",
+            "description": "The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 18:17:06 GMT",
+            "fetched": "2026-10-24T04:20:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan statement offers answers after years of questions about her relationship with father",
+            "description": "Today, without exactly using the word, Meghan claimed vindication.",
+            "url": "https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 23 Oct 2026 17:27:50 GMT",
+            "fetched": "2026-10-24T04:20:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Israel launches ‘targeted’ Hebron operation after attack",
+            "description": "Israeli army launches a &#039;targeted&#039; operation in Hebron after a shooting killed two soldiers.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 00:00:00 +0000",
+            "fetched": "2026-10-24T04:20:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Macklemore: ‘I say free Palestine’ as he kicks off a new tour",
+            "description": "Macklemore says ‘being human is not complicated’ as he kicked off his Free Palestine tour on Thursday night.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 23:25:11 +0000",
+            "fetched": "2026-10-24T04:20:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Typhoon Champi hits Taiwan, killing one and injuring 350",
+            "description": "Authorities warn of &#039;destructive winds&#039; and urge residents to shelter as the storm passes the island&#039;s northeast.",
+            "url": "https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss",
+            "published": "Fri, 23 Oct 2026 23:10:54 +0000",
+            "fetched": "2026-10-24T04:20:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-24T04:20:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-24T04:20:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-24T04:20:15+03:30"
+        }
+    ]
+}
