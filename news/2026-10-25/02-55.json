@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-25T02:55:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Free Software Is a Failure",
+            "description": "<p>Article URL: <a href=\"http://www.paritybit.ca/blog/free-software-is-an-abject-failure/\">http://www.paritybit.ca/blog/free-software-is-an-abject-failure/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50226261\">https://news.ycombinator.com/item?id=50226261</a></p>\n<p>Points: 7</p>\n<p># Comments: 6</p>",
+            "url": "http://www.paritybit.ca/blog/free-software-is-an-abject-failure/",
+            "published": "Sat, 24 Oct 2026 22:55:26 +0000",
+            "fetched": "2026-10-25T02:55:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Argus – a free, open-source agentic security operations platform – MIT",
+            "description": "<p>Article URL: <a href=\"https://thomasunise.com/argus\">https://thomasunise.com/argus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50225748\">https://news.ycombinator.com/item?id=50225748</a></p>\n<p>Points: 19</p>\n<p># Comments: 4</p>",
+            "url": "https://thomasunise.com/argus",
+            "published": "Sat, 24 Oct 2026 21:54:16 +0000",
+            "fetched": "2026-10-25T02:55:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "We should be more ambitious with the software we build",
+            "description": "<p>Article URL: <a href=\"https://danluu.com/ambitious/\">https://danluu.com/ambitious/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50225695\">https://news.ycombinator.com/item?id=50225695</a></p>\n<p>Points: 35</p>\n<p># Comments: 23</p>",
+            "url": "https://danluu.com/ambitious/",
+            "published": "Sat, 24 Oct 2026 21:47:31 +0000",
+            "fetched": "2026-10-25T02:55:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+            "description": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+            "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 21:09:27 GMT",
+            "fetched": "2026-10-25T02:55:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
+            "description": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+            "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 19:37:35 GMT",
+            "fetched": "2026-10-25T02:55:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+            "description": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
+            "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 22:44:36 GMT",
+            "fetched": "2026-10-25T02:55:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump lauds Melania over Russia-Ukraine localised ceasefire deal",
+            "description": "Donald Trump praised First Lady as &#039;better than professionals&#039; after a localised Russia-Ukraine ceasefire in Oleshky.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 23:08:16 +0000",
+            "fetched": "2026-10-25T02:55:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gunmen kill at least 10 people in eastern Nigeria, police say",
+            "description": "Nigerian police say a large group carried out the attack on Binnari village in Taraba State.",
+            "url": "https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 22:35:45 +0000",
+            "fetched": "2026-10-25T02:55:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How have Democrats’ policies shifted since the last major US election?",
+            "description": "From trans rights to Israel&#039;s war on Gaza, the party&#039;s candidates have responded to voter shifts on a slew of issues.",
+            "url": "https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 22:28:37 +0000",
+            "fetched": "2026-10-25T02:55:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-25T02:55:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-25T02:55:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-25T02:55:53+03:30"
+        }
+    ]
+}
