@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-24T17:26:10+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Elon Musk Just Gave Europe a Reason to Replace American Technology",
+            "description": "<p>Article URL: <a href=\"https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/\">https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50220913\">https://news.ycombinator.com/item?id=50220913</a></p>\n<p>Points: 129</p>\n<p># Comments: 69</p>",
+            "url": "https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/",
+            "published": "Sat, 24 Oct 2026 13:09:28 +0000",
+            "fetched": "2026-10-24T17:26:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+            "description": "<p>Article URL: <a href=\"https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/\">https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50220204\">https://news.ycombinator.com/item?id=50220204</a></p>\n<p>Points: 49</p>\n<p># Comments: 12</p>",
+            "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/",
+            "published": "Sat, 24 Oct 2026 11:18:54 +0000",
+            "fetched": "2026-10-24T17:26:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
+            "description": "<p>Article URL: <a href=\"https://gitlab.com/c4psu13/mali-pagecache-root\">https://gitlab.com/c4psu13/mali-pagecache-root</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50220042\">https://news.ycombinator.com/item?id=50220042</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+            "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
+            "published": "Sat, 24 Oct 2026 10:51:35 +0000",
+            "fetched": "2026-10-24T17:26:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
+            "description": "The Met said it passed information to the duchess but did not share it with other law enforcement agencies.",
+            "url": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 12:59:49 GMT",
+            "fetched": "2026-10-24T17:26:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Plan for Northern Olympics to get £7m in Healey's Budget",
+            "description": "The full feasibility study will look in detail at how hosting the Games in northern England could work.",
+            "url": "https://www.bbc.co.uk/news/articles/cv98z92ekg9zo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 11:00:48 GMT",
+            "fetched": "2026-10-24T17:26:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Between quick wins and big dreams lies Burnham's biggest test",
+            "description": "The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.",
+            "url": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 11:03:57 GMT",
+            "fetched": "2026-10-24T17:26:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who was behind the deadly church shooting in Jordan?",
+            "description": "Authorities are investigating the rare attack on a Christian church; the assailants remain unidentified and at large.",
+            "url": "https://www.aljazeera.com/news/2026/10/24/who-was-behind-the-deadly-church-shooting-in-jordan?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 13:39:26 +0000",
+            "fetched": "2026-10-24T17:26:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Netanyahu floats Crypto to bypass sanctions",
+            "description": "Netanyahu floats Crypto to bypass sanctions",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 13:27:11 +0000",
+            "fetched": "2026-10-24T17:26:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Armed Israeli settlers try to break into Palestinian grandfather’s home",
+            "description": "A Palestinian man is facing Israeli settler attacks and a demolition order from Israeli forces in Umm Safa village.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/armed-israeli-settlers-try-to-break-into-palestinian-grandfathers-home?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 13:16:23 +0000",
+            "fetched": "2026-10-24T17:26:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-24T17:26:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-24T17:26:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-24T17:26:10+03:30"
+        }
+    ]
+}

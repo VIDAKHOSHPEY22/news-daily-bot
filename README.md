@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-24 14:48:55
+**Last Update:** 2026-10-24 17:26:10
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Node.js Vulnerability Blog
+### 1. Elon Musk Just Gave Europe a Reason to Replace American Technology
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nodejs.org/en/blog/vulnerability">https://nodejs.org/en/blog/vulnerability</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50220145">https://news.ycombinator.com/item?id=50220145</a></p>
-<p>Points: 3</p>
+<p>Article URL: <a href="https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/">https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50220913">https://news.ycombinator.com/item?id=50220913</a></p>
+<p>Points: 129</p>
+<p># Comments: 69</p>
+
+🔗 **Read more:** [https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/)
+
+---
+
+### 2. AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/">https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50220204">https://news.ycombinator.com/item?id=50220204</a></p>
+<p>Points: 49</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/)
+
+---
+
+### 3. Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://gitlab.com/c4psu13/mali-pagecache-root">https://gitlab.com/c4psu13/mali-pagecache-root</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50220042">https://news.ycombinator.com/item?id=50220042</a></p>
+<p>Points: 13</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://nodejs.org/en/blog/vulnerability](https://nodejs.org/en/blog/vulnerability)
+🔗 **Read more:** [https://gitlab.com/c4psu13/mali-pagecache-root](https://gitlab.com/c4psu13/mali-pagecache-root)
 
 ---
 
-### 2. I Don't Understand Quantum Physics (2018)
+### 4. Met Police says letter with claims about Meghan's father not shared with other law enforcement
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://www.southampton.ac.uk/~doug/quantum_physics/index.html">https://www.southampton.ac.uk/~doug/quantum_physics/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50219666">https://news.ycombinator.com/item?id=50219666</a></p>
-<p>Points: 77</p>
-<p># Comments: 36</p>
+The Met said it passed information to the duchess but did not share it with other law enforcement agencies.
 
-🔗 **Read more:** [https://www.southampton.ac.uk/~doug/quantum_physics/index.html](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497">https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50219177">https://news.ycombinator.com/item?id=50219177</a></p>
-<p>Points: 16</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
-
----
-
-### 4. Plan for Northern Olympics to get £7m in Healey's Budget
+### 5. Plan for Northern Olympics to get £7m in Healey's Budget
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ The full feasibility study will look in detail at how hosting the Games in north
 
 ---
 
-### 5. Between quick wins and big dreams lies Burnham's biggest test
+### 6. Between quick wins and big dreams lies Burnham's biggest test
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The prime minister might be dreaming of gold medals in 2040, but he must first n
 
 ---
 
-### 6. Mum dies after trying to rescue sons swept away at sea in Bahamas
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The children were subsequently rescued from the water, police say.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm86z5n0yvy6o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. German police detain suspect after fire engulfs Hitler’s Eagle’s Nest
+### 7. Who was behind the deadly church shooting in Jordan?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-No injuries were reported at the building, while police said a ‘suspicious person’ had been taken into custody.
+Authorities are investigating the rare attack on a Christian church; the assailants remain unidentified and at large.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/german-police-detain-suspect-after-fire-engulfs-hitlers-eagles-nest?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/who-was-behind-the-deadly-church-shooting-in-jordan?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/who-was-behind-the-deadly-church-shooting-in-jordan?traffic_source=rss)
 
 ---
 
-### 8. Bayern say coach Kompany ‘stable’ in hospital but will be out for weeks
+### 8. Netanyahu floats Crypto to bypass sanctions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bayern Munich coach Vincent Kompany collapsed during training on Friday but is said to be &#039;stable&#039; in hospital.
+Netanyahu floats Crypto to bypass sanctions
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/24/bayern-say-coach-kompany-stable-in-hospital-but-will-be-out-for-weeks?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/24/bayern-say-coach-kompany-stable-in-hospital-but-will-be-out-for-weeks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/netanyahu-floats-crypto-to-bypass-sanctions?traffic_source=rss)
 
 ---
 
-### 9. Deadly ‘racist’ attack in France: Are hate crimes rising in Europe?
+### 9. Armed Israeli settlers try to break into Palestinian grandfather’s home
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Monitoring group reports more Muslims in Europe face racial discrimination as &#039;terrorist&#039; attack kills one in France.
+A Palestinian man is facing Israeli settler attacks and a demolition order from Israeli forces in Umm Safa village.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/deadly-racist-attack-in-france-are-hate-crimes-rising-in-europe?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/armed-israeli-settlers-try-to-break-into-palestinian-grandfathers-home?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/armed-israeli-settlers-try-to-break-into-palestinian-grandfathers-home?traffic_source=rss)
 
 ---
 
