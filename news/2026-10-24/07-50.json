@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-24T07:50:56+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Anger Machine (Joan Kirner Social Justice Oration 2026)",
+            "description": "<p>Article URL: <a href=\"https://www.andrewleigh.com/speech_the_anger_machine_rebuilding_community_in_the_age_of_outrage_21_october_2026\">https://www.andrewleigh.com/speech_the_anger_machine_rebuilding_community_in_the_age_of_outrage_21_october_2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50218126\">https://news.ycombinator.com/item?id=50218126</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://www.andrewleigh.com/speech_the_anger_machine_rebuilding_community_in_the_age_of_outrage_21_october_2026",
+            "published": "Sat, 24 Oct 2026 03:28:23 +0000",
+            "fetched": "2026-10-24T07:50:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+            "description": "<p>Article URL: <a href=\"https://www.sciencedaily.com/releases/2026/10/261018084421.htm\">https://www.sciencedaily.com/releases/2026/10/261018084421.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50217683\">https://news.ycombinator.com/item?id=50217683</a></p>\n<p>Points: 41</p>\n<p># Comments: 10</p>",
+            "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+            "published": "Sat, 24 Oct 2026 01:53:10 +0000",
+            "fetched": "2026-10-24T07:50:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Twelve years of distributed SQLite",
+            "description": "<p>Article URL: <a href=\"https://philipotoole.com/twelve-years-of-distributed-sqlite/\">https://philipotoole.com/twelve-years-of-distributed-sqlite/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50217500\">https://news.ycombinator.com/item?id=50217500</a></p>\n<p>Points: 52</p>\n<p># Comments: 5</p>",
+            "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+            "published": "Sat, 24 Oct 2026 01:16:58 +0000",
+            "fetched": "2026-10-24T07:50:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Second storm to hit UK with more wind and rain as thousands remain without power",
+            "description": "An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches.",
+            "url": "https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 02:25:54 GMT",
+            "fetched": "2026-10-24T07:50:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "France prepares for day of protest a week after nationwide riots",
+            "description": "More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations.",
+            "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 04:03:46 GMT",
+            "fetched": "2026-10-24T07:50:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+            "description": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+            "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 00:05:45 GMT",
+            "fetched": "2026-10-24T07:50:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Argentina identifies dozens of victims killed in its ‘Dirty War’",
+            "description": "Forensic anthropologists have identified the remains of at least 38 victims of Argentina’s last military dictatorship.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 03:51:58 +0000",
+            "fetched": "2026-10-24T07:50:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Marco Rubio urges Cubans to collaborate with CIA to topple gov’t",
+            "description": "Secretary of State Marco Rubio has urged Cubans to secretly work with the CIA to topple their government.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-rubi0-cuba-cia?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 03:50:32 +0000",
+            "fetched": "2026-10-24T07:50:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel raids towns, detains dozens of Palestinians in occupied West Bank",
+            "description": "Israeli military raid targets at least 15 towns in the northern West Bank, including Nablus and Jenin.",
+            "url": "https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 03:47:14 +0000",
+            "fetched": "2026-10-24T07:50:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-24T07:50:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-24T07:50:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-24T07:50:56+03:30"
+        }
+    ]
+}

@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-24 04:20:15
+**Last Update:** 2026-10-24 07:50:56
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Evolving Threat: http2shell is an RCE in node, Python, and more
+### 1. The Anger Machine (Joan Kirner Social Justice Oration 2026)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8">https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50216791">https://news.ycombinator.com/item?id=50216791</a></p>
-<p>Points: 29</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.andrewleigh.com/speech_the_anger_machine_rebuilding_community_in_the_age_of_outrage_21_october_2026">https://www.andrewleigh.com/speech_the_anger_machine_rebuilding_community_in_the_age_of_outrage_21_october_2026</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50218126">https://news.ycombinator.com/item?id=50218126</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8)
+🔗 **Read more:** [https://www.andrewleigh.com/speech_the_anger_machine_rebuilding_community_in_the_age_of_outrage_21_october_2026](https://www.andrewleigh.com/speech_the_anger_machine_rebuilding_community_in_the_age_of_outrage_21_october_2026)
 
 ---
 
-### 2. German court calls Google aerial imagery 'spying'
+### 2. Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/">https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50216142">https://news.ycombinator.com/item?id=50216142</a></p>
-<p>Points: 24</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/10/261018084421.htm">https://www.sciencedaily.com/releases/2026/10/261018084421.htm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50217683">https://news.ycombinator.com/item?id=50217683</a></p>
+<p>Points: 41</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/](https://www.courthousenews.com/german-court-calls-google-aerial-imagery-spying/)
+🔗 **Read more:** [https://www.sciencedaily.com/releases/2026/10/261018084421.htm](https://www.sciencedaily.com/releases/2026/10/261018084421.htm)
 
 ---
 
-### 3. CVE Tracker
+### 3. Twelve years of distributed SQLite
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://cve.0xosprey.com/">https://cve.0xosprey.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50215530">https://news.ycombinator.com/item?id=50215530</a></p>
-<p>Points: 85</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://philipotoole.com/twelve-years-of-distributed-sqlite/">https://philipotoole.com/twelve-years-of-distributed-sqlite/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50217500">https://news.ycombinator.com/item?id=50217500</a></p>
+<p>Points: 52</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://cve.0xosprey.com/](https://cve.0xosprey.com/)
+🔗 **Read more:** [https://philipotoole.com/twelve-years-of-distributed-sqlite/](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
 
 ---
 
-### 4. Storm Austen brings power cuts and travel disruption as more wind and rain forecast
+### 4. Second storm to hit UK with more wind and rain as thousands remain without power
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A second storm, Storm Boelo, is expected to hit Scotland, Northern Ireland and northern England on Saturday bringing more wild weather.
+An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxj0l193y0l8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Meghan says she was informed about 'disturbing allegations' against her father in 2018
+### 5. France prepares for day of protest a week after nationwide riots
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Duchess of Sussex issues a statement following reports her father Thomas Markle is being investigated over child sex abuse images in the Philippines.
+More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x2wpgejjkjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Meghan statement offers answers after years of questions about her relationship with father
+### 6. UK to invest £100m in 'world first' AI Biosecurity Lab
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Today, without exactly using the word, Meghan claimed vindication.
+The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm70p9r04r8wo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iran war live: Israel launches ‘targeted’ Hebron operation after attack
+### 7. Argentina identifies dozens of victims killed in its ‘Dirty War’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli army launches a &#039;targeted&#039; operation in Hebron after a shooting killed two soldiers.
+Forensic anthropologists have identified the remains of at least 38 victims of Argentina’s last military dictatorship.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/24/iran-war-live-israel-launches-targeted-hebron-operation-after-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss)
 
 ---
 
-### 8. Macklemore: ‘I say free Palestine’ as he kicks off a new tour
+### 8. Marco Rubio urges Cubans to collaborate with CIA to topple gov’t
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Macklemore says ‘being human is not complicated’ as he kicked off his Free Palestine tour on Thursday night.
+Secretary of State Marco Rubio has urged Cubans to secretly work with the CIA to topple their government.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/23/macklemore-i-say-free-palestine-as-he-kicks-off-a-new-tour?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-rubi0-cuba-cia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-rubi0-cuba-cia?traffic_source=rss)
 
 ---
 
-### 9. Typhoon Champi hits Taiwan, killing one and injuring 350
+### 9. Israel raids towns, detains dozens of Palestinians in occupied West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Authorities warn of &#039;destructive winds&#039; and urge residents to shelter as the storm passes the island&#039;s northeast.
+Israeli military raid targets at least 15 towns in the northern West Bank, including Nablus and Jenin.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss](https://www.aljazeera.com/news/2026/10/23/typhoon-champi-hits-taiwan-killing-one-and-injuring-350?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank?traffic_source=rss)
 
 ---
 
