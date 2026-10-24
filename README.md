@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-24 21:45:15
+**Last Update:** 2026-10-25 00:05:59
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise
+### 1. No Signs of AI Payoff Outside the Tech Sector
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://de.numista.com/9866">https://de.numista.com/9866</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50222927">https://news.ycombinator.com/item?id=50222927</a></p>
-<p>Points: 40</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector">https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50224463">https://news.ycombinator.com/item?id=50224463</a></p>
+<p>Points: 118</p>
+<p># Comments: 90</p>
 
-🔗 **Read more:** [https://de.numista.com/9866](https://de.numista.com/9866)
+🔗 **Read more:** [https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
 
 ---
 
-### 2. Roku developer repositories moved from GitHub to GitLab
+### 2. Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.roku.com/developer/gitlab-move">https://blog.roku.com/developer/gitlab-move</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50222622">https://news.ycombinator.com/item?id=50222622</a></p>
-<p>Points: 124</p>
-<p># Comments: 73</p>
+<p>Article URL: <a href="https://missileer.watch">https://missileer.watch</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50224422">https://news.ycombinator.com/item?id=50224422</a></p>
+<p>Points: 29</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://blog.roku.com/developer/gitlab-move](https://blog.roku.com/developer/gitlab-move)
+🔗 **Read more:** [https://missileer.watch](https://missileer.watch)
 
 ---
 
-### 3. Neural chip decodes interactions between brain regions
+### 3. The Goose Programming Language
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/">https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50222525">https://news.ycombinator.com/item?id=50222525</a></p>
-<p>Points: 43</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://aardappel.github.io/goose/">https://aardappel.github.io/goose/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50224300">https://news.ycombinator.com/item?id=50224300</a></p>
+<p>Points: 61</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/](https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/)
+🔗 **Read more:** [https://aardappel.github.io/goose/](https://aardappel.github.io/goose/)
 
 ---
 
-### 4. Met Police says letter with claims about Meghan's father not shared with other law enforcement
+### 4. Watch: BBC in Paris as police charge protesters and use tear gas during unrest
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Met Police says letter with claims about Meghan's father not shared with other law enforcement
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ The Met said it passed information to the duchess but did not share it with othe
 
 ---
 
-### 5. UK braces for worst of Storm Boelo as amber warnings due to come into force
+### 6. Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Scotland, parts of northern England and Northern Ireland are forecast to be hit 
 
 ---
 
-### 6. Between quick wins and big dreams lies Burnham's biggest test
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The prime minister might be dreaming of gold medals in 2040, but he must first navigate the difficult years in between, writes Laura Kuenssberg.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Trump says he may move White House press corps to new location
+### 7. Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump’s remarks come amid a fractious moment between the US president and the journalists who cover him.
+Gunners capitalise on City&#039;s first loss of the season, while Spurs get second league win at Stamford Bridge in 36 years.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss)
 
 ---
 
-### 8. About 25,000 rally in Madrid in support of Spain’s state pension scheme
+### 8. Thousands of Israelis rally against Netanyahu gov’t days before election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Demonstrators want pensions to remain indexed to inflation and the gender pension gap to be eliminated.
+Opposition figures join Tel Aviv protesters demanding an independent October 7 inquiry.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/thousands-of-israelis-rally-against-netanyahu-govt-days-before-election?traffic_source=rss)
 
 ---
 
-### 9. Serbian elections: A country where students may actually take power
+### 9. Thousands join Paris protests as authorities clamp down on disorder
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Serbia is voting in an early election, where the most powerful politician in the country, has a serious rival.
+Thousands of protesters are on the streets of Paris for a second weekend.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/thousands-join-paris-protests-as-authorities-clamp-down-on-disorder?traffic_source=rss)
 
 ---
 
