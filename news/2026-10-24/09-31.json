@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-24T09:31:30+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How close can pure functional programming get to C?",
+            "description": "<p>Article URL: <a href=\"https://rtfeldman.com/fp-vs-c\">https://rtfeldman.com/fp-vs-c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50218195\">https://news.ycombinator.com/item?id=50218195</a></p>\n<p>Points: 34</p>\n<p># Comments: 2</p>",
+            "url": "https://rtfeldman.com/fp-vs-c",
+            "published": "Sat, 24 Oct 2026 03:43:54 +0000",
+            "fetched": "2026-10-24T09:31:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
+            "description": "<p>Article URL: <a href=\"https://www.sciencedaily.com/releases/2026/10/261018084421.htm\">https://www.sciencedaily.com/releases/2026/10/261018084421.htm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50217683\">https://news.ycombinator.com/item?id=50217683</a></p>\n<p>Points: 63</p>\n<p># Comments: 18</p>",
+            "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
+            "published": "Sat, 24 Oct 2026 01:53:10 +0000",
+            "fetched": "2026-10-24T09:31:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Password, Please: Border Searches of Laptops, Phones Up 32% This Year",
+            "description": "<p>Article URL: <a href=\"https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213\">https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50217600\">https://news.ycombinator.com/item?id=50217600</a></p>\n<p>Points: 27</p>\n<p># Comments: 4</p>",
+            "url": "https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213",
+            "published": "Sat, 24 Oct 2026 01:37:28 +0000",
+            "fetched": "2026-10-24T09:31:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "France prepares for day of protest a week after nationwide riots",
+            "description": "More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations.",
+            "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 04:03:46 GMT",
+            "fetched": "2026-10-24T09:31:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+            "description": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+            "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 00:05:45 GMT",
+            "fetched": "2026-10-24T09:31:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Met investigates reports of letter detailing claims about Meghan's father",
+            "description": "Scotland Yard opens an inquiry after the Duchess of Sussex said she was sent a letter containing \"disturbing allegations\".",
+            "url": "https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 03:17:24 GMT",
+            "fetched": "2026-10-24T09:31:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How Benjamin Netanyahu reshaped Israel’s institutions",
+            "description": "As Israel heads to the polls on October 27, its polarising and longest-serving prime minister is seeking re-election.",
+            "url": "https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 05:29:07 +0000",
+            "fetched": "2026-10-24T09:31:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hospital in Yemen’s Taiz warns of collapse in days because of Houthi siege",
+            "description": "Dialysis patients face shorter treatment sessions as severe shortages of fuel, medicines, and oxygen threaten hospitals.",
+            "url": "https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 05:20:35 +0000",
+            "fetched": "2026-10-24T09:31:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lebanese sceptical Israeli polls will bring change, end occupation of south",
+            "description": "Residents and analysts doubt October 27 vote will bring any meaningful shift in Israeli policy towards their country.",
+            "url": "https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 05:04:32 +0000",
+            "fetched": "2026-10-24T09:31:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-24T09:31:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-24T09:31:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-24T09:31:30+03:30"
+        }
+    ]
+}

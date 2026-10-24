@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-24 07:50:56
+**Last Update:** 2026-10-24 09:31:30
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Anger Machine (Joan Kirner Social Justice Oration 2026)
+### 1. How close can pure functional programming get to C?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.andrewleigh.com/speech_the_anger_machine_rebuilding_community_in_the_age_of_outrage_21_october_2026">https://www.andrewleigh.com/speech_the_anger_machine_rebuilding_community_in_the_age_of_outrage_21_october_2026</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50218126">https://news.ycombinator.com/item?id=50218126</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://rtfeldman.com/fp-vs-c">https://rtfeldman.com/fp-vs-c</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50218195">https://news.ycombinator.com/item?id=50218195</a></p>
+<p>Points: 34</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.andrewleigh.com/speech_the_anger_machine_rebuilding_community_in_the_age_of_outrage_21_october_2026](https://www.andrewleigh.com/speech_the_anger_machine_rebuilding_community_in_the_age_of_outrage_21_october_2026)
+🔗 **Read more:** [https://rtfeldman.com/fp-vs-c](https://rtfeldman.com/fp-vs-c)
 
 ---
 
@@ -35,43 +35,30 @@
 **Description:**
 <p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/10/261018084421.htm">https://www.sciencedaily.com/releases/2026/10/261018084421.htm</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50217683">https://news.ycombinator.com/item?id=50217683</a></p>
-<p>Points: 41</p>
-<p># Comments: 10</p>
+<p>Points: 63</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://www.sciencedaily.com/releases/2026/10/261018084421.htm](https://www.sciencedaily.com/releases/2026/10/261018084421.htm)
 
 ---
 
-### 3. Twelve years of distributed SQLite
+### 3. Password, Please: Border Searches of Laptops, Phones Up 32% This Year
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://philipotoole.com/twelve-years-of-distributed-sqlite/">https://philipotoole.com/twelve-years-of-distributed-sqlite/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50217500">https://news.ycombinator.com/item?id=50217500</a></p>
-<p>Points: 52</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213">https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50217600">https://news.ycombinator.com/item?id=50217600</a></p>
+<p>Points: 27</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://philipotoole.com/twelve-years-of-distributed-sqlite/](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
-
----
-
-### 4. Second storm to hit UK with more wind and rain as thousands remain without power
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-An amber weather warning has been issued for much of Scotland, parts of Northern Ireland and northern England, as Storm Boelo approaches.
-
-🔗 **Read more:** [https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/weather/articles/cv8ez97k0wnlo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213](https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213)
 
 ---
 
-### 5. France prepares for day of protest a week after nationwide riots
+### 4. France prepares for day of protest a week after nationwide riots
 
 **Source:** BBC
 
@@ -84,7 +71,7 @@ More than 70,000 police officers are to be deployed over fears protesters will d
 
 ---
 
-### 6. UK to invest £100m in 'world first' AI Biosecurity Lab
+### 5. UK to invest £100m in 'world first' AI Biosecurity Lab
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The chancellor will unveil AI spending aimed at shoring up the UK's defences in 
 
 ---
 
-### 7. Argentina identifies dozens of victims killed in its ‘Dirty War’
+### 6. Met investigates reports of letter detailing claims about Meghan's father
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Forensic anthropologists have identified the remains of at least 38 victims of Argentina’s last military dictatorship.
+Scotland Yard opens an inquiry after the Duchess of Sussex said she was sent a letter containing "disturbing allegations".
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/argentina-identifies-dozens-of-victims-killed-in-its-dirty?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Marco Rubio urges Cubans to collaborate with CIA to topple gov’t
+### 7. How Benjamin Netanyahu reshaped Israel’s institutions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Secretary of State Marco Rubio has urged Cubans to secretly work with the CIA to topple their government.
+As Israel heads to the polls on October 27, its polarising and longest-serving prime minister is seeking re-election.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-rubi0-cuba-cia?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/10-24-rubi0-cuba-cia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss)
 
 ---
 
-### 9. Israel raids towns, detains dozens of Palestinians in occupied West Bank
+### 8. Hospital in Yemen’s Taiz warns of collapse in days because of Houthi siege
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli military raid targets at least 15 towns in the northern West Bank, including Nablus and Jenin.
+Dialysis patients face shorter treatment sessions as severe shortages of fuel, medicines, and oxygen threaten hospitals.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege?traffic_source=rss](https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege?traffic_source=rss)
+
+---
+
+### 9. Lebanese sceptical Israeli polls will bring change, end occupation of south
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Residents and analysts doubt October 27 vote will bring any meaningful shift in Israeli policy towards their country.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss](https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss)
 
 ---
 
