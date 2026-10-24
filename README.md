@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-24 18:10:42
+**Last Update:** 2026-10-24 20:50:36
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. One Must Fall 2097 Remastered
+### 1. Sam Altman: 'I No Longer Think We're Gonna Be Able to Just Patch All the Bugs'
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/Jared-woodruff/OMF-2097-Remastered/">https://github.com/Jared-woodruff/OMF-2097-Remastered/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50221179">https://news.ycombinator.com/item?id=50221179</a></p>
-<p>Points: 21</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://gizmodo.com/sam-altman-i-no-longer-think-were-gonna-be-able-to-just-patch-all-the-bugs-2000829947">https://gizmodo.com/sam-altman-i-no-longer-think-were-gonna-be-able-to-just-patch-all-the-bugs-2000829947</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50222976">https://news.ycombinator.com/item?id=50222976</a></p>
+<p>Points: 7</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://github.com/Jared-woodruff/OMF-2097-Remastered/](https://github.com/Jared-woodruff/OMF-2097-Remastered/)
+🔗 **Read more:** [https://gizmodo.com/sam-altman-i-no-longer-think-were-gonna-be-able-to-just-patch-all-the-bugs-2000829947](https://gizmodo.com/sam-altman-i-no-longer-think-were-gonna-be-able-to-just-patch-all-the-bugs-2000829947)
 
 ---
 
-### 2. Elon Musk Just Gave Europe a Reason to Replace American Technology
+### 2. The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/">https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50220913">https://news.ycombinator.com/item?id=50220913</a></p>
-<p>Points: 208</p>
-<p># Comments: 189</p>
+<p>Article URL: <a href="https://de.numista.com/9866">https://de.numista.com/9866</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50222927">https://news.ycombinator.com/item?id=50222927</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/](https://steveblank.com/2026/10/24/europe-gets-a-wake-up-call/)
+🔗 **Read more:** [https://de.numista.com/9866](https://de.numista.com/9866)
 
 ---
 
-### 3. AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist
+### 3. Roku developer repositories moved from GitHub to GitLab
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/">https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50220204">https://news.ycombinator.com/item?id=50220204</a></p>
-<p>Points: 56</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://blog.roku.com/developer/gitlab-move">https://blog.roku.com/developer/gitlab-move</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50222622">https://news.ycombinator.com/item?id=50222622</a></p>
+<p>Points: 71</p>
+<p># Comments: 31</p>
 
-🔗 **Read more:** [https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/](https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist/)
+🔗 **Read more:** [https://blog.roku.com/developer/gitlab-move](https://blog.roku.com/developer/gitlab-move)
 
 ---
 
@@ -97,42 +97,42 @@ The prime minister might be dreaming of gold medals in 2040, but he must first n
 
 ---
 
-### 7. Man City beaten at Aston Villa as perfect Premier League start ends
+### 7. Trump says he may move White House press corps to new location
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nicolas Jackson scores twice - either side of an Erling Haaland header - as Aston Villa beat Man City 2-1 at Villa Park.
+Trump’s remarks come amid a fractious moment between the US president and the journalists who cover him.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/24/aston-villa-inflict-man-citys-first-premier-league-defeat-of-the-season?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/trump-says-he-may-move-white-house-press-corps-to-new-location?traffic_source=rss)
 
 ---
 
-### 8. Do abstaining voters hold the key to Brazil’s 2026 presidential election?
+### 8. About 25,000 rally in Madrid in support of Spain’s state pension scheme
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Some 21 percent of Brazilian adults did not cast a ballot in the first round of voting. Will they affect the run-off?
+Demonstrators want pensions to remain indexed to inflation and the gender pension gap to be eliminated.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/longform/2026/10/24/do-abstaining-voters-hold-the-key-to-brazils-2026-presidential-election?traffic_source=rss](https://www.aljazeera.com/news/longform/2026/10/24/do-abstaining-voters-hold-the-key-to-brazils-2026-presidential-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/about-25000-rally-in-madrid-in-support-of-spains-state-pension-scheme?traffic_source=rss)
 
 ---
 
-### 9. Rybakina readies for title defence at Ningbo Open in final with Fernandez
+### 9. Serbian elections: A country where students may actually take power
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The world number one will face Leylah Fernandez in the final after the unseeded Canadian beat Czech Marie Bouzkova.
+Serbia is voting in an early election, where the most powerful politician in the country, has a serious rival.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/24/rybakina-readies-for-title-defence-at-ningbo-open-in-final-with-fernandez?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/24/rybakina-readies-for-title-defence-at-ningbo-open-in-final-with-fernandez?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/serbian-elections-a-country-where-students-may-actually-take-power?traffic_source=rss)
 
 ---
 
