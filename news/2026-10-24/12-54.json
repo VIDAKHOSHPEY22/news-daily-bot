@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-24T12:54:11+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+            "description": "<p>Article URL: <a href=\"https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/\">https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50218633\">https://news.ycombinator.com/item?id=50218633</a></p>\n<p>Points: 98</p>\n<p># Comments: 16</p>",
+            "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/",
+            "published": "Sat, 24 Oct 2026 05:49:57 +0000",
+            "fetched": "2026-10-24T12:54:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OBS Studio 33",
+            "description": "<p>Article URL: <a href=\"https://github.com/obsproject/obs-studio/releases/tag/33.0.0\">https://github.com/obsproject/obs-studio/releases/tag/33.0.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50218430\">https://news.ycombinator.com/item?id=50218430</a></p>\n<p>Points: 126</p>\n<p># Comments: 32</p>",
+            "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+            "published": "Sat, 24 Oct 2026 04:49:58 +0000",
+            "fetched": "2026-10-24T12:54:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How close can pure functional programming get to C?",
+            "description": "<p>Article URL: <a href=\"https://rtfeldman.com/fp-vs-c\">https://rtfeldman.com/fp-vs-c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50218195\">https://news.ycombinator.com/item?id=50218195</a></p>\n<p>Points: 107</p>\n<p># Comments: 10</p>",
+            "url": "https://rtfeldman.com/fp-vs-c",
+            "published": "Sat, 24 Oct 2026 03:43:54 +0000",
+            "fetched": "2026-10-24T12:54:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "France prepares for day of protest a week after nationwide riots",
+            "description": "Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deployed over some may defy restrictions.",
+            "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 06:19:46 GMT",
+            "fetched": "2026-10-24T12:54:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Met investigates reports of letter detailing claims about Meghan's father",
+            "description": "Scotland Yard opens an inquiry after the Duchess of Sussex said she was sent a letter containing \"disturbing allegations\".",
+            "url": "https://www.bbc.co.uk/news/articles/cmlylkkzl2neo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 03:17:24 GMT",
+            "fetched": "2026-10-24T12:54:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK to invest £100m in 'world first' AI Biosecurity Lab",
+            "description": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.",
+            "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 00:05:45 GMT",
+            "fetched": "2026-10-24T12:54:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why is Israel launching a new military operation in the occupied West Bank?",
+            "description": "Netanyahu says &#039;we will destroy this place&#039; as Israeli forces begin days-long operation with raids and demolitions.",
+            "url": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 09:14:40 +0000",
+            "fetched": "2026-10-24T12:54:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bolivian teachers strike over wages and education reform",
+            "description": "Bolivian teachers strike over wages and education reform",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/bolivian-teachers-strike-over-wages-and-education-reform?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 08:56:54 +0000",
+            "fetched": "2026-10-24T12:54:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The Muslims finding belonging in southern Spain",
+            "description": "Centuries after the end of Islamic rule, some Muslims are choosing Andalusia, drawn by traces of its past.",
+            "url": "https://www.aljazeera.com/features/longform/2026/10/24/the-muslims-finding-belonging-in-southern-spain?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 08:28:25 +0000",
+            "fetched": "2026-10-24T12:54:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-24T12:54:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-24T12:54:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-24T12:54:11+03:30"
+        }
+    ]
+}

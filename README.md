@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-24 09:31:30
+**Last Update:** 2026-10-24 12:54:11
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. How close can pure functional programming get to C?
+### 1. Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/">https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50218633">https://news.ycombinator.com/item?id=50218633</a></p>
+<p>Points: 98</p>
+<p># Comments: 16</p>
+
+🔗 **Read more:** [https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/](https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds/)
+
+---
+
+### 2. OBS Studio 33
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/obsproject/obs-studio/releases/tag/33.0.0">https://github.com/obsproject/obs-studio/releases/tag/33.0.0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50218430">https://news.ycombinator.com/item?id=50218430</a></p>
+<p>Points: 126</p>
+<p># Comments: 32</p>
+
+🔗 **Read more:** [https://github.com/obsproject/obs-studio/releases/tag/33.0.0](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
+
+---
+
+### 3. How close can pure functional programming get to C?
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://rtfeldman.com/fp-vs-c">https://rtfeldman.com/fp-vs-c</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50218195">https://news.ycombinator.com/item?id=50218195</a></p>
-<p>Points: 34</p>
-<p># Comments: 2</p>
+<p>Points: 107</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://rtfeldman.com/fp-vs-c](https://rtfeldman.com/fp-vs-c)
-
----
-
-### 2. Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.sciencedaily.com/releases/2026/10/261018084421.htm">https://www.sciencedaily.com/releases/2026/10/261018084421.htm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50217683">https://news.ycombinator.com/item?id=50217683</a></p>
-<p>Points: 63</p>
-<p># Comments: 18</p>
-
-🔗 **Read more:** [https://www.sciencedaily.com/releases/2026/10/261018084421.htm](https://www.sciencedaily.com/releases/2026/10/261018084421.htm)
-
----
-
-### 3. Password, Please: Border Searches of Laptops, Phones Up 32% This Year
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213">https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50217600">https://news.ycombinator.com/item?id=50217600</a></p>
-<p>Points: 27</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213](https://gizmodo.com/password-please-border-searches-of-laptops-phones-up-32-this-year-2000830213)
 
 ---
 
@@ -65,26 +65,13 @@
 **Category:** world
 
 **Description:**
-More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations.
+Hundreds of thousands are expected to turn out, as more than 70,000 police officers are to be deployed over some may defy restrictions.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. UK to invest £100m in 'world first' AI Biosecurity Lab
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Met investigates reports of letter detailing claims about Meghan's father
+### 5. Met investigates reports of letter detailing claims about Meghan's father
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Scotland Yard opens an inquiry after the Duchess of Sussex said she was sent a l
 
 ---
 
-### 7. How Benjamin Netanyahu reshaped Israel’s institutions
+### 6. UK to invest £100m in 'world first' AI Biosecurity Lab
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-As Israel heads to the polls on October 27, its polarising and longest-serving prime minister is seeking re-election.
+The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/how-benjamin-netanyahu-reshaped-israels-institutions?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Hospital in Yemen’s Taiz warns of collapse in days because of Houthi siege
+### 7. Why is Israel launching a new military operation in the occupied West Bank?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dialysis patients face shorter treatment sessions as severe shortages of fuel, medicines, and oxygen threaten hospitals.
+Netanyahu says &#039;we will destroy this place&#039; as Israeli forces begin days-long operation with raids and demolitions.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege?traffic_source=rss](https://www.aljazeera.com/features/2026/10/24/hospital-yemen-taiz-warns-collapse-houthi-siege?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss)
 
 ---
 
-### 9. Lebanese sceptical Israeli polls will bring change, end occupation of south
+### 8. Bolivian teachers strike over wages and education reform
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Residents and analysts doubt October 27 vote will bring any meaningful shift in Israeli policy towards their country.
+Bolivian teachers strike over wages and education reform
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss](https://www.aljazeera.com/features/2026/10/24/lebanese-skeptical-israeli-polls-will-bring-change-end-occupation-of-south?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/bolivian-teachers-strike-over-wages-and-education-reform?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/bolivian-teachers-strike-over-wages-and-education-reform?traffic_source=rss)
+
+---
+
+### 9. The Muslims finding belonging in southern Spain
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Centuries after the end of Islamic rule, some Muslims are choosing Andalusia, drawn by traces of its past.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/10/24/the-muslims-finding-belonging-in-southern-spain?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/10/24/the-muslims-finding-belonging-in-southern-spain?traffic_source=rss)
 
 ---
 
