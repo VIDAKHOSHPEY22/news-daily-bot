@@ -1,64 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-25 00:30:02
+**Last Update:** 2026-10-25 02:34:02
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Steal My Bitcoin
+### 1. Almost 1,000 arrested as clashes follow another day of mass protests across France
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://stealmybitcoin.com/">https://stealmybitcoin.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50224916">https://news.ycombinator.com/item?id=50224916</a></p>
-<p>Points: 37</p>
-<p># Comments: 2</p>
+Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.
 
-🔗 **Read more:** [https://stealmybitcoin.com/](https://stealmybitcoin.com/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. No Signs of AI Payoff Outside the Tech Sector
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector">https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50224463">https://news.ycombinator.com/item?id=50224463</a></p>
-<p>Points: 199</p>
-<p># Comments: 154</p>
-
-🔗 **Read more:** [https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector](https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector)
-
----
-
-### 3. Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://missileer.watch">https://missileer.watch</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50224422">https://news.ycombinator.com/item?id=50224422</a></p>
-<p>Points: 44</p>
-<p># Comments: 21</p>
-
-🔗 **Read more:** [https://missileer.watch](https://missileer.watch)
-
----
-
-### 4. Watch: BBC in Paris as police charge protesters and use tear gas during unrest
+### 2. Watch: BBC in Paris as police charge protesters and use tear gas during unrest
 
 **Source:** BBC
 
@@ -71,20 +36,7 @@ Europe correspondent Nick Beake reports from Paris where mostly peaceful protest
 
 ---
 
-### 5. Met Police says letter with claims about Meghan's father not shared with other law enforcement
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Met said it passed information to the duchess but did not share it with other law enforcement agencies.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts
+### 3. Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ Scotland, parts of northern England and Northern Ireland are forecast to be hit 
 
 ---
 
-### 7. Violent clashes as Albanian government cracks down on protests
+### 4. Gunmen kill at least 10 people in eastern Nigeria, police say
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Protesters in Albania have fought running battles with police, on a 12th day of anti-government protests.
+Nigerian police say a large group carried out the attack on Binnari village in Taraba State.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss)
 
 ---
 
-### 8. Could Israel’s military crackdown influence Tuesday’s election?
+### 5. How have Democrats’ policies shifted since the last major US election?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel preparing a full lockdown of occupied West Bank after Hebron gunfight.
+From trans rights to Israel&#039;s war on Gaza, the party&#039;s candidates have responded to voter shifts on a slew of issues.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss)
 
 ---
 
-### 9. Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0
+### 6. Brazil’s Lula, Bolsonaro draw thousands to election-eve rallies
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gunners capitalise on City&#039;s first loss of the season, while Spurs get second league win at Stamford Bridge in 36 years.
+The pivotal run-off will determine whether Brazilians stick with their left-wing leader or shift towards the right.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/brazils-lula-bolsonaro-draw-thousands-to-election-eve-rallies?traffic_source=rss)
 
 ---
 
-### 10. Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida
+### 7. Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Hurricane Vance
+### 8. Hurricane Vance
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Tropical Cyclone Agueda
+### 9. Tropical Cyclone Agueda
 
 **Source:** NASA
 
