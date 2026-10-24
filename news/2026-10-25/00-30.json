@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-25T00:30:02+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Steal My Bitcoin",
+            "description": "<p>Article URL: <a href=\"https://stealmybitcoin.com/\">https://stealmybitcoin.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50224916\">https://news.ycombinator.com/item?id=50224916</a></p>\n<p>Points: 37</p>\n<p># Comments: 2</p>",
+            "url": "https://stealmybitcoin.com/",
+            "published": "Sat, 24 Oct 2026 20:30:31 +0000",
+            "fetched": "2026-10-25T00:30:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "No Signs of AI Payoff Outside the Tech Sector",
+            "description": "<p>Article URL: <a href=\"https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector\">https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50224463\">https://news.ycombinator.com/item?id=50224463</a></p>\n<p>Points: 199</p>\n<p># Comments: 154</p>",
+            "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+            "published": "Sat, 24 Oct 2026 19:47:19 +0000",
+            "fetched": "2026-10-25T00:30:02+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+            "description": "<p>Article URL: <a href=\"https://missileer.watch\">https://missileer.watch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50224422\">https://news.ycombinator.com/item?id=50224422</a></p>\n<p>Points: 44</p>\n<p># Comments: 21</p>",
+            "url": "https://missileer.watch",
+            "published": "Sat, 24 Oct 2026 19:43:27 +0000",
+            "fetched": "2026-10-25T00:30:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
+            "description": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+            "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 19:37:35 GMT",
+            "fetched": "2026-10-25T00:30:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Met Police says letter with claims about Meghan's father not shared with other law enforcement",
+            "description": "The Met said it passed information to the duchess but did not share it with other law enforcement agencies.",
+            "url": "https://www.bbc.co.uk/news/articles/c39wz740e0nyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 12:59:49 GMT",
+            "fetched": "2026-10-25T00:30:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+            "description": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
+            "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 20:30:43 GMT",
+            "fetched": "2026-10-25T00:30:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Violent clashes as Albanian government cracks down on protests",
+            "description": "Protesters in Albania have fought running battles with police, on a 12th day of anti-government protests.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/24/aje-onl-nf_clashes-as-albanian-pm-cracks-down-on-protests-241026?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 20:39:08 +0000",
+            "fetched": "2026-10-25T00:30:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Could Israel’s military crackdown influence Tuesday’s election?",
+            "description": "Israel preparing a full lockdown of occupied West Bank after Hebron gunfight.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/10/24/could-israels-military-crackdown-influence-tuesdays-election?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 20:37:02 +0000",
+            "fetched": "2026-10-25T00:30:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Arsenal join Man City at Premier League summit, Spurs shock Chelsea 2-0",
+            "description": "Gunners capitalise on City&#039;s first loss of the season, while Spurs get second league win at Stamford Bridge in 36 years.",
+            "url": "https://www.aljazeera.com/sports/2026/10/24/arsenal-join-man-city-at-premier-league-summit-spurs-shock-chelsea-2-0?traffic_source=rss",
+            "published": "Sat, 24 Oct 2026 20:03:29 +0000",
+            "fetched": "2026-10-25T00:30:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-25T00:30:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-25T00:30:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-25T00:30:02+03:30"
+        }
+    ]
+}
