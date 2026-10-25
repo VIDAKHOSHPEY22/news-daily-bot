@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-25T09:49:04+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+            "description": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
+            "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 01:32:00 GMT",
+            "fetched": "2026-10-25T09:49:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan broke contact with father in letter citing abuse claims",
+            "description": "Sources close to the duchess said she warned her father last year that he would never meet his grandchildren.",
+            "url": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 01:44:19 GMT",
+            "fetched": "2026-10-25T09:49:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham open to 'honest discussion' on EU free movement",
+            "description": "The PM said he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
+            "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 00:33:19 GMT",
+            "fetched": "2026-10-25T09:49:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nigeria’s missing: Families in the northeast still wait for answers",
+            "description": "People across northeastern Nigeria continue searching for loved ones who went missing during years of violence.",
+            "url": "https://www.aljazeera.com/news/2026/10/25/nigerias-missing-families-in-the-northeast-still-wait-for-answers?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 05:33:41 +0000",
+            "fetched": "2026-10-25T09:49:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Election posters, mass tourism and property: Israel’s footprint in Cyprus",
+            "description": "Cypriots say Israeli money is moving fast and shutting them out as their government embraces Israel as a key ally.",
+            "url": "https://www.aljazeera.com/features/2026/10/25/election-posters-mass-tourism-and-property-israels-footprint-in-cyprus?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 05:33:10 +0000",
+            "fetched": "2026-10-25T09:49:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bots, deepfakes and surveillance: Israel’s election goes to war online",
+            "description": "Netanyahu and his rivals are tied days from the vote, and both camps are fighting with bots, deepfakes and data.",
+            "url": "https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 05:27:54 +0000",
+            "fetched": "2026-10-25T09:49:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-25T09:49:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-25T09:49:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-25T09:49:04+03:30"
+        }
+    ]
+}

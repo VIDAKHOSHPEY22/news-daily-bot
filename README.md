@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-25 07:54:47
+**Last Update:** 2026-10-25 09:49:04
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Xbox Turns Down Netflix $500M Offer
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/">https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50227892">https://news.ycombinator.com/item?id=50227892</a></p>
-<p>Points: 50</p>
-<p># Comments: 31</p>
-
-🔗 **Read more:** [https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/](https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/)
-
----
-
-### 2. Attention people who think UB is fine
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html">https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50227814">https://news.ycombinator.com/item?id=50227814</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)
-
----
-
-### 3. Meta employees say Lula’s accounts restricted in Brazil election: Report
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report">https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50227639">https://news.ycombinator.com/item?id=50227639</a></p>
-<p>Points: 54</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report](https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report)
-
----
-
-### 4. Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts
+### 1. Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ Scotland, parts of northern England and Northern Ireland are forecast to be hit 
 
 ---
 
-### 5. Meghan broke contact with father in letter citing abuse claims
+### 2. Meghan broke contact with father in letter citing abuse claims
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Sources close to the duchess said she warned her father last year that he would 
 
 ---
 
-### 6. Burnham open to 'honest discussion' on EU free movement
+### 3. Burnham open to 'honest discussion' on EU free movement
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ The PM said he wants a "factual" and "evidence-based debate" about returning to 
 
 ---
 
-### 7. Obama joins El-Sayed in Michigan rally cry before key midterms
+### 4. Nigeria’s missing: Families in the northeast still wait for answers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former US President Barack Obama joined Michigan Senate candidate Abdul El-Sayed at a Detroit rally ahead of midterms.
+People across northeastern Nigeria continue searching for loved ones who went missing during years of violence.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/obama-joins-el-sayed-in-michigan-rally-cry-before-key-midterms?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/obama-joins-el-sayed-in-michigan-rally-cry-before-key-midterms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/nigerias-missing-families-in-the-northeast-still-wait-for-answers?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/nigerias-missing-families-in-the-northeast-still-wait-for-answers?traffic_source=rss)
 
 ---
 
-### 8. New York Archdiocese agrees to pay $800m to 1,300 sexual abuse survivors
+### 5. Election posters, mass tourism and property: Israel’s footprint in Cyprus
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The settlement is the second-largest after an $880m ​deal reached by the Archdiocese of Los ​Angeles in 2024.
+Cypriots say Israeli money is moving fast and shutting them out as their government embraces Israel as a key ally.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/new-york-archdiocese-agrees-to-pay-800m-to-1300-sexual-abuse-survivors?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/new-york-archdiocese-agrees-to-pay-800m-to-1300-sexual-abuse-survivors?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/25/election-posters-mass-tourism-and-property-israels-footprint-in-cyprus?traffic_source=rss](https://www.aljazeera.com/features/2026/10/25/election-posters-mass-tourism-and-property-israels-footprint-in-cyprus?traffic_source=rss)
 
 ---
 
-### 9. Thousands rally in Turkiye over journalist arrests, media shutdowns
+### 6. Bots, deepfakes and surveillance: Israel’s election goes to war online
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands have protested across Turkiye against the arrests of journalists and restrictions on independent media.
+Netanyahu and his rivals are tied days from the vote, and both camps are fighting with bots, deepfakes and data.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-turkiye-media-crackdown-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-turkiye-media-crackdown-sv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/bots-deepfakes-and-surveillance-israels-election-goes-to-war-online?traffic_source=rss)
 
 ---
 
-### 10. Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida
+### 7. Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Hurricane Vance
+### 8. Hurricane Vance
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Tropical Cyclone Agueda
+### 9. Tropical Cyclone Agueda
 
 **Source:** NASA
 
