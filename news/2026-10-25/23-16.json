@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-25T23:16:52+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Dolly Parton's Imagination Library",
+            "description": "<p>With today's news, I thought I'd share this great program:<p>“When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who knows, maybe there is a little girl whose dream is to be a writer and singer.<p>The seeds of these dreams are often found in books and the seeds you help plant in your community can grow across the world.”</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50234474\">https://news.ycombinator.com/item?id=50234474</a></p>\n<p>Points: 116</p>\n<p># Comments: 22</p>",
+            "url": "https://imaginationlibrary.com/",
+            "published": "Sun, 25 Oct 2026 18:23:54 +0000",
+            "fetched": "2026-10-25T23:16:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "All you need is Wide Events, not \"Metrics, Logs and Traces\"",
+            "description": "<p>Article URL: <a href=\"https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics\">https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50234329\">https://news.ycombinator.com/item?id=50234329</a></p>\n<p>Points: 22</p>\n<p># Comments: 4</p>",
+            "url": "https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics",
+            "published": "Sun, 25 Oct 2026 18:11:38 +0000",
+            "fetched": "2026-10-25T23:16:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+            "description": "<p>Article URL: <a href=\"https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/\">https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50234232\">https://news.ycombinator.com/item?id=50234232</a></p>\n<p>Points: 146</p>\n<p># Comments: 29</p>",
+            "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+            "published": "Sun, 25 Oct 2026 18:04:11 +0000",
+            "fetched": "2026-10-25T23:16:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
+            "description": "An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.",
+            "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 19:40:26 GMT",
+            "fetched": "2026-10-25T23:16:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham open to 'honest discussion' on EU free movement",
+            "description": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
+            "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 12:11:23 GMT",
+            "fetched": "2026-10-25T23:16:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Letter making claims about Meghan's father written by his first wife, BBC understands",
+            "description": "Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the \"disturbing allegations\" in 2018.",
+            "url": "https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 18:38:17 GMT",
+            "fetched": "2026-10-25T23:16:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Serbia voter turnout highest in decades as students oppose longtime leader",
+            "description": "Election commission says turnout reaches 65% amid allegations of intimidation, violence and voting irregularities.",
+            "url": "https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 19:19:54 +0000",
+            "fetched": "2026-10-25T23:16:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Venezuela’s opposition leader Maria Corina Machado returns from exile",
+            "description": "The Nobel laureate&#039;s homecoming follows national protests demanding free elections.",
+            "url": "https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 18:55:39 +0000",
+            "fetched": "2026-10-25T23:16:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "When is the 2026 Ballon d’Or, who are the favourites, and how can you watch it?",
+            "description": "Al Jazeera Sport breaks down the award-voting criteria, top candidates and history ahead of the ceremony in London.",
+            "url": "https://www.aljazeera.com/sports/2026/10/25/when-is-the-2026-ballon-dor-who-are-the-favourites-and-how-can-you-watch-it?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 18:34:19 +0000",
+            "fetched": "2026-10-25T23:16:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-25T23:16:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-25T23:16:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-25T23:16:52+03:30"
+        }
+    ]
+}
