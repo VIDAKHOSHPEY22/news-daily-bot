@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-25T21:49:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+            "description": "<p>Article URL: <a href=\"https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/\">https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50234232\">https://news.ycombinator.com/item?id=50234232</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
+            "published": "Sun, 25 Oct 2026 18:04:11 +0000",
+            "fetched": "2026-10-25T21:49:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+            "description": "<p>Article URL: <a href=\"https://talkweb.eu/openweb/4558/\">https://talkweb.eu/openweb/4558/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50233929\">https://news.ycombinator.com/item?id=50233929</a></p>\n<p>Points: 82</p>\n<p># Comments: 9</p>",
+            "url": "https://talkweb.eu/openweb/4558/",
+            "published": "Sun, 25 Oct 2026 17:30:55 +0000",
+            "fetched": "2026-10-25T21:49:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Fuck Nuance (2015)",
+            "description": "<p>Article URL: <a href=\"https://crookedtimber.org/2015/08/31/fuck-nuance/\">https://crookedtimber.org/2015/08/31/fuck-nuance/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50233883\">https://news.ycombinator.com/item?id=50233883</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://crookedtimber.org/2015/08/31/fuck-nuance/",
+            "published": "Sun, 25 Oct 2026 17:26:08 +0000",
+            "fetched": "2026-10-25T21:49:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham open to 'honest discussion' on EU free movement",
+            "description": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
+            "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 12:11:23 GMT",
+            "fetched": "2026-10-25T21:49:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Venezuelan opposition leader María Machado returns after months in exile",
+            "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+            "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 16:21:40 GMT",
+            "fetched": "2026-10-25T21:49:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Couple were celebrating anniversary before Bahamas tragedy",
+            "description": "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.",
+            "url": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 14:38:51 GMT",
+            "fetched": "2026-10-25T21:49:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US and Israel elections: New leaders, same policies?",
+            "description": "Israeli governments change. US presidents come and go. But settlement expansion on occupied Palestinian land continues.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/us-and-israel-elections-new-leaders-same-policies?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 17:53:23 +0000",
+            "fetched": "2026-10-25T21:49:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can protests in Europe bring about change?",
+            "description": "People have been taking to the streets to demand action.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/10/25/can-protests-in-europe-bring-about-change?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 17:39:42 +0000",
+            "fetched": "2026-10-25T21:49:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "AI’s ‘opportunity divide’ could deepen global inequality, UN official warns",
+            "description": "The deputy secretary-general of UN&#039;s ICT agency says unequal access to AI means poorer nations may be left behind.",
+            "url": "https://www.aljazeera.com/news/2026/10/25/ais-opportunity-divide-could-deepen-global-inequality-un-official-warns?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 17:26:22 +0000",
+            "fetched": "2026-10-25T21:49:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-25T21:49:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-25T21:49:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-25T21:49:36+03:30"
+        }
+    ]
+}
