@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-25T20:07:00+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: I put employees inside S&P 500 market-cap bubbles",
+            "description": "<p>Article URL: <a href=\"https://bigwhalehunting.com/workforce/\">https://bigwhalehunting.com/workforce/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50232312\">https://news.ycombinator.com/item?id=50232312</a></p>\n<p>Points: 71</p>\n<p># Comments: 19</p>",
+            "url": "https://bigwhalehunting.com/workforce/",
+            "published": "Sun, 25 Oct 2026 15:05:39 +0000",
+            "fetched": "2026-10-25T20:07:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A few thoughts on intensity",
+            "description": "<p>Article URL: <a href=\"https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/\">https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50232035\">https://news.ycombinator.com/item?id=50232035</a></p>\n<p>Points: 26</p>\n<p># Comments: 14</p>",
+            "url": "https://www.tylerhogge.com/blog/a-few-thoughts-on-intensity/",
+            "published": "Sun, 25 Oct 2026 14:37:49 +0000",
+            "fetched": "2026-10-25T20:07:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Farol – a risk map of a pull request for the person who approves it",
+            "description": "<p>Article URL: <a href=\"https://github.com/winnin/farol\">https://github.com/winnin/farol</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50231349\">https://news.ycombinator.com/item?id=50231349</a></p>\n<p>Points: 46</p>\n<p># Comments: 26</p>",
+            "url": "https://github.com/winnin/farol",
+            "published": "Sun, 25 Oct 2026 13:28:06 +0000",
+            "fetched": "2026-10-25T20:07:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham open to 'honest discussion' on EU free movement",
+            "description": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
+            "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 12:11:23 GMT",
+            "fetched": "2026-10-25T20:07:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Couple were celebrating anniversary before Bahamas tragedy",
+            "description": "Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.",
+            "url": "https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 14:38:51 GMT",
+            "fetched": "2026-10-25T20:07:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Venezuelan opposition leader María Machado returns after months in exile",
+            "description": "Machado had left the country just a month before the US government seized Venezuelan President Nicolás Maduro.",
+            "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 16:21:40 GMT",
+            "fetched": "2026-10-25T20:07:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jordanians mourn victims of deadly church attack",
+            "description": "Jordanians mourn victims of deadly church attack",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/jordanians-mourn-victims-of-deadly-church-attack?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 16:16:48 +0000",
+            "fetched": "2026-10-25T20:07:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli soldiers beat elderly Palestinian in Hebron",
+            "description": "Israeli soldiers beat and injured Hijazi Shawer, a 70-year-old Palestinian shopkeeper and community leader.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/israeli-soldiers-beat-elderly-palestinian-in-hebron?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 16:11:37 +0000",
+            "fetched": "2026-10-25T20:07:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Seven killed in Gaza as Israel targets university campus and other sites",
+            "description": "Israeli air strike kills three security guards in one of two attacks on the Islamic University in Gaza City.",
+            "url": "https://www.aljazeera.com/news/2026/10/25/seven-killed-in-gaza-as-israel-targets-university-campus-and-other-sites?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 15:40:25 +0000",
+            "fetched": "2026-10-25T20:07:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-25T20:07:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-25T20:07:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-25T20:07:00+03:30"
+        }
+    ]
+}
