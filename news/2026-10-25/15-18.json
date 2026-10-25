@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-25T15:18:51+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+            "description": "<p>Article URL: <a href=\"https://github.com/ihhub/fheroes2\">https://github.com/ihhub/fheroes2</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50230384\">https://news.ycombinator.com/item?id=50230384</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/ihhub/fheroes2",
+            "published": "Sun, 25 Oct 2026 11:09:12 +0000",
+            "fetched": "2026-10-25T15:18:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/mike64_t/status/2114150399406202896\">https://twitter.com/mike64_t/status/2114150399406202896</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50230181\">https://news.ycombinator.com/item?id=50230181</a></p>\n<p>Points: 34</p>\n<p># Comments: 16</p>",
+            "url": "https://twitter.com/mike64_t/status/2114150399406202896",
+            "published": "Sun, 25 Oct 2026 10:42:01 +0000",
+            "fetched": "2026-10-25T15:18:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "France asked ISPs to prepare temporary DNS blocks for major social platforms",
+            "description": "<p>Article URL: <a href=\"https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ\">https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50229861\">https://news.ycombinator.com/item?id=50229861</a></p>\n<p>Points: 79</p>\n<p># Comments: 59</p>",
+            "url": "https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ",
+            "published": "Sun, 25 Oct 2026 09:56:49 +0000",
+            "fetched": "2026-10-25T15:18:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan broke contact with father in letter citing abuse claims",
+            "description": "Sources close to the duchess said she warned her father last year that he would never meet his grandchildren.",
+            "url": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 08:05:31 GMT",
+            "fetched": "2026-10-25T15:18:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+            "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+            "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 09:00:00 GMT",
+            "fetched": "2026-10-25T15:18:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham open to 'honest discussion' on EU free movement",
+            "description": "The PM said he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
+            "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 00:33:19 GMT",
+            "fetched": "2026-10-25T15:18:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran’s authorities take ‘self-sacrifice’ mobilisation campaign nationwide",
+            "description": "The IRGC says it wants to use main squares in every capital of Iran’s 31 provinces for the Janfada campaign.",
+            "url": "https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 10:50:38 +0000",
+            "fetched": "2026-10-25T15:18:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Police in Albania filmed beating protester unconscious",
+            "description": "Police in Albania’s capital, Tirana, were filmed beating a protester lying on the ground.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 10:45:51 +0000",
+            "fetched": "2026-10-25T15:18:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Saudi Arabia intercepts missiles and drones as fighting with Houthis rages",
+            "description": "Saudi-led coalition says intercepted drone, missile launched towards Riyadh and 10 missiles targeting southern region.",
+            "url": "https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 10:42:51 +0000",
+            "fetched": "2026-10-25T15:18:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-25T15:18:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-25T15:18:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-25T15:18:51+03:30"
+        }
+    ]
+}
