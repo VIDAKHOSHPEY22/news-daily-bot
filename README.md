@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-26 01:07:47
+**Last Update:** 2026-10-26 02:10:11
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://minimaxir.com/2026/10/cheap-llms/">https://minimaxir.com/2026/10/cheap-llms/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50236102">https://news.ycombinator.com/item?id=50236102</a></p>
-<p>Points: 7</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://minimaxir.com/2026/10/cheap-llms/](https://minimaxir.com/2026/10/cheap-llms/)
-
----
-
-### 2. Serbia's Vucic concedes election defeat in historic win for student movement
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/">https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50236081">https://news.ycombinator.com/item?id=50236081</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/](https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/)
-
----
-
-### 3. The State of Context Engineering
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html">https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50235780">https://news.ycombinator.com/item?id=50235780</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html)
-
----
-
-### 4. Man killed by falling tree as Storm Boelo leaves 160,000 properties without power
+### 1. Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power
 
 **Source:** BBC
 
@@ -71,20 +23,20 @@ An amber wind warning has now expired after severe weather sweeps across the UK.
 
 ---
 
-### 5. Serbia's Vučić concedes election defeat to student-led protest movement
+### 2. Serbia's veteran ruler Vučić concedes election to student-led protest movement
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The country's populist right-wing leader of 12 years says it is "clear" his Serbian Progressive Party has lost.
+The populist right-wing leader of 12 years says it is "clear" his party has lost the vote billed as a referendum on the country's future.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Burnham open to 'honest discussion' on EU free movement
+### 3. Burnham open to 'honest discussion' on EU free movement
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ The PM says he wants a "factual" and "evidence-based debate" about returning to 
 
 ---
 
-### 7. Kenya bus crash kills at least 24 as government vows road safety crackdown
+### 4. Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Church mourners die on Kenya’s Nairobi-Mombasa Highway weeks after another crash killed 17 people.
+National Rally&#039;s Le Pen launches presidential campaign against backdrop of protests and social, economic discontent.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss)
 
 ---
 
-### 8. Can Carrick survive Man United’s slump and Fernandes fallout?
+### 5. US Attorney General Todd Blanche defends Alaska Senate election lawsuit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Manchester United cheer Michael Carrick off after Bournemouth loss but boo Bruno Fernandes, what now for crisis club?
+The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss)
 
 ---
 
-### 9. Brazil election results 2026 live: Lula-Bolsonaro voting extended by 2 hours
+### 6. Marine Le Pen launches French presidential campaign
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Brazilian President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro square off in closely watched election.
+Marine Le Pen launches French presidential campaign
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss)
 
 ---
 
-### 10. Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida
+### 7. Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Hurricane Vance
+### 8. Hurricane Vance
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Tropical Cyclone Agueda
+### 9. Tropical Cyclone Agueda
 
 **Source:** NASA
 
