@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-25T13:12:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Online censorship is crushing indie webcomics",
+            "description": "<p>Article URL: <a href=\"https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463\">https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50229599\">https://news.ycombinator.com/item?id=50229599</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+            "url": "https://xtramagazine.com/culture/online-censorship-indie-webcomics-284463",
+            "published": "Sun, 25 Oct 2026 09:04:13 +0000",
+            "fetched": "2026-10-25T13:12:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+            "description": "<p>Article URL: <a href=\"https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order\">https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50229587\">https://news.ycombinator.com/item?id=50229587</a></p>\n<p>Points: 51</p>\n<p># Comments: 7</p>",
+            "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+            "published": "Sun, 25 Oct 2026 09:00:40 +0000",
+            "fetched": "2026-10-25T13:12:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cerebras Deploys Trillion-Parameter AI Models",
+            "description": "<p>Article URL: <a href=\"https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras\">https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50227356\">https://news.ycombinator.com/item?id=50227356</a></p>\n<p>Points: 160</p>\n<p># Comments: 56</p>",
+            "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+            "published": "Sun, 25 Oct 2026 01:33:49 +0000",
+            "fetched": "2026-10-25T13:12:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan broke contact with father in letter citing abuse claims",
+            "description": "Sources close to the duchess said she warned her father last year that he would never meet his grandchildren.",
+            "url": "https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 08:05:31 GMT",
+            "fetched": "2026-10-25T13:12:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Musk says SpaceX restricted Ukraine's Starlink connection as service restored",
+            "description": "The tech billionaire accuses Ukraine of violating its terms of service by using the network for military activity.",
+            "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 09:00:00 GMT",
+            "fetched": "2026-10-25T13:12:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham open to 'honest discussion' on EU free movement",
+            "description": "The PM said he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
+            "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 00:33:19 GMT",
+            "fetched": "2026-10-25T13:12:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli forces turn Hebron homes into military posts amid lockdown",
+            "description": "Evictions, raids and outpost expansion continue across the occupied West Bank amid heightened tensions.",
+            "url": "https://www.aljazeera.com/news/2026/10/25/israeli-forces-turn-hebron-homes-into-military-posts-amid-lockdown?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 09:27:03 +0000",
+            "fetched": "2026-10-25T13:12:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Australian Grand Prix called off as rain spoils Phillip Island sendoff",
+            "description": "Race delayed by two hours before being cancelled due to low visibility despite a sellout crowd at Phillip Island.",
+            "url": "https://www.aljazeera.com/sports/2026/10/25/australian-grand-prix-called-off-as-rain-spoils-phillip-island-sendoff?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 09:26:57 +0000",
+            "fetched": "2026-10-25T13:12:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Thousands of Northern Irish Protestants march ahead of court ruling",
+            "description": "Thousands of Protestant Orange Order members have marched through Portadown, Northern Ireland.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/northern-ireland-orange-order-parade-legal-challenge?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 09:14:07 +0000",
+            "fetched": "2026-10-25T13:12:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-25T13:12:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-25T13:12:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-25T13:12:53+03:30"
+        }
+    ]
+}
