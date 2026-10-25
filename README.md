@@ -1,91 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-25 04:50:34
+**Last Update:** 2026-10-25 07:54:47
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tailworm – Tailscale Vulnerabilities
+### 1. Xbox Turns Down Netflix $500M Offer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tailworm.com/">https://tailworm.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50227138">https://news.ycombinator.com/item?id=50227138</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/">https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50227892">https://news.ycombinator.com/item?id=50227892</a></p>
+<p>Points: 50</p>
+<p># Comments: 31</p>
 
-🔗 **Read more:** [https://tailworm.com/](https://tailworm.com/)
+🔗 **Read more:** [https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/](https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/)
 
 ---
 
-### 2. Ask HN: Why a Great Product Won't Succeed Without a Community
+### 2. Attention people who think UB is fine
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I'm really tired, fed up, and angry. You can create the best product in the world, but people always choose what their favorite influencers tell them to.  People don’t make their own decisions anymore; they always think whatever they’re told to think. It’s really frustrating to try to create something good—something better than what others are doing. And I’ve realized one thing: to achieve success, it’s better to have a community that follows you than to have a great product. If you want to launch a good product, you’re better off building a community first—it’ll make everything easier and faster. I don’t care what you think of this post—I just want to say what I feel.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50227131">https://news.ycombinator.com/item?id=50227131</a></p>
+<p>Article URL: <a href="https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html">https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50227814">https://news.ycombinator.com/item?id=50227814</a></p>
 <p>Points: 3</p>
-<p># Comments: 2</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=50227131](https://news.ycombinator.com/item?id=50227131)
+🔗 **Read more:** [https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html](https://blog.habets.se/2026/10/Attention-people-who-think-UB-is-fine.html)
 
 ---
 
-### 3. FindMyWeb: Apple Find My, reverse enginiered
+### 3. Meta employees say Lula’s accounts restricted in Brazil election: Report
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://codeberg.org/Misom/FindMyWeb">https://codeberg.org/Misom/FindMyWeb</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50226646">https://news.ycombinator.com/item?id=50226646</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report">https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50227639">https://news.ycombinator.com/item?id=50227639</a></p>
+<p>Points: 54</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://codeberg.org/Misom/FindMyWeb](https://codeberg.org/Misom/FindMyWeb)
-
----
-
-### 4. Almost 1,000 arrested as clashes follow another day of mass protests across France
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report](https://www.aljazeera.com/economy/2026/10/16/meta-employees-say-lulas-accounts-restricted-in-brazil-election-report)
 
 ---
 
-### 5. Watch: BBC in Paris as police charge protesters and use tear gas during unrest
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts
+### 4. Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts
 
 **Source:** BBC
 
@@ -98,42 +71,68 @@ Scotland, parts of northern England and Northern Ireland are forecast to be hit 
 
 ---
 
-### 7. Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats
+### 5. Meghan broke contact with father in letter citing abuse claims
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Former US president says Trump &#039;chose to make a series of bad decisions&#039;, highlighting the US-Israel war on Iran.
+Sources close to the duchess said she warned her father last year that he would never meet his grandchildren.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Violence breaks out across Europe after another day of protests
+### 6. Burnham open to 'honest discussion' on EU free movement
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Police clashed with demonstrators in France, Italy and Spain over rising living costs and cuts to public services.
+The PM said he wants a "factual" and "evidence-based debate" about returning to free movement between Britain and Europe.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 9. Iran war live: Trump hints at possible Sunday Iran attack or deal reached
+### 7. Obama joins El-Sayed in Michigan rally cry before key midterms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump says US is considering a possible attack on Iran as soon as Sunday, or it could reach a major deal with Tehran.
+Former US President Barack Obama joined Michigan Senate candidate Abdul El-Sayed at a Detroit rally ahead of midterms.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/obama-joins-el-sayed-in-michigan-rally-cry-before-key-midterms?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/obama-joins-el-sayed-in-michigan-rally-cry-before-key-midterms?traffic_source=rss)
+
+---
+
+### 8. New York Archdiocese agrees to pay $800m to 1,300 sexual abuse survivors
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The settlement is the second-largest after an $880m ​deal reached by the Archdiocese of Los ​Angeles in 2024.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/new-york-archdiocese-agrees-to-pay-800m-to-1300-sexual-abuse-survivors?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/new-york-archdiocese-agrees-to-pay-800m-to-1300-sexual-abuse-survivors?traffic_source=rss)
+
+---
+
+### 9. Thousands rally in Turkiye over journalist arrests, media shutdowns
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Thousands have protested across Turkiye against the arrests of journalists and restrictions on independent media.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-turkiye-media-crackdown-sv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-turkiye-media-crackdown-sv?traffic_source=rss)
 
 ---
 
