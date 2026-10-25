@@ -1,77 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-25 15:18:51
+**Last Update:** 2026-10-25 17:44:38
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. fheroes2: A recreation of Heroes of Might and Magic II game engine
+### 1. Show HN: Farol – a risk map of a pull request for the person who approves it
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/ihhub/fheroes2">https://github.com/ihhub/fheroes2</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50230384">https://news.ycombinator.com/item?id=50230384</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://github.com/winnin/farol">https://github.com/winnin/farol</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50231349">https://news.ycombinator.com/item?id=50231349</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/ihhub/fheroes2](https://github.com/ihhub/fheroes2)
+🔗 **Read more:** [https://github.com/winnin/farol](https://github.com/winnin/farol)
 
 ---
 
-### 2. Samsung running a TensorFlow lite model on 960x540 image to track you
+### 2. The Lego group reveals collaboration with Daft Punk
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/mike64_t/status/2114150399406202896">https://twitter.com/mike64_t/status/2114150399406202896</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50230181">https://news.ycombinator.com/item?id=50230181</a></p>
-<p>Points: 34</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk">https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50231001">https://news.ycombinator.com/item?id=50231001</a></p>
+<p>Points: 20</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://twitter.com/mike64_t/status/2114150399406202896](https://twitter.com/mike64_t/status/2114150399406202896)
+🔗 **Read more:** [https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk](https://www.lego.com/en-us/categories/adults-welcome/article/daft-punk)
 
 ---
 
-### 3. France asked ISPs to prepare temporary DNS blocks for major social platforms
+### 3. Challenge Is Gone
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ">https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50229861">https://news.ycombinator.com/item?id=50229861</a></p>
-<p>Points: 79</p>
-<p># Comments: 59</p>
+<p>Article URL: <a href="https://blog.alxgsv.com/challenge-is-gone/">https://blog.alxgsv.com/challenge-is-gone/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50230965">https://news.ycombinator.com/item?id=50230965</a></p>
+<p>Points: 30</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ](https://www.blast-info.fr/articles/2026/information-exclusive-blast-le-premier-ministre-a-prepare-la-coupure-des-reseaux-sociaux-pour-le-24-octobre-9D8cgrU5S5iiW14Sb9nMzQ)
-
----
-
-### 4. Meghan broke contact with father in letter citing abuse claims
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Sources close to the duchess said she warned her father last year that he would never meet his grandchildren.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqzjxg7l19yxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://blog.alxgsv.com/challenge-is-gone/](https://blog.alxgsv.com/challenge-is-gone/)
 
 ---
 
-### 5. Musk says SpaceX restricted Ukraine's Starlink connection as service restored
+### 4. Musk says SpaceX restricted Ukraine's Starlink connection as service restored
 
 **Source:** BBC
 
@@ -84,55 +71,68 @@ The tech billionaire accuses Ukraine of violating its terms of service by using 
 
 ---
 
-### 6. Burnham open to 'honest discussion' on EU free movement
+### 5. Burnham open to 'honest discussion' on EU free movement
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The PM said he wants a "factual" and "evidence-based debate" about returning to free movement between Britain and Europe.
+The PM says he wants a "factual" and "evidence-based debate" about returning to free movement between Britain and Europe.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iran’s authorities take ‘self-sacrifice’ mobilisation campaign nationwide
+### 6. Couple were celebrating anniversary before Bahamas tragedy
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-The IRGC says it wants to use main squares in every capital of Iran’s 31 provinces for the Janfada campaign.
+Leanne Gregory, from Stapleford in Nottinghamshire, died trying to save her sons swept out to sea.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/irans-authorities-take-self-sacrifice-mobilisation-campaign-nationwide?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c623drpx31xzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Police in Albania filmed beating protester unconscious
+### 7. Saudi air defences intercept Houthi barrage near Mecca
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police in Albania’s capital, Tirana, were filmed beating a protester lying on the ground.
+Houthi attacks on Saudi Arabia escalate as fierce ground battles and a devastating siege strangle Yemen&#039;s Taiz.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/police-in-albania-filmed-beating-protester-unconscious?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/saudi-air-defences-intercept-houthi-barrage-near-mecca?traffic_source=rss)
 
 ---
 
-### 9. Saudi Arabia intercepts missiles and drones as fighting with Houthis rages
+### 8. Gaza’s visually and hearing-impaired children miss school due to Israel war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saudi-led coalition says intercepted drone, missile launched towards Riyadh and 10 missiles targeting southern region.
+Children in Gaza with auditory and visual challenges often have no access to specialist education.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/saudi-arabia-intercepts-missiles-and-drones-as-fighting-with-houthis-rages?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss](https://www.aljazeera.com/features/2026/10/25/gazas-visually-and-hearing-impaired-children-miss-school-due-to-israel-war?traffic_source=rss)
+
+---
+
+### 9. Serbia votes as student-led bloc challenges longtime leader Vucic
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Serbians turn out in huge numbers for a parliamentary election that could end Aleksandar Vucic’s longstanding reign.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/serbia-votes-as-student-led-bloc-challenges-longtime-leader-vucic?traffic_source=rss)
 
 ---
 
