@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-25 23:16:52
+**Last Update:** 2026-10-26 01:07:47
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Dolly Parton's Imagination Library
+### 1. OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>With today's news, I thought I'd share this great program:<p>“When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in your community with their own dreams. They dream of becoming a doctor or an inventor or a minister. Who knows, maybe there is a little girl whose dream is to be a writer and singer.<p>The seeds of these dreams are often found in books and the seeds you help plant in your community can grow across the world.”</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50234474">https://news.ycombinator.com/item?id=50234474</a></p>
-<p>Points: 116</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://minimaxir.com/2026/10/cheap-llms/">https://minimaxir.com/2026/10/cheap-llms/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50236102">https://news.ycombinator.com/item?id=50236102</a></p>
+<p>Points: 7</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://imaginationlibrary.com/](https://imaginationlibrary.com/)
+🔗 **Read more:** [https://minimaxir.com/2026/10/cheap-llms/](https://minimaxir.com/2026/10/cheap-llms/)
 
 ---
 
-### 2. All you need is Wide Events, not "Metrics, Logs and Traces"
+### 2. Serbia's Vucic concedes election defeat in historic win for student movement
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics">https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50234329">https://news.ycombinator.com/item?id=50234329</a></p>
-<p>Points: 22</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/">https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50236081">https://news.ycombinator.com/item?id=50236081</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics](https://isburmistrov.substack.com/p/all-you-need-is-wide-events-not-metrics)
+🔗 **Read more:** [https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/](https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/)
 
 ---
 
-### 3. Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop
+### 3. The State of Context Engineering
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/">https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50234232">https://news.ycombinator.com/item?id=50234232</a></p>
-<p>Points: 146</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html">https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50235780">https://news.ycombinator.com/item?id=50235780</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/](https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/)
+🔗 **Read more:** [https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html)
 
 ---
 
@@ -66,13 +65,26 @@
 **Category:** world
 
 **Description:**
-An amber wind warning will remain until Sunday evening as severe weather continues to batter the UK.
+An amber wind warning has now expired after severe weather sweeps across the UK.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Burnham open to 'honest discussion' on EU free movement
+### 5. Serbia's Vučić concedes election defeat to student-led protest movement
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The country's populist right-wing leader of 12 years says it is "clear" his Serbian Progressive Party has lost.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Burnham open to 'honest discussion' on EU free movement
 
 **Source:** BBC
 
@@ -85,55 +97,42 @@ The PM says he wants a "factual" and "evidence-based debate" about returning to 
 
 ---
 
-### 6. Letter making claims about Meghan's father written by his first wife, BBC understands
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Roslyn Loveless, who has since died, divorced Meghan's father in 1975. Meghan said she had been informed about the "disturbing allegations" in 2018.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c60qk44w9wglo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Serbia voter turnout highest in decades as students oppose longtime leader
+### 7. Kenya bus crash kills at least 24 as government vows road safety crackdown
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Election commission says turnout reaches 65% amid allegations of intimidation, violence and voting irregularities.
+Church mourners die on Kenya’s Nairobi-Mombasa Highway weeks after another crash killed 17 people.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/serbia-voter-turnout-highest-in-decades-as-students-oppose-longtime-leader?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss)
 
 ---
 
-### 8. Venezuela’s opposition leader Maria Corina Machado returns from exile
+### 8. Can Carrick survive Man United’s slump and Fernandes fallout?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Nobel laureate&#039;s homecoming follows national protests demanding free elections.
+Manchester United cheer Michael Carrick off after Bournemouth loss but boo Bruno Fernandes, what now for crisis club?
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/venezuelas-opposition-leader-maria-corina-machado-returns-from-exile?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss)
 
 ---
 
-### 9. When is the 2026 Ballon d’Or, who are the favourites, and how can you watch it?
+### 9. Brazil election results 2026 live: Lula-Bolsonaro voting extended by 2 hours
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera Sport breaks down the award-voting criteria, top candidates and history ahead of the ceremony in London.
+Brazilian President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro square off in closely watched election.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/25/when-is-the-2026-ballon-dor-who-are-the-favourites-and-how-can-you-watch-it?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/25/when-is-the-2026-ballon-dor-who-are-the-favourites-and-how-can-you-watch-it?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-26T01:07:47+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+            "description": "<p>Article URL: <a href=\"https://minimaxir.com/2026/10/cheap-llms/\">https://minimaxir.com/2026/10/cheap-llms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50236102\">https://news.ycombinator.com/item?id=50236102</a></p>\n<p>Points: 7</p>\n<p># Comments: 3</p>",
+            "url": "https://minimaxir.com/2026/10/cheap-llms/",
+            "published": "Sun, 25 Oct 2026 21:11:31 +0000",
+            "fetched": "2026-10-26T01:07:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Serbia's Vucic concedes election defeat in historic win for student movement",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/\">https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50236081\">https://news.ycombinator.com/item?id=50236081</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+            "published": "Sun, 25 Oct 2026 21:08:28 +0000",
+            "fetched": "2026-10-26T01:07:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The State of Context Engineering",
+            "description": "<p>Article URL: <a href=\"https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html\">https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50235780\">https://news.ycombinator.com/item?id=50235780</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+            "published": "Sun, 25 Oct 2026 20:32:31 +0000",
+            "fetched": "2026-10-26T01:07:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man killed by falling tree as Storm Boelo leaves 160,000 properties without power",
+            "description": "An amber wind warning has now expired after severe weather sweeps across the UK.",
+            "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 21:30:15 GMT",
+            "fetched": "2026-10-26T01:07:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Serbia's Vučić concedes election defeat to student-led protest movement",
+            "description": "The country's populist right-wing leader of 12 years says it is \"clear\" his Serbian Progressive Party has lost.",
+            "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 21:25:04 GMT",
+            "fetched": "2026-10-26T01:07:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham open to 'honest discussion' on EU free movement",
+            "description": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe.",
+            "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 12:11:23 GMT",
+            "fetched": "2026-10-26T01:07:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kenya bus crash kills at least 24 as government vows road safety crackdown",
+            "description": "Church mourners die on Kenya’s Nairobi-Mombasa Highway weeks after another crash killed 17 people.",
+            "url": "https://www.aljazeera.com/news/2026/10/25/kenya-bus-crash-kills-at-least-24-as-government-vows-road-safety-crackdown?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 21:00:02 +0000",
+            "fetched": "2026-10-26T01:07:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can Carrick survive Man United’s slump and Fernandes fallout?",
+            "description": "Manchester United cheer Michael Carrick off after Bournemouth loss but boo Bruno Fernandes, what now for crisis club?",
+            "url": "https://www.aljazeera.com/sports/2026/10/25/can-carrick-survive-man-united-slump-and-fernandes-fallout?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 20:01:00 +0000",
+            "fetched": "2026-10-26T01:07:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazil election results 2026 live: Lula-Bolsonaro voting extended by 2 hours",
+            "description": "Brazilian President Luiz Inacio Lula da Silva and Senator Flavio Bolsonaro square off in closely watched election.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/brazil-election-results-2026-live-polls-close-in-lula-bolsonaro-face-off?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 20:00:04 +0000",
+            "fetched": "2026-10-26T01:07:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-26T01:07:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-26T01:07:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-26T01:07:47+03:30"
+        }
+    ]
+}
