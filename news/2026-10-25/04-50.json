@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-25T04:50:34+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tailworm – Tailscale Vulnerabilities",
+            "description": "<p>Article URL: <a href=\"https://tailworm.com/\">https://tailworm.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50227138\">https://news.ycombinator.com/item?id=50227138</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://tailworm.com/",
+            "published": "Sun, 25 Oct 2026 00:59:48 +0000",
+            "fetched": "2026-10-25T04:50:34+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ask HN: Why a Great Product Won't Succeed Without a Community",
+            "description": "<p>I'm really tired, fed up, and angry. You can create the best product in the world, but people always choose what their favorite influencers tell them to.  People don’t make their own decisions anymore; they always think whatever they’re told to think. It’s really frustrating to try to create something good—something better than what others are doing. And I’ve realized one thing: to achieve success, it’s better to have a community that follows you than to have a great product. If you want to launch a good product, you’re better off building a community first—it’ll make everything easier and faster. I don’t care what you think of this post—I just want to say what I feel.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50227131\">https://news.ycombinator.com/item?id=50227131</a></p>\n<p>Points: 3</p>\n<p># Comments: 2</p>",
+            "url": "https://news.ycombinator.com/item?id=50227131",
+            "published": "Sun, 25 Oct 2026 00:58:57 +0000",
+            "fetched": "2026-10-25T04:50:34+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "FindMyWeb: Apple Find My, reverse enginiered",
+            "description": "<p>Article URL: <a href=\"https://codeberg.org/Misom/FindMyWeb\">https://codeberg.org/Misom/FindMyWeb</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50226646\">https://news.ycombinator.com/item?id=50226646</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://codeberg.org/Misom/FindMyWeb",
+            "published": "Sat, 24 Oct 2026 23:42:52 +0000",
+            "fetched": "2026-10-25T04:50:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Almost 1,000 arrested as clashes follow another day of mass protests across France",
+            "description": "Officials have so far managed to avoid a repeat of last weekend's rioting and looting as hundreds of thousands took part in demonstrations.",
+            "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 21:09:27 GMT",
+            "fetched": "2026-10-25T04:50:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: BBC in Paris as police charge protesters and use tear gas during unrest",
+            "description": "Europe correspondent Nick Beake reports from Paris where mostly peaceful protests turned into unrest after nightfall.",
+            "url": "https://www.bbc.co.uk/news/videos/cm89zqw9lx1do?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 19:37:35 GMT",
+            "fetched": "2026-10-25T04:50:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Storm Boelo amber warnings kick in as parts of UK brace for 80mph gusts",
+            "description": "Scotland, parts of northern England and Northern Ireland are forecast to be hit with the strongest winds from the country's second storm in as many days.",
+            "url": "https://www.bbc.co.uk/news/articles/cmr4ydglq9r3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 24 Oct 2026 22:44:36 GMT",
+            "fetched": "2026-10-25T04:50:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats",
+            "description": "Former US president says Trump &#039;chose to make a series of bad decisions&#039;, highlighting the US-Israel war on Iran.",
+            "url": "https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 00:34:43 +0000",
+            "fetched": "2026-10-25T04:50:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Violence breaks out across Europe after another day of protests",
+            "description": "Police clashed with demonstrators in France, Italy and Spain over rising living costs and cuts to public services.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 00:23:48 +0000",
+            "fetched": "2026-10-25T04:50:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Trump hints at possible Sunday Iran attack or deal reached",
+            "description": "Trump says US is considering a possible attack on Iran as soon as Sunday, or it could reach a major deal with Tehran.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss",
+            "published": "Sun, 25 Oct 2026 00:00:00 +0000",
+            "fetched": "2026-10-25T04:50:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-25T04:50:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-25T04:50:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-25T04:50:34+03:30"
+        }
+    ]
+}

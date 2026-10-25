@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-25 02:55:53
+**Last Update:** 2026-10-25 04:50:34
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Free Software Is a Failure
+### 1. Tailworm – Tailscale Vulnerabilities
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="http://www.paritybit.ca/blog/free-software-is-an-abject-failure/">http://www.paritybit.ca/blog/free-software-is-an-abject-failure/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50226261">https://news.ycombinator.com/item?id=50226261</a></p>
+<p>Article URL: <a href="https://tailworm.com/">https://tailworm.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50227138">https://news.ycombinator.com/item?id=50227138</a></p>
 <p>Points: 7</p>
-<p># Comments: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [http://www.paritybit.ca/blog/free-software-is-an-abject-failure/](http://www.paritybit.ca/blog/free-software-is-an-abject-failure/)
+🔗 **Read more:** [https://tailworm.com/](https://tailworm.com/)
 
 ---
 
-### 2. Argus – a free, open-source agentic security operations platform – MIT
+### 2. Ask HN: Why a Great Product Won't Succeed Without a Community
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://thomasunise.com/argus">https://thomasunise.com/argus</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50225748">https://news.ycombinator.com/item?id=50225748</a></p>
-<p>Points: 19</p>
-<p># Comments: 4</p>
+<p>I'm really tired, fed up, and angry. You can create the best product in the world, but people always choose what their favorite influencers tell them to.  People don’t make their own decisions anymore; they always think whatever they’re told to think. It’s really frustrating to try to create something good—something better than what others are doing. And I’ve realized one thing: to achieve success, it’s better to have a community that follows you than to have a great product. If you want to launch a good product, you’re better off building a community first—it’ll make everything easier and faster. I don’t care what you think of this post—I just want to say what I feel.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50227131">https://news.ycombinator.com/item?id=50227131</a></p>
+<p>Points: 3</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://thomasunise.com/argus](https://thomasunise.com/argus)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=50227131](https://news.ycombinator.com/item?id=50227131)
 
 ---
 
-### 3. We should be more ambitious with the software we build
+### 3. FindMyWeb: Apple Find My, reverse enginiered
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://danluu.com/ambitious/">https://danluu.com/ambitious/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50225695">https://news.ycombinator.com/item?id=50225695</a></p>
-<p>Points: 35</p>
-<p># Comments: 23</p>
+<p>Article URL: <a href="https://codeberg.org/Misom/FindMyWeb">https://codeberg.org/Misom/FindMyWeb</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50226646">https://news.ycombinator.com/item?id=50226646</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://danluu.com/ambitious/](https://danluu.com/ambitious/)
+🔗 **Read more:** [https://codeberg.org/Misom/FindMyWeb](https://codeberg.org/Misom/FindMyWeb)
 
 ---
 
@@ -97,42 +98,42 @@ Scotland, parts of northern England and Northern Ireland are forecast to be hit 
 
 ---
 
-### 7. Trump lauds Melania over Russia-Ukraine localised ceasefire deal
+### 7. Obama slams Trump’s ‘cruelty and corruption’ at Ohio rally for Democrats
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Donald Trump praised First Lady as &#039;better than professionals&#039; after a localised Russia-Ukraine ceasefire in Oleshky.
+Former US president says Trump &#039;chose to make a series of bad decisions&#039;, highlighting the US-Israel war on Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/24/trump-lauds-melania-over-russia-ukraine-localised-ceasefire-deal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/obama-slams-trumps-cruelty-and-corruption-at-ohio-rally-for-democrats?traffic_source=rss)
 
 ---
 
-### 8. Gunmen kill at least 10 people in eastern Nigeria, police say
+### 8. Violence breaks out across Europe after another day of protests
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nigerian police say a large group carried out the attack on Binnari village in Taraba State.
+Police clashed with demonstrators in France, Italy and Spain over rising living costs and cuts to public services.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss](https://www.aljazeera.com/news/2026/10/24/gunmen-kill-at-least-10-people-in-eastern-nigeria-police-say?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/10-25-sv-europe-protests-wrap?traffic_source=rss)
 
 ---
 
-### 9. How have Democrats’ policies shifted since the last major US election?
+### 9. Iran war live: Trump hints at possible Sunday Iran attack or deal reached
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-From trans rights to Israel&#039;s war on Gaza, the party&#039;s candidates have responded to voter shifts on a slew of issues.
+Trump says US is considering a possible attack on Iran as soon as Sunday, or it could reach a major deal with Tehran.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/24/how-have-democrats-policies-shifted-since-the-last-major-us-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/25/iran-war-live-trump-hints-at-possible-sunday-iran-attack-or-deal-reached?traffic_source=rss)
 
 ---
 
