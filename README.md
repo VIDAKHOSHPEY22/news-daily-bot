@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-26 16:17:23
+**Last Update:** 2026-10-26 16:54:34
 
 **Total News:** 9
 
-**Sources:** Al Jazeera, BBC, NASA
+**Sources:** NASA, BBC, Al Jazeera
 
 ---
 
@@ -49,42 +49,42 @@ Changes are needed to prevent the full, flat-rate state pension becoming liable 
 
 ---
 
-### 4. Shadab Khan’s record-breaking innings gives Pakistan ODI win over England
+### 4. Israel expands expulsions in occupied West Bank to cement control
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pakistan came back from 154-9 to beat England by one wicket, thanks to a historic innings by all-rounder Shadab Khan.
+Israel escalates forced expulsions and infrastructure destruction with the goal of imposing &#039;new reality&#039;, analysts say.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/26/shadab-khans-record-breaking-innings-gives-pakistan-odi-win-over-england?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/26/shadab-khans-record-breaking-innings-gives-pakistan-odi-win-over-england?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss)
 
 ---
 
-### 5. Serbia after Vucic: Who will be PM and when will a government be formed?
+### 5. Who are the Israeli candidates trying to unseat Netanyahu?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Uncertainty remains over key positions after student-led movement deals a blow to longtime leader&#039;s political dominance.
+Who are the Israeli candidates trying to unseat Netanyahu?
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/serbia-after-vucic-who-will-be-pm-and-when-will-a-government-be-formed?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/who-are-the-israeli-candidates-trying-to-unseat-netanyahu?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/who-are-the-israeli-candidates-trying-to-unseat-netanyahu?traffic_source=rss)
 
 ---
 
-### 6. Jordan arrests three suspects over church attack in dawn raid: What to know
+### 6. How did Lula beat Bolsonaro after losing Brazil’s first-round election?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jordanian authorities have not named the individuals or any group involved in the &#039;terrorist incident&#039;.
+Brazil&#039;s president secured a historic fourth term after overturning a first-round defeat.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-over-church-attack-in-dawn-raid-what-to-know?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/jordan-arrests-three-suspects-over-church-attack-in-dawn-raid-what-to-know?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-26T16:54:34+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: How Lula turned it around to beat former president's son",
+            "description": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro in a knife-edge vote.",
+            "url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 02:53:00 GMT",
+            "fetched": "2026-10-26T16:54:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Storm Boelo leaves 90,000 without power as Met Office issues new wind warning",
+            "description": "Around 90,000 properties are without power after Scotland and north England is battered by strong winds.",
+            "url": "https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 12:00:20 GMT",
+            "fetched": "2026-10-26T16:54:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Healey to shield low-income pensioners from income tax in the Budget",
+            "description": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.",
+            "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 10:28:12 GMT",
+            "fetched": "2026-10-26T16:54:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel expands expulsions in occupied West Bank to cement control",
+            "description": "Israel escalates forced expulsions and infrastructure destruction with the goal of imposing &#039;new reality&#039;, analysts say.",
+            "url": "https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 13:11:08 +0000",
+            "fetched": "2026-10-26T16:54:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who are the Israeli candidates trying to unseat Netanyahu?",
+            "description": "Who are the Israeli candidates trying to unseat Netanyahu?",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/who-are-the-israeli-candidates-trying-to-unseat-netanyahu?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 13:02:29 +0000",
+            "fetched": "2026-10-26T16:54:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How did Lula beat Bolsonaro after losing Brazil’s first-round election?",
+            "description": "Brazil&#039;s president secured a historic fourth term after overturning a first-round defeat.",
+            "url": "https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 13:02:22 +0000",
+            "fetched": "2026-10-26T16:54:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-26T16:54:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-26T16:54:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-26T16:54:34+03:30"
+        }
+    ]
+}
