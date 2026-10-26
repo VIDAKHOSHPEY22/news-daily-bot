@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-26 22:38:36
+**Last Update:** 2026-10-26 22:55:23
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. US designates helium as a critical material
+### 1. The EPA Is Quietly Killing Its Web Archive
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/">https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50249275">https://news.ycombinator.com/item?id=50249275</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/](https://www.motherjones.com/environment/2026/10/epa-online-archive-deletion-zeldin-camp-lejeune-trump-clean-power/)
+
+---
+
+### 2. US designates helium as a critical material
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c">https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50248665">https://news.ycombinator.com/item?id=50248665</a></p>
-<p>Points: 14</p>
-<p># Comments: 3</p>
+<p>Points: 32</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c](https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c)
 
 ---
 
-### 2. Microsoft Announces Type Server Protocol, Extension of Language Server Protocol
+### 3. Microsoft Announces Type Server Protocol, Extension of Language Server Protocol
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md">https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50248371">https://news.ycombinator.com/item?id=50248371</a></p>
-<p>Points: 31</p>
-<p># Comments: 7</p>
+<p>Points: 45</p>
+<p># Comments: 10</p>
 
 🔗 **Read more:** [https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
-
----
-
-### 3. GPT-6.1 Terra
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://openai.com/index/introducing-gpt-6-1-terra/">https://openai.com/index/introducing-gpt-6-1-terra/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50248124">https://news.ycombinator.com/item?id=50248124</a></p>
-<p>Points: 146</p>
-<p># Comments: 71</p>
-
-🔗 **Read more:** [https://openai.com/index/introducing-gpt-6-1-terra/](https://openai.com/index/introducing-gpt-6-1-terra/)
 
 ---
 
