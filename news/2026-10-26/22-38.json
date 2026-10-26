@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-26T22:38:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "US designates helium as a critical material",
+            "description": "<p>Article URL: <a href=\"https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c\">https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50248665\">https://news.ycombinator.com/item?id=50248665</a></p>\n<p>Points: 14</p>\n<p># Comments: 3</p>",
+            "url": "https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c",
+            "published": "Mon, 26 Oct 2026 18:31:39 +0000",
+            "fetched": "2026-10-26T22:38:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Microsoft Announces Type Server Protocol, Extension of Language Server Protocol",
+            "description": "<p>Article URL: <a href=\"https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md\">https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50248371\">https://news.ycombinator.com/item?id=50248371</a></p>\n<p>Points: 31</p>\n<p># Comments: 7</p>",
+            "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+            "published": "Mon, 26 Oct 2026 18:14:49 +0000",
+            "fetched": "2026-10-26T22:38:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GPT-6.1 Terra",
+            "description": "<p>Article URL: <a href=\"https://openai.com/index/introducing-gpt-6-1-terra/\">https://openai.com/index/introducing-gpt-6-1-terra/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50248124\">https://news.ycombinator.com/item?id=50248124</a></p>\n<p>Points: 146</p>\n<p># Comments: 71</p>",
+            "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+            "published": "Mon, 26 Oct 2026 18:01:17 +0000",
+            "fetched": "2026-10-26T22:38:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Independent review announced into murder of student Henry Nowak",
+            "description": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review.",
+            "url": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 16:15:16 GMT",
+            "fetched": "2026-10-26T22:38:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israel and the US are both going to the polls - the consequences will be global",
+            "description": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
+            "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 16:30:34 GMT",
+            "fetched": "2026-10-26T22:38:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Drivers who killed mum and girl while racing jailed",
+            "description": "Justyna Hulboj and her daughter Lena died when they were hit by a car in Leeds in January 2023.",
+            "url": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 15:39:39 GMT",
+            "fetched": "2026-10-26T22:38:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump faces private citizens lawsuit over limiting White House media access",
+            "description": "The plaintiffs argue they are losing access to vital information media outlets covering Trump used to provide.",
+            "url": "https://www.aljazeera.com/news/2026/10/26/trump-faces-private-citizens-lawsuit-over-limiting-white-house-media-access?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 18:29:26 +0000",
+            "fetched": "2026-10-26T22:38:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazil’s real sinks after Lula’s re-election victory",
+            "description": "Investors react to Lula&#039;s victory with a sharp decline in the real and concern over increased spending and fiscal challenges.",
+            "url": "https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 18:27:23 +0000",
+            "fetched": "2026-10-26T22:38:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Could the midterms change US military support for Israel?",
+            "description": "From Texas to Michigan, Senate candidates are challenging US weapons transfers to Israel.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 18:05:12 +0000",
+            "fetched": "2026-10-26T22:38:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-26T22:38:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-26T22:38:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon In-fa",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728",
+            "published": "2026-10-23T18:00:00Z",
+            "fetched": "2026-10-26T22:38:36+03:30"
+        }
+    ]
+}

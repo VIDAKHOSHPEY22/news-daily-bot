@@ -1,107 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-26 16:54:34
+**Last Update:** 2026-10-26 22:38:36
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Watch: How Lula turned it around to beat former president's son
+### 1. US designates helium as a critical material
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c">https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50248665">https://news.ycombinator.com/item?id=50248665</a></p>
+<p>Points: 14</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c](https://apnews.com/article/energy-critical-materials-minerals-helium-43da160adc1bad389fba0b9ffbd14c3c)
+
+---
+
+### 2. Microsoft Announces Type Server Protocol, Extension of Language Server Protocol
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md">https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50248371">https://news.ycombinator.com/item?id=50248371</a></p>
+<p>Points: 31</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md)
+
+---
+
+### 3. GPT-6.1 Terra
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://openai.com/index/introducing-gpt-6-1-terra/">https://openai.com/index/introducing-gpt-6-1-terra/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50248124">https://news.ycombinator.com/item?id=50248124</a></p>
+<p>Points: 146</p>
+<p># Comments: 71</p>
+
+🔗 **Read more:** [https://openai.com/index/introducing-gpt-6-1-terra/](https://openai.com/index/introducing-gpt-6-1-terra/)
+
+---
+
+### 4. Independent review announced into murder of student Henry Nowak
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro in a knife-edge vote.
+"We must get to truth of what happened before, during and after that awful night," the home secretary says while announcing the review.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Storm Boelo leaves 90,000 without power as Met Office issues new wind warning
+### 5. Israel and the US are both going to the polls - the consequences will be global
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Around 90,000 properties are without power after Scotland and north England is battered by strong winds.
+The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqm264jxxnxzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Healey to shield low-income pensioners from income tax in the Budget
+### 6. Drivers who killed mum and girl while racing jailed
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April.
+Justyna Hulboj and her daughter Lena died when they were hit by a car in Leeds in January 2023.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Israel expands expulsions in occupied West Bank to cement control
+### 7. Trump faces private citizens lawsuit over limiting White House media access
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel escalates forced expulsions and infrastructure destruction with the goal of imposing &#039;new reality&#039;, analysts say.
+The plaintiffs argue they are losing access to vital information media outlets covering Trump used to provide.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/israel-expands-occupied-west-bank-expulsions-to-cement-control?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/trump-faces-private-citizens-lawsuit-over-limiting-white-house-media-access?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/trump-faces-private-citizens-lawsuit-over-limiting-white-house-media-access?traffic_source=rss)
 
 ---
 
-### 5. Who are the Israeli candidates trying to unseat Netanyahu?
+### 8. Brazil’s real sinks after Lula’s re-election victory
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Who are the Israeli candidates trying to unseat Netanyahu?
+Investors react to Lula&#039;s victory with a sharp decline in the real and concern over increased spending and fiscal challenges.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/who-are-the-israeli-candidates-trying-to-unseat-netanyahu?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/who-are-the-israeli-candidates-trying-to-unseat-netanyahu?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/26/brazils-real-sinks-after-lulas-re-election-victory?traffic_source=rss)
 
 ---
 
-### 6. How did Lula beat Bolsonaro after losing Brazil’s first-round election?
+### 9. Could the midterms change US military support for Israel?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Brazil&#039;s president secured a historic fourth term after overturning a first-round defeat.
+From Texas to Michigan, Senate candidates are challenging US weapons transfers to Israel.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election?traffic_source=rss)
-
----
-
-### 7. Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/could-the-midterms-change-americas-military-support-for-israel?traffic_source=rss)
 
 ---
 
-### 8. Hurricane Vance
+### 10. Tropical Cyclone Arnab
 
 **Source:** NASA
 
@@ -110,11 +145,11 @@ Natural event: Wildfires
 **Description:**
 Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729)
 
 ---
 
-### 9. Tropical Cyclone Agueda
+### 11. Tropical Storm Olana
 
 **Source:** NASA
 
@@ -123,7 +158,20 @@ Natural event: Severe Storms
 **Description:**
 Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730)
+
+---
+
+### 12. Typhoon In-fa
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728)
 
 ---
 
