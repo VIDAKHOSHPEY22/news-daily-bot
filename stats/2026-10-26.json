@@ -19,7 +19,16 @@
                 "BBC",
                 "Al Jazeera"
             ]
+        },
+        {
+            "time": "03-33",
+            "news_count": 9,
+            "sources": [
+                "BBC",
+                "Al Jazeera",
+                "NASA"
+            ]
         }
     ],
-    "total_news": 21
+    "total_news": 30
 }

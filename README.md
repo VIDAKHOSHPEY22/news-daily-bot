@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-26 02:10:11
+**Last Update:** 2026-10-26 03:33:57
 
 **Total News:** 9
 
-**Sources:** NASA, BBC, Al Jazeera
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
@@ -36,55 +36,55 @@ The populist right-wing leader of 12 years says it is "clear" his party has lost
 
 ---
 
-### 3. Burnham open to 'honest discussion' on EU free movement
+### 3. Funding set to double for plan to get rough sleepers off streets by Christmas
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The PM says he wants a "factual" and "evidence-based debate" about returning to free movement between Britain and Europe.
+Burnham made ending rough sleeping his first pledge when entering Downing Street in July.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Marine Le Pen vows French ‘renaissance’ as far right eyes seat of power
+### 4. Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-National Rally&#039;s Le Pen launches presidential campaign against backdrop of protests and social, economic discontent.
+Still a teenager, Yamal could surpass Brazilian legend Ronaldo Nazario, who won the Ballon d&#039;Or at the age of 21.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/marine-le-pen-vows-a-french-renaissance-as-far-right-eyes-seat-of-power?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss)
 
 ---
 
-### 5. US Attorney General Todd Blanche defends Alaska Senate election lawsuit
+### 5. Thousands protest in Prague against public media funding reforms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Department of Justice has faced criticism that its lawsuit is aimed at blocking a Democratic victory in a key race.
+Demonstrators allege Prime Minister Andrej Babis and his coalition&#039;s proposed reforms pose a threat to press freedom.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/us-attorney-general-todd-blanche-defends-alaska-senate-election-lawsuit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss)
 
 ---
 
-### 6. Marine Le Pen launches French presidential campaign
+### 6. Venezuela’s opposition leader Machado returns after months in exile
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Marine Le Pen launches French presidential campaign
+Venezuela’s opposition leader and Nobel Peace Prize winner Maria Corina Machado returned home after more than 10 months.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/marine-le-pen-launches-french-presidential-campaign?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss)
 
 ---
 
