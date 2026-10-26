@@ -1,77 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-26 04:52:20
+**Last Update:** 2026-10-26 09:27:32
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Lula wins election after final votes tallied
+### 1. Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/">https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50237485">https://news.ycombinator.com/item?id=50237485</a></p>
-<p>Points: 97</p>
-<p># Comments: 37</p>
+<p>Article URL: <a href="https://proc-cli.com/">https://proc-cli.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50239041">https://news.ycombinator.com/item?id=50239041</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/](https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/)
+🔗 **Read more:** [https://proc-cli.com/](https://proc-cli.com/)
 
 ---
 
-### 2. Attention Is Not What You Need
+### 2. Cognitive Mercantilism: AI panic resembles fears of early capitalism
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2512.19428">https://arxiv.org/abs/2512.19428</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50237224">https://news.ycombinator.com/item?id=50237224</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://contraptions.venkateshrao.com/p/cognitive-mercantilism">https://contraptions.venkateshrao.com/p/cognitive-mercantilism</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50239027">https://news.ycombinator.com/item?id=50239027</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2512.19428](https://arxiv.org/abs/2512.19428)
+🔗 **Read more:** [https://contraptions.venkateshrao.com/p/cognitive-mercantilism](https://contraptions.venkateshrao.com/p/cognitive-mercantilism)
 
 ---
 
-### 3. F-Zero X on Nintendo 3DS
+### 3. Behind the scenes at the NeXT Computer office
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://hypnotize.works/gdx-3ds/postmortem/index.html">https://hypnotize.works/gdx-3ds/postmortem/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50237078">https://news.ycombinator.com/item?id=50237078</a></p>
-<p>Points: 34</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry">https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50238763">https://news.ycombinator.com/item?id=50238763</a></p>
+<p>Points: 46</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://hypnotize.works/gdx-3ds/postmortem/index.html](https://hypnotize.works/gdx-3ds/postmortem/index.html)
+🔗 **Read more:** [https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
 
 ---
 
-### 4. Lula wins fourth term in Brazil but faces hostile Congress and divided country
+### 4. Watch: How Lula turned it around to beat former president's son
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised country.
+Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro in a knife-edge vote.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power
+### 5. Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power
 
 **Source:** BBC
 
@@ -84,7 +84,7 @@ An amber wind warning has now expired after severe weather sweeps across the UK.
 
 ---
 
-### 6. Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement
+### 6. Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ The populist right-wing leader of 12 years says it is "clear" his party has lost
 
 ---
 
-### 7. Netanyahu rival Eisenkot holds final rally before Israeli election
+### 7. China’s political elite gather for talks on Communist Party discipline
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gadi Eisenkot, Benjamin Netanyahu’s rival in Israel’s upcoming election, held his final campaign rally on Sunday.
+The four-day meeting is being watched closely for clues as to the country&#039;s direction and future leadership.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss)
 
 ---
 
-### 8. Serbia celebrates historic election win for student-backed movement
+### 8. Aleksandar Vucic, the Serbian leader brought down by students
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Celebrations erupted across Belgrade as Serbia&#039;s student-backed movement claimed a major election victory
+Serbia&#039;s longtime leader concedes defeat to a student-led protest movement in parliamentary elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss)
 
 ---
 
-### 9. Lula holds off far right with victory in Brazil presidential election
+### 9. The Gambia’s first blind magistrate tests a system built for the sighted
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Leftist president mounts stunning comeback after unexpected first-round loss galvanised supporters of Flavio Bolsonaro.
+For a decade, Muhammed Krubally has shown what is possible and what still needs to change.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss)
 
 ---
 

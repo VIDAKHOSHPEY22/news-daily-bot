@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-26T09:27:32+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management",
+            "description": "<p>Article URL: <a href=\"https://proc-cli.com/\">https://proc-cli.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50239041\">https://news.ycombinator.com/item?id=50239041</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://proc-cli.com/",
+            "published": "Mon, 26 Oct 2026 04:14:35 +0000",
+            "fetched": "2026-10-26T09:27:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+            "description": "<p>Article URL: <a href=\"https://contraptions.venkateshrao.com/p/cognitive-mercantilism\">https://contraptions.venkateshrao.com/p/cognitive-mercantilism</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50239027\">https://news.ycombinator.com/item?id=50239027</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://contraptions.venkateshrao.com/p/cognitive-mercantilism",
+            "published": "Mon, 26 Oct 2026 04:11:40 +0000",
+            "fetched": "2026-10-26T09:27:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Behind the scenes at the NeXT Computer office",
+            "description": "<p>Article URL: <a href=\"https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry\">https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50238763\">https://news.ycombinator.com/item?id=50238763</a></p>\n<p>Points: 46</p>\n<p># Comments: 18</p>",
+            "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+            "published": "Mon, 26 Oct 2026 03:31:11 +0000",
+            "fetched": "2026-10-26T09:27:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: How Lula turned it around to beat former president's son",
+            "description": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Flávio Bolsonaro in a knife-edge vote.",
+            "url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 02:53:00 GMT",
+            "fetched": "2026-10-26T09:27:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two men killed by falling trees as Storm Boelo leaves 90,000 properties without power",
+            "description": "An amber wind warning has now expired after severe weather sweeps across the UK.",
+            "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 04:41:36 GMT",
+            "fetched": "2026-10-26T09:27:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement",
+            "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+            "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 01:07:05 GMT",
+            "fetched": "2026-10-26T09:27:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "China’s political elite gather for talks on Communist Party discipline",
+            "description": "The four-day meeting is being watched closely for clues as to the country&#039;s direction and future leadership.",
+            "url": "https://www.aljazeera.com/news/2026/10/26/chinas-political-elite-gather-for-talks-on-communist-party-discipline?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 05:38:41 +0000",
+            "fetched": "2026-10-26T09:27:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Aleksandar Vucic, the Serbian leader brought down by students",
+            "description": "Serbia&#039;s longtime leader concedes defeat to a student-led protest movement in parliamentary elections.",
+            "url": "https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 05:24:59 +0000",
+            "fetched": "2026-10-26T09:27:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The Gambia’s first blind magistrate tests a system built for the sighted",
+            "description": "For a decade, Muhammed Krubally has shown what is possible and what still needs to change.",
+            "url": "https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 05:18:00 +0000",
+            "fetched": "2026-10-26T09:27:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-26T09:27:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-26T09:27:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-26T09:27:32+03:30"
+        }
+    ]
+}
