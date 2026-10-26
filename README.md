@@ -1,16 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-26 03:33:57
+**Last Update:** 2026-10-26 04:52:20
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power
+### 1. Lula wins election after final votes tallied
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/">https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50237485">https://news.ycombinator.com/item?id=50237485</a></p>
+<p>Points: 97</p>
+<p># Comments: 37</p>
+
+🔗 **Read more:** [https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/](https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/)
+
+---
+
+### 2. Attention Is Not What You Need
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arxiv.org/abs/2512.19428">https://arxiv.org/abs/2512.19428</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50237224">https://news.ycombinator.com/item?id=50237224</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://arxiv.org/abs/2512.19428](https://arxiv.org/abs/2512.19428)
+
+---
+
+### 3. F-Zero X on Nintendo 3DS
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://hypnotize.works/gdx-3ds/postmortem/index.html">https://hypnotize.works/gdx-3ds/postmortem/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50237078">https://news.ycombinator.com/item?id=50237078</a></p>
+<p>Points: 34</p>
+<p># Comments: 13</p>
+
+🔗 **Read more:** [https://hypnotize.works/gdx-3ds/postmortem/index.html](https://hypnotize.works/gdx-3ds/postmortem/index.html)
+
+---
+
+### 4. Lula wins fourth term in Brazil but faces hostile Congress and divided country
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised country.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power
 
 **Source:** BBC
 
@@ -23,7 +84,7 @@ An amber wind warning has now expired after severe weather sweeps across the UK.
 
 ---
 
-### 2. Serbia's veteran ruler Vučić concedes election to student-led protest movement
+### 6. Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement
 
 **Source:** BBC
 
@@ -36,59 +97,46 @@ The populist right-wing leader of 12 years says it is "clear" his party has lost
 
 ---
 
-### 3. Funding set to double for plan to get rough sleepers off streets by Christmas
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Burnham made ending rough sleeping his first pledge when entering Downing Street in July.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss)
-
----
-
-### 4. Ballon d’Or 2026: Can Barcelona phenom Lamine Yamal become youngest winner?
+### 7. Netanyahu rival Eisenkot holds final rally before Israeli election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Still a teenager, Yamal could surpass Brazilian legend Ronaldo Nazario, who won the Ballon d&#039;Or at the age of 21.
+Gadi Eisenkot, Benjamin Netanyahu’s rival in Israel’s upcoming election, held his final campaign rally on Sunday.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/25/ballon-dor-2026-can-barcelona-phenom-lamine-yamal-become-youngest-winner?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss)
 
 ---
 
-### 5. Thousands protest in Prague against public media funding reforms
+### 8. Serbia celebrates historic election win for student-backed movement
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Demonstrators allege Prime Minister Andrej Babis and his coalition&#039;s proposed reforms pose a threat to press freedom.
+Celebrations erupted across Belgrade as Serbia&#039;s student-backed movement claimed a major election victory
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss](https://www.aljazeera.com/news/2026/10/25/thousands-protest-in-prague-against-public-media-funding-reforms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss)
 
 ---
 
-### 6. Venezuela’s opposition leader Machado returns after months in exile
+### 9. Lula holds off far right with victory in Brazil presidential election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Venezuela’s opposition leader and Nobel Peace Prize winner Maria Corina Machado returned home after more than 10 months.
+Leftist president mounts stunning comeback after unexpected first-round loss galvanised supporters of Flavio Bolsonaro.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/25/venezuelas-opposition-leader-machado-returns-after-months-in-exile?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss)
 
 ---
 
-### 7. Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida
+### 10. Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Hurricane Vance
+### 11. Hurricane Vance
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Tropical Cyclone Agueda
+### 12. Tropical Cyclone Agueda
 
 **Source:** NASA
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-26T04:52:20+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Lula wins election after final votes tallied",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/\">https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50237485\">https://news.ycombinator.com/item?id=50237485</a></p>\n<p>Points: 97</p>\n<p># Comments: 37</p>",
+            "url": "https://www.reuters.com/live/brazil-election-live-lula-bolsonaro-face-off-presidential-runoff-2026-10-25/",
+            "published": "Mon, 26 Oct 2026 00:31:07 +0000",
+            "fetched": "2026-10-26T04:52:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Attention Is Not What You Need",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2512.19428\">https://arxiv.org/abs/2512.19428</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50237224\">https://news.ycombinator.com/item?id=50237224</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://arxiv.org/abs/2512.19428",
+            "published": "Sun, 25 Oct 2026 23:52:05 +0000",
+            "fetched": "2026-10-26T04:52:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "F-Zero X on Nintendo 3DS",
+            "description": "<p>Article URL: <a href=\"https://hypnotize.works/gdx-3ds/postmortem/index.html\">https://hypnotize.works/gdx-3ds/postmortem/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50237078\">https://news.ycombinator.com/item?id=50237078</a></p>\n<p>Points: 34</p>\n<p># Comments: 13</p>",
+            "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+            "published": "Sun, 25 Oct 2026 23:27:30 +0000",
+            "fetched": "2026-10-26T04:52:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Lula wins fourth term in Brazil but faces hostile Congress and divided country",
+            "description": "President Lula has pulled of a surprise win, but he will face a hostile Congress and a polarised country.",
+            "url": "https://www.bbc.co.uk/news/articles/cmvg7p001qj9o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 00:45:10 GMT",
+            "fetched": "2026-10-26T04:52:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two men killed by falling trees as Storm Boelo leaves 160,000 properties without power",
+            "description": "An amber wind warning has now expired after severe weather sweeps across the UK.",
+            "url": "https://www.bbc.co.uk/news/articles/cxdd8gr1vje0o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 25 Oct 2026 22:24:16 GMT",
+            "fetched": "2026-10-26T04:52:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Elation across Serbia after veteran ruler Vučić concedes to student-led protest movement",
+            "description": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future.",
+            "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 01:07:05 GMT",
+            "fetched": "2026-10-26T04:52:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Netanyahu rival Eisenkot holds final rally before Israeli election",
+            "description": "Gadi Eisenkot, Benjamin Netanyahu’s rival in Israel’s upcoming election, held his final campaign rally on Sunday.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/netanyahu-rival-eisenkot-holds-final-rally-before-israeli-election?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 01:02:57 +0000",
+            "fetched": "2026-10-26T04:52:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Serbia celebrates historic election win for student-backed movement",
+            "description": "Celebrations erupted across Belgrade as Serbia&#039;s student-backed movement claimed a major election victory",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/serbia-celebrates-historic-election-win-for-student-backed-movement?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 00:58:21 +0000",
+            "fetched": "2026-10-26T04:52:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lula holds off far right with victory in Brazil presidential election",
+            "description": "Leftist president mounts stunning comeback after unexpected first-round loss galvanised supporters of Flavio Bolsonaro.",
+            "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 00:16:29 +0000",
+            "fetched": "2026-10-26T04:52:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire BEE HAVEN (2) (24-06), Hamilton, Florida",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25590",
+            "published": "2026-10-22T21:45:00Z",
+            "fetched": "2026-10-26T04:52:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Hurricane Vance",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25589",
+            "published": "2026-10-21T18:00:00Z",
+            "fetched": "2026-10-26T04:52:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Agueda",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25457",
+            "published": "2026-10-20T06:00:00Z",
+            "fetched": "2026-10-26T04:52:20+03:30"
+        }
+    ]
+}
