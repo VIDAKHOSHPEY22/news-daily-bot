@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-26 09:27:32
+**Last Update:** 2026-10-26 09:58:06
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://proc-cli.com/">https://proc-cli.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50239041">https://news.ycombinator.com/item?id=50239041</a></p>
-<p>Points: 4</p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://proc-cli.com/](https://proc-cli.com/)
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://contraptions.venkateshrao.com/p/cognitive-mercantilism">https://contraptions.venkateshrao.com/p/cognitive-mercantilism</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50239027">https://news.ycombinator.com/item?id=50239027</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Points: 30</p>
+<p># Comments: 4</p>
 
 🔗 **Read more:** [https://contraptions.venkateshrao.com/p/cognitive-mercantilism](https://contraptions.venkateshrao.com/p/cognitive-mercantilism)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry">https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&amp;sort=pub_year_isi+asc%2C+title_sort+asc&amp;view=masonry</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50238763">https://news.ycombinator.com/item?id=50238763</a></p>
-<p>Points: 46</p>
-<p># Comments: 18</p>
+<p>Points: 58</p>
+<p># Comments: 24</p>
 
 🔗 **Read more:** [https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry](https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry)
 
@@ -84,20 +84,33 @@ An amber wind warning has now expired after severe weather sweeps across the UK.
 
 ---
 
-### 6. Celebrations in Serbia after veteran ruler Vučić loses election to student-led protest movement
+### 6. Knighting Sinfield 'easiest decision anyone's had to make,' says Prince William
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The populist right-wing leader of 12 years says it is "clear" his party has lost the vote billed as a referendum on the country's future.
+The rugby league star is "gold dust" and "should have been Sir Kevin years ago," says the Prince of Wales.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c65ynjkrjq4wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c65ynjkrjq4wo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. China’s political elite gather for talks on Communist Party discipline
+### 7. The French government is hiding behind a ‘riots’ narrative
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+It is much easier to fearmonger and try to delegitimise the protests than to address students&#039; demands.
+
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/26/the-french-government-is-hiding-behind-a-riots-narrative?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/26/the-french-government-is-hiding-behind-a-riots-narrative?traffic_source=rss)
+
+---
+
+### 8. China’s political elite gather for talks on Communist Party discipline
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ The four-day meeting is being watched closely for clues as to the country&#039;
 
 ---
 
-### 8. Aleksandar Vucic, the Serbian leader brought down by students
+### 9. Aleksandar Vucic, the Serbian leader brought down by students
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ The four-day meeting is being watched closely for clues as to the country&#039;
 Serbia&#039;s longtime leader concedes defeat to a student-led protest movement in parliamentary elections.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/aleksandar-vucic-the-serbian-leader-brought-down-by-students?traffic_source=rss)
-
----
-
-### 9. The Gambia’s first blind magistrate tests a system built for the sighted
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-For a decade, Muhammed Krubally has shown what is possible and what still needs to change.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/the-gambias-first-blind-magistrate-tests-a-system-built-for-the-sighted?traffic_source=rss)
 
 ---
 
