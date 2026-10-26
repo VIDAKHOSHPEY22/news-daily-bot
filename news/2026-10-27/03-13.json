@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-27T03:13:28+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Just Imagining a Workout Can Make You Stronger",
+            "description": "<p>Article URL: <a href=\"https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068\">https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50252457\">https://news.ycombinator.com/item?id=50252457</a></p>\n<p>Points: 20</p>\n<p># Comments: 6</p>",
+            "url": "https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068",
+            "published": "Mon, 26 Oct 2026 23:08:27 +0000",
+            "fetched": "2026-10-27T03:13:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+            "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/kv-cache-exposure-remediation/\">https://blog.cloudflare.com/kv-cache-exposure-remediation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50252159\">https://news.ycombinator.com/item?id=50252159</a></p>\n<p>Points: 26</p>\n<p># Comments: 6</p>",
+            "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+            "published": "Mon, 26 Oct 2026 22:41:48 +0000",
+            "fetched": "2026-10-27T03:13:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Exponential Time Hypothesis Is False [pdf]",
+            "description": "<p>Article URL: <a href=\"https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf\">https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50251661\">https://news.ycombinator.com/item?id=50251661</a></p>\n<p>Points: 90</p>\n<p># Comments: 28</p>",
+            "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+            "published": "Mon, 26 Oct 2026 21:59:15 +0000",
+            "fetched": "2026-10-27T03:13:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Independent review announced into murder of student Henry Nowak",
+            "description": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review.",
+            "url": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 16:15:16 GMT",
+            "fetched": "2026-10-27T03:13:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israel and the US are both going to the polls - the consequences will be global",
+            "description": "The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale",
+            "url": "https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 16:30:34 GMT",
+            "fetched": "2026-10-27T03:13:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Drivers who killed mum and girl while racing jailed",
+            "description": "Justyna Hulboj and her daughter Lena died when they were hit by a car in Leeds in January 2023.",
+            "url": "https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 15:39:39 GMT",
+            "fetched": "2026-10-27T03:13:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mass brawl between Galatasaray and Fenerbahce after Istanbul derby",
+            "description": "A mass brawl erupted between players of the Turkish football teams Galatasaray and Fenerbahce.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 23:18:31 +0000",
+            "fetched": "2026-10-27T03:13:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Former FBI director James Comey hit with third set of charges under Trump",
+            "description": "Comey, who was fired during Trump&#039;s first term, has been accused of unlawfully divulging national security information",
+            "url": "https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 22:03:26 +0000",
+            "fetched": "2026-10-27T03:13:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Africa food security under threat due to Iran war, trade officials warn",
+            "description": "The war on Iran is driving up fuel and fertiliser costs across Africa, threatening food security, trade officials say.",
+            "url": "https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss",
+            "published": "Mon, 26 Oct 2026 21:42:18 +0000",
+            "fetched": "2026-10-27T03:13:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T03:13:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T03:13:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon In-fa",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728",
+            "published": "2026-10-23T18:00:00Z",
+            "fetched": "2026-10-27T03:13:28+03:30"
+        }
+    ]
+}
