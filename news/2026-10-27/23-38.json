@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-27T23:38:38+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Discord will soon let anyone find public server messages through Google",
+            "description": "<p>Article URL: <a href=\"https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover\">https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50263854\">https://news.ycombinator.com/item?id=50263854</a></p>\n<p>Points: 65</p>\n<p># Comments: 30</p>",
+            "url": "https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover",
+            "published": "Tue, 27 Oct 2026 18:44:17 +0000",
+            "fetched": "2026-10-27T23:38:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Three TLS Bugs in GoAhead",
+            "description": "<p>Article URL: <a href=\"https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead\">https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50263701\">https://news.ycombinator.com/item?id=50263701</a></p>\n<p>Points: 24</p>\n<p># Comments: 2</p>",
+            "url": "https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead",
+            "published": "Tue, 27 Oct 2026 18:33:48 +0000",
+            "fetched": "2026-10-27T23:38:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Introducing LFM3: Every Modality for Specialized Intelligence",
+            "description": "<p>Article URL: <a href=\"https://www.liquid.ai/blog/lfm3\">https://www.liquid.ai/blog/lfm3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50262229\">https://news.ycombinator.com/item?id=50262229</a></p>\n<p>Points: 60</p>\n<p># Comments: 22</p>",
+            "url": "https://www.liquid.ai/blog/lfm3",
+            "published": "Tue, 27 Oct 2026 17:04:50 +0000",
+            "fetched": "2026-10-27T23:38:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+            "description": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
+            "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 15:01:27 GMT",
+            "fetched": "2026-10-27T23:38:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
+            "description": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.",
+            "url": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 19:41:05 GMT",
+            "fetched": "2026-10-27T23:38:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two in court over alleged Iran-linked plot at RAF Fairford",
+            "description": "Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates' Court on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 18:32:54 GMT",
+            "fetched": "2026-10-27T23:38:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict",
+            "description": "Russian President Vladimir Putin and Qatar’s Emir, Sheikh Tamim bin Hamad Al Thani, met in Moscow.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/qatars-emir-and-putin-call-for-diplomacy-amid-us-iran-conflict?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 19:36:01 +0000",
+            "fetched": "2026-10-27T23:38:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel election results live: Exit polls soon as Netanyahu faces tight race",
+            "description": "High turnout in vote widely described as the most consequential in Israel&#039;s history.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 19:28:12 +0000",
+            "fetched": "2026-10-27T23:38:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US’s RFK Jr claims Arabs ‘don’t produce science’: Why he’s very, very wrong",
+            "description": "US Health Secretary Robert F Kennedy Jr has claimed Arabs have not made contributions to math, science or literature.",
+            "url": "https://www.aljazeera.com/news/2026/10/27/uss-rfk-jr-claims-arabs-dont-produce-science-why-hes-very-very-wrong?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 19:12:35 +0000",
+            "fetched": "2026-10-27T23:38:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T23:38:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T23:38:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range  47B, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769",
+            "published": "2026-10-24T17:10:00Z",
+            "fetched": "2026-10-27T23:38:38+03:30"
+        }
+    ]
+}
