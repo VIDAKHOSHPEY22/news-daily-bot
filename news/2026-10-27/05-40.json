@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-27T05:40:28+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+            "description": "<p>Article URL: <a href=\"https://github.com/otya128/winevdm\">https://github.com/otya128/winevdm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50253529\">https://news.ycombinator.com/item?id=50253529</a></p>\n<p>Points: 14</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/otya128/winevdm",
+            "published": "Tue, 27 Oct 2026 01:15:04 +0000",
+            "fetched": "2026-10-27T05:40:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+            "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/kv-cache-exposure-remediation/\">https://blog.cloudflare.com/kv-cache-exposure-remediation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50252159\">https://news.ycombinator.com/item?id=50252159</a></p>\n<p>Points: 73</p>\n<p># Comments: 17</p>",
+            "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+            "published": "Mon, 26 Oct 2026 22:41:48 +0000",
+            "fetched": "2026-10-27T05:40:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
+            "description": "<p>Article URL: <a href=\"https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it\">https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50252008\">https://news.ycombinator.com/item?id=50252008</a></p>\n<p>Points: 22</p>\n<p># Comments: 17</p>",
+            "url": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
+            "published": "Mon, 26 Oct 2026 22:27:17 +0000",
+            "fetched": "2026-10-27T05:40:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Kane ends England’s 25-year wait to win men’s Ballon d’Or award",
+            "description": "Harry Kane becomes the first English player to win the prize since Michael Owen in 2001, and Spain midfielder Alexia Putellas wins the Ballon d’Or Feminin for a record-equalling third time.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 23:10:59 GMT",
+            "fetched": "2026-10-27T05:40:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Budget is imminent as tricky issues pile up for Burnham",
+            "description": "From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking.",
+            "url": "https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 23:03:14 GMT",
+            "fetched": "2026-10-27T05:40:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
+            "description": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+            "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 01:57:48 GMT",
+            "fetched": "2026-10-27T05:40:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bolsonaro’s party accepts Brazil election after Trump calls vote ‘rigged’",
+            "description": "Trump pushes unsubstantiated claims about Brazil&#039;s presidential vote but says he &#039;didn&#039;t take sides&#039; in the race.",
+            "url": "https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 01:32:54 +0000",
+            "fetched": "2026-10-27T05:40:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Harry Kane wins Ballon d’Or, ending England’s 25-year wait",
+            "description": "Bayern Munich and England striker Harry Kane has won his first Ballon d’Or after a record-breaking season.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/harry-kane-wins-ballon-dor-ending-englands-25-year-wait?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 01:20:56 +0000",
+            "fetched": "2026-10-27T05:40:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Serbia’s ‘students’ celebrate for a second night after election victory",
+            "description": "Thousands gathered on the streets of Belgrade for a second night to celebrate the student-led movement&#039;s victory.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/serbias-students-celebrate-for-a-second-night-after-election-victory?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 01:06:50 +0000",
+            "fetched": "2026-10-27T05:40:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T05:40:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T05:40:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon In-fa",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728",
+            "published": "2026-10-23T18:00:00Z",
+            "fetched": "2026-10-27T05:40:28+03:30"
+        }
+    ]
+}

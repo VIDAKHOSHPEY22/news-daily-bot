@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-27 03:13:28
+**Last Update:** 2026-10-27 05:40:28
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Just Imagining a Workout Can Make You Stronger
+### 1. 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068">https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50252457">https://news.ycombinator.com/item?id=50252457</a></p>
-<p>Points: 20</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://github.com/otya128/winevdm">https://github.com/otya128/winevdm</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50253529">https://news.ycombinator.com/item?id=50253529</a></p>
+<p>Points: 14</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068](https://nautil.us/just-imagining-a-workout-can-make-you-stronger-236068)
+🔗 **Read more:** [https://github.com/otya128/winevdm](https://github.com/otya128/winevdm)
 
 ---
 
@@ -35,104 +35,104 @@
 **Description:**
 <p>Article URL: <a href="https://blog.cloudflare.com/kv-cache-exposure-remediation/">https://blog.cloudflare.com/kv-cache-exposure-remediation/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50252159">https://news.ycombinator.com/item?id=50252159</a></p>
-<p>Points: 26</p>
-<p># Comments: 6</p>
+<p>Points: 73</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://blog.cloudflare.com/kv-cache-exposure-remediation/](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
 
 ---
 
-### 3. The Exponential Time Hypothesis Is False [pdf]
+### 3. Is PHP Running on Your ColdFusion Server? How to Check, and Remove It
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf">https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50251661">https://news.ycombinator.com/item?id=50251661</a></p>
-<p>Points: 90</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it">https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50252008">https://news.ycombinator.com/item?id=50252008</a></p>
+<p>Points: 22</p>
+<p># Comments: 17</p>
 
-🔗 **Read more:** [https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
+🔗 **Read more:** [https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it](https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it)
 
 ---
 
-### 4. Independent review announced into murder of student Henry Nowak
+### 4. Kane ends England’s 25-year wait to win men’s Ballon d’Or award
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-"We must get to truth of what happened before, during and after that awful night," the home secretary says while announcing the review.
+Harry Kane becomes the first English player to win the prize since Michael Owen in 2001, and Spain midfielder Alexia Putellas wins the Ballon d’Or Feminin for a record-equalling third time.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Israel and the US are both going to the polls - the consequences will be global
+### 5. Chris Mason: Budget is imminent as tricky issues pile up for Burnham
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The next fortnight sees two elections on different continents. The outcomes will shape geopolitics and the global economy, writes James Landale
+From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crlykey9jywqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Drivers who killed mum and girl while racing jailed
+### 6. Chancellor to cut tariffs on some staple goods to offer cost of living help
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Justyna Hulboj and her daughter Lena died when they were hit by a car in Leeds in January 2023.
+The chancellor will axe tariffs on some staples as part of plans to give households "breathing space".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqy0r3n17gjyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Mass brawl between Galatasaray and Fenerbahce after Istanbul derby
+### 7. Bolsonaro’s party accepts Brazil election after Trump calls vote ‘rigged’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A mass brawl erupted between players of the Turkish football teams Galatasaray and Fenerbahce.
+Trump pushes unsubstantiated claims about Brazil&#039;s presidential vote but says he &#039;didn&#039;t take sides&#039; in the race.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/26/mass-brawl-between-galatasaray-and-fenerbahce-after-istanbul-derby?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was?traffic_source=rss)
 
 ---
 
-### 8. Former FBI director James Comey hit with third set of charges under Trump
+### 8. Harry Kane wins Ballon d’Or, ending England’s 25-year wait
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Comey, who was fired during Trump&#039;s first term, has been accused of unlawfully divulging national security information
+Bayern Munich and England striker Harry Kane has won his first Ballon d’Or after a record-breaking season.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/former-fbi-director-james-comey-hit-with-third-set-of-charges-under-trump?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/harry-kane-wins-ballon-dor-ending-englands-25-year-wait?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/harry-kane-wins-ballon-dor-ending-englands-25-year-wait?traffic_source=rss)
 
 ---
 
-### 9. Africa food security under threat due to Iran war, trade officials warn
+### 9. Serbia’s ‘students’ celebrate for a second night after election victory
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The war on Iran is driving up fuel and fertiliser costs across Africa, threatening food security, trade officials say.
+Thousands gathered on the streets of Belgrade for a second night to celebrate the student-led movement&#039;s victory.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss](https://www.aljazeera.com/news/2026/10/26/africa-food-security-under-threat-due-to-iran-war-warn-trade-officials?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/serbias-students-celebrate-for-a-second-night-after-election-victory?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/serbias-students-celebrate-for-a-second-night-after-election-victory?traffic_source=rss)
 
 ---
 
