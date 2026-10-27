@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-28T03:22:17+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+            "description": "<p>Article URL: <a href=\"https://www.bettascore.ai/research/reliability-reviewers-vs-owners\">https://www.bettascore.ai/research/reliability-reviewers-vs-owners</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50266780\">https://news.ycombinator.com/item?id=50266780</a></p>\n<p>Points: 13</p>\n<p># Comments: 16</p>",
+            "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+            "published": "Tue, 27 Oct 2026 22:31:15 +0000",
+            "fetched": "2026-10-28T03:22:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "One year of Dioxus fullstack in production: the good, the painful",
+            "description": "<p>Article URL: <a href=\"https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful\">https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50265960\">https://news.ycombinator.com/item?id=50265960</a></p>\n<p>Points: 17</p>\n<p># Comments: 10</p>",
+            "url": "https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful",
+            "published": "Tue, 27 Oct 2026 21:19:15 +0000",
+            "fetched": "2026-10-28T03:22:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Early progress on accelerating drug development with Claude",
+            "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/early-progress-drug-development\">https://www.anthropic.com/research/early-progress-drug-development</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50265609\">https://news.ycombinator.com/item?id=50265609</a></p>\n<p>Points: 79</p>\n<p># Comments: 72</p>",
+            "url": "https://www.anthropic.com/research/early-progress-drug-development",
+            "published": "Tue, 27 Oct 2026 20:50:42 +0000",
+            "fetched": "2026-10-28T03:22:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
+            "description": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.",
+            "url": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 22:30:09 GMT",
+            "fetched": "2026-10-28T03:22:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+            "description": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
+            "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 15:01:27 GMT",
+            "fetched": "2026-10-28T03:22:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
+            "description": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
+            "url": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 22:34:02 GMT",
+            "fetched": "2026-10-28T03:22:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "A bad day for Ben-Gvir as he addresses his supporters",
+            "description": "Itamar Ben Gvir was defiant after polls show his Otzma Yehudit party has lost seats in the Israeli election.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 23:16:38 +0000",
+            "fetched": "2026-10-28T03:22:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "No clear mandate projected in Israel election: What’s next?",
+            "description": "President Isaac Herzog will task the candidate he deems best placed to form a government once results are in.",
+            "url": "https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 23:06:47 +0000",
+            "fetched": "2026-10-28T03:22:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Smotrich dances in Israel despite far-right decline",
+            "description": "Israeli Finance Minister Smotrich celebrates despite exit polls suggesting support for his far-right party declined.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 23:03:44 +0000",
+            "fetched": "2026-10-28T03:22:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-28T03:22:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-28T03:22:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range  47B, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769",
+            "published": "2026-10-24T17:10:00Z",
+            "fetched": "2026-10-28T03:22:17+03:30"
+        }
+    ]
+}

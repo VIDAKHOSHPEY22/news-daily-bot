@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-28 00:41:59
+**Last Update:** 2026-10-28 03:22:17
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Early progress on accelerating drug development with Claude
+### 1. Reviewers rarely talk about reliability. Owners bring it up twice as often
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bettascore.ai/research/reliability-reviewers-vs-owners">https://www.bettascore.ai/research/reliability-reviewers-vs-owners</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50266780">https://news.ycombinator.com/item?id=50266780</a></p>
+<p>Points: 13</p>
+<p># Comments: 16</p>
+
+🔗 **Read more:** [https://www.bettascore.ai/research/reliability-reviewers-vs-owners](https://www.bettascore.ai/research/reliability-reviewers-vs-owners)
+
+---
+
+### 2. One year of Dioxus fullstack in production: the good, the painful
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful">https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50265960">https://news.ycombinator.com/item?id=50265960</a></p>
+<p>Points: 17</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful](https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful)
+
+---
+
+### 3. Early progress on accelerating drug development with Claude
 
 **Source:** Hacker News
 
@@ -19,59 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.anthropic.com/research/early-progress-drug-development">https://www.anthropic.com/research/early-progress-drug-development</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50265609">https://news.ycombinator.com/item?id=50265609</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Points: 79</p>
+<p># Comments: 72</p>
 
 🔗 **Read more:** [https://www.anthropic.com/research/early-progress-drug-development](https://www.anthropic.com/research/early-progress-drug-development)
 
 ---
 
-### 2. Four Months of Zig
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://gracefulliberty.com/articles/four-months-of-zig/">https://gracefulliberty.com/articles/four-months-of-zig/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50265128">https://news.ycombinator.com/item?id=50265128</a></p>
-<p>Points: 7</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://gracefulliberty.com/articles/four-months-of-zig/](https://gracefulliberty.com/articles/four-months-of-zig/)
-
----
-
-### 3. Tailscale SSH: Investigation and remediation update
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://tailscale.com/ssh-investigation-update">https://tailscale.com/ssh-investigation-update</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50264857">https://news.ycombinator.com/item?id=50264857</a></p>
-<p>Points: 72</p>
-<p># Comments: 25</p>
-
-🔗 **Read more:** [https://tailscale.com/ssh-investigation-update](https://tailscale.com/ssh-investigation-update)
-
----
-
-### 4. Minimum wage set to rise but 18-20 year-olds will not get bigger increase
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Chris Mason: Budget needs to go some way towards delivering PM's promises
+### 4. Chris Mason: Budget needs to go some way towards delivering PM's promises
 
 **Source:** BBC
 
@@ -84,55 +71,68 @@ Support on the cost of living, and in particular energy bills, as well as announ
 
 ---
 
-### 6. Two in court over alleged Iran-linked plot at RAF Fairford
+### 5. Minimum wage set to rise but 18-20 year-olds will not get bigger increase
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates' Court on Tuesday.
+Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US says it killed five people in strike on alleged drug boat
+### 6. King acknowledges 'suffering of the past' as Caribbean tour begins
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. A bad day for Ben-Gvir as he addresses his supporters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Latest strike brings death toll of campaign decried as extrajudicial killings to 243 people since September 2025.
+Itamar Ben Gvir was defiant after polls show his Otzma Yehudit party has lost seats in the Israeli election.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/us-says-it-killed-five-people-in-strike-on-alleged-drug-boat?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/us-says-it-killed-five-people-in-strike-on-alleged-drug-boat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss)
 
 ---
 
-### 8. Netanyahu rallies Likud voters with megaphone in shopping mall
+### 8. No clear mandate projected in Israel election: What’s next?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli Prime Minister Benjamin Netanyahu has urged voters to back his Likud party minutes before polls close.
+President Isaac Herzog will task the candidate he deems best placed to form a government once results are in.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/netanyahu-rallies-likud-voters-with-megaphone-in-shopping-mall?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/netanyahu-rallies-likud-voters-with-megaphone-in-shopping-mall?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss)
 
 ---
 
-### 9. Lebanese and Syrians expect no change in Israeli policy after election
+### 9. Smotrich dances in Israel despite far-right decline
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Residents in Lebanon and Syria expect little change in Israeli policy after the election.
+Israeli Finance Minister Smotrich celebrates despite exit polls suggesting support for his far-right party declined.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/aje-onl-nf_lebanese-syrians-expectaions-israeli-elections-271026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/aje-onl-nf_lebanese-syrians-expectaions-israeli-elections-271026?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss)
 
 ---
 
