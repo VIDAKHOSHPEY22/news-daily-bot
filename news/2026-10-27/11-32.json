@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-27T11:32:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A simplified proof of ETH is False [pdf]",
+            "description": "<p>Article URL: <a href=\"https://shivakintali.github.io/papers/ETH.pdf\">https://shivakintali.github.io/papers/ETH.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50255406\">https://news.ycombinator.com/item?id=50255406</a></p>\n<p>Points: 21</p>\n<p># Comments: 1</p>",
+            "url": "https://shivakintali.github.io/papers/ETH.pdf",
+            "published": "Tue, 27 Oct 2026 06:45:30 +0000",
+            "fetched": "2026-10-27T11:32:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Mythical Man-Month in the Age of AI",
+            "description": "<p>Article URL: <a href=\"https://j11g.com/the-mythical-man-month-in-the-age-of-ai\">https://j11g.com/the-mythical-man-month-in-the-age-of-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50255298\">https://news.ycombinator.com/item?id=50255298</a></p>\n<p>Points: 37</p>\n<p># Comments: 23</p>",
+            "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+            "published": "Tue, 27 Oct 2026 06:25:37 +0000",
+            "fetched": "2026-10-27T11:32:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Writing about pratt parsing so I remember it",
+            "description": "<p>Article URL: <a href=\"https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html\">https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50255177\">https://news.ycombinator.com/item?id=50255177</a></p>\n<p>Points: 13</p>\n<p># Comments: 0</p>",
+            "url": "https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html",
+            "published": "Tue, 27 Oct 2026 06:02:23 +0000",
+            "fetched": "2026-10-27T11:32:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israel heads to polls for pivotal election defined by security and democracy",
+            "description": "Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead.",
+            "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 05:45:08 GMT",
+            "fetched": "2026-10-27T11:32:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
+            "description": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+            "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 06:49:19 GMT",
+            "fetched": "2026-10-27T11:32:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Kane ends England’s 25-year wait to win men’s Ballon d’Or award",
+            "description": "Harry Kane becomes the first English player to win the prize since Michael Owen in 2001, and Spain midfielder Alexia Putellas wins the Ballon d’Or Feminin for a record-equalling third time.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 23:10:59 GMT",
+            "fetched": "2026-10-27T11:32:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Wales first minister : ‘We’re within a union that is not a union of equals’",
+            "description": "Rhun ap Iorwerth says his country’s relationship with the United Kingdom is unequal and needs to change.",
+            "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/27/wales-first-minister-were-within-a-union-that-is-not-a-union-of?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 07:14:25 +0000",
+            "fetched": "2026-10-27T11:32:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US, EU and 30 countries warn of famine risk in Sudan, call for aid",
+            "description": "Countries also urge Sudan&#039;s warring parties to &#039;lift all impediments on humanitarian assistance&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/10/27/us-eu-and-30-countries-warn-of-famine-risk-in-sudan-call-for-aid?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 06:56:30 +0000",
+            "fetched": "2026-10-27T11:32:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "South Korea’s GDP growth beats forecasts amid AI boom",
+            "description": "Asia&#039;s fourth-largest economy grows 3.4 percent year-on-year amid strong semiconductor demand.",
+            "url": "https://www.aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 06:50:53 +0000",
+            "fetched": "2026-10-27T11:32:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T11:32:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T11:32:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon In-fa",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728",
+            "published": "2026-10-23T18:00:00Z",
+            "fetched": "2026-10-27T11:32:57+03:30"
+        }
+    ]
+}

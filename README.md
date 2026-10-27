@@ -1,90 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-27 08:16:57
+**Last Update:** 2026-10-27 11:32:57
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. 16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows
+### 1. A simplified proof of ETH is False [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/otya128/winevdm">https://github.com/otya128/winevdm</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50253529">https://news.ycombinator.com/item?id=50253529</a></p>
-<p>Points: 43</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://shivakintali.github.io/papers/ETH.pdf">https://shivakintali.github.io/papers/ETH.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50255406">https://news.ycombinator.com/item?id=50255406</a></p>
+<p>Points: 21</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/otya128/winevdm](https://github.com/otya128/winevdm)
+🔗 **Read more:** [https://shivakintali.github.io/papers/ETH.pdf](https://shivakintali.github.io/papers/ETH.pdf)
 
 ---
 
-### 2. Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)
+### 2. The Mythical Man-Month in the Age of AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.cloudflare.com/kv-cache-exposure-remediation/">https://blog.cloudflare.com/kv-cache-exposure-remediation/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50252159">https://news.ycombinator.com/item?id=50252159</a></p>
-<p>Points: 100</p>
-<p># Comments: 32</p>
+<p>Article URL: <a href="https://j11g.com/the-mythical-man-month-in-the-age-of-ai">https://j11g.com/the-mythical-man-month-in-the-age-of-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50255298">https://news.ycombinator.com/item?id=50255298</a></p>
+<p>Points: 37</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://blog.cloudflare.com/kv-cache-exposure-remediation/](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
+🔗 **Read more:** [https://j11g.com/the-mythical-man-month-in-the-age-of-ai](https://j11g.com/the-mythical-man-month-in-the-age-of-ai)
 
 ---
 
-### 3. Is PHP Running on Your ColdFusion Server? How to Check, and Remove It
+### 3. Writing about pratt parsing so I remember it
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it">https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50252008">https://news.ycombinator.com/item?id=50252008</a></p>
-<p>Points: 34</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html">https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50255177">https://news.ycombinator.com/item?id=50255177</a></p>
+<p>Points: 13</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it](https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it)
+🔗 **Read more:** [https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html](https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html)
 
 ---
 
-### 4. Kane ends England’s 25-year wait to win men’s Ballon d’Or award
+### 4. Israel heads to polls for pivotal election defined by security and democracy
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Harry Kane becomes the first English player to win the prize since Michael Owen in 2001, and Spain midfielder Alexia Putellas wins the Ballon d’Or Feminin for a record-equalling third time.
+Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead.
 
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Chris Mason: Budget is imminent as tricky issues pile up for Burnham
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Chancellor to cut tariffs on some staple goods to offer cost of living help
+### 5. Chancellor to cut tariffs on some staple goods to offer cost of living help
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The chancellor will axe tariffs on some staples as part of plans to give househo
 
 ---
 
-### 7. Israel election 2026 live: Netanyahu faces tough test in high-stakes polls
+### 6. Kane ends England’s 25-year wait to win men’s Ballon d’Or award
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Millions to cast ballots in election widely billed as the most consequential in Israel&#039;s history.
+Harry Kane becomes the first English player to win the prize since Michael Owen in 2001, and Spain midfielder Alexia Putellas wins the Ballon d’Or Feminin for a record-equalling third time.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Man with fake gun shot after using abused partner as shield
+### 7. Wales first minister : ‘We’re within a union that is not a union of equals’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Brazilian police shot a man who assaulted and threatened his partner with a fake gun in Criciuma, southern Brazil.
+Rhun ap Iorwerth says his country’s relationship with the United Kingdom is unequal and needs to change.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/man-with-fake-gun-shot-after-using-abused-partner-as-shield?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/man-with-fake-gun-shot-after-using-abused-partner-as-shield?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/27/wales-first-minister-were-within-a-union-that-is-not-a-union-of?traffic_source=rss](https://www.aljazeera.com/video/talk-to-al-jazeera/2026/10/27/wales-first-minister-were-within-a-union-that-is-not-a-union-of?traffic_source=rss)
 
 ---
 
-### 9. Ex-FBI chief Comey defiant in the face of third prosecution
+### 8. US, EU and 30 countries warn of famine risk in Sudan, call for aid
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ex-FBI Director James Comey denies US Justice Department&#039;s new charges.
+Countries also urge Sudan&#039;s warring parties to &#039;lift all impediments on humanitarian assistance&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/ex-fbi-chief-comey-defiant-in-the-face-of-third-prosecution?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/ex-fbi-chief-comey-defiant-in-the-face-of-third-prosecution?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/us-eu-and-30-countries-warn-of-famine-risk-in-sudan-call-for-aid?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/us-eu-and-30-countries-warn-of-famine-risk-in-sudan-call-for-aid?traffic_source=rss)
+
+---
+
+### 9. South Korea’s GDP growth beats forecasts amid AI boom
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Asia&#039;s fourth-largest economy grows 3.4 percent year-on-year amid strong semiconductor demand.
+
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/27/south-koreas-gdp-growth-beats-forecasts-amid-ai-boom?traffic_source=rss)
 
 ---
 
