@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-27 13:51:23
+**Last Update:** 2026-10-27 18:11:35
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI is ruining haunted houses
+### 1. The US Government Is Hiding Secret Court Ruling About How It Spies on Americans
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/">https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50256230">https://news.ycombinator.com/item?id=50256230</a></p>
-<p>Points: 6</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/">https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50259604">https://news.ycombinator.com/item?id=50259604</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/](https://www.plagiarismtoday.com/2026/10/26/ai-is-ruining-haunted-attractions/)
+🔗 **Read more:** [https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/](https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/)
 
 ---
 
-### 2. The Mythical Man-Month in the Age of AI
+### 2. Giving chat feedback gives Anthropic your data
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://j11g.com/the-mythical-man-month-in-the-age-of-ai">https://j11g.com/the-mythical-man-month-in-the-age-of-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50255298">https://news.ycombinator.com/item?id=50255298</a></p>
-<p>Points: 140</p>
-<p># Comments: 108</p>
+<p>Article URL: <a href="https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training">https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50259406">https://news.ycombinator.com/item?id=50259406</a></p>
+<p>Points: 17</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://j11g.com/the-mythical-man-month-in-the-age-of-ai](https://j11g.com/the-mythical-man-month-in-the-age-of-ai)
+🔗 **Read more:** [https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training](https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training)
 
 ---
 
-### 3. Writing about pratt parsing so I remember it
+### 3. PHP2Shell: Exploitation Attempts and Remediation Trends
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html">https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50255177">https://news.ycombinator.com/item?id=50255177</a></p>
-<p>Points: 32</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.wiz.io/blog/php2shell-exploitation-so-far">https://www.wiz.io/blog/php2shell-exploitation-so-far</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50259343">https://news.ycombinator.com/item?id=50259343</a></p>
+<p>Points: 46</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html](https://www.unix.dog/~yosh/blog/2026-10-25_pratt-parsing.html)
+🔗 **Read more:** [https://www.wiz.io/blog/php2shell-exploitation-so-far](https://www.wiz.io/blog/php2shell-exploitation-so-far)
 
 ---
 
-### 4. Two charged with national security offences over RAF Fairford incident
+### 4. Minimum wage set to rise but 18-20 year-olds will not get bigger increase
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-One of the men, Mohmed Ahmad Abdulkarim, 24, is accused of assisting Iran's intelligence service.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Chancellor to cut tariffs on some staple goods to offer cost of living help
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The BBC understands the government will also freeze fuel duty again in the Budget.
+Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Israel heads to polls for pivotal election defined by security and democracy
+### 5. Two charged over alleged plot to assist Iran in RAF Fairford incident
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead.
+Mohmed Ahmad Abdulkarim and Nouman Essghir, both 24, will appear at Westminster Magistrates' Court on Tuesday.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Turnout so far highest on record as Israelis vote in pivotal election
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. ‘It’s magical’: London’s iconic Oxford Street goes vehicle-free
+### 7. King Charles’s Caribbean tour: Will he discuss slavery reparations?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The cars have gone, and so have the buses, but while retailers expect a boost, residents worry about change.
+UK&#039;s King Charles launches nine-day Caribbean tour amid monarchy questions and growing demands for slavery reparations.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/27/its-magical-londons-iconic-oxford-street-goes-vehicle-free?traffic_source=rss](https://www.aljazeera.com/features/2026/10/27/its-magical-londons-iconic-oxford-street-goes-vehicle-free?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/king-charless-caribbean-tour-will-he-discuss-slavery-reparations?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/king-charless-caribbean-tour-will-he-discuss-slavery-reparations?traffic_source=rss)
 
 ---
 
-### 8. WNBA Finals: Valkyries beat Dream to reach the brink of their first title
+### 8. Russia targets Kyiv as Finnish, Norwegian leaders hold rare call with Putin
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Kiah Stokes and Veronica Burton shine for Golden State as Angel Reese&#039;s Atlanta team was stifled by a strong defence.
+Strikes hit a major bridge in the Ukrainian capital as leaders push for &#039;direct discussions&#039; to end the war.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/27/wnba-finals-valkyries-beat-dream-to-reach-the-brink-of-their-first-title?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/27/wnba-finals-valkyries-beat-dream-to-reach-the-brink-of-their-first-title?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin?traffic_source=rss)
 
 ---
 
-### 9. Heavy rains trigger massive flooding in Ecuador’s largest city
+### 9. Lebanon’s lost olive season: harvesting olives under drones and warplanes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Parts of Ecuador’s largest city are underwater after severe rains battered the coast.
+Lebanon&#039;s olive harvesters are facing dangerous conditions, with potential attacks and fear of cluster munitions.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/heavy-rains-trigger-massive-flooding-in-ecuadors-largest-city?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/heavy-rains-trigger-massive-flooding-in-ecuadors-largest-city?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/27/lebanons-lost-olive-season-harvesting-olives-under-drones-and-warplanes?traffic_source=rss](https://www.aljazeera.com/features/2026/10/27/lebanons-lost-olive-season-harvesting-olives-under-drones-and-warplanes?traffic_source=rss)
 
 ---
 
