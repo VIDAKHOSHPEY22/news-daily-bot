@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-27 05:40:28
+**Last Update:** 2026-10-27 08:16:57
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/otya128/winevdm">https://github.com/otya128/winevdm</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50253529">https://news.ycombinator.com/item?id=50253529</a></p>
-<p>Points: 14</p>
-<p># Comments: 1</p>
+<p>Points: 43</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://github.com/otya128/winevdm](https://github.com/otya128/winevdm)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.cloudflare.com/kv-cache-exposure-remediation/">https://blog.cloudflare.com/kv-cache-exposure-remediation/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50252159">https://news.ycombinator.com/item?id=50252159</a></p>
-<p>Points: 73</p>
-<p># Comments: 17</p>
+<p>Points: 100</p>
+<p># Comments: 32</p>
 
 🔗 **Read more:** [https://blog.cloudflare.com/kv-cache-exposure-remediation/](https://blog.cloudflare.com/kv-cache-exposure-remediation/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it">https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50252008">https://news.ycombinator.com/item?id=50252008</a></p>
-<p>Points: 22</p>
-<p># Comments: 17</p>
+<p>Points: 34</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it](https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it)
 
@@ -97,42 +97,42 @@ The chancellor will axe tariffs on some staples as part of plans to give househo
 
 ---
 
-### 7. Bolsonaro’s party accepts Brazil election after Trump calls vote ‘rigged’
+### 7. Israel election 2026 live: Netanyahu faces tough test in high-stakes polls
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump pushes unsubstantiated claims about Brazil&#039;s presidential vote but says he &#039;didn&#039;t take sides&#039; in the race.
+Millions to cast ballots in election widely billed as the most consequential in Israel&#039;s history.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/bolsonaros-party-accepts-result-after-trump-suggests-vote-was?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss)
 
 ---
 
-### 8. Harry Kane wins Ballon d’Or, ending England’s 25-year wait
+### 8. Man with fake gun shot after using abused partner as shield
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bayern Munich and England striker Harry Kane has won his first Ballon d’Or after a record-breaking season.
+Brazilian police shot a man who assaulted and threatened his partner with a fake gun in Criciuma, southern Brazil.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/harry-kane-wins-ballon-dor-ending-englands-25-year-wait?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/harry-kane-wins-ballon-dor-ending-englands-25-year-wait?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/man-with-fake-gun-shot-after-using-abused-partner-as-shield?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/man-with-fake-gun-shot-after-using-abused-partner-as-shield?traffic_source=rss)
 
 ---
 
-### 9. Serbia’s ‘students’ celebrate for a second night after election victory
+### 9. Ex-FBI chief Comey defiant in the face of third prosecution
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands gathered on the streets of Belgrade for a second night to celebrate the student-led movement&#039;s victory.
+Ex-FBI Director James Comey denies US Justice Department&#039;s new charges.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/serbias-students-celebrate-for-a-second-night-after-election-victory?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/serbias-students-celebrate-for-a-second-night-after-election-victory?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/ex-fbi-chief-comey-defiant-in-the-face-of-third-prosecution?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/ex-fbi-chief-comey-defiant-in-the-face-of-third-prosecution?traffic_source=rss)
 
 ---
 

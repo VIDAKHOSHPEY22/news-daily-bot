@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-27T08:16:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
+            "description": "<p>Article URL: <a href=\"https://github.com/otya128/winevdm\">https://github.com/otya128/winevdm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50253529\">https://news.ycombinator.com/item?id=50253529</a></p>\n<p>Points: 43</p>\n<p># Comments: 3</p>",
+            "url": "https://github.com/otya128/winevdm",
+            "published": "Tue, 27 Oct 2026 01:15:04 +0000",
+            "fetched": "2026-10-27T08:16:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+            "description": "<p>Article URL: <a href=\"https://blog.cloudflare.com/kv-cache-exposure-remediation/\">https://blog.cloudflare.com/kv-cache-exposure-remediation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50252159\">https://news.ycombinator.com/item?id=50252159</a></p>\n<p>Points: 100</p>\n<p># Comments: 32</p>",
+            "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+            "published": "Mon, 26 Oct 2026 22:41:48 +0000",
+            "fetched": "2026-10-27T08:16:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",
+            "description": "<p>Article URL: <a href=\"https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it\">https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50252008\">https://news.ycombinator.com/item?id=50252008</a></p>\n<p>Points: 34</p>\n<p># Comments: 28</p>",
+            "url": "https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it",
+            "published": "Mon, 26 Oct 2026 22:27:17 +0000",
+            "fetched": "2026-10-27T08:16:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Kane ends England’s 25-year wait to win men’s Ballon d’Or award",
+            "description": "Harry Kane becomes the first English player to win the prize since Michael Owen in 2001, and Spain midfielder Alexia Putellas wins the Ballon d’Or Feminin for a record-equalling third time.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cqlye4jpzzxyo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 23:10:59 GMT",
+            "fetched": "2026-10-27T08:16:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Budget is imminent as tricky issues pile up for Burnham",
+            "description": "From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking.",
+            "url": "https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 26 Oct 2026 23:03:14 GMT",
+            "fetched": "2026-10-27T08:16:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chancellor to cut tariffs on some staple goods to offer cost of living help",
+            "description": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\".",
+            "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 01:57:48 GMT",
+            "fetched": "2026-10-27T08:16:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel election 2026 live: Netanyahu faces tough test in high-stakes polls",
+            "description": "Millions to cast ballots in election widely billed as the most consequential in Israel&#039;s history.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-2026-live-netanyahu-faces-tough-test-in-high-stakes-polls?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 04:30:00 +0000",
+            "fetched": "2026-10-27T08:16:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Man with fake gun shot after using abused partner as shield",
+            "description": "Brazilian police shot a man who assaulted and threatened his partner with a fake gun in Criciuma, southern Brazil.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/man-with-fake-gun-shot-after-using-abused-partner-as-shield?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 03:48:41 +0000",
+            "fetched": "2026-10-27T08:16:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ex-FBI chief Comey defiant in the face of third prosecution",
+            "description": "Ex-FBI Director James Comey denies US Justice Department&#039;s new charges.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/ex-fbi-chief-comey-defiant-in-the-face-of-third-prosecution?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 03:17:40 +0000",
+            "fetched": "2026-10-27T08:16:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T08:16:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T08:16:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon In-fa",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728",
+            "published": "2026-10-23T18:00:00Z",
+            "fetched": "2026-10-27T08:16:57+03:30"
+        }
+    ]
+}
