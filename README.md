@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-27 18:11:35
+**Last Update:** 2026-10-27 19:53:23
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The US Government Is Hiding Secret Court Ruling About How It Spies on Americans
+### 1. Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/">https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50259604">https://news.ycombinator.com/item?id=50259604</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/](https://www.wired.com/story/the-us-government-is-hiding-a-secret-court-ruling-about-how-it-spies-on-americans/)
-
----
-
-### 2. Giving chat feedback gives Anthropic your data
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training">https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50259406">https://news.ycombinator.com/item?id=50259406</a></p>
+<p>Article URL: <a href="https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment">https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50260960">https://news.ycombinator.com/item?id=50260960</a></p>
 <p>Points: 17</p>
-<p># Comments: 6</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training](https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training)
+🔗 **Read more:** [https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment](https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment)
 
 ---
 
-### 3. PHP2Shell: Exploitation Attempts and Remediation Trends
+### 2. Anthropic illegally trained Claude with Stanford professors' books
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wiz.io/blog/php2shell-exploitation-so-far">https://www.wiz.io/blog/php2shell-exploitation-so-far</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50259343">https://news.ycombinator.com/item?id=50259343</a></p>
-<p>Points: 46</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/">https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50260814">https://news.ycombinator.com/item?id=50260814</a></p>
+<p>Points: 25</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://www.wiz.io/blog/php2shell-exploitation-so-far](https://www.wiz.io/blog/php2shell-exploitation-so-far)
+🔗 **Read more:** [https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/](https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/)
+
+---
+
+### 3. My video has unit tests
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://pertiller.tech/blog/my-video-written-in-code/">https://pertiller.tech/blog/my-video-written-in-code/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50260619">https://news.ycombinator.com/item?id=50260619</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://pertiller.tech/blog/my-video-written-in-code/](https://pertiller.tech/blog/my-video-written-in-code/)
 
 ---
 
@@ -97,42 +97,42 @@ The elections - the first since the Hamas-led attacks on Israel and the wars whi
 
 ---
 
-### 7. King Charles’s Caribbean tour: Will he discuss slavery reparations?
+### 7. Death toll from attack by gunmen in northeastern Nigeria rises to 62
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UK&#039;s King Charles launches nine-day Caribbean tour amid monarchy questions and growing demands for slavery reparations.
+Bandits targeted Binnari village in Taraba state, setting fire to homes, shops, food supplies and motorcycles.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/king-charless-caribbean-tour-will-he-discuss-slavery-reparations?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/king-charless-caribbean-tour-will-he-discuss-slavery-reparations?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss)
 
 ---
 
-### 8. Russia targets Kyiv as Finnish, Norwegian leaders hold rare call with Putin
+### 8. Iranian and Qatari leaders meet at Russian energy forum
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Strikes hit a major bridge in the Ukrainian capital as leaders push for &#039;direct discussions&#039; to end the war.
+Iranian and Qatari leaders meet at Russian energy forum
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/russia-targets-kyiv-as-finnish-norwegian-leaders-hold-rare-call-with-putin?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss)
 
 ---
 
-### 9. Lebanon’s lost olive season: harvesting olives under drones and warplanes
+### 9. Iran’s calculations as US escalation looms: Trust, midterms, Hormuz
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lebanon&#039;s olive harvesters are facing dangerous conditions, with potential attacks and fear of cluster munitions.
+Tehran remains firm on demands despite diplomatic urgency to prevent escalation in the ongoing US-Israeli conflict.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/27/lebanons-lost-olive-season-harvesting-olives-under-drones-and-warplanes?traffic_source=rss](https://www.aljazeera.com/features/2026/10/27/lebanons-lost-olive-season-harvesting-olives-under-drones-and-warplanes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz?traffic_source=rss)
 
 ---
 

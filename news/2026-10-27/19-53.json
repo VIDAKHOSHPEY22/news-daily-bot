@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-27T19:53:23+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Data Recovery CEO Indicted for Allegedly Scamming Ransomware Victims",
+            "description": "<p>Article URL: <a href=\"https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment\">https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50260960\">https://news.ycombinator.com/item?id=50260960</a></p>\n<p>Points: 17</p>\n<p># Comments: 5</p>",
+            "url": "https://www.propublica.org/article/zohar-pinhasi-monstercloud-ransomware-indictment",
+            "published": "Tue, 27 Oct 2026 15:39:29 +0000",
+            "fetched": "2026-10-27T19:53:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anthropic illegally trained Claude with Stanford professors' books",
+            "description": "<p>Article URL: <a href=\"https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/\">https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50260814\">https://news.ycombinator.com/item?id=50260814</a></p>\n<p>Points: 25</p>\n<p># Comments: 7</p>",
+            "url": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+            "published": "Tue, 27 Oct 2026 15:28:26 +0000",
+            "fetched": "2026-10-27T19:53:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "My video has unit tests",
+            "description": "<p>Article URL: <a href=\"https://pertiller.tech/blog/my-video-written-in-code/\">https://pertiller.tech/blog/my-video-written-in-code/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50260619\">https://news.ycombinator.com/item?id=50260619</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://pertiller.tech/blog/my-video-written-in-code/",
+            "published": "Tue, 27 Oct 2026 15:15:32 +0000",
+            "fetched": "2026-10-27T19:53:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+            "description": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
+            "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 15:01:27 GMT",
+            "fetched": "2026-10-27T19:53:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two charged over alleged plot to assist Iran in RAF Fairford incident",
+            "description": "Mohmed Ahmad Abdulkarim and Nouman Essghir, both 24, will appear at Westminster Magistrates' Court on Tuesday.",
+            "url": "https://www.bbc.co.uk/news/articles/cqly3v5vz4kko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 12:50:14 GMT",
+            "fetched": "2026-10-27T19:53:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Turnout so far highest on record as Israelis vote in pivotal election",
+            "description": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu.",
+            "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 11:11:33 GMT",
+            "fetched": "2026-10-27T19:53:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Death toll from attack by gunmen in northeastern Nigeria rises to 62",
+            "description": "Bandits targeted Binnari village in Taraba state, setting fire to homes, shops, food supplies and motorcycles.",
+            "url": "https://www.aljazeera.com/news/2026/10/27/death-toll-from-attack-by-gunmen-in-northeastern-nigeria-rises-to-62?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 15:53:35 +0000",
+            "fetched": "2026-10-27T19:53:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iranian and Qatari leaders meet at Russian energy forum",
+            "description": "Iranian and Qatari leaders meet at Russian energy forum",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/27/iranian-and-qatari-leaders-meet-at-russian-energy-forum?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 15:49:19 +0000",
+            "fetched": "2026-10-27T19:53:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran’s calculations as US escalation looms: Trust, midterms, Hormuz",
+            "description": "Tehran remains firm on demands despite diplomatic urgency to prevent escalation in the ongoing US-Israeli conflict.",
+            "url": "https://www.aljazeera.com/news/2026/10/27/irans-calculations-as-us-escalation-looms-trust-midterms-hormuz?traffic_source=rss",
+            "published": "Tue, 27 Oct 2026 15:26:59 +0000",
+            "fetched": "2026-10-27T19:53:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T19:53:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-27T19:53:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon In-fa",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728",
+            "published": "2026-10-23T18:00:00Z",
+            "fetched": "2026-10-27T19:53:23+03:30"
+        }
+    ]
+}
