@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-27 23:38:38
+**Last Update:** 2026-10-28 00:41:59
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Discord will soon let anyone find public server messages through Google
+### 1. Early progress on accelerating drug development with Claude
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover">https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50263854">https://news.ycombinator.com/item?id=50263854</a></p>
-<p>Points: 65</p>
-<p># Comments: 30</p>
+<p>Article URL: <a href="https://www.anthropic.com/research/early-progress-drug-development">https://www.anthropic.com/research/early-progress-drug-development</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50265609">https://news.ycombinator.com/item?id=50265609</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover](https://discord.com/blog/making-content-from-discoverable-servers-easier-to-discover)
+🔗 **Read more:** [https://www.anthropic.com/research/early-progress-drug-development](https://www.anthropic.com/research/early-progress-drug-development)
 
 ---
 
-### 2. Three TLS Bugs in GoAhead
+### 2. Four Months of Zig
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead">https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50263701">https://news.ycombinator.com/item?id=50263701</a></p>
-<p>Points: 24</p>
+<p>Article URL: <a href="https://gracefulliberty.com/articles/four-months-of-zig/">https://gracefulliberty.com/articles/four-months-of-zig/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50265128">https://news.ycombinator.com/item?id=50265128</a></p>
+<p>Points: 7</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead](https://foxio.io/blog/choose-your-backend-three-tls-bugs-in-goahead)
+🔗 **Read more:** [https://gracefulliberty.com/articles/four-months-of-zig/](https://gracefulliberty.com/articles/four-months-of-zig/)
 
 ---
 
-### 3. Introducing LFM3: Every Modality for Specialized Intelligence
+### 3. Tailscale SSH: Investigation and remediation update
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.liquid.ai/blog/lfm3">https://www.liquid.ai/blog/lfm3</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50262229">https://news.ycombinator.com/item?id=50262229</a></p>
-<p>Points: 60</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://tailscale.com/ssh-investigation-update">https://tailscale.com/ssh-investigation-update</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50264857">https://news.ycombinator.com/item?id=50264857</a></p>
+<p>Points: 72</p>
+<p># Comments: 25</p>
 
-🔗 **Read more:** [https://www.liquid.ai/blog/lfm3](https://www.liquid.ai/blog/lfm3)
+🔗 **Read more:** [https://tailscale.com/ssh-investigation-update](https://tailscale.com/ssh-investigation-update)
 
 ---
 
@@ -97,42 +97,42 @@ Mohmed Abdulkarim and Nouman Essghir, both 24, appear at Westminster Magistrates
 
 ---
 
-### 7. Qatar’s Emir and Putin call for diplomacy amid US-Iran conflict
+### 7. US says it killed five people in strike on alleged drug boat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russian President Vladimir Putin and Qatar’s Emir, Sheikh Tamim bin Hamad Al Thani, met in Moscow.
+Latest strike brings death toll of campaign decried as extrajudicial killings to 243 people since September 2025.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/qatars-emir-and-putin-call-for-diplomacy-amid-us-iran-conflict?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/qatars-emir-and-putin-call-for-diplomacy-amid-us-iran-conflict?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/us-says-it-killed-five-people-in-strike-on-alleged-drug-boat?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/us-says-it-killed-five-people-in-strike-on-alleged-drug-boat?traffic_source=rss)
 
 ---
 
-### 8. Israel election results live: Exit polls soon as Netanyahu faces tight race
+### 8. Netanyahu rallies Likud voters with megaphone in shopping mall
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-High turnout in vote widely described as the most consequential in Israel&#039;s history.
+Israeli Prime Minister Benjamin Netanyahu has urged voters to back his Likud party minutes before polls close.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/27/israel-election-results-live-exit-polls-soon-as-netanyahu-faces-tight-race?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/netanyahu-rallies-likud-voters-with-megaphone-in-shopping-mall?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/netanyahu-rallies-likud-voters-with-megaphone-in-shopping-mall?traffic_source=rss)
 
 ---
 
-### 9. US’s RFK Jr claims Arabs ‘don’t produce science’: Why he’s very, very wrong
+### 9. Lebanese and Syrians expect no change in Israeli policy after election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Health Secretary Robert F Kennedy Jr has claimed Arabs have not made contributions to math, science or literature.
+Residents in Lebanon and Syria expect little change in Israeli policy after the election.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/uss-rfk-jr-claims-arabs-dont-produce-science-why-hes-very-very-wrong?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/uss-rfk-jr-claims-arabs-dont-produce-science-why-hes-very-very-wrong?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/aje-onl-nf_lebanese-syrians-expectaions-israeli-elections-271026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/aje-onl-nf_lebanese-syrians-expectaions-israeli-elections-271026?traffic_source=rss)
 
 ---
 
