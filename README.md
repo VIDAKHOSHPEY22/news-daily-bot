@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-28 11:46:00
+**Last Update:** 2026-10-28 16:45:45
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. 碁の国: Play Chess as Town Building
+### 1. Two high-speed trains collide near Toledo, Spain
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gonokuni.plpl.town/">https://gonokuni.plpl.town/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50269492">https://news.ycombinator.com/item?id=50269492</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash">https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50272596">https://news.ycombinator.com/item?id=50272596</a></p>
+<p>Points: 15</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://gonokuni.plpl.town/](https://gonokuni.plpl.town/)
+🔗 **Read more:** [https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash](https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash)
 
 ---
 
-### 2. Artificial Analysis Intelligence Index v5
+### 2. Amazon to buy satellite firm Globalstar in $11.57B deal
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5">https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50268868">https://news.ycombinator.com/item?id=50268868</a></p>
-<p>Points: 28</p>
-<p># Comments: 40</p>
+<p>Article URL: <a href="https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/">https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50272145">https://news.ycombinator.com/item?id=50272145</a></p>
+<p>Points: 56</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5)
+🔗 **Read more:** [https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/](https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/)
 
 ---
 
-### 3. Git for the US Code
+### 3. About the compromised eMudhra intermediate CAs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://lexifina.com/blog/git-for-the-us-code">https://lexifina.com/blog/git-for-the-us-code</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50268380">https://news.ycombinator.com/item?id=50268380</a></p>
-<p>Points: 223</p>
-<p># Comments: 112</p>
+<p>Article URL: <a href="https://support.apple.com/en-us/149555">https://support.apple.com/en-us/149555</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50271685">https://news.ycombinator.com/item?id=50271685</a></p>
+<p>Points: 32</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://lexifina.com/blog/git-for-the-us-code](https://lexifina.com/blog/git-for-the-us-code)
+🔗 **Read more:** [https://support.apple.com/en-us/149555](https://support.apple.com/en-us/149555)
 
 ---
 
-### 4. Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?
+### 4. Overturned carriages and makeshift medical tents at crash site
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Chancellor John Healey will set out his plans for UK taxes on 28 October.
+Dozens of people are feared dead after a high-speed train collided with another train south of Madrid.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cv8ezjdkle59o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cv8ezjdkle59o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Watch: What happens now after close vote in Israeli election?
+### 5. What we know about the crash so far
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Polls have closed in the Israeli election, but there is no clear winner.
+More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports, sources say
+### 6. Russell Brand tells court allegations had devastating impact on him
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The defeated presidential candidate's apparent arrival in the US came hours after he failed to turn in his passports to Brazilian authorities.
+The entertainer begins giving evidence at his trial on charges including rape at Southwark Crown Court.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Where does Arsenal’s Fleetwood humiliation place in English cup shocks?
+### 7. Ballon d’Or win will help keep Kane at Bayern, says Germany’s Matthaus
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-How big a shock is the Premier League champions&#039; 5-3 defeat on penalties after a 1-1 draw with a fourth-tier club?
+Former World Cup winner Lothar Matthaus says relationship between Harry Kane and club Bayern Munich is &#039;perfect&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/28/where-does-arsenals-fleetwood-humiliation-rank-english-cup-shocks?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/28/where-does-arsenals-fleetwood-humiliation-rank-english-cup-shocks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/28/ballon-dor-win-will-help-keep-kane-at-bayern-says-germanys-matthaus?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/28/ballon-dor-win-will-help-keep-kane-at-bayern-says-germanys-matthaus?traffic_source=rss)
 
 ---
 
-### 8. Elderly women and children survive Russian attack on Kharkiv
+### 8. Tens of thousands flee Ethiopia fighting into neighbouring Kenya
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Russian drone attack in Ukraine&#039;s Kharkiv late Tuesday forced elderly women and children to evacuate their homes.
+Tens of thousands of people have crossed into Kenya, fleeing fighting between regional forces in Ethiopia’s Moyale town.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/elderly-women-and-children-survive-russian-attack-on-kharkiv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/elderly-women-and-children-survive-russian-attack-on-kharkiv?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/tens-of-thousands-flee-ethiopia-fighting-into-neighbouring-kenya?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/tens-of-thousands-flee-ethiopia-fighting-into-neighbouring-kenya?traffic_source=rss)
 
 ---
 
-### 9. Russia is selling Africa dependence disguised as partnership
+### 9. Photos: Spain high-speed train crash kills 30
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As African leaders gather in Moscow, Russia is securing resources and protecting rulers at the expense of their people.
+Health Minister Monica Garcia says emergency workers are focusing on rescuing survivors.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/28/russia-is-selling-africa-dependence-disguised-as-partnership?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/28/russia-is-selling-africa-dependence-disguised-as-partnership?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/10/28/photos-spain-high-speed-train-collision-kills-30?traffic_source=rss](https://www.aljazeera.com/gallery/2026/10/28/photos-spain-high-speed-train-collision-kills-30?traffic_source=rss)
 
 ---
 

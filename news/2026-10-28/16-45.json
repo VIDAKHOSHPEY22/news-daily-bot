@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-28T16:45:45+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Two high-speed trains collide near Toledo, Spain",
+            "description": "<p>Article URL: <a href=\"https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash\">https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50272596\">https://news.ycombinator.com/item?id=50272596</a></p>\n<p>Points: 15</p>\n<p># Comments: 10</p>",
+            "url": "https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash",
+            "published": "Wed, 28 Oct 2026 12:35:41 +0000",
+            "fetched": "2026-10-28T16:45:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Amazon to buy satellite firm Globalstar in $11.57B deal",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/\">https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50272145\">https://news.ycombinator.com/item?id=50272145</a></p>\n<p>Points: 56</p>\n<p># Comments: 18</p>",
+            "url": "https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/",
+            "published": "Wed, 28 Oct 2026 11:54:23 +0000",
+            "fetched": "2026-10-28T16:45:45+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "About the compromised eMudhra intermediate CAs",
+            "description": "<p>Article URL: <a href=\"https://support.apple.com/en-us/149555\">https://support.apple.com/en-us/149555</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50271685\">https://news.ycombinator.com/item?id=50271685</a></p>\n<p>Points: 32</p>\n<p># Comments: 21</p>",
+            "url": "https://support.apple.com/en-us/149555",
+            "published": "Wed, 28 Oct 2026 11:08:49 +0000",
+            "fetched": "2026-10-28T16:45:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Overturned carriages and makeshift medical tents at crash site",
+            "description": "Dozens of people are feared dead after a high-speed train collided with another train south of Madrid.",
+            "url": "https://www.bbc.co.uk/news/videos/cv8ezjdkle59o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 11:13:55 GMT",
+            "fetched": "2026-10-28T16:45:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about the crash so far",
+            "description": "More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.",
+            "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 12:14:44 GMT",
+            "fetched": "2026-10-28T16:45:45+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand tells court allegations had devastating impact on him",
+            "description": "The entertainer begins giving evidence at his trial on charges including rape at Southwark Crown Court.",
+            "url": "https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 13:11:56 GMT",
+            "fetched": "2026-10-28T16:45:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ballon d’Or win will help keep Kane at Bayern, says Germany’s Matthaus",
+            "description": "Former World Cup winner Lothar Matthaus says relationship between Harry Kane and club Bayern Munich is &#039;perfect&#039;.",
+            "url": "https://www.aljazeera.com/sports/2026/10/28/ballon-dor-win-will-help-keep-kane-at-bayern-says-germanys-matthaus?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 12:53:34 +0000",
+            "fetched": "2026-10-28T16:45:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tens of thousands flee Ethiopia fighting into neighbouring Kenya",
+            "description": "Tens of thousands of people have crossed into Kenya, fleeing fighting between regional forces in Ethiopia’s Moyale town.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/tens-of-thousands-flee-ethiopia-fighting-into-neighbouring-kenya?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 12:51:39 +0000",
+            "fetched": "2026-10-28T16:45:45+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Photos: Spain high-speed train crash kills 30",
+            "description": "Health Minister Monica Garcia says emergency workers are focusing on rescuing survivors.",
+            "url": "https://www.aljazeera.com/gallery/2026/10/28/photos-spain-high-speed-train-collision-kills-30?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 12:46:09 +0000",
+            "fetched": "2026-10-28T16:45:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-28T16:45:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-28T16:45:45+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range  47B, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769",
+            "published": "2026-10-24T17:10:00Z",
+            "fetched": "2026-10-28T16:45:45+03:30"
+        }
+    ]
+}
