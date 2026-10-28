@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-29 00:26:37
+**Last Update:** 2026-10-29 02:50:42
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Alphabet Announces Third Quarter 2026 Results [pdf]
+### 1. Formlabs Studio 1 $699 Resin Printer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf">https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50280197">https://news.ycombinator.com/item?id=50280197</a></p>
-<p>Points: 47</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://formlabs.com/products/form-studio-1-basic-founders-edition/">https://formlabs.com/products/form-studio-1-basic-founders-edition/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50281044">https://news.ycombinator.com/item?id=50281044</a></p>
+<p>Points: 74</p>
+<p># Comments: 66</p>
 
-🔗 **Read more:** [https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf](https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf)
+🔗 **Read more:** [https://formlabs.com/products/form-studio-1-basic-founders-edition/](https://formlabs.com/products/form-studio-1-basic-founders-edition/)
 
 ---
 
-### 2. Big Tech's thirst for water is sparking a global resistance
+### 2. A Health Update
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://restofworld.org/2026/ai-datacenters-water-resistance-global/">https://restofworld.org/2026/ai-datacenters-water-resistance-global/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50278754">https://news.ycombinator.com/item?id=50278754</a></p>
-<p>Points: 39</p>
-<p># Comments: 18</p>
-
-🔗 **Read more:** [https://restofworld.org/2026/ai-datacenters-water-resistance-global/](https://restofworld.org/2026/ai-datacenters-water-resistance-global/)
-
----
-
-### 3. Spiders Spin 'Silk Dope' into Nature's Toughest Material
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/">https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50277755">https://news.ycombinator.com/item?id=50277755</a></p>
-<p>Points: 12</p>
+<p>Article URL: <a href="https://furbo.org/2026/10/28/a-health-update/">https://furbo.org/2026/10/28/a-health-update/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50280974">https://news.ycombinator.com/item?id=50280974</a></p>
+<p>Points: 11</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/](https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/)
+🔗 **Read more:** [https://furbo.org/2026/10/28/a-health-update/](https://furbo.org/2026/10/28/a-health-update/)
+
+---
+
+### 3. Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/">https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50280864">https://news.ycombinator.com/item?id=50280864</a></p>
+<p>Points: 229</p>
+<p># Comments: 93</p>
+
+🔗 **Read more:** [https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/](https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/)
 
 ---
 
@@ -71,7 +71,7 @@ The chancellor targets the cost of living amid global economic turmoil but oppos
 
 ---
 
-### 5. Key points at a glance
+### 5. Budget key points at a glance
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ The chancellor has had to grapple with a mix of public finances and household fi
 
 ---
 
-### 7. What’s next for Brazil’s Flavio Bolsonaro after election defeat?
+### 7. UN experts sound alarm at excessive use of force in French student protests
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The far-right ally of US President Donald Trump has fled to Miami with his wife and children.
+UN experts have condemned police crackdowns, warning they deter demonstrators from exercising their rights.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss)
 
 ---
 
-### 8. UN votes to condemn embargo of Cuba despite US lobbying push
+### 8. Costa Rica’s mega-prison receives first inmates
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US points to increase in abstentions in General Assembly as evidence that push to isolate Cuba is slowly succeeding.
+President Laura Fernandez inaugurated the $35m mega-prison built to house up to 5,100 inmates near San Jose.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss)
 
 ---
 
-### 9. Rwanda’s milk bars
+### 9. Indonesian students demand action on wildfires and rising costs
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rwanda’s milk bars
+Hundreds of Indonesian students protested against the government&#039;s handling of forest fires and rising costs.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/rwandas-milk-bars?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/rwandas-milk-bars?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_indonesian-students-demand-action-on-wildfires-281026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_indonesian-students-demand-action-on-wildfires-281026?traffic_source=rss)
 
 ---
 

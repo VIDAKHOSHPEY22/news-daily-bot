@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-29T02:50:42+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Formlabs Studio 1 $699 Resin Printer",
+            "description": "<p>Article URL: <a href=\"https://formlabs.com/products/form-studio-1-basic-founders-edition/\">https://formlabs.com/products/form-studio-1-basic-founders-edition/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50281044\">https://news.ycombinator.com/item?id=50281044</a></p>\n<p>Points: 74</p>\n<p># Comments: 66</p>",
+            "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+            "published": "Wed, 28 Oct 2026 21:19:30 +0000",
+            "fetched": "2026-10-29T02:50:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Health Update",
+            "description": "<p>Article URL: <a href=\"https://furbo.org/2026/10/28/a-health-update/\">https://furbo.org/2026/10/28/a-health-update/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50280974\">https://news.ycombinator.com/item?id=50280974</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+            "url": "https://furbo.org/2026/10/28/a-health-update/",
+            "published": "Wed, 28 Oct 2026 21:13:21 +0000",
+            "fetched": "2026-10-29T02:50:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents",
+            "description": "<p>Article URL: <a href=\"https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/\">https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50280864\">https://news.ycombinator.com/item?id=50280864</a></p>\n<p>Points: 229</p>\n<p># Comments: 93</p>",
+            "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+            "published": "Wed, 28 Oct 2026 21:03:24 +0000",
+            "fetched": "2026-10-29T02:50:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+            "description": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+            "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 18:45:09 GMT",
+            "fetched": "2026-10-29T02:50:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Budget key points at a glance",
+            "description": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 16:55:27 GMT",
+            "fetched": "2026-10-29T02:50:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Budget felt cautious despite its range of small measures",
+            "description": "The chancellor has had to grapple with a mix of public finances and household finances being a mess.",
+            "url": "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 16:52:16 GMT",
+            "fetched": "2026-10-29T02:50:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UN experts sound alarm at excessive use of force in French student protests",
+            "description": "UN experts have condemned police crackdowns, warning they deter demonstrators from exercising their rights.",
+            "url": "https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 22:34:51 +0000",
+            "fetched": "2026-10-29T02:50:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Costa Rica’s mega-prison receives first inmates",
+            "description": "President Laura Fernandez inaugurated the $35m mega-prison built to house up to 5,100 inmates near San Jose.",
+            "url": "https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 21:36:16 +0000",
+            "fetched": "2026-10-29T02:50:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Indonesian students demand action on wildfires and rising costs",
+            "description": "Hundreds of Indonesian students protested against the government&#039;s handling of forest fires and rising costs.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_indonesian-students-demand-action-on-wildfires-281026?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 21:23:17 +0000",
+            "fetched": "2026-10-29T02:50:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-29T02:50:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-29T02:50:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range  47B, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769",
+            "published": "2026-10-24T17:10:00Z",
+            "fetched": "2026-10-29T02:50:42+03:30"
+        }
+    ]
+}
