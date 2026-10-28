@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-28T11:46:00+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "碁の国: Play Chess as Town Building",
+            "description": "<p>Article URL: <a href=\"https://gonokuni.plpl.town/\">https://gonokuni.plpl.town/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50269492\">https://news.ycombinator.com/item?id=50269492</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://gonokuni.plpl.town/",
+            "published": "Wed, 28 Oct 2026 04:57:11 +0000",
+            "fetched": "2026-10-28T11:46:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Artificial Analysis Intelligence Index v5",
+            "description": "<p>Article URL: <a href=\"https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5\">https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50268868\">https://news.ycombinator.com/item?id=50268868</a></p>\n<p>Points: 28</p>\n<p># Comments: 40</p>",
+            "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5",
+            "published": "Wed, 28 Oct 2026 03:06:22 +0000",
+            "fetched": "2026-10-28T11:46:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Git for the US Code",
+            "description": "<p>Article URL: <a href=\"https://lexifina.com/blog/git-for-the-us-code\">https://lexifina.com/blog/git-for-the-us-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50268380\">https://news.ycombinator.com/item?id=50268380</a></p>\n<p>Points: 223</p>\n<p># Comments: 112</p>",
+            "url": "https://lexifina.com/blog/git-for-the-us-code",
+            "published": "Wed, 28 Oct 2026 01:47:50 +0000",
+            "fetched": "2026-10-28T11:46:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
+            "description": "Chancellor John Healey will set out his plans for UK taxes on 28 October.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 07:39:54 GMT",
+            "fetched": "2026-10-28T11:46:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What happens now after close vote in Israeli election?",
+            "description": "Polls have closed in the Israeli election, but there is no clear winner.",
+            "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 04:22:59 GMT",
+            "fetched": "2026-10-28T11:46:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports, sources say",
+            "description": "The defeated presidential candidate's apparent arrival in the US came hours after he failed to turn in his passports to Brazilian authorities.",
+            "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 02:47:45 GMT",
+            "fetched": "2026-10-28T11:46:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Where does Arsenal’s Fleetwood humiliation place in English cup shocks?",
+            "description": "How big a shock is the Premier League champions&#039; 5-3 defeat on penalties after a 1-1 draw with a fourth-tier club?",
+            "url": "https://www.aljazeera.com/sports/2026/10/28/where-does-arsenals-fleetwood-humiliation-rank-english-cup-shocks?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 07:54:20 +0000",
+            "fetched": "2026-10-28T11:46:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Elderly women and children survive Russian attack on Kharkiv",
+            "description": "A Russian drone attack in Ukraine&#039;s Kharkiv late Tuesday forced elderly women and children to evacuate their homes.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/elderly-women-and-children-survive-russian-attack-on-kharkiv?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 07:35:20 +0000",
+            "fetched": "2026-10-28T11:46:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia is selling Africa dependence disguised as partnership",
+            "description": "As African leaders gather in Moscow, Russia is securing resources and protecting rulers at the expense of their people.",
+            "url": "https://www.aljazeera.com/opinions/2026/10/28/russia-is-selling-africa-dependence-disguised-as-partnership?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 07:25:41 +0000",
+            "fetched": "2026-10-28T11:46:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-28T11:46:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-28T11:46:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range  47B, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769",
+            "published": "2026-10-24T17:10:00Z",
+            "fetched": "2026-10-28T11:46:00+03:30"
+        }
+    ]
+}

@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-28 09:27:23
+**Last Update:** 2026-10-28 11:46:00
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Git for the US Code
+### 1. 碁の国: Play Chess as Town Building
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://gonokuni.plpl.town/">https://gonokuni.plpl.town/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50269492">https://news.ycombinator.com/item?id=50269492</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://gonokuni.plpl.town/](https://gonokuni.plpl.town/)
+
+---
+
+### 2. Artificial Analysis Intelligence Index v5
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5">https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50268868">https://news.ycombinator.com/item?id=50268868</a></p>
+<p>Points: 28</p>
+<p># Comments: 40</p>
+
+🔗 **Read more:** [https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5](https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v5)
+
+---
+
+### 3. Git for the US Code
 
 **Source:** Hacker News
 
@@ -19,55 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://lexifina.com/blog/git-for-the-us-code">https://lexifina.com/blog/git-for-the-us-code</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50268380">https://news.ycombinator.com/item?id=50268380</a></p>
-<p>Points: 155</p>
-<p># Comments: 74</p>
+<p>Points: 223</p>
+<p># Comments: 112</p>
 
 🔗 **Read more:** [https://lexifina.com/blog/git-for-the-us-code](https://lexifina.com/blog/git-for-the-us-code)
 
 ---
 
-### 2. Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/maharmstone/moxnox">https://github.com/maharmstone/moxnox</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50267569">https://news.ycombinator.com/item?id=50267569</a></p>
-<p>Points: 44</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://github.com/maharmstone/moxnox](https://github.com/maharmstone/moxnox)
-
----
-
-### 3. Reviewers rarely talk about reliability. Owners bring it up twice as often
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.bettascore.ai/research/reliability-reviewers-vs-owners">https://www.bettascore.ai/research/reliability-reviewers-vs-owners</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50266780">https://news.ycombinator.com/item?id=50266780</a></p>
-<p>Points: 97</p>
-<p># Comments: 79</p>
-
-🔗 **Read more:** [https://www.bettascore.ai/research/reliability-reviewers-vs-owners](https://www.bettascore.ai/research/reliability-reviewers-vs-owners)
-
----
-
-### 4. Israeli exit polls suggest no clear winner in pivotal general election
+### 4. Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Two polls project that veteran PM Benjamin Netanyahu and former military chief Gadi Eisenkot are tied, with neither winning a majority.
+Chancellor John Healey will set out his plans for UK taxes on 28 October.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,55 +84,55 @@ Polls have closed in the Israeli election, but there is no clear winner.
 
 ---
 
-### 6. Chris Mason: Budget needs to go some way towards delivering PM's promises
+### 6. Defeated presidential candidate Flávio Bolsonaro arrives in US after Brazil cancels his passports, sources say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.
+The defeated presidential candidate's apparent arrival in the US came hours after he failed to turn in his passports to Brazilian authorities.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Why India has soured on Trump ahead of US midterms
+### 7. Where does Arsenal’s Fleetwood humiliation place in English cup shocks?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Seven years after Modi backed Trump, New Delhi may now hope US midterm losses leave the president chastened.
+How big a shock is the Premier League champions&#039; 5-3 defeat on penalties after a 1-1 draw with a fourth-tier club?
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/28/why-india-has-soured-on-trump-ahead-of-us-midterms?traffic_source=rss](https://www.aljazeera.com/features/2026/10/28/why-india-has-soured-on-trump-ahead-of-us-midterms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/28/where-does-arsenals-fleetwood-humiliation-rank-english-cup-shocks?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/28/where-does-arsenals-fleetwood-humiliation-rank-english-cup-shocks?traffic_source=rss)
 
 ---
 
-### 8. Mbappe faces backlash in China for meme fiasco
+### 8. Elderly women and children survive Russian attack on Kharkiv
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Three major Chinese brands have ended partnerships with French football star Kylian Mbappe
+A Russian drone attack in Ukraine&#039;s Kharkiv late Tuesday forced elderly women and children to evacuate their homes.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/mbappe-faces-backlash-in-china-for-meme-fiasco?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/mbappe-faces-backlash-in-china-for-meme-fiasco?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/elderly-women-and-children-survive-russian-attack-on-kharkiv?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/elderly-women-and-children-survive-russian-attack-on-kharkiv?traffic_source=rss)
 
 ---
 
-### 9. Mahmoud Khalil credits Palestinian activism for reshaping US politics
+### 9. Russia is selling Africa dependence disguised as partnership
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Khalil returned to Columbia University to discuss his memoir detailing his arrest and detention by US immigration agents
+As African leaders gather in Moscow, Russia is securing resources and protecting rulers at the expense of their people.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/mahmoud-khalil-credits-palestinian-activism-for-reshaping-us-politics?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/mahmoud-khalil-credits-palestinian-activism-for-reshaping-us-politics?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/28/russia-is-selling-africa-dependence-disguised-as-partnership?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/28/russia-is-selling-africa-dependence-disguised-as-partnership?traffic_source=rss)
 
 ---
 
