@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-28T09:27:23+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Git for the US Code",
+            "description": "<p>Article URL: <a href=\"https://lexifina.com/blog/git-for-the-us-code\">https://lexifina.com/blog/git-for-the-us-code</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50268380\">https://news.ycombinator.com/item?id=50268380</a></p>\n<p>Points: 155</p>\n<p># Comments: 74</p>",
+            "url": "https://lexifina.com/blog/git-for-the-us-code",
+            "published": "Wed, 28 Oct 2026 01:47:50 +0000",
+            "fetched": "2026-10-28T09:27:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Moxnox 1.0: NT-Like, POSIX-Compatible OS Running Atop Btrfs",
+            "description": "<p>Article URL: <a href=\"https://github.com/maharmstone/moxnox\">https://github.com/maharmstone/moxnox</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50267569\">https://news.ycombinator.com/item?id=50267569</a></p>\n<p>Points: 44</p>\n<p># Comments: 8</p>",
+            "url": "https://github.com/maharmstone/moxnox",
+            "published": "Tue, 27 Oct 2026 23:53:41 +0000",
+            "fetched": "2026-10-28T09:27:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+            "description": "<p>Article URL: <a href=\"https://www.bettascore.ai/research/reliability-reviewers-vs-owners\">https://www.bettascore.ai/research/reliability-reviewers-vs-owners</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50266780\">https://news.ycombinator.com/item?id=50266780</a></p>\n<p>Points: 97</p>\n<p># Comments: 79</p>",
+            "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+            "published": "Tue, 27 Oct 2026 22:31:15 +0000",
+            "fetched": "2026-10-28T09:27:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israeli exit polls suggest no clear winner in pivotal general election",
+            "description": "Two polls project that veteran PM Benjamin Netanyahu and former military chief Gadi Eisenkot are tied, with neither winning a majority.",
+            "url": "https://www.bbc.co.uk/news/articles/cq1kdgxw302zo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 02:09:11 GMT",
+            "fetched": "2026-10-28T09:27:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What happens now after close vote in Israeli election?",
+            "description": "Polls have closed in the Israeli election, but there is no clear winner.",
+            "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 04:22:59 GMT",
+            "fetched": "2026-10-28T09:27:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
+            "description": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.",
+            "url": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 22:30:09 GMT",
+            "fetched": "2026-10-28T09:27:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why India has soured on Trump ahead of US midterms",
+            "description": "Seven years after Modi backed Trump, New Delhi may now hope US midterm losses leave the president chastened.",
+            "url": "https://www.aljazeera.com/features/2026/10/28/why-india-has-soured-on-trump-ahead-of-us-midterms?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 05:43:40 +0000",
+            "fetched": "2026-10-28T09:27:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mbappe faces backlash in China for meme fiasco",
+            "description": "Three major Chinese brands have ended partnerships with French football star Kylian Mbappe",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/mbappe-faces-backlash-in-china-for-meme-fiasco?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 04:28:22 +0000",
+            "fetched": "2026-10-28T09:27:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mahmoud Khalil credits Palestinian activism for reshaping US politics",
+            "description": "Khalil returned to Columbia University to discuss his memoir detailing his arrest and detention by US immigration agents",
+            "url": "https://www.aljazeera.com/news/2026/10/28/mahmoud-khalil-credits-palestinian-activism-for-reshaping-us-politics?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 04:13:28 +0000",
+            "fetched": "2026-10-28T09:27:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-28T09:27:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-28T09:27:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range  47B, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769",
+            "published": "2026-10-24T17:10:00Z",
+            "fetched": "2026-10-28T09:27:23+03:30"
+        }
+    ]
+}
