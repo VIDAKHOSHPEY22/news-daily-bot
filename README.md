@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-28 03:22:17
+**Last Update:** 2026-10-28 04:37:30
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Reviewers rarely talk about reliability. Owners bring it up twice as often
+### 1. Free daily JSON feed of Shanghai government subsidy notices
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/ZhongGheart/china-policy-data">https://github.com/ZhongGheart/china-policy-data</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50267494">https://news.ycombinator.com/item?id=50267494</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/ZhongGheart/china-policy-data](https://github.com/ZhongGheart/china-policy-data)
+
+---
+
+### 2. Reviewers rarely talk about reliability. Owners bring it up twice as often
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.bettascore.ai/research/reliability-reviewers-vs-owners">https://www.bettascore.ai/research/reliability-reviewers-vs-owners</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50266780">https://news.ycombinator.com/item?id=50266780</a></p>
-<p>Points: 13</p>
-<p># Comments: 16</p>
+<p>Points: 43</p>
+<p># Comments: 45</p>
 
 🔗 **Read more:** [https://www.bettascore.ai/research/reliability-reviewers-vs-owners](https://www.bettascore.ai/research/reliability-reviewers-vs-owners)
 
 ---
 
-### 2. One year of Dioxus fullstack in production: the good, the painful
+### 3. Expanding our partnership with GSA to bring Claude to all levels of government
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful">https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50265960">https://news.ycombinator.com/item?id=50265960</a></p>
-<p>Points: 17</p>
+<p>Article URL: <a href="https://www.anthropic.com/news/expanding-partnership-gsa">https://www.anthropic.com/news/expanding-partnership-gsa</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50266701">https://news.ycombinator.com/item?id=50266701</a></p>
+<p>Points: 15</p>
 <p># Comments: 10</p>
 
-🔗 **Read more:** [https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful](https://oxidt.com/blog/one-year-of-dioxus-fullstack-in-production-the-good-the-painful)
-
----
-
-### 3. Early progress on accelerating drug development with Claude
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.anthropic.com/research/early-progress-drug-development">https://www.anthropic.com/research/early-progress-drug-development</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50265609">https://news.ycombinator.com/item?id=50265609</a></p>
-<p>Points: 79</p>
-<p># Comments: 72</p>
-
-🔗 **Read more:** [https://www.anthropic.com/research/early-progress-drug-development](https://www.anthropic.com/research/early-progress-drug-development)
+🔗 **Read more:** [https://www.anthropic.com/news/expanding-partnership-gsa](https://www.anthropic.com/news/expanding-partnership-gsa)
 
 ---
 
@@ -97,42 +97,42 @@ The King is on a nine-day tour that will take him to three countries, including 
 
 ---
 
-### 7. A bad day for Ben-Gvir as he addresses his supporters
+### 7. Arab parties could win 18 seats in Israeli elections, exit polls suggest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Itamar Ben Gvir was defiant after polls show his Otzma Yehudit party has lost seats in the Israeli election.
+Record-breaking voter turnout among Palestinian citizens of Israel hits around 80 percent, early indications show.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/a-bad-day-for-ben-gvir-as-he-addresses-his-supporters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss)
 
 ---
 
-### 8. No clear mandate projected in Israel election: What’s next?
+### 8. Exit polls trigger heated debate across Israeli political divide
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Isaac Herzog will task the candidate he deems best placed to form a government once results are in.
+Despite narrower exit poll figures, opposition leaders insisted the result was a defeat for the government.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss](https://www.aljazeera.com/news/2026/10/27/no-clear-mandate-projected-in-israel-election-whats-next?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss)
 
 ---
 
-### 9. Smotrich dances in Israel despite far-right decline
+### 9. Israel’s Eisenkot says country voted for change
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli Finance Minister Smotrich celebrates despite exit polls suggesting support for his far-right party declined.
+Israeli opposition leader Gadi Eisenkot says millions of Israelis voted for change, tired of Netanyahu’s ‘lies’.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/27/smotrich-dances-in-israel-despite-far-right-decline?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/israels-eisenkot-says-country-voted-for-change?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/israels-eisenkot-says-country-voted-for-change?traffic_source=rss)
 
 ---
 

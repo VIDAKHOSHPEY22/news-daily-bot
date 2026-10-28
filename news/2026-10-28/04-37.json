@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-28T04:37:30+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Free daily JSON feed of Shanghai government subsidy notices",
+            "description": "<p>Article URL: <a href=\"https://github.com/ZhongGheart/china-policy-data\">https://github.com/ZhongGheart/china-policy-data</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50267494\">https://news.ycombinator.com/item?id=50267494</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/ZhongGheart/china-policy-data",
+            "published": "Tue, 27 Oct 2026 23:46:21 +0000",
+            "fetched": "2026-10-28T04:37:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Reviewers rarely talk about reliability. Owners bring it up twice as often",
+            "description": "<p>Article URL: <a href=\"https://www.bettascore.ai/research/reliability-reviewers-vs-owners\">https://www.bettascore.ai/research/reliability-reviewers-vs-owners</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50266780\">https://news.ycombinator.com/item?id=50266780</a></p>\n<p>Points: 43</p>\n<p># Comments: 45</p>",
+            "url": "https://www.bettascore.ai/research/reliability-reviewers-vs-owners",
+            "published": "Tue, 27 Oct 2026 22:31:15 +0000",
+            "fetched": "2026-10-28T04:37:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
+            "description": "<p>Article URL: <a href=\"https://www.anthropic.com/news/expanding-partnership-gsa\">https://www.anthropic.com/news/expanding-partnership-gsa</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50266701\">https://news.ycombinator.com/item?id=50266701</a></p>\n<p>Points: 15</p>\n<p># Comments: 10</p>",
+            "url": "https://www.anthropic.com/news/expanding-partnership-gsa",
+            "published": "Tue, 27 Oct 2026 22:23:37 +0000",
+            "fetched": "2026-10-28T04:37:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
+            "description": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget.",
+            "url": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 22:30:09 GMT",
+            "fetched": "2026-10-28T04:37:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+            "description": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living.",
+            "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 15:01:27 GMT",
+            "fetched": "2026-10-28T04:37:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "King acknowledges 'suffering of the past' as Caribbean tour begins",
+            "description": "The King is on a nine-day tour that will take him to three countries, including the Bahamas, Guyana and Antigua and Barbuda.",
+            "url": "https://www.bbc.co.uk/news/articles/cmwyv8ld22z1o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 27 Oct 2026 22:34:02 GMT",
+            "fetched": "2026-10-28T04:37:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Arab parties could win 18 seats in Israeli elections, exit polls suggest",
+            "description": "Record-breaking voter turnout among Palestinian citizens of Israel hits around 80 percent, early indications show.",
+            "url": "https://www.aljazeera.com/news/2026/10/28/arab-parties-could-win-18-seats-in-israeli-elections-exit-polls-suggest?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 00:43:56 +0000",
+            "fetched": "2026-10-28T04:37:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Exit polls trigger heated debate across Israeli political divide",
+            "description": "Despite narrower exit poll figures, opposition leaders insisted the result was a defeat for the government.",
+            "url": "https://www.aljazeera.com/news/2026/10/28/exit-polls-trigger-heated-debate-across-israeli-political-divide?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 00:43:02 +0000",
+            "fetched": "2026-10-28T04:37:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel’s Eisenkot says country voted for change",
+            "description": "Israeli opposition leader Gadi Eisenkot says millions of Israelis voted for change, tired of Netanyahu’s ‘lies’.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/israels-eisenkot-says-country-voted-for-change?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 00:30:22 +0000",
+            "fetched": "2026-10-28T04:37:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-28T04:37:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-28T04:37:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range  47B, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769",
+            "published": "2026-10-24T17:10:00Z",
+            "fetched": "2026-10-28T04:37:30+03:30"
+        }
+    ]
+}
