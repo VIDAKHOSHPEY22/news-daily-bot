@@ -1,70 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-28 22:27:10
+**Last Update:** 2026-10-29 00:26:37
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why Is This Fingerprinting Script Creating Bioweapons?
+### 1. Alphabet Announces Third Quarter 2026 Results [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nullpt.rs/fingerprinting-bioweapons">https://nullpt.rs/fingerprinting-bioweapons</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50276998">https://news.ycombinator.com/item?id=50276998</a></p>
-<p>Points: 67</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf">https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50280197">https://news.ycombinator.com/item?id=50280197</a></p>
+<p>Points: 47</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://nullpt.rs/fingerprinting-bioweapons](https://nullpt.rs/fingerprinting-bioweapons)
+🔗 **Read more:** [https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf](https://s206.q4cdn.com/479360582/files/doc_financials/2026/q3/2026q3-alphabet-earnings-release.pdf)
 
 ---
 
-### 2. MacBook Pro with PROLED XDR Display and Touch
+### 2. Big Tech's thirst for water is sparking a global resistance
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><a href="https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/" rel="nofollow">https://www.apple.com/newsroom/2026/10/apple-unveils-groundb...</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50276940">https://news.ycombinator.com/item?id=50276940</a></p>
-<p>Points: 251</p>
-<p># Comments: 403</p>
+<p>Article URL: <a href="https://restofworld.org/2026/ai-datacenters-water-resistance-global/">https://restofworld.org/2026/ai-datacenters-water-resistance-global/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50278754">https://news.ycombinator.com/item?id=50278754</a></p>
+<p>Points: 39</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://www.apple.com/macbook-pro/proled-xdr-display/](https://www.apple.com/macbook-pro/proled-xdr-display/)
+🔗 **Read more:** [https://restofworld.org/2026/ai-datacenters-water-resistance-global/](https://restofworld.org/2026/ai-datacenters-water-resistance-global/)
 
 ---
 
-### 3. Show HN: SlideBySide – Present slides without sharing your screen
+### 3. Spiders Spin 'Silk Dope' into Nature's Toughest Material
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Why is it useful?
-- Present slides without sharing the screen and have every one be on the same page.
-- Present together with other cohosts and all control the current page.
-- Other features such as presentation collab features.<p>Why should I not just vibe code my own solution?
-- Its a hassle to maintain a version online.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50276883">https://news.ycombinator.com/item?id=50276883</a></p>
-<p>Points: 21</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/">https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50277755">https://news.ycombinator.com/item?id=50277755</a></p>
+<p>Points: 12</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://slidebyside.com/](https://slidebyside.com/)
+🔗 **Read more:** [https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/](https://www.quantamagazine.org/how-spiders-spin-silk-dope-into-natures-toughest-material-20261028/)
 
 ---
 
-### 4. Key points at a glance
+### 4. Healey unveils £100 for energy bills and bank tax in first Budget
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Key points at a glance
 
 **Source:** BBC
 
@@ -77,7 +84,7 @@ Here’s what you need to know from John Healey’s first Budget, as the chancel
 
 ---
 
-### 5. Chris Mason: Budget felt cautious despite its range of small measures
+### 6. Chris Mason: Budget felt cautious despite its range of small measures
 
 **Source:** BBC
 
@@ -90,55 +97,42 @@ The chancellor has had to grapple with a mix of public finances and household fi
 
 ---
 
-### 6. Will I get the £100 energy payment and when will I receive it?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Here is what you need to know about the payment that millions will receive from January.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Five key takeaways from the UK Autumn Budget
+### 7. What’s next for Brazil’s Flavio Bolsonaro after election defeat?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The United Kingdom&#039;s government says its policies are for the &#039;working people of Britain&#039;.
+The far-right ally of US President Donald Trump has fled to Miami with his wife and children.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/28/five-key-takeaways-from-the-uk-autumn-budget?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/28/five-key-takeaways-from-the-uk-autumn-budget?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/whats-next-for-brazils-flavio-bolsonaro-after-election-defeat?traffic_source=rss)
 
 ---
 
-### 8. Fuel costs force US cruise ship to suspend multi-year voyage in Cambodia
+### 8. UN votes to condemn embargo of Cuba despite US lobbying push
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hundreds of passengers are stranded after the ship’s three-and-a-half year voyage was cut short due to fuel costs.
+US points to increase in abstentions in General Assembly as evidence that push to isolate Cuba is slowly succeeding.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/fuel-costs-force-us-cruise-ship-to-suspend-multi-year-voyage-in-cambodia?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/fuel-costs-force-us-cruise-ship-to-suspend-multi-year-voyage-in-cambodia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/un-votes-to-condemn-embargo-of-cuba-despite-us-lobbying-push?traffic_source=rss)
 
 ---
 
-### 9. Jerusalem Daily: What’s next after Israel’s elections?
+### 9. Rwanda’s milk bars
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Prime Minister Benjamin Netanyahu and former military chief Gadi Eisenkot are both claiming victory in Israel’s election
+Rwanda’s milk bars
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/rwandas-milk-bars?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/rwandas-milk-bars?traffic_source=rss)
 
 ---
 
