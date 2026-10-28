@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-28T19:23:48+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "26,400 live credentials found scanning 7.25M repos on China's Gitee",
+            "description": "<p>Article URL: <a href=\"https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets\">https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50275375\">https://news.ycombinator.com/item?id=50275375</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets",
+            "published": "Wed, 28 Oct 2026 15:31:59 +0000",
+            "fetched": "2026-10-28T19:23:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Amazon rainforest cut down to build highway for COP climate summit (2025)",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/c9vy191rgn1o\">https://www.bbc.com/news/articles/c9vy191rgn1o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50275235\">https://news.ycombinator.com/item?id=50275235</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://www.bbc.com/news/articles/c9vy191rgn1o",
+            "published": "Wed, 28 Oct 2026 15:24:11 +0000",
+            "fetched": "2026-10-28T19:23:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tesla Semi catches fire on I-880",
+            "description": "<p>Article URL: <a href=\"https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/\">https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50274706\">https://news.ycombinator.com/item?id=50274706</a></p>\n<p>Points: 16</p>\n<p># Comments: 11</p>",
+            "url": "https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/",
+            "published": "Wed, 28 Oct 2026 14:54:07 +0000",
+            "fetched": "2026-10-28T19:23:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Key points at a glance",
+            "description": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 15:37:50 GMT",
+            "fetched": "2026-10-28T19:23:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How the Budget affects you",
+            "description": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.",
+            "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 15:32:58 GMT",
+            "fetched": "2026-10-28T19:23:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason on the standout points from the Budget",
+            "description": "Political editor Chris Mason analyses Chancellor John Healey's Budget 2026 announcements.",
+            "url": "https://www.bbc.co.uk/news/videos/cmdx3kne9r6go?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 15:00:45 GMT",
+            "fetched": "2026-10-28T19:23:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What is the controversy between Real Madrid’s Kylian Mbappe and China?",
+            "description": "The French superstar&#039;s comments about Mao Zedong have drawn the ire of China, a lucrative market for sports teams.",
+            "url": "https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 15:36:39 +0000",
+            "fetched": "2026-10-28T19:23:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Father grieving 6 children wants Pastor Mackenzie ‘locked away for life’",
+            "description": "All of Stephen Mwiti Joseph’s children are presumed dead after his wife abducted them to follow a self-declared pastor.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/father-grieving-6-children-wants-pastor-mackenzie-locked-away?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 15:17:48 +0000",
+            "fetched": "2026-10-28T19:23:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bolsonaro turns up in Florida after vanishing from public view",
+            "description": "Flavio Bolsonaro, Brazil’s defeated presidential candidate, landed in Florida after fleeing the country with his family.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_bolsonaro-in-florida-after-vanishing-from-public-281026?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 15:02:04 +0000",
+            "fetched": "2026-10-28T19:23:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-28T19:23:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-28T19:23:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range  47B, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769",
+            "published": "2026-10-24T17:10:00Z",
+            "fetched": "2026-10-28T19:23:48+03:30"
+        }
+    ]
+}

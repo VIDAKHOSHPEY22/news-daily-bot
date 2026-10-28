@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-28 16:45:45
+**Last Update:** 2026-10-28 19:23:48
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Two high-speed trains collide near Toledo, Spain
+### 1. 26,400 live credentials found scanning 7.25M repos on China's Gitee
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash">https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50272596">https://news.ycombinator.com/item?id=50272596</a></p>
-<p>Points: 15</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets">https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50275375">https://news.ycombinator.com/item?id=50275375</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash](https://www.euronews.com/video/2026/10/28/spain-first-footage-reveals-wreckage-of-deadly-high-speed-train-crash)
+🔗 **Read more:** [https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets](https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets)
 
 ---
 
-### 2. Amazon to buy satellite firm Globalstar in $11.57B deal
+### 2. Amazon rainforest cut down to build highway for COP climate summit (2025)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/">https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50272145">https://news.ycombinator.com/item?id=50272145</a></p>
-<p>Points: 56</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/c9vy191rgn1o">https://www.bbc.com/news/articles/c9vy191rgn1o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50275235">https://news.ycombinator.com/item?id=50275235</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/](https://www.reuters.com/business/media-telecom/amazon-signs-1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/1157-billion-deal-satellite-firm-globalstar-challenge-starlink-2026-04-14/)
+🔗 **Read more:** [https://www.bbc.com/news/articles/c9vy191rgn1o](https://www.bbc.com/news/articles/c9vy191rgn1o)
 
 ---
 
-### 3. About the compromised eMudhra intermediate CAs
+### 3. Tesla Semi catches fire on I-880
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://support.apple.com/en-us/149555">https://support.apple.com/en-us/149555</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50271685">https://news.ycombinator.com/item?id=50271685</a></p>
-<p>Points: 32</p>
-<p># Comments: 21</p>
+<p>Article URL: <a href="https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/">https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50274706">https://news.ycombinator.com/item?id=50274706</a></p>
+<p>Points: 16</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://support.apple.com/en-us/149555](https://support.apple.com/en-us/149555)
+🔗 **Read more:** [https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/](https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/)
 
 ---
 
-### 4. Overturned carriages and makeshift medical tents at crash site
+### 4. Key points at a glance
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Dozens of people are feared dead after a high-speed train collided with another train south of Madrid.
+Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cv8ezjdkle59o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cv8ezjdkle59o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. What we know about the crash so far
+### 5. How the Budget affects you
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-More than 500 passengers were on board the trains when the incident occurred in the province of Toledo, south of Madrid.
+Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Russell Brand tells court allegations had devastating impact on him
+### 6. Chris Mason on the standout points from the Budget
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The entertainer begins giving evidence at his trial on charges including rape at Southwark Crown Court.
+Political editor Chris Mason analyses Chancellor John Healey's Budget 2026 announcements.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmvgxl5kdgrzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmdx3kne9r6go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmdx3kne9r6go?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Ballon d’Or win will help keep Kane at Bayern, says Germany’s Matthaus
+### 7. What is the controversy between Real Madrid’s Kylian Mbappe and China?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Former World Cup winner Lothar Matthaus says relationship between Harry Kane and club Bayern Munich is &#039;perfect&#039;.
+The French superstar&#039;s comments about Mao Zedong have drawn the ire of China, a lucrative market for sports teams.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/28/ballon-dor-win-will-help-keep-kane-at-bayern-says-germanys-matthaus?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/28/ballon-dor-win-will-help-keep-kane-at-bayern-says-germanys-matthaus?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss)
 
 ---
 
-### 8. Tens of thousands flee Ethiopia fighting into neighbouring Kenya
+### 8. Father grieving 6 children wants Pastor Mackenzie ‘locked away for life’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tens of thousands of people have crossed into Kenya, fleeing fighting between regional forces in Ethiopia’s Moyale town.
+All of Stephen Mwiti Joseph’s children are presumed dead after his wife abducted them to follow a self-declared pastor.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/tens-of-thousands-flee-ethiopia-fighting-into-neighbouring-kenya?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/tens-of-thousands-flee-ethiopia-fighting-into-neighbouring-kenya?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/father-grieving-6-children-wants-pastor-mackenzie-locked-away?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/father-grieving-6-children-wants-pastor-mackenzie-locked-away?traffic_source=rss)
 
 ---
 
-### 9. Photos: Spain high-speed train crash kills 30
+### 9. Bolsonaro turns up in Florida after vanishing from public view
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Health Minister Monica Garcia says emergency workers are focusing on rescuing survivors.
+Flavio Bolsonaro, Brazil’s defeated presidential candidate, landed in Florida after fleeing the country with his family.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/10/28/photos-spain-high-speed-train-collision-kills-30?traffic_source=rss](https://www.aljazeera.com/gallery/2026/10/28/photos-spain-high-speed-train-collision-kills-30?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_bolsonaro-in-florida-after-vanishing-from-public-281026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_bolsonaro-in-florida-after-vanishing-from-public-281026?traffic_source=rss)
 
 ---
 
