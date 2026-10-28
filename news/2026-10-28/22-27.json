@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-28T22:27:10+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
+            "description": "<p>Article URL: <a href=\"https://nullpt.rs/fingerprinting-bioweapons\">https://nullpt.rs/fingerprinting-bioweapons</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50276998\">https://news.ycombinator.com/item?id=50276998</a></p>\n<p>Points: 67</p>\n<p># Comments: 7</p>",
+            "url": "https://nullpt.rs/fingerprinting-bioweapons",
+            "published": "Wed, 28 Oct 2026 17:13:29 +0000",
+            "fetched": "2026-10-28T22:27:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "MacBook Pro with PROLED XDR Display and Touch",
+            "description": "<p><a href=\"https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/\" rel=\"nofollow\">https://www.apple.com/newsroom/2026/10/apple-unveils-groundb...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50276940\">https://news.ycombinator.com/item?id=50276940</a></p>\n<p>Points: 251</p>\n<p># Comments: 403</p>",
+            "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+            "published": "Wed, 28 Oct 2026 17:10:37 +0000",
+            "fetched": "2026-10-28T22:27:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: SlideBySide – Present slides without sharing your screen",
+            "description": "<p>Why is it useful?\n- Present slides without sharing the screen and have every one be on the same page.\n- Present together with other cohosts and all control the current page.\n- Other features such as presentation collab features.<p>Why should I not just vibe code my own solution?\n- Its a hassle to maintain a version online.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50276883\">https://news.ycombinator.com/item?id=50276883</a></p>\n<p>Points: 21</p>\n<p># Comments: 11</p>",
+            "url": "https://slidebyside.com/",
+            "published": "Wed, 28 Oct 2026 17:07:09 +0000",
+            "fetched": "2026-10-28T22:27:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Key points at a glance",
+            "description": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 16:55:27 GMT",
+            "fetched": "2026-10-28T22:27:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: Budget felt cautious despite its range of small measures",
+            "description": "The chancellor has had to grapple with a mix of public finances and household finances being a mess.",
+            "url": "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 16:52:16 GMT",
+            "fetched": "2026-10-28T22:27:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Will I get the £100 energy payment and when will I receive it?",
+            "description": "Here is what you need to know about the payment that millions will receive from January.",
+            "url": "https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 17:47:37 GMT",
+            "fetched": "2026-10-28T22:27:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Five key takeaways from the UK Autumn Budget",
+            "description": "The United Kingdom&#039;s government says its policies are for the &#039;working people of Britain&#039;.",
+            "url": "https://www.aljazeera.com/economy/2026/10/28/five-key-takeaways-from-the-uk-autumn-budget?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 18:46:45 +0000",
+            "fetched": "2026-10-28T22:27:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fuel costs force US cruise ship to suspend multi-year voyage in Cambodia",
+            "description": "Hundreds of passengers are stranded after the ship’s three-and-a-half year voyage was cut short due to fuel costs.",
+            "url": "https://www.aljazeera.com/news/2026/10/28/fuel-costs-force-us-cruise-ship-to-suspend-multi-year-voyage-in-cambodia?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 18:34:10 +0000",
+            "fetched": "2026-10-28T22:27:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jerusalem Daily: What’s next after Israel’s elections?",
+            "description": "Prime Minister Benjamin Netanyahu and former military chief Gadi Eisenkot are both claiming victory in Israel’s election",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 18:31:33 +0000",
+            "fetched": "2026-10-28T22:27:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-28T22:27:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-28T22:27:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range  47B, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769",
+            "published": "2026-10-24T17:10:00Z",
+            "fetched": "2026-10-28T22:27:10+03:30"
+        }
+    ]
+}

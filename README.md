@@ -1,60 +1,66 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-28 19:23:48
+**Last Update:** 2026-10-28 22:27:10
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. 26,400 live credentials found scanning 7.25M repos on China's Gitee
+### 1. Why Is This Fingerprinting Script Creating Bioweapons?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets">https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50275375">https://news.ycombinator.com/item?id=50275375</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://nullpt.rs/fingerprinting-bioweapons">https://nullpt.rs/fingerprinting-bioweapons</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50276998">https://news.ycombinator.com/item?id=50276998</a></p>
+<p>Points: 67</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets](https://www.mongodb.com/company/blog/technical/scanning-7-point-25-million-public-repositories-chinas-largest-git-platform-for-secrets)
+🔗 **Read more:** [https://nullpt.rs/fingerprinting-bioweapons](https://nullpt.rs/fingerprinting-bioweapons)
 
 ---
 
-### 2. Amazon rainforest cut down to build highway for COP climate summit (2025)
+### 2. MacBook Pro with PROLED XDR Display and Touch
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/c9vy191rgn1o">https://www.bbc.com/news/articles/c9vy191rgn1o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50275235">https://news.ycombinator.com/item?id=50275235</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p><a href="https://www.apple.com/newsroom/2026/10/apple-unveils-groundbreaking-macbook-pro-with-proled-xdr-display/" rel="nofollow">https://www.apple.com/newsroom/2026/10/apple-unveils-groundb...</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50276940">https://news.ycombinator.com/item?id=50276940</a></p>
+<p>Points: 251</p>
+<p># Comments: 403</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/c9vy191rgn1o](https://www.bbc.com/news/articles/c9vy191rgn1o)
+🔗 **Read more:** [https://www.apple.com/macbook-pro/proled-xdr-display/](https://www.apple.com/macbook-pro/proled-xdr-display/)
 
 ---
 
-### 3. Tesla Semi catches fire on I-880
+### 3. Show HN: SlideBySide – Present slides without sharing your screen
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/">https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50274706">https://news.ycombinator.com/item?id=50274706</a></p>
-<p>Points: 16</p>
+<p>Why is it useful?
+- Present slides without sharing the screen and have every one be on the same page.
+- Present together with other cohosts and all control the current page.
+- Other features such as presentation collab features.<p>Why should I not just vibe code my own solution?
+- Its a hassle to maintain a version online.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50276883">https://news.ycombinator.com/item?id=50276883</a></p>
+<p>Points: 21</p>
 <p># Comments: 11</p>
 
-🔗 **Read more:** [https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/](https://electrek.co/2026/10/28/tesla-semi-fire-i-880-hayward-no-crash/)
+🔗 **Read more:** [https://slidebyside.com/](https://slidebyside.com/)
 
 ---
 
@@ -71,68 +77,68 @@ Here’s what you need to know from John Healey’s first Budget, as the chancel
 
 ---
 
-### 5. How the Budget affects you
+### 5. Chris Mason: Budget felt cautious despite its range of small measures
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how.
+The chancellor has had to grapple with a mix of public finances and household finances being a mess.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Chris Mason on the standout points from the Budget
+### 6. Will I get the £100 energy payment and when will I receive it?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Political editor Chris Mason analyses Chancellor John Healey's Budget 2026 announcements.
+Here is what you need to know about the payment that millions will receive from January.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmdx3kne9r6go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmdx3kne9r6go?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c35yn8x748e9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. What is the controversy between Real Madrid’s Kylian Mbappe and China?
+### 7. Five key takeaways from the UK Autumn Budget
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The French superstar&#039;s comments about Mao Zedong have drawn the ire of China, a lucrative market for sports teams.
+The United Kingdom&#039;s government says its policies are for the &#039;working people of Britain&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/28/kylian-mbappe-china-meme-mao-zedong-la-liga-real-madrid?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/28/five-key-takeaways-from-the-uk-autumn-budget?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/28/five-key-takeaways-from-the-uk-autumn-budget?traffic_source=rss)
 
 ---
 
-### 8. Father grieving 6 children wants Pastor Mackenzie ‘locked away for life’
+### 8. Fuel costs force US cruise ship to suspend multi-year voyage in Cambodia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-All of Stephen Mwiti Joseph’s children are presumed dead after his wife abducted them to follow a self-declared pastor.
+Hundreds of passengers are stranded after the ship’s three-and-a-half year voyage was cut short due to fuel costs.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/father-grieving-6-children-wants-pastor-mackenzie-locked-away?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/father-grieving-6-children-wants-pastor-mackenzie-locked-away?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/fuel-costs-force-us-cruise-ship-to-suspend-multi-year-voyage-in-cambodia?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/fuel-costs-force-us-cruise-ship-to-suspend-multi-year-voyage-in-cambodia?traffic_source=rss)
 
 ---
 
-### 9. Bolsonaro turns up in Florida after vanishing from public view
+### 9. Jerusalem Daily: What’s next after Israel’s elections?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Flavio Bolsonaro, Brazil’s defeated presidential candidate, landed in Florida after fleeing the country with his family.
+Prime Minister Benjamin Netanyahu and former military chief Gadi Eisenkot are both claiming victory in Israel’s election
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_bolsonaro-in-florida-after-vanishing-from-public-281026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_bolsonaro-in-florida-after-vanishing-from-public-281026?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/jerusalem-daily-whats-next-after-israels-elections?traffic_source=rss)
 
 ---
 
