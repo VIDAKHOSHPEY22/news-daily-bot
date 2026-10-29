@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-29T23:40:40+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Patrick Stewart Has Died",
+            "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html\">https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50294770\">https://news.ycombinator.com/item?id=50294770</a></p>\n<p>Points: 31</p>\n<p># Comments: 3</p>",
+            "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+            "published": "Thu, 29 Oct 2026 19:47:38 +0000",
+            "fetched": "2026-10-29T23:40:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Patrick Stewart has died",
+            "description": "<p><a href=\"https://archive.ph/y4Egm\" rel=\"nofollow\">https://archive.ph/y4Egm</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50294702\">https://news.ycombinator.com/item?id=50294702</a></p>\n<p>Points: 143</p>\n<p># Comments: 18</p>",
+            "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+            "published": "Thu, 29 Oct 2026 19:41:39 +0000",
+            "fetched": "2026-10-29T23:40:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The importance of communities around software",
+            "description": "<p>Article URL: <a href=\"https://lumi.codeberg.page/blog/software-community.html\">https://lumi.codeberg.page/blog/software-community.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50294507\">https://news.ycombinator.com/item?id=50294507</a></p>\n<p>Points: 17</p>\n<p># Comments: 5</p>",
+            "url": "https://lumi.codeberg.page/blog/software-community.html",
+            "published": "Thu, 29 Oct 2026 19:27:47 +0000",
+            "fetched": "2026-10-29T23:40:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
+            "description": "Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 15:42:56 GMT",
+            "fetched": "2026-10-29T23:40:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+            "description": "Budget forecasts show growth in living standards grinding almost to a halt.",
+            "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 13:19:24 GMT",
+            "fetched": "2026-10-29T23:40:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
+            "description": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
+            "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 11:07:35 GMT",
+            "fetched": "2026-10-29T23:40:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cornell begins no confidence vote over handling of alleged gang rape",
+            "description": "Faculty vote will continue until next Friday and could send message that school&#039;s president has lost their confidence.",
+            "url": "https://www.aljazeera.com/news/2026/10/29/cornell-begins-no-confidence-vote-over-handling-of-alleged-gang-rape?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 19:23:33 +0000",
+            "fetched": "2026-10-29T23:40:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says won’t ‘take sides’ in Brazil election, but calls it a ‘disgrace’",
+            "description": "Comments come after Trump ally Flavio Bolsonaro fled to Miami in US and claimed, without evidence, that vote was stolen.",
+            "url": "https://www.aljazeera.com/news/2026/10/29/trump-says-wont-take-sides-in-brazil-election-but-calls-it-a-disgrace?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 19:21:19 +0000",
+            "fetched": "2026-10-29T23:40:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Netanyahu attacks Palestinian-Israeli parties as he falls short of majority",
+            "description": "With all votes now counted, opposition parties could join forces with Palestinian-Israeli parties to unseat Netanyahu.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 19:06:00 +0000",
+            "fetched": "2026-10-29T23:40:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-10-29T23:40:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-10-29T23:40:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-10-29T23:40:40+03:30"
+        }
+    ]
+}

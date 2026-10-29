@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-29 20:29:21
+**Last Update:** 2026-10-29 23:40:40
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. For the first time ever, Google Search is less than 50% of Alphabet's revenue
+### 1. Patrick Stewart Has Died
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.kadoa.com/companies/insights/google-search-below-half">https://www.kadoa.com/companies/insights/google-search-below-half</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50291945">https://news.ycombinator.com/item?id=50291945</a></p>
-<p>Points: 35</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html">https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50294770">https://news.ycombinator.com/item?id=50294770</a></p>
+<p>Points: 31</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.kadoa.com/companies/insights/google-search-below-half](https://www.kadoa.com/companies/insights/google-search-below-half)
+🔗 **Read more:** [https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
 
 ---
 
-### 2. Are stochastic parrots alive?
+### 2. Patrick Stewart has died
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://stefano.petrilli.xyz/are-stochastic-parrots-alive/">https://stefano.petrilli.xyz/are-stochastic-parrots-alive/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50291830">https://news.ycombinator.com/item?id=50291830</a></p>
-<p>Points: 14</p>
-<p># Comments: 9</p>
+<p><a href="https://archive.ph/y4Egm" rel="nofollow">https://archive.ph/y4Egm</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50294702">https://news.ycombinator.com/item?id=50294702</a></p>
+<p>Points: 143</p>
+<p># Comments: 18</p>
 
-🔗 **Read more:** [https://stefano.petrilli.xyz/are-stochastic-parrots-alive/](https://stefano.petrilli.xyz/are-stochastic-parrots-alive/)
+🔗 **Read more:** [https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
 
 ---
 
-### 3. 16colo.rs – ANSI/ASCII art archive
+### 3. The importance of communities around software
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://16colo.rs/">https://16colo.rs/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50291421">https://news.ycombinator.com/item?id=50291421</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://lumi.codeberg.page/blog/software-community.html">https://lumi.codeberg.page/blog/software-community.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50294507">https://news.ycombinator.com/item?id=50294507</a></p>
+<p>Points: 17</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://16colo.rs/](https://16colo.rs/)
+🔗 **Read more:** [https://lumi.codeberg.page/blog/software-community.html](https://lumi.codeberg.page/blog/software-community.html)
 
 ---
 
@@ -84,55 +85,55 @@ Budget forecasts show growth in living standards grinding almost to a halt.
 
 ---
 
-### 6. Audio reveals exchanges between control centre and drivers before deadly Spain train crash
+### 6. Audio reveals exchanges between Spain train operators and drivers moments before deadly crash
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.
+The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. France football chief backs Real Madrid’s Mbappe after China apology
+### 7. Cornell begins no confidence vote over handling of alleged gang rape
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Real Madrid&#039;s Kylian Mbappe should be allowed to move on after apology to China, says French football federation chief.
+Faculty vote will continue until next Friday and could send message that school&#039;s president has lost their confidence.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/29/france-football-chief-speaks-up-for-real-madrids-mbappe-in-china-apology?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/29/france-football-chief-speaks-up-for-real-madrids-mbappe-in-china-apology?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/cornell-begins-no-confidence-vote-over-handling-of-alleged-gang-rape?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/cornell-begins-no-confidence-vote-over-handling-of-alleged-gang-rape?traffic_source=rss)
 
 ---
 
-### 8. European Central Bank President Lagarde to step down early
+### 8. Trump says won’t ‘take sides’ in Brazil election, but calls it a ‘disgrace’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Christine Lagarde will leave the post in February, nine months before the end of her eight-year term.
+Comments come after Trump ally Flavio Bolsonaro fled to Miami in US and claimed, without evidence, that vote was stolen.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/european-central-bank-president-lagarde-to-step-down-early?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/european-central-bank-president-lagarde-to-step-down-early?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/trump-says-wont-take-sides-in-brazil-election-but-calls-it-a-disgrace?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/trump-says-wont-take-sides-in-brazil-election-but-calls-it-a-disgrace?traffic_source=rss)
 
 ---
 
-### 9. Why US Sports Owners Spend Millions on Politics
+### 9. Netanyahu attacks Palestinian-Israeli parties as he falls short of majority
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US sports team owners include some of the wealthiest people in the world and some spend millions of dollars on politics
+With all votes now counted, opposition parties could join forces with Palestinian-Israeli parties to unseat Netanyahu.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/game-theory/2026/10/29/why-us-sports-owners-spend-millions-on-politics?traffic_source=rss](https://www.aljazeera.com/video/game-theory/2026/10/29/why-us-sports-owners-spend-millions-on-politics?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss)
 
 ---
 
