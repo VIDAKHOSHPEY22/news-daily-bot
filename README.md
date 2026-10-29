@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-29 04:16:07
+**Last Update:** 2026-10-29 06:03:24
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Get Ready for Touch on Mac
+### 1. MicroZig to Adopt Strict No LLM / No AI Policy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://developer.apple.com/touch-on-mac/">https://developer.apple.com/touch-on-mac/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50282650">https://news.ycombinator.com/item?id=50282650</a></p>
-<p>Points: 9</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md">https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50282865">https://news.ycombinator.com/item?id=50282865</a></p>
+<p>Points: 36</p>
+<p># Comments: 45</p>
 
-🔗 **Read more:** [https://developer.apple.com/touch-on-mac/](https://developer.apple.com/touch-on-mac/)
+🔗 **Read more:** [https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md](https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md)
 
 ---
 
-### 2. GitLab Security Incident: Attempted Exploitation of CVE-2026-97229
+### 2. Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://divagr.com/blog/qwenputer">https://divagr.com/blog/qwenputer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50282838">https://news.ycombinator.com/item?id=50282838</a></p>
+<p>Points: 89</p>
+<p># Comments: 16</p>
+
+🔗 **Read more:** [https://divagr.com/blog/qwenputer](https://divagr.com/blog/qwenputer)
+
+---
+
+### 3. GitLab Security Incident: Attempted Exploitation of CVE-2026-97229
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html">https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50282544">https://news.ycombinator.com/item?id=50282544</a></p>
-<p>Points: 44</p>
-<p># Comments: 3</p>
+<p>Points: 82</p>
+<p># Comments: 28</p>
 
 🔗 **Read more:** [https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
-
----
-
-### 3. The first wired XR glasses powered by Android XR
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.google/products-and-platforms/platforms/android/xreal-aura/">https://blog.google/products-and-platforms/platforms/android/xreal-aura/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50282538">https://news.ycombinator.com/item?id=50282538</a></p>
-<p>Points: 4</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://blog.google/products-and-platforms/platforms/android/xreal-aura/](https://blog.google/products-and-platforms/platforms/android/xreal-aura/)
 
 ---
 
@@ -71,16 +71,16 @@ The chancellor targets the cost of living amid global economic turmoil but oppos
 
 ---
 
-### 5. Budget key points at a glance
+### 5. I earn £30,000. I'm angry there was no fuel duty cut in the Budget
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.
+People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ The crash, between a moving train and another that was stopped further up the tr
 
 ---
 
-### 7. No clear winner in Israel election with nearly 90 percent of votes counted
+### 7. Serbians storm TV studio as pro-Vucic media faces reckoning
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Netanyahu&#039;s right-wing bloc leads but is falling short of the votes needed to form a government.
+Serbians stormed a TV studio and confronted its editor-in-chief after a student-led protest movement swept into power.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/serbians-storm-tv-studio-as-pro-vucic-media-faces-reckoning?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/serbians-storm-tv-studio-as-pro-vucic-media-faces-reckoning?traffic_source=rss)
 
 ---
 
-### 8. Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks
+### 8. Bolsonaro in Miami: I am the ‘true president-elect’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Araghchi says Iran is in close contact with mediators on ideas to implement its seven-day plan to reopen Hormuz strait.
+Flavio Bolsonaro claimed to be the ‘true president-elect’ of Brazil in his first statement since fleeing to the US.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/bolsonaro-in-miami-i-am-the-true-president?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/bolsonaro-in-miami-i-am-the-true-president?traffic_source=rss)
 
 ---
 
-### 9. Romania extends pre-trial detention of far-right politician Calin Georgescu
+### 9. Riot police deployed in Madrid as protests erupt over deadly train crash
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Bucharest court has extended the pre-trial detention of Calin Georgescu by 30 days, appealing a lower court ruling.
+A deadly train crash fuelled anger in Spain as far-right demonstrators clashed with police
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss)
 
 ---
 

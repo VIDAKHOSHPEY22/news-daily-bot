@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-29T06:03:24+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "MicroZig to Adopt Strict No LLM / No AI Policy",
+            "description": "<p>Article URL: <a href=\"https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md\">https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50282865\">https://news.ycombinator.com/item?id=50282865</a></p>\n<p>Points: 36</p>\n<p># Comments: 45</p>",
+            "url": "https://github.com/ZigEmbeddedGroup/microzig/blob/main/CODE_OF_CONDUCT.md",
+            "published": "Thu, 29 Oct 2026 00:30:37 +0000",
+            "fetched": "2026-10-29T06:03:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+            "description": "<p>Article URL: <a href=\"https://divagr.com/blog/qwenputer\">https://divagr.com/blog/qwenputer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50282838\">https://news.ycombinator.com/item?id=50282838</a></p>\n<p>Points: 89</p>\n<p># Comments: 16</p>",
+            "url": "https://divagr.com/blog/qwenputer",
+            "published": "Thu, 29 Oct 2026 00:25:45 +0000",
+            "fetched": "2026-10-29T06:03:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+            "description": "<p>Article URL: <a href=\"https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html\">https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50282544\">https://news.ycombinator.com/item?id=50282544</a></p>\n<p>Points: 82</p>\n<p># Comments: 28</p>",
+            "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+            "published": "Wed, 28 Oct 2026 23:45:46 +0000",
+            "fetched": "2026-10-29T06:03:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+            "description": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+            "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 18:45:09 GMT",
+            "fetched": "2026-10-29T06:03:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "I earn £30,000. I'm angry there was no fuel duty cut in the Budget",
+            "description": "People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.",
+            "url": "https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 00:00:25 GMT",
+            "fetched": "2026-10-29T06:03:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "High-speed train crash kills at least 68 people in Spain",
+            "description": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+            "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 21:38:54 GMT",
+            "fetched": "2026-10-29T06:03:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Serbians storm TV studio as pro-Vucic media faces reckoning",
+            "description": "Serbians stormed a TV studio and confronted its editor-in-chief after a student-led protest movement swept into power.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/serbians-storm-tv-studio-as-pro-vucic-media-faces-reckoning?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 02:02:02 +0000",
+            "fetched": "2026-10-29T06:03:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bolsonaro in Miami: I am the ‘true president-elect’",
+            "description": "Flavio Bolsonaro claimed to be the ‘true president-elect’ of Brazil in his first statement since fleeing to the US.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/bolsonaro-in-miami-i-am-the-true-president?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 02:01:09 +0000",
+            "fetched": "2026-10-29T06:03:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Riot police deployed in Madrid as protests erupt over deadly train crash",
+            "description": "A deadly train crash fuelled anger in Spain as far-right demonstrators clashed with police",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/riot-police-deployed-in-madrid-as-protests-erupt-over-deadly-train-crash?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 00:36:33 +0000",
+            "fetched": "2026-10-29T06:03:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-29T06:03:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-29T06:03:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range  47B, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769",
+            "published": "2026-10-24T17:10:00Z",
+            "fetched": "2026-10-29T06:03:24+03:30"
+        }
+    ]
+}
