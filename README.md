@@ -1,90 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-29 10:25:42
+**Last Update:** 2026-10-29 13:43:52
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Zillow to pay $212.5M to settle class action for real estate venture
+### 1. Spain train crash: What we know after two trains crashed with dozens feared dead
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/">https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50284342">https://news.ycombinator.com/item?id=50284342</a></p>
-<p>Points: 29</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/cm8xz7pkd0jjo">https://www.bbc.com/news/articles/cm8xz7pkd0jjo</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50286197">https://news.ycombinator.com/item?id=50286197</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/](https://www.reuters.com/legal/government/zillow-pay-2125-million-settle-class-action-over-failed-real-estate-venture-2026-10-28/)
+🔗 **Read more:** [https://www.bbc.com/news/articles/cm8xz7pkd0jjo](https://www.bbc.com/news/articles/cm8xz7pkd0jjo)
 
 ---
 
-### 2. The Milwaukee Brewers win the first World Series title in franchise history
+### 2. Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series">https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50284329">https://news.ycombinator.com/item?id=50284329</a></p>
-<p>Points: 74</p>
-<p># Comments: 39</p>
+<p>Article URL: <a href="https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html">https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50285714">https://news.ycombinator.com/item?id=50285714</a></p>
+<p>Points: 61</p>
+<p># Comments: 107</p>
 
-🔗 **Read more:** [https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series](https://www.cnn.com/2026/10/28/sport/live-news/game-5-world-series)
+🔗 **Read more:** [https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html](https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html)
 
 ---
 
-### 3. Claude Code regularly sends each background agent’s transcript to its model
+### 3. Zero click, silent, remote Android DoS
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce">https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50284255">https://news.ycombinator.com/item?id=50284255</a></p>
-<p>Points: 236</p>
-<p># Comments: 67</p>
+<p>Article URL: <a href="https://smsofdeath.com/">https://smsofdeath.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50285452">https://news.ycombinator.com/item?id=50285452</a></p>
+<p>Points: 58</p>
+<p># Comments: 32</p>
 
-🔗 **Read more:** [https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce](https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce)
+🔗 **Read more:** [https://smsofdeath.com/](https://smsofdeath.com/)
 
 ---
 
-### 4. I earn £30,000. I'm angry there was no fuel duty cut in the Budget
+### 4. What we know so far about deadly Spain train crash
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-People on a range of incomes from £4,062 to £150,000 a year tell the BBC what they made of this year's Budget.
+More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmx235r9wr3yo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Spain begins three days of mourning after train crash kills dozens
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Emergency teams worked through the night to find victims after one of the worst rail disasters in Europe's modern history.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Ofcom outlines ways social media can verify ages of users
+### 5. Ofcom sets out social media age-checking methods ahead of ban
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Ofcom says photo and digital ID, banking checks or facial age estimation can hel
 
 ---
 
-### 7. Europe’s wealth gap: Older households eight times richer than young ones
+### 6. Flávio Bolsonaro denies fleeing Brazil after landing in Miami
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-As protests over living costs and programme cuts spread across Europe, under-35s hold 2.8%t of household wealth.
+The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/europes-wealth-gap-older-households-eight-times-richer-than-young-ones?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/europes-wealth-gap-older-households-eight-times-richer-than-young-ones?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Liverpool beat Chelsea 6-5 on penalties to reach League Cup quarterfinals
+### 7. Why Michigan could decide the future of Trump’s presidency
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-After a 1-1 draw in normal time, Liverpool win 6-5 to edge a narrow win after penalties in last-16 match at Liverpool.
+Michigan has swung between Republicans and Democrats in the past three presidential elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/29/chelsea-beat-liverpool-on-penalties-to-reach-league-cup-quarterfinals?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/29/chelsea-beat-liverpool-on-penalties-to-reach-league-cup-quarterfinals?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/why-michigan-could-decide-the-future-of-trumps-presidency?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/why-michigan-could-decide-the-future-of-trumps-presidency?traffic_source=rss)
 
 ---
 
-### 9. Russia’s alleged sabotage campaign in Europe raises fears of escalation
+### 8. Israeli settler take-over
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-From drone incursions to an alleged campaign of assassinations, Russia is feared to be pressing a shadow war.
+How Israeli settlers use outposts and violence to seize Palestinian land in the occupied West Bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/russias-alleged-sabotage-campaign-in-europe-raises-fears-of-escalation?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/russias-alleged-sabotage-campaign-in-europe-raises-fears-of-escalation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settler-take-over?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settler-take-over?traffic_source=rss)
+
+---
+
+### 9. Argentina farmers evacuate cattle by boat as El Nino escalates
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Argentina’s farmers are evacuating their cattle by boat to higher ground as El Nino raises water levels.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/argentina-farmers-evacuate-cattle-by-boat-as-el-nino-escalates?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/argentina-farmers-evacuate-cattle-by-boat-as-el-nino-escalates?traffic_source=rss)
 
 ---
 

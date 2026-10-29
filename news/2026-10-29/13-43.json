@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-29T13:43:52+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Spain train crash: What we know after two trains crashed with dozens feared dead",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cm8xz7pkd0jjo\">https://www.bbc.com/news/articles/cm8xz7pkd0jjo</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50286197\">https://news.ycombinator.com/item?id=50286197</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://www.bbc.com/news/articles/cm8xz7pkd0jjo",
+            "published": "Thu, 29 Oct 2026 08:55:08 +0000",
+            "fetched": "2026-10-29T13:43:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027",
+            "description": "<p>Article URL: <a href=\"https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html\">https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50285714\">https://news.ycombinator.com/item?id=50285714</a></p>\n<p>Points: 61</p>\n<p># Comments: 107</p>",
+            "url": "https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html",
+            "published": "Thu, 29 Oct 2026 07:52:32 +0000",
+            "fetched": "2026-10-29T13:43:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Zero click, silent, remote Android DoS",
+            "description": "<p>Article URL: <a href=\"https://smsofdeath.com/\">https://smsofdeath.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50285452\">https://news.ycombinator.com/item?id=50285452</a></p>\n<p>Points: 58</p>\n<p># Comments: 32</p>",
+            "url": "https://smsofdeath.com/",
+            "published": "Thu, 29 Oct 2026 07:08:50 +0000",
+            "fetched": "2026-10-29T13:43:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know so far about deadly Spain train crash",
+            "description": "More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.",
+            "url": "https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 10:02:37 GMT",
+            "fetched": "2026-10-29T13:43:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ofcom sets out social media age-checking methods ahead of ban",
+            "description": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
+            "url": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 09:31:44 GMT",
+            "fetched": "2026-10-29T13:43:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Flávio Bolsonaro denies fleeing Brazil after landing in Miami",
+            "description": "The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.",
+            "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 01:14:01 GMT",
+            "fetched": "2026-10-29T13:43:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why Michigan could decide the future of Trump’s presidency",
+            "description": "Michigan has swung between Republicans and Democrats in the past three presidential elections.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/why-michigan-could-decide-the-future-of-trumps-presidency?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 09:46:16 +0000",
+            "fetched": "2026-10-29T13:43:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli settler take-over",
+            "description": "How Israeli settlers use outposts and violence to seize Palestinian land in the occupied West Bank.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settler-take-over?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 09:31:37 +0000",
+            "fetched": "2026-10-29T13:43:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Argentina farmers evacuate cattle by boat as El Nino escalates",
+            "description": "Argentina’s farmers are evacuating their cattle by boat to higher ground as El Nino raises water levels.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/argentina-farmers-evacuate-cattle-by-boat-as-el-nino-escalates?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 09:17:10 +0000",
+            "fetched": "2026-10-29T13:43:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-29T13:43:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-29T13:43:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range  47B, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769",
+            "published": "2026-10-24T17:10:00Z",
+            "fetched": "2026-10-29T13:43:52+03:30"
+        }
+    ]
+}
