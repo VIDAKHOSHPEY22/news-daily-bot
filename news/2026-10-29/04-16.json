@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-29T04:16:07+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Get Ready for Touch on Mac",
+            "description": "<p>Article URL: <a href=\"https://developer.apple.com/touch-on-mac/\">https://developer.apple.com/touch-on-mac/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50282650\">https://news.ycombinator.com/item?id=50282650</a></p>\n<p>Points: 9</p>\n<p># Comments: 9</p>",
+            "url": "https://developer.apple.com/touch-on-mac/",
+            "published": "Wed, 28 Oct 2026 23:58:20 +0000",
+            "fetched": "2026-10-29T04:16:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+            "description": "<p>Article URL: <a href=\"https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html\">https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50282544\">https://news.ycombinator.com/item?id=50282544</a></p>\n<p>Points: 44</p>\n<p># Comments: 3</p>",
+            "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+            "published": "Wed, 28 Oct 2026 23:45:46 +0000",
+            "fetched": "2026-10-29T04:16:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The first wired XR glasses powered by Android XR",
+            "description": "<p>Article URL: <a href=\"https://blog.google/products-and-platforms/platforms/android/xreal-aura/\">https://blog.google/products-and-platforms/platforms/android/xreal-aura/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50282538\">https://news.ycombinator.com/item?id=50282538</a></p>\n<p>Points: 4</p>\n<p># Comments: 4</p>",
+            "url": "https://blog.google/products-and-platforms/platforms/android/xreal-aura/",
+            "published": "Wed, 28 Oct 2026 23:45:19 +0000",
+            "fetched": "2026-10-29T04:16:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Healey unveils £100 for energy bills and bank tax in first Budget",
+            "description": "The chancellor targets the cost of living amid global economic turmoil but opposition parties say he has not been bold enough.",
+            "url": "https://www.bbc.co.uk/news/articles/cqpvgxz3y49go?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 18:45:09 GMT",
+            "fetched": "2026-10-29T04:16:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Budget key points at a glance",
+            "description": "Here’s what you need to know from John Healey’s first Budget, as the chancellor sets out the government’s tax and spending plans.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 16:55:27 GMT",
+            "fetched": "2026-10-29T04:16:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "High-speed train crash kills at least 68 people in Spain",
+            "description": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said.",
+            "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 28 Oct 2026 21:38:54 GMT",
+            "fetched": "2026-10-29T04:16:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "No clear winner in Israel election with nearly 90 percent of votes counted",
+            "description": "Netanyahu&#039;s right-wing bloc leads but is falling short of the votes needed to form a government.",
+            "url": "https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 00:01:07 +0000",
+            "fetched": "2026-10-29T04:16:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks",
+            "description": "Araghchi says Iran is in close contact with mediators on ideas to implement its seven-day plan to reopen Hormuz strait.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 00:00:00 +0000",
+            "fetched": "2026-10-29T04:16:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Romania extends pre-trial detention of far-right politician Calin Georgescu",
+            "description": "The Bucharest court has extended the pre-trial detention of Calin Georgescu by 30 days, appealing a lower court ruling.",
+            "url": "https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss",
+            "published": "Wed, 28 Oct 2026 23:43:06 +0000",
+            "fetched": "2026-10-29T04:16:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-29T04:16:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-29T04:16:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range  47B, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769",
+            "published": "2026-10-24T17:10:00Z",
+            "fetched": "2026-10-29T04:16:07+03:30"
+        }
+    ]
+}

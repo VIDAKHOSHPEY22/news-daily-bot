@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-29 02:50:42
+**Last Update:** 2026-10-29 04:16:07
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Formlabs Studio 1 $699 Resin Printer
+### 1. Get Ready for Touch on Mac
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://formlabs.com/products/form-studio-1-basic-founders-edition/">https://formlabs.com/products/form-studio-1-basic-founders-edition/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50281044">https://news.ycombinator.com/item?id=50281044</a></p>
-<p>Points: 74</p>
-<p># Comments: 66</p>
+<p>Article URL: <a href="https://developer.apple.com/touch-on-mac/">https://developer.apple.com/touch-on-mac/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50282650">https://news.ycombinator.com/item?id=50282650</a></p>
+<p>Points: 9</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://formlabs.com/products/form-studio-1-basic-founders-edition/](https://formlabs.com/products/form-studio-1-basic-founders-edition/)
+🔗 **Read more:** [https://developer.apple.com/touch-on-mac/](https://developer.apple.com/touch-on-mac/)
 
 ---
 
-### 2. A Health Update
+### 2. GitLab Security Incident: Attempted Exploitation of CVE-2026-97229
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://furbo.org/2026/10/28/a-health-update/">https://furbo.org/2026/10/28/a-health-update/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50280974">https://news.ycombinator.com/item?id=50280974</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html">https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50282544">https://news.ycombinator.com/item?id=50282544</a></p>
+<p>Points: 44</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://furbo.org/2026/10/28/a-health-update/](https://furbo.org/2026/10/28/a-health-update/)
+🔗 **Read more:** [https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html)
 
 ---
 
-### 3. Leak Exposes 41,000 Homeland Security Workers–Including Undercover ICE Agents
+### 3. The first wired XR glasses powered by Android XR
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/">https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50280864">https://news.ycombinator.com/item?id=50280864</a></p>
-<p>Points: 229</p>
-<p># Comments: 93</p>
+<p>Article URL: <a href="https://blog.google/products-and-platforms/platforms/android/xreal-aura/">https://blog.google/products-and-platforms/platforms/android/xreal-aura/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50282538">https://news.ycombinator.com/item?id=50282538</a></p>
+<p>Points: 4</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/](https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/)
+🔗 **Read more:** [https://blog.google/products-and-platforms/platforms/android/xreal-aura/](https://blog.google/products-and-platforms/platforms/android/xreal-aura/)
 
 ---
 
@@ -84,55 +84,55 @@ Here’s what you need to know from John Healey’s first Budget, as the chancel
 
 ---
 
-### 6. Chris Mason: Budget felt cautious despite its range of small measures
+### 6. High-speed train crash kills at least 68 people in Spain
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The chancellor has had to grapple with a mix of public finances and household finances being a mess.
+The crash, between a moving train and another that was stopped further up the track, was caused by an "inexplicable" error, the transport minister said.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. UN experts sound alarm at excessive use of force in French student protests
+### 7. No clear winner in Israel election with nearly 90 percent of votes counted
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UN experts have condemned police crackdowns, warning they deter demonstrators from exercising their rights.
+Netanyahu&#039;s right-wing bloc leads but is falling short of the votes needed to form a government.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/un-experts-sound-alarm-at-excessive-use-of-force-in-french-student-protests?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/no-clear-winner-in-israeli-election-with-nearly-90-percent-of-votes-counted?traffic_source=rss)
 
 ---
 
-### 8. Costa Rica’s mega-prison receives first inmates
+### 8. Iran war live: Tehran presses 7-day Hormuz plan; Trump denies peace talks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Laura Fernandez inaugurated the $35m mega-prison built to house up to 5,100 inmates near San Jose.
+Araghchi says Iran is in close contact with mediators on ideas to implement its seven-day plan to reopen Hormuz strait.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/costa-ricas-mega-prison-receives-first-inmates?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/29/iran-war-live-tehran-presses-7-day-hormuz-plan-trump-denies-peace-talks?traffic_source=rss)
 
 ---
 
-### 9. Indonesian students demand action on wildfires and rising costs
+### 9. Romania extends pre-trial detention of far-right politician Calin Georgescu
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hundreds of Indonesian students protested against the government&#039;s handling of forest fires and rising costs.
+The Bucharest court has extended the pre-trial detention of Calin Georgescu by 30 days, appealing a lower court ruling.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_indonesian-students-demand-action-on-wildfires-281026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/28/aje-onl-nf_indonesian-students-demand-action-on-wildfires-281026?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss](https://www.aljazeera.com/news/2026/10/28/romania-extends-pre-trial-detention-of-far-right-politician-calin-georgescu?traffic_source=rss)
 
 ---
 
