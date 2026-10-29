@@ -1,77 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-29 17:36:08
+**Last Update:** 2026-10-29 20:29:21
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Read the letter the FBI sent MLK to try to convince him to kill himself (2014)
+### 1. For the first time ever, Google Search is less than 50% of Alphabet's revenue
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter">https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50288867">https://news.ycombinator.com/item?id=50288867</a></p>
-<p>Points: 44</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.kadoa.com/companies/insights/google-search-below-half">https://www.kadoa.com/companies/insights/google-search-below-half</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50291945">https://news.ycombinator.com/item?id=50291945</a></p>
+<p>Points: 35</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter](https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter)
+🔗 **Read more:** [https://www.kadoa.com/companies/insights/google-search-below-half](https://www.kadoa.com/companies/insights/google-search-below-half)
 
 ---
 
-### 2. Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5
+### 2. Are stochastic parrots alive?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1">https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50288019">https://news.ycombinator.com/item?id=50288019</a></p>
-<p>Points: 107</p>
-<p># Comments: 68</p>
+<p>Article URL: <a href="https://stefano.petrilli.xyz/are-stochastic-parrots-alive/">https://stefano.petrilli.xyz/are-stochastic-parrots-alive/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50291830">https://news.ycombinator.com/item?id=50291830</a></p>
+<p>Points: 14</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1](https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1)
+🔗 **Read more:** [https://stefano.petrilli.xyz/are-stochastic-parrots-alive/](https://stefano.petrilli.xyz/are-stochastic-parrots-alive/)
 
 ---
 
-### 3. DoorDash to Acquire Instacart
+### 3. 16colo.rs – ANSI/ASCII art archive
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx">https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50287919">https://news.ycombinator.com/item?id=50287919</a></p>
-<p>Points: 88</p>
-<p># Comments: 64</p>
+<p>Article URL: <a href="https://16colo.rs/">https://16colo.rs/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50291421">https://news.ycombinator.com/item?id=50291421</a></p>
+<p>Points: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx](https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx)
+🔗 **Read more:** [https://16colo.rs/](https://16colo.rs/)
 
 ---
 
-### 4. Treasury will not commit to reducing welfare bill before next election
+### 4. Burnham says he wants to cut welfare bill 'as soon as we possibly can'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Treasury is disputing that the chancellor suggested to the BBC the benefits bill will be cut before the next election.
+Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Audio reveals exchanges between control centre and drivers before deadly Spain train crash
+### 5. 'Painful' years ahead, think tanks warn, as living standards set to fall
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Budget forecasts show growth in living standards grinding almost to a halt.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Audio reveals exchanges between control centre and drivers before deadly Spain train crash
 
 **Source:** BBC
 
@@ -84,85 +97,46 @@ The recordings appear to show one high-speed train was given clearance to move e
 
 ---
 
-### 6. Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Laura Brand tells the jury at his trial she feels "very seen by him" and "I love him very much".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Indonesians share impact of haze on their livelihoods
+### 7. France football chief backs Real Madrid’s Mbappe after China apology
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Months of forest fires and toxic haze in Indonesia has severely disrupted daily life.
+Real Madrid&#039;s Kylian Mbappe should be allowed to move on after apology to China, says French football federation chief.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/indonesians-share-impact-of-haze-on-their-livelihoods?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/indonesians-share-impact-of-haze-on-their-livelihoods?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/29/france-football-chief-speaks-up-for-real-madrids-mbappe-in-china-apology?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/29/france-football-chief-speaks-up-for-real-madrids-mbappe-in-china-apology?traffic_source=rss)
 
 ---
 
-### 8. Rising fuel costs force passengers off cruise ship
+### 8. European Central Bank President Lagarde to step down early
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-203 passengers have been forced to disembark from a US cruise ship.
+Christine Lagarde will leave the post in February, nine months before the end of her eight-year term.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/rising-fuel-costs-force-passengers-off-cruise-ship?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/rising-fuel-costs-force-passengers-off-cruise-ship?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/european-central-bank-president-lagarde-to-step-down-early?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/european-central-bank-president-lagarde-to-step-down-early?traffic_source=rss)
 
 ---
 
-### 9. The megadonors financing the US midterms to influence policy
+### 9. Why US Sports Owners Spend Millions on Politics
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Who are the groups funding the US midterm campaigns and what are they hoping to influence?
+US sports team owners include some of the wealthiest people in the world and some spend millions of dollars on politics
 
-🔗 **Read more:** [https://www.aljazeera.com/video/money-works/2026/10/29/the-megadonors-financing-the-us-midterms-to-influence-policy?traffic_source=rss](https://www.aljazeera.com/video/money-works/2026/10/29/the-megadonors-financing-the-us-midterms-to-influence-policy?traffic_source=rss)
-
----
-
-### 10. Tropical Cyclone Arnab
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729)
+🔗 **Read more:** [https://www.aljazeera.com/video/game-theory/2026/10/29/why-us-sports-owners-spend-millions-on-politics?traffic_source=rss](https://www.aljazeera.com/video/game-theory/2026/10/29/why-us-sports-owners-spend-millions-on-politics?traffic_source=rss)
 
 ---
 
-### 11. Tropical Storm Olana
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730)
-
----
-
-### 12. Wildfire Range  47B, Forrest, Mississippi
+### 10. Wildfire South Tank Trail, Perry, Mississippi
 
 **Source:** NASA
 
@@ -171,7 +145,33 @@ Natural event: Severe Storms
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827)
+
+---
+
+### 11. Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829)
+
+---
+
+### 12. Prescribed Fire Brie Slash Piles RX, Coconino, Arizona
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830)
 
 ---
 

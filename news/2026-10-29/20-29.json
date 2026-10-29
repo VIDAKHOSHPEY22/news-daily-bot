@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-29T20:29:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "For the first time ever, Google Search is less than 50% of Alphabet's revenue",
+            "description": "<p>Article URL: <a href=\"https://www.kadoa.com/companies/insights/google-search-below-half\">https://www.kadoa.com/companies/insights/google-search-below-half</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50291945\">https://news.ycombinator.com/item?id=50291945</a></p>\n<p>Points: 35</p>\n<p># Comments: 11</p>",
+            "url": "https://www.kadoa.com/companies/insights/google-search-below-half",
+            "published": "Thu, 29 Oct 2026 16:42:17 +0000",
+            "fetched": "2026-10-29T20:29:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Are stochastic parrots alive?",
+            "description": "<p>Article URL: <a href=\"https://stefano.petrilli.xyz/are-stochastic-parrots-alive/\">https://stefano.petrilli.xyz/are-stochastic-parrots-alive/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50291830\">https://news.ycombinator.com/item?id=50291830</a></p>\n<p>Points: 14</p>\n<p># Comments: 9</p>",
+            "url": "https://stefano.petrilli.xyz/are-stochastic-parrots-alive/",
+            "published": "Thu, 29 Oct 2026 16:36:14 +0000",
+            "fetched": "2026-10-29T20:29:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "16colo.rs – ANSI/ASCII art archive",
+            "description": "<p>Article URL: <a href=\"https://16colo.rs/\">https://16colo.rs/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50291421\">https://news.ycombinator.com/item?id=50291421</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://16colo.rs/",
+            "published": "Thu, 29 Oct 2026 16:14:28 +0000",
+            "fetched": "2026-10-29T20:29:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
+            "description": "Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 15:42:56 GMT",
+            "fetched": "2026-10-29T20:29:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+            "description": "Budget forecasts show growth in living standards grinding almost to a halt.",
+            "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 13:19:24 GMT",
+            "fetched": "2026-10-29T20:29:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+            "description": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
+            "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 11:07:35 GMT",
+            "fetched": "2026-10-29T20:29:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "France football chief backs Real Madrid’s Mbappe after China apology",
+            "description": "Real Madrid&#039;s Kylian Mbappe should be allowed to move on after apology to China, says French football federation chief.",
+            "url": "https://www.aljazeera.com/sports/2026/10/29/france-football-chief-speaks-up-for-real-madrids-mbappe-in-china-apology?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 16:43:37 +0000",
+            "fetched": "2026-10-29T20:29:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "European Central Bank President Lagarde to step down early",
+            "description": "Christine Lagarde will leave the post in February, nine months before the end of her eight-year term.",
+            "url": "https://www.aljazeera.com/news/2026/10/29/european-central-bank-president-lagarde-to-step-down-early?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 16:34:55 +0000",
+            "fetched": "2026-10-29T20:29:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why US Sports Owners Spend Millions on Politics",
+            "description": "US sports team owners include some of the wealthiest people in the world and some spend millions of dollars on politics",
+            "url": "https://www.aljazeera.com/video/game-theory/2026/10/29/why-us-sports-owners-spend-millions-on-politics?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 16:33:44 +0000",
+            "fetched": "2026-10-29T20:29:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-10-29T20:29:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-10-29T20:29:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-10-29T20:29:21+03:30"
+        }
+    ]
+}
