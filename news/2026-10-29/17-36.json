@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-29T17:36:08+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Read the letter the FBI sent MLK to try to convince him to kill himself (2014)",
+            "description": "<p>Article URL: <a href=\"https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter\">https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50288867\">https://news.ycombinator.com/item?id=50288867</a></p>\n<p>Points: 44</p>\n<p># Comments: 6</p>",
+            "url": "https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter",
+            "published": "Thu, 29 Oct 2026 13:40:04 +0000",
+            "fetched": "2026-10-29T17:36:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+            "description": "<p>Article URL: <a href=\"https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1\">https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50288019\">https://news.ycombinator.com/item?id=50288019</a></p>\n<p>Points: 107</p>\n<p># Comments: 68</p>",
+            "url": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+            "published": "Thu, 29 Oct 2026 12:41:56 +0000",
+            "fetched": "2026-10-29T17:36:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DoorDash to Acquire Instacart",
+            "description": "<p>Article URL: <a href=\"https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx\">https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50287919\">https://news.ycombinator.com/item?id=50287919</a></p>\n<p>Points: 88</p>\n<p># Comments: 64</p>",
+            "url": "https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx",
+            "published": "Thu, 29 Oct 2026 12:33:05 +0000",
+            "fetched": "2026-10-29T17:36:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Treasury will not commit to reducing welfare bill before next election",
+            "description": "The Treasury is disputing that the chancellor suggested to the BBC the benefits bill will be cut before the next election.",
+            "url": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 10:41:50 GMT",
+            "fetched": "2026-10-29T17:36:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Audio reveals exchanges between control centre and drivers before deadly Spain train crash",
+            "description": "The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.",
+            "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 11:07:35 GMT",
+            "fetched": "2026-10-29T17:36:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'",
+            "description": "Laura Brand tells the jury at his trial she feels \"very seen by him\" and \"I love him very much\".",
+            "url": "https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 12:52:50 GMT",
+            "fetched": "2026-10-29T17:36:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Indonesians share impact of haze on their livelihoods",
+            "description": "Months of forest fires and toxic haze in Indonesia has severely disrupted daily life.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/indonesians-share-impact-of-haze-on-their-livelihoods?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 13:30:55 +0000",
+            "fetched": "2026-10-29T17:36:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rising fuel costs force passengers off cruise ship",
+            "description": "203 passengers have been forced to disembark from a US cruise ship.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/rising-fuel-costs-force-passengers-off-cruise-ship?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 13:26:38 +0000",
+            "fetched": "2026-10-29T17:36:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The megadonors financing the US midterms to influence policy",
+            "description": "Who are the groups funding the US midterm campaigns and what are they hoping to influence?",
+            "url": "https://www.aljazeera.com/video/money-works/2026/10/29/the-megadonors-financing-the-us-midterms-to-influence-policy?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 13:26:07 +0000",
+            "fetched": "2026-10-29T17:36:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Arnab",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25729",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-29T17:36:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Olana",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25730",
+            "published": "2026-10-25T18:00:00Z",
+            "fetched": "2026-10-29T17:36:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range  47B, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25769",
+            "published": "2026-10-24T17:10:00Z",
+            "fetched": "2026-10-29T17:36:08+03:30"
+        }
+    ]
+}

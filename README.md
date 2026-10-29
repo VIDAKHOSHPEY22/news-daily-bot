@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-29 13:43:52
+**Last Update:** 2026-10-29 17:36:08
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Spain train crash: What we know after two trains crashed with dozens feared dead
+### 1. Read the letter the FBI sent MLK to try to convince him to kill himself (2014)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cm8xz7pkd0jjo">https://www.bbc.com/news/articles/cm8xz7pkd0jjo</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50286197">https://news.ycombinator.com/item?id=50286197</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter">https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50288867">https://news.ycombinator.com/item?id=50288867</a></p>
+<p>Points: 44</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/cm8xz7pkd0jjo](https://www.bbc.com/news/articles/cm8xz7pkd0jjo)
+🔗 **Read more:** [https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter](https://www.vox.com/xpress/2014/11/12/7204453/martin-luther-king-fbi-letter)
 
 ---
 
-### 2. Cuba is skipping its November 1, 2026 clock change and staying on DST until 2027
+### 2. Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html">https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50285714">https://news.ycombinator.com/item?id=50285714</a></p>
-<p>Points: 61</p>
-<p># Comments: 107</p>
+<p>Article URL: <a href="https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1">https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50288019">https://news.ycombinator.com/item?id=50288019</a></p>
+<p>Points: 107</p>
+<p># Comments: 68</p>
 
-🔗 **Read more:** [https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html](https://www.timeanddate.com/news/time/cuba-keeps-dst-until-nov-2027.html)
+🔗 **Read more:** [https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1](https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1)
 
 ---
 
-### 3. Zero click, silent, remote Android DoS
+### 3. DoorDash to Acquire Instacart
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://smsofdeath.com/">https://smsofdeath.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50285452">https://news.ycombinator.com/item?id=50285452</a></p>
-<p>Points: 58</p>
-<p># Comments: 32</p>
+<p>Article URL: <a href="https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx">https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50287919">https://news.ycombinator.com/item?id=50287919</a></p>
+<p>Points: 88</p>
+<p># Comments: 64</p>
 
-🔗 **Read more:** [https://smsofdeath.com/](https://smsofdeath.com/)
+🔗 **Read more:** [https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx](https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx)
 
 ---
 
-### 4. What we know so far about deadly Spain train crash
+### 4. Treasury will not commit to reducing welfare bill before next election
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-More than 500 passengers were on board the trains when the crash occurred in the province of Toledo, south of Madrid.
+The Treasury is disputing that the chancellor suggested to the BBC the benefits bill will be cut before the next election.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm8xz7pkd0jjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Ofcom sets out social media age-checking methods ahead of ban
+### 5. Audio reveals exchanges between control centre and drivers before deadly Spain train crash
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.
+The recordings appear to show one high-speed train was given clearance to move even though another up ahead had stalled.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Flávio Bolsonaro denies fleeing Brazil after landing in Miami
+### 6. Russell Brand's wife tells his rape trial he is 'kind and a wonderful father'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The defeated Brazilian candidate claims to be the victim of a coup d’état and political persecution, recycling unsubstantiated allegations of “electoral fraud”.
+Laura Brand tells the jury at his trial she feels "very seen by him" and "I love him very much".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cky93127nyepo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Why Michigan could decide the future of Trump’s presidency
+### 7. Indonesians share impact of haze on their livelihoods
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Michigan has swung between Republicans and Democrats in the past three presidential elections.
+Months of forest fires and toxic haze in Indonesia has severely disrupted daily life.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/why-michigan-could-decide-the-future-of-trumps-presidency?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/why-michigan-could-decide-the-future-of-trumps-presidency?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/indonesians-share-impact-of-haze-on-their-livelihoods?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/indonesians-share-impact-of-haze-on-their-livelihoods?traffic_source=rss)
 
 ---
 
-### 8. Israeli settler take-over
+### 8. Rising fuel costs force passengers off cruise ship
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-How Israeli settlers use outposts and violence to seize Palestinian land in the occupied West Bank.
+203 passengers have been forced to disembark from a US cruise ship.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settler-take-over?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/israeli-settler-take-over?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/rising-fuel-costs-force-passengers-off-cruise-ship?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/rising-fuel-costs-force-passengers-off-cruise-ship?traffic_source=rss)
 
 ---
 
-### 9. Argentina farmers evacuate cattle by boat as El Nino escalates
+### 9. The megadonors financing the US midterms to influence policy
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Argentina’s farmers are evacuating their cattle by boat to higher ground as El Nino raises water levels.
+Who are the groups funding the US midterm campaigns and what are they hoping to influence?
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/argentina-farmers-evacuate-cattle-by-boat-as-el-nino-escalates?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/argentina-farmers-evacuate-cattle-by-boat-as-el-nino-escalates?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/money-works/2026/10/29/the-megadonors-financing-the-us-midterms-to-influence-policy?traffic_source=rss](https://www.aljazeera.com/video/money-works/2026/10/29/the-megadonors-financing-the-us-midterms-to-influence-policy?traffic_source=rss)
 
 ---
 
