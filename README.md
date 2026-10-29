@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-29 23:40:40
+**Last Update:** 2026-10-30 01:23:05
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Patrick Stewart Has Died
+### 1. We ran AI agent swarms in Minecraft and Mindustry
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html">https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50294770">https://news.ycombinator.com/item?id=50294770</a></p>
-<p>Points: 31</p>
+<p>Article URL: <a href="https://labs.ycombinator.com/projects/games/index.html">https://labs.ycombinator.com/projects/games/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50296486">https://news.ycombinator.com/item?id=50296486</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://labs.ycombinator.com/projects/games/index.html](https://labs.ycombinator.com/projects/games/index.html)
+
+---
+
+### 2. Binance-hacker-1029 – $5.6B stolen from Binance
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8">https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50296470">https://news.ycombinator.com/item?id=50296470</a></p>
+<p>Points: 19</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
+🔗 **Read more:** [https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8](https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8)
 
 ---
 
-### 2. Patrick Stewart has died
+### 3. Over $5B drained from Binance in apparent hack
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><a href="https://archive.ph/y4Egm" rel="nofollow">https://archive.ph/y4Egm</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50294702">https://news.ycombinator.com/item?id=50294702</a></p>
-<p>Points: 143</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="http://twitter.com/emmettgallic/status/2115916025774723210">http://twitter.com/emmettgallic/status/2115916025774723210</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50296272">https://news.ycombinator.com/item?id=50296272</a></p>
+<p>Points: 21</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
-
----
-
-### 3. The importance of communities around software
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://lumi.codeberg.page/blog/software-community.html">https://lumi.codeberg.page/blog/software-community.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50294507">https://news.ycombinator.com/item?id=50294507</a></p>
-<p>Points: 17</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://lumi.codeberg.page/blog/software-community.html](https://lumi.codeberg.page/blog/software-community.html)
+🔗 **Read more:** [http://twitter.com/emmettgallic/status/2115916025774723210](http://twitter.com/emmettgallic/status/2115916025774723210)
 
 ---
 
@@ -98,42 +97,42 @@ The leaked tapes appear to show one high-speed train was given clearance to move
 
 ---
 
-### 7. Cornell begins no confidence vote over handling of alleged gang rape
+### 7. Palestinians face growing bans from Al-Aqsa as Israel tightens control
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Faculty vote will continue until next Friday and could send message that school&#039;s president has lost their confidence.
+As Israel renews a ban on Al-Aqsa imam, Islamic Waqf officials warn of shrinking authority at Muslim holy site.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/cornell-begins-no-confidence-vote-over-handling-of-alleged-gang-rape?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/cornell-begins-no-confidence-vote-over-handling-of-alleged-gang-rape?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss)
 
 ---
 
-### 8. Trump says won’t ‘take sides’ in Brazil election, but calls it a ‘disgrace’
+### 8. Israel bans travel for Brad Lander after detention in occupied West Bank
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Comments come after Trump ally Flavio Bolsonaro fled to Miami in US and claimed, without evidence, that vote was stolen.
+Israel has revoked travel authorisation for US Democratic congressional candidate Brad Lander after he was detained.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/29/trump-says-wont-take-sides-in-brazil-election-but-calls-it-a-disgrace?traffic_source=rss](https://www.aljazeera.com/news/2026/10/29/trump-says-wont-take-sides-in-brazil-election-but-calls-it-a-disgrace?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank?traffic_source=rss)
 
 ---
 
-### 9. Netanyahu attacks Palestinian-Israeli parties as he falls short of majority
+### 9. Real Madrid and FC Barcelona honour Spain train crash victims
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-With all votes now counted, opposition parties could join forces with Palestinian-Israeli parties to unseat Netanyahu.
+Spanish football clubs were among those to hold a minute’s silence for the victims of Wednesday’s train collision.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/netanyahu-attacks-palestinian-israeli-parties-as-he-falls-short-of-majority?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/29/real-madrid-and-fc-barcelona-honour-spain-train-crash-victims?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/29/real-madrid-and-fc-barcelona-honour-spain-train-crash-victims?traffic_source=rss)
 
 ---
 

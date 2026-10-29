@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-30T01:23:05+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "We ran AI agent swarms in Minecraft and Mindustry",
+            "description": "<p>Article URL: <a href=\"https://labs.ycombinator.com/projects/games/index.html\">https://labs.ycombinator.com/projects/games/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50296486\">https://news.ycombinator.com/item?id=50296486</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://labs.ycombinator.com/projects/games/index.html",
+            "published": "Thu, 29 Oct 2026 21:40:28 +0000",
+            "fetched": "2026-10-30T01:23:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Binance-hacker-1029 – $5.6B stolen from Binance",
+            "description": "<p>Article URL: <a href=\"https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8\">https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50296470\">https://news.ycombinator.com/item?id=50296470</a></p>\n<p>Points: 19</p>\n<p># Comments: 3</p>",
+            "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+            "published": "Thu, 29 Oct 2026 21:38:59 +0000",
+            "fetched": "2026-10-30T01:23:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Over $5B drained from Binance in apparent hack",
+            "description": "<p>Article URL: <a href=\"http://twitter.com/emmettgallic/status/2115916025774723210\">http://twitter.com/emmettgallic/status/2115916025774723210</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50296272\">https://news.ycombinator.com/item?id=50296272</a></p>\n<p>Points: 21</p>\n<p># Comments: 0</p>",
+            "url": "http://twitter.com/emmettgallic/status/2115916025774723210",
+            "published": "Thu, 29 Oct 2026 21:24:59 +0000",
+            "fetched": "2026-10-30T01:23:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
+            "description": "Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 15:42:56 GMT",
+            "fetched": "2026-10-30T01:23:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
+            "description": "Budget forecasts show growth in living standards grinding almost to a halt.",
+            "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 13:19:24 GMT",
+            "fetched": "2026-10-30T01:23:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Audio reveals exchanges between Spain train operators and drivers moments before deadly crash",
+            "description": "The leaked tapes appear to show one high-speed train was given clearance to move at normal speed, even though another up ahead had stalled.",
+            "url": "https://www.bbc.co.uk/news/articles/cmqxnl312v34o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 29 Oct 2026 11:07:35 GMT",
+            "fetched": "2026-10-30T01:23:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinians face growing bans from Al-Aqsa as Israel tightens control",
+            "description": "As Israel renews a ban on Al-Aqsa imam, Islamic Waqf officials warn of shrinking authority at Muslim holy site.",
+            "url": "https://www.aljazeera.com/news/2026/10/29/palestinians-face-growing-bans-from-al-aqsa-as-israel-tightens-control?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 21:16:26 +0000",
+            "fetched": "2026-10-30T01:23:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel bans travel for Brad Lander after detention in occupied West Bank",
+            "description": "Israel has revoked travel authorisation for US Democratic congressional candidate Brad Lander after he was detained.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/israel-bans-travel-for-brad-lander-after-detention-in-occupied-west-bank?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 21:10:13 +0000",
+            "fetched": "2026-10-30T01:23:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Real Madrid and FC Barcelona honour Spain train crash victims",
+            "description": "Spanish football clubs were among those to hold a minute’s silence for the victims of Wednesday’s train collision.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/29/real-madrid-and-fc-barcelona-honour-spain-train-crash-victims?traffic_source=rss",
+            "published": "Thu, 29 Oct 2026 20:42:03 +0000",
+            "fetched": "2026-10-30T01:23:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-10-30T01:23:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-10-30T01:23:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-10-30T01:23:05+03:30"
+        }
+    ]
+}
