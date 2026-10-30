@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-31T03:06:23+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Federal Bureau of Prisons employees serve as election monitors at polling sites",
+            "description": "<p>Article URL: <a href=\"https://www.corrections1.com/federal-prison/bop-employees-to-serve-as-election-monitors-at-polling-sites-doj-filing-says\">https://www.corrections1.com/federal-prison/bop-employees-to-serve-as-election-monitors-at-polling-sites-doj-filing-says</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50311339\">https://news.ycombinator.com/item?id=50311339</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://www.corrections1.com/federal-prison/bop-employees-to-serve-as-election-monitors-at-polling-sites-doj-filing-says",
+            "published": "Fri, 30 Oct 2026 23:12:02 +0000",
+            "fetched": "2026-10-31T03:06:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "France is getting download tax for content providers (€0.055/GB)",
+            "description": "<p>Article URL: <a href=\"https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/\">https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50310796\">https://news.ycombinator.com/item?id=50310796</a></p>\n<p>Points: 60</p>\n<p># Comments: 42</p>",
+            "url": "https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/",
+            "published": "Fri, 30 Oct 2026 22:10:12 +0000",
+            "fetched": "2026-10-31T03:06:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Linode Security Incident",
+            "description": "<p>Article URL: <a href=\"https://status.linode.com/incidents/nt58zhx3pmgm\">https://status.linode.com/incidents/nt58zhx3pmgm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50310687\">https://news.ycombinator.com/item?id=50310687</a></p>\n<p>Points: 106</p>\n<p># Comments: 51</p>",
+            "url": "https://status.linode.com/incidents/nt58zhx3pmgm",
+            "published": "Fri, 30 Oct 2026 21:57:40 +0000",
+            "fetched": "2026-10-31T03:06:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US approves sale of 500 Patriot missiles to Ukraine",
+            "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+            "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 22:20:52 GMT",
+            "fetched": "2026-10-31T03:06:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+            "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+            "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 21:13:14 GMT",
+            "fetched": "2026-10-31T03:06:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about Binance's $6.3bn hack",
+            "description": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
+            "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 12:27:28 GMT",
+            "fetched": "2026-10-31T03:06:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why AI could threaten much of the world’s digital infrastructure",
+            "description": "Volunteer-led PHP, which powers most websites, is increasingly under threat from cyberattacks using AI capabilities.",
+            "url": "https://www.aljazeera.com/news/2026/10/30/why-ai-could-threaten-much-of-the-worlds-digital-infrastructure?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 23:13:51 +0000",
+            "fetched": "2026-10-31T03:06:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US judge orders ethics inquiry into Trump lawyers over golf course case",
+            "description": "Judge Ana Reyes calls on US government lawyers to explain contradictory statements about the East Potomac Golf Links.",
+            "url": "https://www.aljazeera.com/news/2026/10/30/us-judge-orders-ethics-inquiry-into-trump-lawyers-over-golf-course-case?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 22:58:38 +0000",
+            "fetched": "2026-10-31T03:06:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Swiss supreme court upholds Liberian ex-rebel commander’s 20-year sentence",
+            "description": "Alieu Kosiah killed civilians and unarmed soldiers, and ordered lootings and other crimes against humanity.",
+            "url": "https://www.aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 21:00:51 +0000",
+            "fetched": "2026-10-31T03:06:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-10-31T03:06:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-10-31T03:06:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-10-31T03:06:23+03:30"
+        }
+    ]
+}
