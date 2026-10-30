@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-30T23:23:52+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What happened to 145 Nasdaq companies after the $1 warning letter",
+            "description": "<p>Article URL: <a href=\"https://equibles.com/research/nasdaqs-1-warning-most-companies-stay-listed-most-shares-fall\">https://equibles.com/research/nasdaqs-1-warning-most-companies-stay-listed-most-shares-fall</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50308471\">https://news.ycombinator.com/item?id=50308471</a></p>\n<p>Points: 14</p>\n<p># Comments: 1</p>",
+            "url": "https://equibles.com/research/nasdaqs-1-warning-most-companies-stay-listed-most-shares-fall",
+            "published": "Fri, 30 Oct 2026 18:50:25 +0000",
+            "fetched": "2026-10-30T23:23:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GitHub Incident with Actions, Pages, and Webhooks",
+            "description": "<p>Article URL: <a href=\"https://www.githubstatus.com/incidents/pwxsjgnvrk6b\">https://www.githubstatus.com/incidents/pwxsjgnvrk6b</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50307723\">https://news.ycombinator.com/item?id=50307723</a></p>\n<p>Points: 104</p>\n<p># Comments: 40</p>",
+            "url": "https://www.githubstatus.com/incidents/pwxsjgnvrk6b",
+            "published": "Fri, 30 Oct 2026 17:57:35 +0000",
+            "fetched": "2026-10-30T23:23:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anthropic may not secure investment-grade rating after IPO, Blackstone says",
+            "description": "<p>Article URL: <a href=\"https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f\">https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50307219\">https://news.ycombinator.com/item?id=50307219</a></p>\n<p>Points: 127</p>\n<p># Comments: 57</p>",
+            "url": "https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f",
+            "published": "Fri, 30 Oct 2026 17:27:25 +0000",
+            "fetched": "2026-10-30T23:23:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+            "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+            "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 17:39:43 GMT",
+            "fetched": "2026-10-30T23:23:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about Binance's $6.3bn hack",
+            "description": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
+            "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 12:27:28 GMT",
+            "fetched": "2026-10-30T23:23:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Driver guilty of hitting cyclist and dragging him to death under car",
+            "description": "Simon Richardson is convicted of murdering head teacher Michael Mullins and will be sentenced on Monday.",
+            "url": "https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 15:27:40 GMT",
+            "fetched": "2026-10-30T23:23:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why is Netanyahu accusing Palestinian Israeli parties of fraud?",
+            "description": "Prime Minister claims the parties accepted foreign funding.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/10/30/why-is-netanyahu-accusing-palestinian-israeli-parties-of-fraud?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 19:34:36 +0000",
+            "fetched": "2026-10-30T23:23:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Texas grand jury indicts ICE officer accused of running over man in Houston",
+            "description": "The officer faces charges after allegedly striking a fleeing construction worker with an SUV during an immigration raid.",
+            "url": "https://www.aljazeera.com/news/2026/10/30/texas-grand-jury-indicts-ice-officer-accused-of-running-over-man-in-houston?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 19:16:30 +0000",
+            "fetched": "2026-10-30T23:23:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts",
+            "description": "Pakistan&#039;s military spokesman warns of &#039;powerful spoilers and detractors&#039; who still believe the conflict serves them.",
+            "url": "https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 18:55:36 +0000",
+            "fetched": "2026-10-30T23:23:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-10-30T23:23:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-10-30T23:23:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-10-30T23:23:52+03:30"
+        }
+    ]
+}

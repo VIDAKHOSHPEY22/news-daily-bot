@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-30 19:32:48
+**Last Update:** 2026-10-30 23:23:52
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Geist Serif
+### 1. What happened to 145 Nasdaq companies after the $1 warning letter
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://vercel.com/blog/introducing-geist-serif">https://vercel.com/blog/introducing-geist-serif</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50305601">https://news.ycombinator.com/item?id=50305601</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://equibles.com/research/nasdaqs-1-warning-most-companies-stay-listed-most-shares-fall">https://equibles.com/research/nasdaqs-1-warning-most-companies-stay-listed-most-shares-fall</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50308471">https://news.ycombinator.com/item?id=50308471</a></p>
+<p>Points: 14</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://vercel.com/blog/introducing-geist-serif](https://vercel.com/blog/introducing-geist-serif)
+🔗 **Read more:** [https://equibles.com/research/nasdaqs-1-warning-most-companies-stay-listed-most-shares-fall](https://equibles.com/research/nasdaqs-1-warning-most-companies-stay-listed-most-shares-fall)
 
 ---
 
-### 2. I didn't know I was lacking in Vitamin D until I collapsed at work
+### 2. GitHub Incident with Actions, Pages, and Webhooks
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bbc.com/news/articles/cm78pxxe55v0o">https://www.bbc.com/news/articles/cm78pxxe55v0o</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50305436">https://news.ycombinator.com/item?id=50305436</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.githubstatus.com/incidents/pwxsjgnvrk6b">https://www.githubstatus.com/incidents/pwxsjgnvrk6b</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50307723">https://news.ycombinator.com/item?id=50307723</a></p>
+<p>Points: 104</p>
+<p># Comments: 40</p>
 
-🔗 **Read more:** [https://www.bbc.com/news/articles/cm78pxxe55v0o](https://www.bbc.com/news/articles/cm78pxxe55v0o)
+🔗 **Read more:** [https://www.githubstatus.com/incidents/pwxsjgnvrk6b](https://www.githubstatus.com/incidents/pwxsjgnvrk6b)
 
 ---
 
-### 3. Post-training 4B model with RL to fly Tesla Roadster 21% better than GPT-6 Astra
+### 3. Anthropic may not secure investment-grade rating after IPO, Blackstone says
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://skypilot.ai/blog/flying-roadster-rl">https://skypilot.ai/blog/flying-roadster-rl</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50305279">https://news.ycombinator.com/item?id=50305279</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f">https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50307219">https://news.ycombinator.com/item?id=50307219</a></p>
+<p>Points: 127</p>
+<p># Comments: 57</p>
 
-🔗 **Read more:** [https://skypilot.ai/blog/flying-roadster-rl](https://skypilot.ai/blog/flying-roadster-rl)
+🔗 **Read more:** [https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f](https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f)
 
 ---
 
-### 4. What we know about Binance's $6.3bn hack
+### 4. Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. What we know about Binance's $6.3bn hack
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Cyber correspondent Joe Tidy explains more about what is suspected to be the big
 
 ---
 
-### 5. Driver guilty of hitting cyclist and dragging him to death under car
+### 6. Driver guilty of hitting cyclist and dragging him to death under car
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Simon Richardson is convicted of murdering head teacher Michael Mullins and will
 
 ---
 
-### 6. Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The force said it had received information and stressed its inquiries were at "an early stage".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Swiss foreign minister talks political ties on rare visit to North Korea
+### 7. Why is Netanyahu accusing Palestinian Israeli parties of fraud?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Switzerland formally reopens diplomatic office in North Korea after its closure in 2020.
+Prime Minister claims the parties accepted foreign funding.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/30/why-is-netanyahu-accusing-palestinian-israeli-parties-of-fraud?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/30/why-is-netanyahu-accusing-palestinian-israeli-parties-of-fraud?traffic_source=rss)
 
 ---
 
-### 8. Trump reverses course, reinstates cancelled campaign rallies
+### 8. Texas grand jury indicts ICE officer accused of running over man in Houston
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The decision marks a sharp reversal after the US president said he didn&#039;t feel like he had to hold the events.
+The officer faces charges after allegedly striking a fleeing construction worker with an SUV during an immigration raid.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/trump-reverses-course-reinstates-cancelled-campaign-rallies?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/trump-reverses-course-reinstates-cancelled-campaign-rallies?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/texas-grand-jury-indicts-ice-officer-accused-of-running-over-man-in-houston?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/texas-grand-jury-indicts-ice-officer-accused-of-running-over-man-in-houston?traffic_source=rss)
 
 ---
 
-### 9. ‘Need a Plan B’: Yemenis in Aden prepare for another war as missiles fall
+### 9. Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As Houthi missiles strike Aden, residents stockpile food and prepare escape plans, fearing a return to all-out war.
+Pakistan&#039;s military spokesman warns of &#039;powerful spoilers and detractors&#039; who still believe the conflict serves them.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss)
 
 ---
 
