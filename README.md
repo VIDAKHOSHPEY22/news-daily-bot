@@ -1,144 +1,94 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-30 10:28:32
+**Last Update:** 2026-10-30 12:16:40
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.penligent.ai/hackinglabs/cve-2026-98432/">https://www.penligent.ai/hackinglabs/cve-2026-98432/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50299182">https://news.ycombinator.com/item?id=50299182</a></p>
-<p>Points: 48</p>
-<p># Comments: 31</p>
-
-🔗 **Read more:** [https://www.penligent.ai/hackinglabs/cve-2026-98432/](https://www.penligent.ai/hackinglabs/cve-2026-98432/)
-
----
-
-### 2. Show HN: Lasm – Write formally verified webapps in Lean for Node/serverless/edge
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Lasm has been my dream for a good part of 2026.
-I firmly believe that formal verification is the next evolution of software engineering and programming languages. This next wave will largely be enabled by the incredibly intelligent LLMs that understand formal verification and its programming languages.<p>Lean is one of the most popular languages that allow for formal verification, and to me is incredibly powerful because it is a general purpose programming language with formal verification built directly into it.<p>You can build general purpose software in Lean, and formally verify it in Lean. Amazing.<p>Lasm brings Lean to the browser, Node, serverless, and edge environments (and more). The idea is that you can now write web apps, frontend to backend, in Lean and formally verify these apps.<p>Imagine an Express server or Hono server, running on Cloudflare Workers, with formal verification of its specification.<p>I'm an agentic engineer with an emphasis in software engineering, and Lasm was built mostly by Claude Opus 5.5 with my high-level direction.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50299004">https://news.ycombinator.com/item?id=50299004</a></p>
-<p>Points: 24</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://github.com/Millillion/lasm](https://github.com/Millillion/lasm)
-
----
-
-### 3. Pico CSS is no longer maintained
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/picocss/pico/discussions/754">https://github.com/picocss/pico/discussions/754</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50298964">https://news.ycombinator.com/item?id=50298964</a></p>
-<p>Points: 100</p>
-<p># Comments: 31</p>
-
-🔗 **Read more:** [https://github.com/picocss/pico/discussions/754](https://github.com/picocss/pico/discussions/754)
-
----
-
-### 4. Crypto giant Binance hit by $6.3bn hack suspected to be largest in history
+### 1. What we know about Binance's $6.3bn hack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Two analytics firms have attributed the incident to a North Korean hacking unit called TraderTraitor.
+BBC business reporter Archana Shukla explains more about what is suspected to be the largest hack in history.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwg7xp8kx4v5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Australian mushroom murderer loses appeal to overturn convictions
+### 2. Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Erin Patterson argued her trial was unfair due to seven grounds but three appeal judges dismissed them all.
+The actor died in Los Angeles following a "a brief and poignant journey" with Alzheimer's Disease and Lewy Body Dementia.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Hyrox athlete who soiled herself in race says she put others at risk
+### 3. Watch: Australia's mushroom murderer loses appeal and may now die in prison
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-In her first interview since the incident, Joanna Wietrzyk told the BBC she takes responsibility for it but did not deserve such a severe backlash.
+Judges agreed with the prosecution’s appeal that Erin Patterson’s initial non-parole period of 33 years was insufficient.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6gr8l15k744o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6gr8l15k744o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmlykpd9kpy7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmlykpd9kpy7o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US midterms: 4 days to go – What the polls say as Trump cancels two rallies
+### 4. Oil flows are up as Iran war turmoil eases. Why do prices keep rising?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump cancels Kansas and Iowa rallies, opting for telephone events across nearly 20 states over the weekend.
+Brent crude prices are up more than 60 percent compared with pre-war levels, despite rebound in supply.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/us-midterms-4-days-to-go-what-the-polls-say-as-trump-cancels-two-rallies?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/us-midterms-4-days-to-go-what-the-polls-say-as-trump-cancels-two-rallies?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/10/30/oil-flows-are-up-as-iran-war-turmoil-eases-why-do-prices-keep-rising?traffic_source=rss](https://www.aljazeera.com/economy/2026/10/30/oil-flows-are-up-as-iran-war-turmoil-eases-why-do-prices-keep-rising?traffic_source=rss)
 
 ---
 
-### 8. Venezuela’s Machado lauds Trump for ‘freedom’, urges 2027 elections
+### 5. NBA: Cameron Boozer tallies first triple-double, Grizzlies remain unbeaten
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nobel winner returns to Venezuela from exile, urging elections and criticising a controversial US oil deal with Caracas.
+Pelicans earn first victory over still-winless Kings as Hawks withstand late push to hold off Cavaliers.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/machado-lauds-trump-for-freedom-floodgate-urges-2027-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/machado-lauds-trump-for-freedom-floodgate-urges-2027-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/30/nba-cameron-boozer-tallies-first-triple-double-grizzlies-remain-unbeaten?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/30/nba-cameron-boozer-tallies-first-triple-double-grizzlies-remain-unbeaten?traffic_source=rss)
 
 ---
 
-### 9. US judge blocks Trump’s Medicaid rule forcing ill to prove impairment
+### 6. Sudan investigation maps commanders linked to wartime rape
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A US district judge sided with 25 states and the District of Columbia, which sued the administration.
+Investigative unit CIR identifies 25 commanders present at five sites during periods of reported sexual violence.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/us-judge-blocks-trumps-medicaid-rule-forcing-ill-to-prove-impairment?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/us-judge-blocks-trumps-medicaid-rule-forcing-ill-to-prove-impairment?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/10/30/sudan-investigation-maps-commanders-linked-wartime-rape?traffic_source=rss](https://www.aljazeera.com/features/2026/10/30/sudan-investigation-maps-commanders-linked-wartime-rape?traffic_source=rss)
 
 ---
 
-### 10. Wildfire South Tank Trail, Perry, Mississippi
+### 7. Wildfire South Tank Trail, Perry, Mississippi
 
 **Source:** NASA
 
@@ -151,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona
+### 8. Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
@@ -164,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Prescribed Fire Brie Slash Piles RX, Coconino, Arizona
+### 9. Prescribed Fire Brie Slash Piles RX, Coconino, Arizona
 
 **Source:** NASA
 

@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-30T12:16:40+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about Binance's $6.3bn hack",
+            "description": "BBC business reporter Archana Shukla explains more about what is suspected to be the largest hack in history.",
+            "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 08:02:02 GMT",
+            "fetched": "2026-10-30T12:16:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Sir Ian McKellen leads tributes to 'beloved actor' Sir Patrick Stewart after his death at 86",
+            "description": "The actor died in Los Angeles following a \"a brief and poignant journey\" with Alzheimer's Disease and Lewy Body Dementia.",
+            "url": "https://www.bbc.co.uk/news/articles/cm20v3029p5xo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 08:36:57 GMT",
+            "fetched": "2026-10-30T12:16:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Australia's mushroom murderer loses appeal and may now die in prison",
+            "description": "Judges agreed with the prosecution’s appeal that Erin Patterson’s initial non-parole period of 33 years was insufficient.",
+            "url": "https://www.bbc.co.uk/news/videos/cmlykpd9kpy7o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 01:38:54 GMT",
+            "fetched": "2026-10-30T12:16:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Oil flows are up as Iran war turmoil eases. Why do prices keep rising?",
+            "description": "Brent crude prices are up more than 60 percent compared with pre-war levels, despite rebound in supply.",
+            "url": "https://www.aljazeera.com/economy/2026/10/30/oil-flows-are-up-as-iran-war-turmoil-eases-why-do-prices-keep-rising?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 08:36:11 +0000",
+            "fetched": "2026-10-30T12:16:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "NBA: Cameron Boozer tallies first triple-double, Grizzlies remain unbeaten",
+            "description": "Pelicans earn first victory over still-winless Kings as Hawks withstand late push to hold off Cavaliers.",
+            "url": "https://www.aljazeera.com/sports/2026/10/30/nba-cameron-boozer-tallies-first-triple-double-grizzlies-remain-unbeaten?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 08:24:43 +0000",
+            "fetched": "2026-10-30T12:16:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sudan investigation maps commanders linked to wartime rape",
+            "description": "Investigative unit CIR identifies 25 commanders present at five sites during periods of reported sexual violence.",
+            "url": "https://www.aljazeera.com/features/2026/10/30/sudan-investigation-maps-commanders-linked-wartime-rape?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 08:20:40 +0000",
+            "fetched": "2026-10-30T12:16:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-10-30T12:16:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-10-30T12:16:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-10-30T12:16:40+03:30"
+        }
+    ]
+}
