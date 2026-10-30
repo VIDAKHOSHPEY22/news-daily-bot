@@ -1,77 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-30 17:30:22
+**Last Update:** 2026-10-30 19:32:48
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Intel plunges 25%, triggers global chip rout on bleak outlook
+### 1. Geist Serif
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/business/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-2026-10-30/">https://www.reuters.com/business/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-2026-10-30/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50303791">https://news.ycombinator.com/item?id=50303791</a></p>
-<p>Points: 8</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://vercel.com/blog/introducing-geist-serif">https://vercel.com/blog/introducing-geist-serif</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50305601">https://news.ycombinator.com/item?id=50305601</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.reuters.com/business/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-2026-10-30/](https://www.reuters.com/business/intel-warning-sparks-chip-rout-pc-weakness-clouds-turnaround-2026-10-30/)
+🔗 **Read more:** [https://vercel.com/blog/introducing-geist-serif](https://vercel.com/blog/introducing-geist-serif)
 
 ---
 
-### 2. Pompeii wardrobe found untouched since 79CE holds keepsakes, coins, and two mice
+### 2. I didn't know I was lacking in Vitamin D until I collapsed at work
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://archaeologymag.com/2026/10/pompeii-wardrobe-found-untouched-since-79-ce/">https://archaeologymag.com/2026/10/pompeii-wardrobe-found-untouched-since-79-ce/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50303751">https://news.ycombinator.com/item?id=50303751</a></p>
+<p>Article URL: <a href="https://www.bbc.com/news/articles/cm78pxxe55v0o">https://www.bbc.com/news/articles/cm78pxxe55v0o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50305436">https://news.ycombinator.com/item?id=50305436</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.bbc.com/news/articles/cm78pxxe55v0o](https://www.bbc.com/news/articles/cm78pxxe55v0o)
+
+---
+
+### 3. Post-training 4B model with RL to fly Tesla Roadster 21% better than GPT-6 Astra
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://skypilot.ai/blog/flying-roadster-rl">https://skypilot.ai/blog/flying-roadster-rl</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50305279">https://news.ycombinator.com/item?id=50305279</a></p>
 <p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://archaeologymag.com/2026/10/pompeii-wardrobe-found-untouched-since-79-ce/](https://archaeologymag.com/2026/10/pompeii-wardrobe-found-untouched-since-79-ce/)
+🔗 **Read more:** [https://skypilot.ai/blog/flying-roadster-rl](https://skypilot.ai/blog/flying-roadster-rl)
 
 ---
 
-### 3. Just Noting That Your Candy Corn Is Made of Bug Secretions
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/">https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50303571">https://news.ycombinator.com/item?id=50303571</a></p>
-<p>Points: 8</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/](https://www.theatlantic.com/science/2026/10/candy-corn-bug-shellac/689213/)
-
----
-
-### 4. Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The force said it had received information and stressed its inquiries were at "an early stage".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. What we know about Binance's $6.3bn hack
+### 4. What we know about Binance's $6.3bn hack
 
 **Source:** BBC
 
@@ -84,7 +71,7 @@ Cyber correspondent Joe Tidy explains more about what is suspected to be the big
 
 ---
 
-### 6. Driver guilty of hitting cyclist and dragging him to death under car
+### 5. Driver guilty of hitting cyclist and dragging him to death under car
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Simon Richardson is convicted of murdering head teacher Michael Mullins and will
 
 ---
 
-### 7. Palestinian child survives Israeli gunshot to the head
+### 6. Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Imad Salem Zahra, the Palestinian child whose photo went viral after he was shot in the head by Israeli soldiers.
+The force said it had received information and stressed its inquiries were at "an early stage".
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-child-survives-israeli-gunshot-to-the-head?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/30/palestinian-child-survives-israeli-gunshot-to-the-head?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Ukraine invests in firepower as it inflicts a new Russian casualty record
+### 7. Swiss foreign minister talks political ties on rare visit to North Korea
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Recent Starlink suspension did not much affect Ukrainian lethality, but Kyiv shows it is losing trust in the US.
+Switzerland formally reopens diplomatic office in North Korea after its closure in 2020.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/ukraine-invests-in-firepower-as-it-inflicts-a-new-russian-casualty-record?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/ukraine-invests-in-firepower-as-it-inflicts-a-new-russian-casualty-record?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss)
 
 ---
 
-### 9. Italy tightens security as students, unions launch nationwide protests
+### 8. Trump reverses course, reinstates cancelled campaign rallies
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rallies across the country target living costs, investment in education and the wars in the Middle East.
+The decision marks a sharp reversal after the US president said he didn&#039;t feel like he had to hold the events.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/italy-tightens-security-as-students-unions-launch-nationwide-protests?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/italy-tightens-security-as-students-unions-launch-nationwide-protests?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/trump-reverses-course-reinstates-cancelled-campaign-rallies?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/trump-reverses-course-reinstates-cancelled-campaign-rallies?traffic_source=rss)
+
+---
+
+### 9. ‘Need a Plan B’: Yemenis in Aden prepare for another war as missiles fall
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+As Houthi missiles strike Aden, residents stockpile food and prepare escape plans, fearing a return to all-out war.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss)
 
 ---
 

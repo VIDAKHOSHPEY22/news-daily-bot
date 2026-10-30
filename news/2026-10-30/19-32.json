@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-30T19:32:48+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Geist Serif",
+            "description": "<p>Article URL: <a href=\"https://vercel.com/blog/introducing-geist-serif\">https://vercel.com/blog/introducing-geist-serif</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50305601\">https://news.ycombinator.com/item?id=50305601</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://vercel.com/blog/introducing-geist-serif",
+            "published": "Fri, 30 Oct 2026 15:46:42 +0000",
+            "fetched": "2026-10-30T19:32:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I didn't know I was lacking in Vitamin D until I collapsed at work",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.com/news/articles/cm78pxxe55v0o\">https://www.bbc.com/news/articles/cm78pxxe55v0o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50305436\">https://news.ycombinator.com/item?id=50305436</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+            "url": "https://www.bbc.com/news/articles/cm78pxxe55v0o",
+            "published": "Fri, 30 Oct 2026 15:36:18 +0000",
+            "fetched": "2026-10-30T19:32:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Post-training 4B model with RL to fly Tesla Roadster 21% better than GPT-6 Astra",
+            "description": "<p>Article URL: <a href=\"https://skypilot.ai/blog/flying-roadster-rl\">https://skypilot.ai/blog/flying-roadster-rl</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50305279\">https://news.ycombinator.com/item?id=50305279</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://skypilot.ai/blog/flying-roadster-rl",
+            "published": "Fri, 30 Oct 2026 15:27:16 +0000",
+            "fetched": "2026-10-30T19:32:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about Binance's $6.3bn hack",
+            "description": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
+            "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 12:27:28 GMT",
+            "fetched": "2026-10-30T19:32:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Driver guilty of hitting cyclist and dragging him to death under car",
+            "description": "Simon Richardson is convicted of murdering head teacher Michael Mullins and will be sentenced on Monday.",
+            "url": "https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 15:27:40 GMT",
+            "fetched": "2026-10-30T19:32:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police Scotland carrying out 'active inquiries' into Andrew and Epstein Balmoral visits",
+            "description": "The force said it had received information and stressed its inquiries were at \"an early stage\".",
+            "url": "https://www.bbc.co.uk/news/articles/cqglwp088532o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 15:39:49 GMT",
+            "fetched": "2026-10-30T19:32:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Swiss foreign minister talks political ties on rare visit to North Korea",
+            "description": "Switzerland formally reopens diplomatic office in North Korea after its closure in 2020.",
+            "url": "https://www.aljazeera.com/news/2026/10/30/swiss-foreign-minister-talks-political-ties-on-rare-visit-to-north-korea?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 15:37:03 +0000",
+            "fetched": "2026-10-30T19:32:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump reverses course, reinstates cancelled campaign rallies",
+            "description": "The decision marks a sharp reversal after the US president said he didn&#039;t feel like he had to hold the events.",
+            "url": "https://www.aljazeera.com/news/2026/10/30/trump-reverses-course-reinstates-cancelled-campaign-rallies?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 15:35:39 +0000",
+            "fetched": "2026-10-30T19:32:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Need a Plan B’: Yemenis in Aden prepare for another war as missiles fall",
+            "description": "As Houthi missiles strike Aden, residents stockpile food and prepare escape plans, fearing a return to all-out war.",
+            "url": "https://www.aljazeera.com/news/2026/10/30/need-a-plan-b-yemenis-in-aden-prepare-for-another-war-as-missiles-fall?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 15:26:00 +0000",
+            "fetched": "2026-10-30T19:32:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-10-30T19:32:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-10-30T19:32:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-10-30T19:32:48+03:30"
+        }
+    ]
+}
