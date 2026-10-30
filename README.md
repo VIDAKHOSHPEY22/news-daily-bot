@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-30 23:23:52
+**Last Update:** 2026-10-31 00:24:30
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. What happened to 145 Nasdaq companies after the $1 warning letter
+### 1. Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://equibles.com/research/nasdaqs-1-warning-most-companies-stay-listed-most-shares-fall">https://equibles.com/research/nasdaqs-1-warning-most-companies-stay-listed-most-shares-fall</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50308471">https://news.ycombinator.com/item?id=50308471</a></p>
-<p>Points: 14</p>
+<p>Article URL: <a href="https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/">https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50309647">https://news.ycombinator.com/item?id=50309647</a></p>
+<p>Points: 20</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/](https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/)
+
+---
+
+### 2. Embraer's Atech aims to double in size by 2030 with drone traffic control
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/">https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50309573">https://news.ycombinator.com/item?id=50309573</a></p>
+<p>Points: 8</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://equibles.com/research/nasdaqs-1-warning-most-companies-stay-listed-most-shares-fall](https://equibles.com/research/nasdaqs-1-warning-most-companies-stay-listed-most-shares-fall)
+🔗 **Read more:** [https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/](https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/)
 
 ---
 
-### 2. GitHub Incident with Actions, Pages, and Webhooks
+### 3. Programming at Light Speed: Building the Gravity Query Engine
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.githubstatus.com/incidents/pwxsjgnvrk6b">https://www.githubstatus.com/incidents/pwxsjgnvrk6b</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50307723">https://news.ycombinator.com/item?id=50307723</a></p>
-<p>Points: 104</p>
-<p># Comments: 40</p>
+<p>Article URL: <a href="https://pgrust.com/blog/programming-at-light-speed/">https://pgrust.com/blog/programming-at-light-speed/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50309571">https://news.ycombinator.com/item?id=50309571</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.githubstatus.com/incidents/pwxsjgnvrk6b](https://www.githubstatus.com/incidents/pwxsjgnvrk6b)
-
----
-
-### 3. Anthropic may not secure investment-grade rating after IPO, Blackstone says
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f">https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50307219">https://news.ycombinator.com/item?id=50307219</a></p>
-<p>Points: 127</p>
-<p># Comments: 57</p>
-
-🔗 **Read more:** [https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f](https://www.ft.com/content/59383c7f-8d82-493f-bf01-d2e862a1018f)
+🔗 **Read more:** [https://pgrust.com/blog/programming-at-light-speed/](https://pgrust.com/blog/programming-at-light-speed/)
 
 ---
 
@@ -97,42 +97,42 @@ Simon Richardson is convicted of murdering head teacher Michael Mullins and will
 
 ---
 
-### 7. Why is Netanyahu accusing Palestinian Israeli parties of fraud?
+### 7. US appeals court again rejects Trump bid to set aside California ballots
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Prime Minister claims the parties accepted foreign funding.
+The 9th Circuit Court called the petition to remove 20,000 ballots from California&#039;s vote count unconstitutional.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/10/30/why-is-netanyahu-accusing-palestinian-israeli-parties-of-fraud?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/10/30/why-is-netanyahu-accusing-palestinian-israeli-parties-of-fraud?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss)
 
 ---
 
-### 8. Texas grand jury indicts ICE officer accused of running over man in Houston
+### 8. G20 drops group photo as Europeans refuse to stand with Lavrov
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The officer faces charges after allegedly striking a fleeing construction worker with an SUV during an immigration raid.
+Sanctioned Russian FM attends Atlanta talks as Iran war, Hormuz disruption and Ukraine divide G20 members.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/texas-grand-jury-indicts-ice-officer-accused-of-running-over-man-in-houston?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/texas-grand-jury-indicts-ice-officer-accused-of-running-over-man-in-houston?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss)
 
 ---
 
-### 9. Pakistan army ‘cautiously optimistic’ about US-Iran mediation efforts
+### 9. Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pakistan&#039;s military spokesman warns of &#039;powerful spoilers and detractors&#039; who still believe the conflict serves them.
+US Secretary of State Marco Rubio urged G20 officials to work together to confront threats to the economic order.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/pakistan-army-cautiously-optimistic-about-us-iran-mediation-efforts?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss)
 
 ---
 

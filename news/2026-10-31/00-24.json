@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-31T00:24:30+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man",
+            "description": "<p>Article URL: <a href=\"https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/\">https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50309647\">https://news.ycombinator.com/item?id=50309647</a></p>\n<p>Points: 20</p>\n<p># Comments: 2</p>",
+            "url": "https://www.bostonglobe.com/2026/10/29/metro/patrick-stewart-picard-star-trek-the-next-generation/",
+            "published": "Fri, 30 Oct 2026 20:23:30 +0000",
+            "fetched": "2026-10-31T00:24:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Embraer's Atech aims to double in size by 2030 with drone traffic control",
+            "description": "<p>Article URL: <a href=\"https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/\">https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50309573\">https://news.ycombinator.com/item?id=50309573</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://www.bloomberglinea.com.br/negocios/atech-da-embraer-quer-dobrar-de-tamanho-ate-2030-com-controle-de-trafego-de-drones/",
+            "published": "Fri, 30 Oct 2026 20:18:18 +0000",
+            "fetched": "2026-10-31T00:24:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Programming at Light Speed: Building the Gravity Query Engine",
+            "description": "<p>Article URL: <a href=\"https://pgrust.com/blog/programming-at-light-speed/\">https://pgrust.com/blog/programming-at-light-speed/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50309571\">https://news.ycombinator.com/item?id=50309571</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+            "url": "https://pgrust.com/blog/programming-at-light-speed/",
+            "published": "Fri, 30 Oct 2026 20:18:10 +0000",
+            "fetched": "2026-10-31T00:24:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+            "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+            "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 20:10:56 GMT",
+            "fetched": "2026-10-31T00:24:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about Binance's $6.3bn hack",
+            "description": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
+            "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 12:27:28 GMT",
+            "fetched": "2026-10-31T00:24:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Driver guilty of hitting cyclist and dragging him to death under car",
+            "description": "Simon Richardson is convicted of murdering head teacher Michael Mullins and will be sentenced on Monday.",
+            "url": "https://www.bbc.co.uk/news/articles/c6e3xg5we9eyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 15:27:40 GMT",
+            "fetched": "2026-10-31T00:24:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US appeals court again rejects Trump bid to set aside California ballots",
+            "description": "The 9th Circuit Court called the petition to remove 20,000 ballots from California&#039;s vote count unconstitutional.",
+            "url": "https://www.aljazeera.com/news/2026/10/30/us-appeals-court-again-rejects-trump-bid-to-set-aside-california-ballots?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 20:39:50 +0000",
+            "fetched": "2026-10-31T00:24:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "G20 drops group photo as Europeans refuse to stand with Lavrov",
+            "description": "Sanctioned Russian FM attends Atlanta talks as Iran war, Hormuz disruption and Ukraine divide G20 members.",
+            "url": "https://www.aljazeera.com/news/2026/10/30/g20-drops-group-photo-as-europeans-refuse-to-stand-with-lavrov?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 20:37:20 +0000",
+            "fetched": "2026-10-31T00:24:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rubio hosts G20 talks as Russia’s Lavrov presence sparks tensions",
+            "description": "US Secretary of State Marco Rubio urged G20 officials to work together to confront threats to the economic order.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/30/aje-onl-nf_rubio-hosts-g20-talks-as-russias-lavrov-present-301026?traffic_source=rss",
+            "published": "Fri, 30 Oct 2026 20:13:36 +0000",
+            "fetched": "2026-10-31T00:24:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-10-31T00:24:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-10-31T00:24:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-10-31T00:24:30+03:30"
+        }
+    ]
+}
