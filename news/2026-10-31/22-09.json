@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-10-31T22:09:02+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ukrainian evacuees reunite with family after years trapped in Russia-occupied city",
+            "description": "Oleshky residents had been without food, water and electricity, with many resorting to cooking garden weeds to survive.",
+            "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 31 Oct 2026 17:53:35 GMT",
+            "fetched": "2026-10-31T22:09:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Emotional reunions with loved ones for Oleshky evacuees",
+            "description": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents  arrived in buses and ambulances following a temporary ceasefire.",
+            "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 31 Oct 2026 16:55:47 GMT",
+            "fetched": "2026-10-31T22:09:02+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Healey risks breaking minimum wage promise for younger workers",
+            "description": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.",
+            "url": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 31 Oct 2026 17:26:29 GMT",
+            "fetched": "2026-10-31T22:09:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Coventry win leaves Man United on brink of Premier League relegation zone",
+            "description": "Manchester United one place outside the EPL&#039;s bottom three as Coventry City climb with 3-1 win over Sunderland.",
+            "url": "https://www.aljazeera.com/sports/2026/10/31/coventry-beat-sunderland-man-united-on-verge-of-premier-league-drop-zone?traffic_source=rss",
+            "published": "Sat, 31 Oct 2026 17:51:15 +0000",
+            "fetched": "2026-10-31T22:09:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least four Palestinians killed in Gaza as Israeli attacks continue",
+            "description": "Israel carried out several attacks in Gaza, including shelling the Nuseirat refugee camp.",
+            "url": "https://www.aljazeera.com/news/2026/10/31/at-least-four-palestinians-killed-in-gaza-as-israeli-attacks-continue?traffic_source=rss",
+            "published": "Sat, 31 Oct 2026 17:49:23 +0000",
+            "fetched": "2026-10-31T22:09:02+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Michigan Muslims helped elect Trump. Now their faith is under fire",
+            "description": "Michigan Muslims helped elect Trump. Now their faith is under fire",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/michigan-muslims-helped-elect-trump-now-their-faith-is-under-fire?traffic_source=rss",
+            "published": "Sat, 31 Oct 2026 17:38:18 +0000",
+            "fetched": "2026-10-31T22:09:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-10-31T22:09:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-10-31T22:09:02+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-10-31T22:09:02+03:30"
+        }
+    ]
+}
