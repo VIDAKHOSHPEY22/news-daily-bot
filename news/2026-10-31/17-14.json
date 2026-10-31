@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-31T17:14:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI startup hacks Anthropic, gains access to employee details, internal messages",
+            "description": "<p>Article URL: <a href=\"https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26\">https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50315990\">https://news.ycombinator.com/item?id=50315990</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+            "url": "https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26",
+            "published": "Sat, 31 Oct 2026 13:25:10 +0000",
+            "fetched": "2026-10-31T17:14:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why Anthropic's Filing Crushed Tech Stocks",
+            "description": "<p>Article URL: <a href=\"https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech\">https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50315574\">https://news.ycombinator.com/item?id=50315574</a></p>\n<p>Points: 12</p>\n<p># Comments: 10</p>",
+            "url": "https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech",
+            "published": "Sat, 31 Oct 2026 12:32:10 +0000",
+            "fetched": "2026-10-31T17:14:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Prospero: A new coding harness for a more civilized age",
+            "description": "<p>Article URL: <a href=\"https://nullprogram.com/blog/2026/10/31/\">https://nullprogram.com/blog/2026/10/31/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50315226\">https://news.ycombinator.com/item?id=50315226</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+            "url": "https://nullprogram.com/blog/2026/10/31/",
+            "published": "Sat, 31 Oct 2026 11:54:59 +0000",
+            "fetched": "2026-10-31T17:14:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham 'open' to calls for slavery apology but not reparations",
+            "description": "The British government has never formally apologised for slavery despite repeated calls from a number of Commonwealth leaders.",
+            "url": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 31 Oct 2026 13:28:40 GMT",
+            "fetched": "2026-10-31T17:14:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine",
+            "description": "Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.",
+            "url": "https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 31 Oct 2026 13:12:46 GMT",
+            "fetched": "2026-10-31T17:14:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+            "description": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+            "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 31 Oct 2026 02:12:19 GMT",
+            "fetched": "2026-10-31T17:14:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel voted for Israel: Why Gaza wasn’t on the ballot",
+            "description": "Despite genocide, regional war and isolation, Israel&#039;s election revealed little appetite for political alternatives.",
+            "url": "https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss",
+            "published": "Sat, 31 Oct 2026 13:35:51 +0000",
+            "fetched": "2026-10-31T17:14:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Burnham opens door to formal apology for Britain’s slave trade",
+            "description": "UK Prime Minister rules out financial reparations, despite longstanding Caribbean demands.",
+            "url": "https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss",
+            "published": "Sat, 31 Oct 2026 13:19:23 +0000",
+            "fetched": "2026-10-31T17:14:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "On the Norway-Russia border, the Sámi people face a growing divide",
+            "description": "As Russia’s war in Ukraine reshapes this Arctic frontier, Sámi communities struggle to sustain cross-border traditions.",
+            "url": "https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss",
+            "published": "Sat, 31 Oct 2026 12:58:28 +0000",
+            "fetched": "2026-10-31T17:14:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-10-31T17:14:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-10-31T17:14:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-10-31T17:14:37+03:30"
+        }
+    ]
+}

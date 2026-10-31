@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-31 15:38:10
+**Last Update:** 2026-10-31 17:14:37
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. French lawmakers approved a tax of €0.055 for every gigabyte of internet traffic
+### 1. AI startup hacks Anthropic, gains access to employee details, internal messages
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-30-octobre-2026">https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-30-octobre-2026</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50315047">https://news.ycombinator.com/item?id=50315047</a></p>
-<p>Points: 18</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-30-octobre-2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-30-octobre-2026)
-
----
-
-### 2. Shiny Object Syndrome
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://en.wikipedia.org/wiki/Shiny_object_syndrome">https://en.wikipedia.org/wiki/Shiny_object_syndrome</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50314872">https://news.ycombinator.com/item?id=50314872</a></p>
-<p>Points: 9</p>
+<p>Article URL: <a href="https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26">https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50315990">https://news.ycombinator.com/item?id=50315990</a></p>
+<p>Points: 4</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://en.wikipedia.org/wiki/Shiny_object_syndrome](https://en.wikipedia.org/wiki/Shiny_object_syndrome)
+🔗 **Read more:** [https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26](https://www.indiatoday.in/technology/news/story/ai-startup-hacks-anthropic-in-12-hours-gains-access-to-employee-details-and-internal-messages-3025452-2026-10-26)
 
 ---
 
-### 3. We Took over ChatGPT Accounts
+### 2. Why Anthropic's Filing Crushed Tech Stocks
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.parameter.ai/labs/we-found-a-gap-at-openai">https://www.parameter.ai/labs/we-found-a-gap-at-openai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50314699">https://news.ycombinator.com/item?id=50314699</a></p>
-<p>Points: 8</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech">https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50315574">https://news.ycombinator.com/item?id=50315574</a></p>
+<p>Points: 12</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://www.parameter.ai/labs/we-found-a-gap-at-openai](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
+🔗 **Read more:** [https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech](https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech)
+
+---
+
+### 3. Prospero: A new coding harness for a more civilized age
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nullprogram.com/blog/2026/10/31/">https://nullprogram.com/blog/2026/10/31/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50315226">https://news.ycombinator.com/item?id=50315226</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://nullprogram.com/blog/2026/10/31/](https://nullprogram.com/blog/2026/10/31/)
 
 ---
 
@@ -71,7 +71,7 @@ The British government has never formally apologised for slavery despite repeate
 
 ---
 
-### 5. Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine
+### 5. Evacuees from Russia-occupied city where residents ate weeds arrive in Ukraine
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ If the accusations are true, the record-making heist shows how powerful suspecte
 
 ---
 
-### 7. UN closes Somalia mission, ending three decades of political engagement
+### 7. Israel voted for Israel: Why Gaza wasn’t on the ballot
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Somalia hails the UN mission&#039;s closure as a milestone amid political tensions and cuts to international support.
+Despite genocide, regional war and isolation, Israel&#039;s election revealed little appetite for political alternatives.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/un-closes-somalia-mission-ending-three-decades-of-political-engagement?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/un-closes-somalia-mission-ending-three-decades-of-political-engagement?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/israel-voted-for-israel-why-gaza-wasnt-on-the-ballot?traffic_source=rss)
 
 ---
 
-### 8. Do tough laws deter drug crimes? Lessons from Singapore and Malaysia
+### 8. Burnham opens door to formal apology for Britain’s slave trade
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As Malaysia rethinks the death penalty for drug offences, Singapore insists tough laws deter substance abuse.
+UK Prime Minister rules out financial reparations, despite longstanding Caribbean demands.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/101-east/2026/10/31/do-tough-laws-deter-drug-crimes-lessons-from-singapore-and-malaysia?traffic_source=rss](https://www.aljazeera.com/video/101-east/2026/10/31/do-tough-laws-deter-drug-crimes-lessons-from-singapore-and-malaysia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/burnham-opens-door-to-formal-apology-for-britains-slave-trade?traffic_source=rss)
 
 ---
 
-### 9. Protests outside Poland’s constitutional court: What’s the crisis about?
+### 9. On the Norway-Russia border, the Sámi people face a growing divide
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Poland’s centrist government says it is restoring judicial independence after years of far-right political interference.
+As Russia’s war in Ukraine reshapes this Arctic frontier, Sámi communities struggle to sustain cross-border traditions.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/protests-outside-polands-constitutional-court-whats-the-crisis-about?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/protests-outside-polands-constitutional-court-whats-the-crisis-about?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss](https://www.aljazeera.com/features/longform/2026/10/31/on-the-norway-russia-border-the-sami-people-face-a-growing-divide?traffic_source=rss)
 
 ---
 
