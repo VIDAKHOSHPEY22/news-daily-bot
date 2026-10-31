@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-31 08:47:35
+**Last Update:** 2026-10-31 10:37:01
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenAI raises less than half of $30B target
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5">https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50312922">https://news.ycombinator.com/item?id=50312922</a></p>
-<p>Points: 64</p>
-<p># Comments: 37</p>
-
-🔗 **Read more:** [https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5](https://www.wsj.com/tech/ai/openai-raises-less-than-half-of-30-billion-target-in-latest-round-91aecdc5)
-
----
-
-### 2. Tell HN: Scribd Breached
+### 1. Tell HN: Scribd Breached
 
 **Source:** Hacker News
 
@@ -44,26 +28,42 @@ For more information<p>We regret that this incident occurred and any concern it 
 We value the trust you place in us with your information, and don’t take that lightly. We are deeply sorry this happened and will keep you updated if anything further changes.<p>Scribd, Inc.</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50312756">https://news.ycombinator.com/item?id=50312756</a></p>
-<p>Points: 93</p>
-<p># Comments: 32</p>
+<p>Points: 140</p>
+<p># Comments: 57</p>
 
 🔗 **Read more:** [https://news.ycombinator.com/item?id=50312756](https://news.ycombinator.com/item?id=50312756)
 
 ---
 
-### 3. Flock camera searches fell 95% after a dispatcher's misconduct was caught
+### 2. Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e">https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50312739">https://news.ycombinator.com/item?id=50312739</a></p>
-<p>Points: 53</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://tng.episodle.com/">https://tng.episodle.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50311686">https://news.ycombinator.com/item?id=50311686</a></p>
+<p>Points: 166</p>
+<p># Comments: 46</p>
 
-🔗 **Read more:** [https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e](https://www.wkyc.com/article/news/investigations/flock-camera-searches-fall-95-percent-highland-heights-dispatcher-misconduct-caught/95-94b18f33-60e2-4bc7-a00f-d71d1e1fdd5e)
+🔗 **Read more:** [https://tng.episodle.com/](https://tng.episodle.com/)
+
+---
+
+### 3. Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.firezone.dev/blog/introducing-sanstun">https://www.firezone.dev/blog/introducing-sanstun</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50310398">https://news.ycombinator.com/item?id=50310398</a></p>
+<p>Points: 110</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [https://www.firezone.dev/blog/introducing-sanstun](https://www.firezone.dev/blog/introducing-sanstun)
 
 ---
 
@@ -93,55 +93,55 @@ The prime minister says Britain must "face up to the past" for its role in the t
 
 ---
 
-### 6. Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea
+### 6. Why North Korea's 'elite' hackers are the prime suspect in major Binance hack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.
+If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US greenlights $2.1bn Patriot missile sale to Ukraine
+### 7. Canada’s in-form Leylah Fernandez reaches Pan Pacific Open final in Tokyo
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Deal would be one of the most significant steps to supply defensive weapons to Kyiv since ​Trump took office in 2025.
+Fernandez fought back from a break down in both sets to reach the Tokyo title clash, her third final of 2026.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/us-greenlights-2-1bn-patriot-missile-sale-to-ukraine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/31/leylah-fernandez-canada-pan-pacific-open-final-tokyo-tennis-wta?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/31/leylah-fernandez-canada-pan-pacific-open-final-tokyo-tennis-wta?traffic_source=rss)
 
 ---
 
-### 8. US jails two Chinese nationals for spying
+### 8. LeBron James, Tyrese Maxey shine as 76ers beat Knicks in NBA Cup thriller
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Liren Lai and Yuance Chen admitted to facilitating &#039;dead drop&#039; cash payments worth at least $30,000 to people in the US.
+LeBron scored 20 points and hit the go-ahead fadeaway late, and Maxey had 27 points to lead the 76ers to a victory.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/us-jails-two-chinese-nationals-for-spying?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/us-jails-two-chinese-nationals-for-spying?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/31/lebron-james-tyrese-maxey-philadelphia-76ers-win-new-york-knicks-nba-cup?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/31/lebron-james-tyrese-maxey-philadelphia-76ers-win-new-york-knicks-nba-cup?traffic_source=rss)
 
 ---
 
-### 9. Iran says four tankers on fire after striking mines in Hormuz
+### 9. The selective solidarity at the heart of India’s voter protests
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran&#039;s Revolutionary Guard says four tankers have caught fire in the Strait of Hormuz.
+The opposition is fighting voter exclusion without confronting the discrimination Muslims warned about in 2019.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/31/iran-says-four-tankers-on-fire-after-striking-mines-in-hormuz?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/31/the-selective-solidarity-at-the-heart-of-indias-voter-protests?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/31/the-selective-solidarity-at-the-heart-of-indias-voter-protests?traffic_source=rss)
 
 ---
 

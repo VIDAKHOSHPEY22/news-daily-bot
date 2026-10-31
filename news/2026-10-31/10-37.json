@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-31T10:37:01+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tell HN: Scribd Breached",
+            "description": "<p>Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026:<p>Subject: Notice of Security Incident<p>This notice is being sent on behalf of Scribd, Inc., the parent company of Scribd, Slideshare, Everand, and Fable, by Epiq, Scribd Inc.’s notification partner.<p>Hello,<p>We are writing to let you know that Scribd, Inc. recently experienced a security incident that may have affected your data.<p>We detected that an unauthorized third party may have gained access to certain user data in one of our systems. After investigating this activity, we found that the third party may have accessed your email address and the following of your information: last 4 digits of your credit card and country, credit card issuer, credit card expiry date, payment history (not including credit card details).<p>We have no evidence that this data has been misused, but we are notifying you out of an abundance of caution so that you can take steps to protect your information.<p>Watch for phishing<p>We encourage you to stay vigilant for phishing attempts by bad actors pretending to be Scribd, Inc. or Scribd, Slideshare, Everand or Fable.<p>Remember that Scribd, Inc. will never ask you for your username and password or other sensitive information via email or text. If you did receive a message like that:<p><pre><code>    Don't click on any links in it. Instead type scribd.com, slideshare.net, everand.com, or fable.co directly into your browser.\n    Call us at: +1-877-361-9887. Hours of operation are Monday-Friday, 11:00 a.m.-11:00 p.m., Central European Time.\n    Report it through Scribd, Inc.'s Help Center.\n</code></pre>\nFor more information<p>We regret that this incident occurred and any concern it may cause you. If you have additional questions, contact the dedicated call center at +1-877-361-9887. Hours of operation are Monday-Friday, 11:00 a.m.-11:00 p.m. Central European Time.<p>The National Cyber Security Center has helpful guidance on how to recognize and avoid phishing scams here.<p>What Scribd, Inc. is doing<p><pre><code>    We have secured the affected system and ended the unauthorized access.\n    We have notified law enforcement as well as the relevant data protection authorities.\n    We are working with an expert third party cybersecurity firm to strengthen our access controls and monitoring.\n</code></pre>\nWe value the trust you place in us with your information, and don’t take that lightly. We are deeply sorry this happened and will keep you updated if anything further changes.<p>Scribd, Inc.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50312756\">https://news.ycombinator.com/item?id=50312756</a></p>\n<p>Points: 140</p>\n<p># Comments: 57</p>",
+            "url": "https://news.ycombinator.com/item?id=50312756",
+            "published": "Sat, 31 Oct 2026 02:46:36 +0000",
+            "fetched": "2026-10-31T10:37:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+            "description": "<p>Article URL: <a href=\"https://tng.episodle.com/\">https://tng.episodle.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50311686\">https://news.ycombinator.com/item?id=50311686</a></p>\n<p>Points: 166</p>\n<p># Comments: 46</p>",
+            "url": "https://tng.episodle.com/",
+            "published": "Fri, 30 Oct 2026 23:51:24 +0000",
+            "fetched": "2026-10-31T10:37:01+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+            "description": "<p>Article URL: <a href=\"https://www.firezone.dev/blog/introducing-sanstun\">https://www.firezone.dev/blog/introducing-sanstun</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50310398\">https://news.ycombinator.com/item?id=50310398</a></p>\n<p>Points: 110</p>\n<p># Comments: 19</p>",
+            "url": "https://www.firezone.dev/blog/introducing-sanstun",
+            "published": "Fri, 30 Oct 2026 21:30:00 +0000",
+            "fetched": "2026-10-31T10:37:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US approves sale of 500 Patriot missiles to Ukraine",
+            "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+            "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 31 Oct 2026 00:40:43 GMT",
+            "fetched": "2026-10-31T10:37:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham 'open' to calls for slavery apology but not reparations",
+            "description": "The prime minister says Britain must \"face up to the past\" for its role in the transatlantic slave trade but reparations are \"not the right answer\".",
+            "url": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 31 Oct 2026 03:12:08 GMT",
+            "fetched": "2026-10-31T10:37:01+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+            "description": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
+            "url": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 31 Oct 2026 02:12:19 GMT",
+            "fetched": "2026-10-31T10:37:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Canada’s in-form Leylah Fernandez reaches Pan Pacific Open final in Tokyo",
+            "description": "Fernandez fought back from a break down in both sets to reach the Tokyo title clash, her third final of 2026.",
+            "url": "https://www.aljazeera.com/sports/2026/10/31/leylah-fernandez-canada-pan-pacific-open-final-tokyo-tennis-wta?traffic_source=rss",
+            "published": "Sat, 31 Oct 2026 06:36:05 +0000",
+            "fetched": "2026-10-31T10:37:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "LeBron James, Tyrese Maxey shine as 76ers beat Knicks in NBA Cup thriller",
+            "description": "LeBron scored 20 points and hit the go-ahead fadeaway late, and Maxey had 27 points to lead the 76ers to a victory.",
+            "url": "https://www.aljazeera.com/sports/2026/10/31/lebron-james-tyrese-maxey-philadelphia-76ers-win-new-york-knicks-nba-cup?traffic_source=rss",
+            "published": "Sat, 31 Oct 2026 06:11:53 +0000",
+            "fetched": "2026-10-31T10:37:01+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The selective solidarity at the heart of India’s voter protests",
+            "description": "The opposition is fighting voter exclusion without confronting the discrimination Muslims warned about in 2019.",
+            "url": "https://www.aljazeera.com/opinions/2026/10/31/the-selective-solidarity-at-the-heart-of-indias-voter-protests?traffic_source=rss",
+            "published": "Sat, 31 Oct 2026 06:08:19 +0000",
+            "fetched": "2026-10-31T10:37:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-10-31T10:37:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-10-31T10:37:01+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-10-31T10:37:01+03:30"
+        }
+    ]
+}
