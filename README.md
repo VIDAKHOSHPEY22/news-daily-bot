@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-01 00:52:06
+**Last Update:** 2026-11-01 02:07:08
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
@@ -19,7 +19,7 @@
 **Description:**
 <p>Article URL: <a href="https://www.pgdp.net/c/">https://www.pgdp.net/c/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50320137">https://news.ycombinator.com/item?id=50320137</a></p>
-<p>Points: 4</p>
+<p>Points: 11</p>
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://www.pgdp.net/c/](https://www.pgdp.net/c/)
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://learnfromx.com/research/anime-word-coverage-vs-lines-understood">https://learnfromx.com/research/anime-word-coverage-vs-lines-understood</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50320028">https://news.ycombinator.com/item?id=50320028</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Points: 31</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://learnfromx.com/research/anime-word-coverage-vs-lines-understood](https://learnfromx.com/research/anime-word-coverage-vs-lines-understood)
 
@@ -52,8 +52,8 @@
 <p><a href="https://archive.ph/Eqn1F" rel="nofollow">https://archive.ph/Eqn1F</a></p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50319563">https://news.ycombinator.com/item?id=50319563</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Points: 27</p>
+<p># Comments: 3</p>
 
 🔗 **Read more:** [https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate](https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate)
 
@@ -85,20 +85,46 @@ The Chancellor has suggested that younger workers might not receive the same min
 
 ---
 
-### 6. Clashes erupt between police and protesters in Paris
+### 6. Thousands demonstrate in Paris as protests spread across Europe
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services.
+More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Fiery confrontations between protestors and police in Albania
+### 7. Palestine Action supporters arrested outside US embassy in London
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Hundreds of protesters gathered outside the US Embassy in London to oppose the UK government&#039;s ban on Palestine Action.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss)
+
+---
+
+### 8. Legal filing questions Trump’s claims of non-citizen voting in California
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Data scientists find that many &#039;likely non-citizens&#039; identified by the Trump administration were erroneously flagged.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/legal-filing-questions-trumps-claims-of-non-citizen-voting-in-california?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/legal-filing-questions-trumps-claims-of-non-citizen-voting-in-california?traffic_source=rss)
+
+---
+
+### 9. Fiery confrontations between protestors and police in Albania
 
 **Source:** Al Jazeera
 
@@ -108,32 +134,6 @@ Over 320,000 people protested around France in a third weekend of demonstrations
 Fiery confrontations between protestors and police in Albania
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/31/fiery-confrontations-between-protestors-and-police-in-albania?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/31/fiery-confrontations-between-protestors-and-police-in-albania?traffic_source=rss)
-
----
-
-### 8. Health authorities probe two suspected Ebola cases in northeast Nigeria
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The two individuals have been isolated while officials carry out contact tracing and laboratory testing.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss)
-
----
-
-### 9. District of Columbia and Virginia sue to block Trump’s triumphal arch plans
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The monument has sparked fierce opposition from local governments fearing disruption to traffic and historic views.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/district-of-columbia-and-virginia-sue-to-block-trumps-triumphal-arch-plans?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/district-of-columbia-and-virginia-sue-to-block-trumps-triumphal-arch-plans?traffic_source=rss)
 
 ---
 
