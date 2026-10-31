@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-01T00:52:06+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Distributed Proofreaders",
+            "description": "<p>Article URL: <a href=\"https://www.pgdp.net/c/\">https://www.pgdp.net/c/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50320137\">https://news.ycombinator.com/item?id=50320137</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://www.pgdp.net/c/",
+            "published": "Sat, 31 Oct 2026 20:56:12 +0000",
+            "fetched": "2026-11-01T00:52:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "With 86% of the words, you might understand only 38% of an anime's lines",
+            "description": "<p>Article URL: <a href=\"https://learnfromx.com/research/anime-word-coverage-vs-lines-understood\">https://learnfromx.com/research/anime-word-coverage-vs-lines-understood</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50320028\">https://news.ycombinator.com/item?id=50320028</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
+            "published": "Sat, 31 Oct 2026 20:46:39 +0000",
+            "fetched": "2026-11-01T00:52:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Surviving \"The Graduate\"",
+            "description": "<p><a href=\"https://archive.ph/Eqn1F\" rel=\"nofollow\">https://archive.ph/Eqn1F</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50319563\">https://news.ycombinator.com/item?id=50319563</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate",
+            "published": "Sat, 31 Oct 2026 20:02:06 +0000",
+            "fetched": "2026-11-01T00:52:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+            "description": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+            "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 31 Oct 2026 19:22:26 GMT",
+            "fetched": "2026-11-01T00:52:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
+            "description": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.",
+            "url": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 31 Oct 2026 17:26:29 GMT",
+            "fetched": "2026-11-01T00:52:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Clashes erupt between police and protesters in Paris",
+            "description": "Over 320,000 people protested around France in a third weekend of demonstrations against the rising cost of living and poor public services.",
+            "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 31 Oct 2026 19:37:43 GMT",
+            "fetched": "2026-11-01T00:52:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fiery confrontations between protestors and police in Albania",
+            "description": "Fiery confrontations between protestors and police in Albania",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/fiery-confrontations-between-protestors-and-police-in-albania?traffic_source=rss",
+            "published": "Sat, 31 Oct 2026 21:12:46 +0000",
+            "fetched": "2026-11-01T00:52:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Health authorities probe two suspected Ebola cases in northeast Nigeria",
+            "description": "The two individuals have been isolated while officials carry out contact tracing and laboratory testing.",
+            "url": "https://www.aljazeera.com/news/2026/10/31/health-authorities-probe-two-suspected-ebola-cases-in-northeast-nigeria?traffic_source=rss",
+            "published": "Sat, 31 Oct 2026 21:01:19 +0000",
+            "fetched": "2026-11-01T00:52:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "District of Columbia and Virginia sue to block Trump’s triumphal arch plans",
+            "description": "The monument has sparked fierce opposition from local governments fearing disruption to traffic and historic views.",
+            "url": "https://www.aljazeera.com/news/2026/10/31/district-of-columbia-and-virginia-sue-to-block-trumps-triumphal-arch-plans?traffic_source=rss",
+            "published": "Sat, 31 Oct 2026 20:30:35 +0000",
+            "fetched": "2026-11-01T00:52:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-11-01T00:52:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-11-01T00:52:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-11-01T00:52:06+03:30"
+        }
+    ]
+}
