@@ -1,44 +1,44 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-31 03:06:23
+**Last Update:** 2026-10-31 04:23:24
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Federal Bureau of Prisons employees serve as election monitors at polling sites
+### 1. Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.corrections1.com/federal-prison/bop-employees-to-serve-as-election-monitors-at-polling-sites-doj-filing-says">https://www.corrections1.com/federal-prison/bop-employees-to-serve-as-election-monitors-at-polling-sites-doj-filing-says</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50311339">https://news.ycombinator.com/item?id=50311339</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://tng.episodle.com/">https://tng.episodle.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50311686">https://news.ycombinator.com/item?id=50311686</a></p>
+<p>Points: 20</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.corrections1.com/federal-prison/bop-employees-to-serve-as-election-monitors-at-polling-sites-doj-filing-says](https://www.corrections1.com/federal-prison/bop-employees-to-serve-as-election-monitors-at-polling-sites-doj-filing-says)
+🔗 **Read more:** [https://tng.episodle.com/](https://tng.episodle.com/)
 
 ---
 
-### 2. France is getting download tax for content providers (€0.055/GB)
+### 2. Anthropic to receive high 'junk' rating from credit agencies following IPO
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/">https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50310796">https://news.ycombinator.com/item?id=50310796</a></p>
-<p>Points: 60</p>
-<p># Comments: 42</p>
+<p>Article URL: <a href="https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/">https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50311311">https://news.ycombinator.com/item?id=50311311</a></p>
+<p>Points: 43</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/](https://www.resetera.com/threads/france-is-getting-download-tax-for-content-providers-%E2%82%AC0-055-gb-for-data-delivered-to-french-users.1675109/)
+🔗 **Read more:** [https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/](https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://status.linode.com/incidents/nt58zhx3pmgm">https://status.linode.com/incidents/nt58zhx3pmgm</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50310687">https://news.ycombinator.com/item?id=50310687</a></p>
-<p>Points: 106</p>
-<p># Comments: 51</p>
+<p>Points: 132</p>
+<p># Comments: 71</p>
 
 🔗 **Read more:** [https://status.linode.com/incidents/nt58zhx3pmgm](https://status.linode.com/incidents/nt58zhx3pmgm)
 
@@ -97,42 +97,42 @@ Cyber correspondent Joe Tidy explains more about what is suspected to be the big
 
 ---
 
-### 7. Why AI could threaten much of the world’s digital infrastructure
+### 7. Germany and France brace for protests on Halloween weekend
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Volunteer-led PHP, which powers most websites, is increasingly under threat from cyberattacks using AI capabilities.
+A wave of youth-led protests has swept Europe, with demonstrators denouncing rising prices and a lack of prospects.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/why-ai-could-threaten-much-of-the-worlds-digital-infrastructure?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/why-ai-could-threaten-much-of-the-worlds-digital-infrastructure?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/germany-and-france-brace-for-protests-on-halloween-weekend?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/germany-and-france-brace-for-protests-on-halloween-weekend?traffic_source=rss)
 
 ---
 
-### 8. US judge orders ethics inquiry into Trump lawyers over golf course case
+### 8. Brazil summons Argentinian diplomat over Bolsonaro’s flight to US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Judge Ana Reyes calls on US government lawyers to explain contradictory statements about the East Potomac Golf Links.
+The move threatens to further strain relations between Brazilian President Lula and his Argentinian counterpart, Milei.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/us-judge-orders-ethics-inquiry-into-trump-lawyers-over-golf-course-case?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/us-judge-orders-ethics-inquiry-into-trump-lawyers-over-golf-course-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/brazil-summons-argentinian-diplomat-over-bolsonaros-flight-to-us?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/brazil-summons-argentinian-diplomat-over-bolsonaros-flight-to-us?traffic_source=rss)
 
 ---
 
-### 9. Swiss supreme court upholds Liberian ex-rebel commander’s 20-year sentence
+### 9. Iran war live: Oil tankers hit in Hormuz; Trump says conflict will end soon
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Alieu Kosiah killed civilians and unarmed soldiers, and ordered lootings and other crimes against humanity.
+IRGC says four tankers hit in Strait of Hormuz, as Trump says war on Iran will &#039;get wrapped up soon&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence?traffic_source=rss](https://www.aljazeera.com/news/2026/10/30/swiss-supreme-court-upholds-liberian-ex-rebel-commanders-20-year-sentence?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss)
 
 ---
 

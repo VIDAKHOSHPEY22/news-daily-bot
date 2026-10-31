@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-10-31T04:23:24+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+            "description": "<p>Article URL: <a href=\"https://tng.episodle.com/\">https://tng.episodle.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50311686\">https://news.ycombinator.com/item?id=50311686</a></p>\n<p>Points: 20</p>\n<p># Comments: 5</p>",
+            "url": "https://tng.episodle.com/",
+            "published": "Fri, 30 Oct 2026 23:51:24 +0000",
+            "fetched": "2026-10-31T04:23:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anthropic to receive high 'junk' rating from credit agencies following IPO",
+            "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/\">https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50311311\">https://news.ycombinator.com/item?id=50311311</a></p>\n<p>Points: 43</p>\n<p># Comments: 21</p>",
+            "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+            "published": "Fri, 30 Oct 2026 23:08:12 +0000",
+            "fetched": "2026-10-31T04:23:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Linode Security Incident",
+            "description": "<p>Article URL: <a href=\"https://status.linode.com/incidents/nt58zhx3pmgm\">https://status.linode.com/incidents/nt58zhx3pmgm</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50310687\">https://news.ycombinator.com/item?id=50310687</a></p>\n<p>Points: 132</p>\n<p># Comments: 71</p>",
+            "url": "https://status.linode.com/incidents/nt58zhx3pmgm",
+            "published": "Fri, 30 Oct 2026 21:57:40 +0000",
+            "fetched": "2026-10-31T04:23:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US approves sale of 500 Patriot missiles to Ukraine",
+            "description": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.",
+            "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 31 Oct 2026 00:40:43 GMT",
+            "fetched": "2026-10-31T04:23:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Crypto giant Binance attempting to recover $6.3bn stolen in hack linked to North Korea",
+            "description": "The cyber-attack, which the company describes as complex, is believed to be the largest ever of its kind.",
+            "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 21:13:14 GMT",
+            "fetched": "2026-10-31T04:23:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about Binance's $6.3bn hack",
+            "description": "Cyber correspondent Joe Tidy explains more about what is suspected to be the biggest hack in history.",
+            "url": "https://www.bbc.co.uk/news/videos/cv2d62e34rw5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 30 Oct 2026 12:27:28 GMT",
+            "fetched": "2026-10-31T04:23:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Germany and France brace for protests on Halloween weekend",
+            "description": "A wave of youth-led protests has swept Europe, with demonstrators denouncing rising prices and a lack of prospects.",
+            "url": "https://www.aljazeera.com/news/2026/10/31/germany-and-france-brace-for-protests-on-halloween-weekend?traffic_source=rss",
+            "published": "Sat, 31 Oct 2026 00:17:35 +0000",
+            "fetched": "2026-10-31T04:23:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazil summons Argentinian diplomat over Bolsonaro’s flight to US",
+            "description": "The move threatens to further strain relations between Brazilian President Lula and his Argentinian counterpart, Milei.",
+            "url": "https://www.aljazeera.com/news/2026/10/31/brazil-summons-argentinian-diplomat-over-bolsonaros-flight-to-us?traffic_source=rss",
+            "published": "Sat, 31 Oct 2026 00:02:06 +0000",
+            "fetched": "2026-10-31T04:23:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Oil tankers hit in Hormuz; Trump says conflict will end soon",
+            "description": "IRGC says four tankers hit in Strait of Hormuz, as Trump says war on Iran will &#039;get wrapped up soon&#039;.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/10/31/iran-war-live-oil-tankers-hit-in-hormuz-trump-says-conflict-will-end-soon?traffic_source=rss",
+            "published": "Sat, 31 Oct 2026 00:00:00 +0000",
+            "fetched": "2026-10-31T04:23:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-10-31T04:23:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-10-31T04:23:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-10-31T04:23:24+03:30"
+        }
+    ]
+}
