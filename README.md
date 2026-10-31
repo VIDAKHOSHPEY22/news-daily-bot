@@ -1,95 +1,86 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-10-31 10:37:01
+**Last Update:** 2026-10-31 15:38:10
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tell HN: Scribd Breached
+### 1. French lawmakers approved a tax of €0.055 for every gigabyte of internet traffic
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Not seeing anything posted about this anywhere, received on Monday, 26th of Oct 2026:<p>Subject: Notice of Security Incident<p>This notice is being sent on behalf of Scribd, Inc., the parent company of Scribd, Slideshare, Everand, and Fable, by Epiq, Scribd Inc.’s notification partner.<p>Hello,<p>We are writing to let you know that Scribd, Inc. recently experienced a security incident that may have affected your data.<p>We detected that an unauthorized third party may have gained access to certain user data in one of our systems. After investigating this activity, we found that the third party may have accessed your email address and the following of your information: last 4 digits of your credit card and country, credit card issuer, credit card expiry date, payment history (not including credit card details).<p>We have no evidence that this data has been misused, but we are notifying you out of an abundance of caution so that you can take steps to protect your information.<p>Watch for phishing<p>We encourage you to stay vigilant for phishing attempts by bad actors pretending to be Scribd, Inc. or Scribd, Slideshare, Everand or Fable.<p>Remember that Scribd, Inc. will never ask you for your username and password or other sensitive information via email or text. If you did receive a message like that:<p><pre><code>    Don't click on any links in it. Instead type scribd.com, slideshare.net, everand.com, or fable.co directly into your browser.
-    Call us at: +1-877-361-9887. Hours of operation are Monday-Friday, 11:00 a.m.-11:00 p.m., Central European Time.
-    Report it through Scribd, Inc.'s Help Center.
-</code></pre>
-For more information<p>We regret that this incident occurred and any concern it may cause you. If you have additional questions, contact the dedicated call center at +1-877-361-9887. Hours of operation are Monday-Friday, 11:00 a.m.-11:00 p.m. Central European Time.<p>The National Cyber Security Center has helpful guidance on how to recognize and avoid phishing scams here.<p>What Scribd, Inc. is doing<p><pre><code>    We have secured the affected system and ended the unauthorized access.
-    We have notified law enforcement as well as the relevant data protection authorities.
-    We are working with an expert third party cybersecurity firm to strengthen our access controls and monitoring.
-</code></pre>
-We value the trust you place in us with your information, and don’t take that lightly. We are deeply sorry this happened and will keep you updated if anything further changes.<p>Scribd, Inc.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50312756">https://news.ycombinator.com/item?id=50312756</a></p>
-<p>Points: 140</p>
-<p># Comments: 57</p>
+<p>Article URL: <a href="https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-30-octobre-2026">https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-30-octobre-2026</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50315047">https://news.ycombinator.com/item?id=50315047</a></p>
+<p>Points: 18</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=50312756](https://news.ycombinator.com/item?id=50312756)
+🔗 **Read more:** [https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-30-octobre-2026](https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-vendredi-30-octobre-2026)
 
 ---
 
-### 2. Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game
+### 2. Shiny Object Syndrome
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tng.episodle.com/">https://tng.episodle.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50311686">https://news.ycombinator.com/item?id=50311686</a></p>
-<p>Points: 166</p>
-<p># Comments: 46</p>
+<p>Article URL: <a href="https://en.wikipedia.org/wiki/Shiny_object_syndrome">https://en.wikipedia.org/wiki/Shiny_object_syndrome</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50314872">https://news.ycombinator.com/item?id=50314872</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://tng.episodle.com/](https://tng.episodle.com/)
+🔗 **Read more:** [https://en.wikipedia.org/wiki/Shiny_object_syndrome](https://en.wikipedia.org/wiki/Shiny_object_syndrome)
 
 ---
 
-### 3. Sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust
+### 3. We Took over ChatGPT Accounts
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.firezone.dev/blog/introducing-sanstun">https://www.firezone.dev/blog/introducing-sanstun</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50310398">https://news.ycombinator.com/item?id=50310398</a></p>
-<p>Points: 110</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://www.parameter.ai/labs/we-found-a-gap-at-openai">https://www.parameter.ai/labs/we-found-a-gap-at-openai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50314699">https://news.ycombinator.com/item?id=50314699</a></p>
+<p>Points: 8</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.firezone.dev/blog/introducing-sanstun](https://www.firezone.dev/blog/introducing-sanstun)
+🔗 **Read more:** [https://www.parameter.ai/labs/we-found-a-gap-at-openai](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
 
 ---
 
-### 4. US approves sale of 500 Patriot missiles to Ukraine
+### 4. Burnham 'open' to calls for slavery apology but not reparations
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Burnham 'open' to calls for slavery apology but not reparations
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The prime minister says Britain must "face up to the past" for its role in the transatlantic slave trade but reparations are "not the right answer".
+The British government has never formally apologised for slavery despite repeated calls from a number of Commonwealth leaders.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Evacuees from Russia-occupied city where residents ate weeds on way to Ukraine
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Residents left the devastated city on Friday following a ceasefire brokered by US First Lady Melania Trump.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqx2818elrnzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -106,42 +97,42 @@ If the accusations are true, the record-making heist shows how powerful suspecte
 
 ---
 
-### 7. Canada’s in-form Leylah Fernandez reaches Pan Pacific Open final in Tokyo
+### 7. UN closes Somalia mission, ending three decades of political engagement
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fernandez fought back from a break down in both sets to reach the Tokyo title clash, her third final of 2026.
+Somalia hails the UN mission&#039;s closure as a milestone amid political tensions and cuts to international support.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/31/leylah-fernandez-canada-pan-pacific-open-final-tokyo-tennis-wta?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/31/leylah-fernandez-canada-pan-pacific-open-final-tokyo-tennis-wta?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/un-closes-somalia-mission-ending-three-decades-of-political-engagement?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/un-closes-somalia-mission-ending-three-decades-of-political-engagement?traffic_source=rss)
 
 ---
 
-### 8. LeBron James, Tyrese Maxey shine as 76ers beat Knicks in NBA Cup thriller
+### 8. Do tough laws deter drug crimes? Lessons from Singapore and Malaysia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-LeBron scored 20 points and hit the go-ahead fadeaway late, and Maxey had 27 points to lead the 76ers to a victory.
+As Malaysia rethinks the death penalty for drug offences, Singapore insists tough laws deter substance abuse.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/10/31/lebron-james-tyrese-maxey-philadelphia-76ers-win-new-york-knicks-nba-cup?traffic_source=rss](https://www.aljazeera.com/sports/2026/10/31/lebron-james-tyrese-maxey-philadelphia-76ers-win-new-york-knicks-nba-cup?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/101-east/2026/10/31/do-tough-laws-deter-drug-crimes-lessons-from-singapore-and-malaysia?traffic_source=rss](https://www.aljazeera.com/video/101-east/2026/10/31/do-tough-laws-deter-drug-crimes-lessons-from-singapore-and-malaysia?traffic_source=rss)
 
 ---
 
-### 9. The selective solidarity at the heart of India’s voter protests
+### 9. Protests outside Poland’s constitutional court: What’s the crisis about?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The opposition is fighting voter exclusion without confronting the discrimination Muslims warned about in 2019.
+Poland’s centrist government says it is restoring judicial independence after years of far-right political interference.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/10/31/the-selective-solidarity-at-the-heart-of-indias-voter-protests?traffic_source=rss](https://www.aljazeera.com/opinions/2026/10/31/the-selective-solidarity-at-the-heart-of-indias-voter-protests?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/protests-outside-polands-constitutional-court-whats-the-crisis-about?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/protests-outside-polands-constitutional-court-whats-the-crisis-about?traffic_source=rss)
 
 ---
 
