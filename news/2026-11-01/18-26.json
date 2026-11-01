@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-01T18:26:33+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Novellas with Groff",
+            "description": "<p>Article URL: <a href=\"https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html\">https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50325694\">https://news.ycombinator.com/item?id=50325694</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+            "url": "https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html",
+            "published": "Sun, 01 Nov 2026 13:51:41 +0000",
+            "fetched": "2026-11-01T18:26:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy",
+            "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy\">https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50325662\">https://news.ycombinator.com/item?id=50325662</a></p>\n<p>Points: 20</p>\n<p># Comments: 5</p>",
+            "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy",
+            "published": "Sun, 01 Nov 2026 13:47:24 +0000",
+            "fetched": "2026-11-01T18:26:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2610.39302\">https://arxiv.org/abs/2610.39302</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50325454\">https://news.ycombinator.com/item?id=50325454</a></p>\n<p>Points: 25</p>\n<p># Comments: 3</p>",
+            "url": "https://arxiv.org/abs/2610.39302",
+            "published": "Sun, 01 Nov 2026 13:24:49 +0000",
+            "fetched": "2026-11-01T18:26:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Shops looted as German cost-of-living protests turn violent",
+            "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+            "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 01 Nov 2026 11:57:48 GMT",
+            "fetched": "2026-11-01T18:26:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Healey risks breaking minimum wage promise for younger workers",
+            "description": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.",
+            "url": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 01 Nov 2026 11:05:40 GMT",
+            "fetched": "2026-11-01T18:26:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than 300 arrests at Palestine Action support protest outside US embassy",
+            "description": "More than 4,000 people have been arrested for supporting the group since it was proscribed in July 2025.",
+            "url": "https://www.bbc.co.uk/news/articles/c98rz23ed781o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 01 Nov 2026 13:41:00 GMT",
+            "fetched": "2026-11-01T18:26:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?",
+            "description": "Mandate expires for UN mission tasked to monitor 1991 truce and hold a referendum in the disputed territory.",
+            "url": "https://www.aljazeera.com/news/2026/11/1/why-is-morocco-celebrating-the-defeat-of-a-un-resolution-on-western-sahara?traffic_source=rss",
+            "published": "Sun, 01 Nov 2026 14:26:43 +0000",
+            "fetched": "2026-11-01T18:26:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel election: When will government be formed, who will lead it?",
+            "description": "President Herzog must tap candidate to form new government by November 11, with fraught negotiations likely to follow.",
+            "url": "https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it?traffic_source=rss",
+            "published": "Sun, 01 Nov 2026 14:16:14 +0000",
+            "fetched": "2026-11-01T18:26:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli attacks on Gaza kill at least nine people",
+            "description": "Israeli attacks on Gaza City and Khan Younis killed at least nine people on Sunday.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss",
+            "published": "Sun, 01 Nov 2026 14:10:59 +0000",
+            "fetched": "2026-11-01T18:26:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-11-01T18:26:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-11-01T18:26:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-11-01T18:26:33+03:30"
+        }
+    ]
+}

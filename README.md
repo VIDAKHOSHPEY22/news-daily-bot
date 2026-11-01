@@ -1,64 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-01 12:55:13
+**Last Update:** 2026-11-01 18:26:33
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Pac-Man's Siren Call
+### 1. Novellas with Groff
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://unsung.aresluna.org/pac-mans-siren-call/">https://unsung.aresluna.org/pac-mans-siren-call/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50323187">https://news.ycombinator.com/item?id=50323187</a></p>
-<p>Points: 13</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html">https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50325694">https://news.ycombinator.com/item?id=50325694</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://unsung.aresluna.org/pac-mans-siren-call/](https://unsung.aresluna.org/pac-mans-siren-call/)
+🔗 **Read more:** [https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html](https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html)
 
 ---
 
-### 2. The AI cost of JavaScript frameworks
+### 2. AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/">https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50323088">https://news.ycombinator.com/item?id=50323088</a></p>
-<p>Points: 46</p>
-<p># Comments: 24</p>
+<p>Article URL: <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy">https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50325662">https://news.ycombinator.com/item?id=50325662</a></p>
+<p>Points: 20</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
+🔗 **Read more:** [https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy)
 
 ---
 
-### 3. Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing
+### 3. Proving and Improving the Platonic Representation Hypothesis with JEPAs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/">https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50322173">https://news.ycombinator.com/item?id=50322173</a></p>
-<p>Points: 110</p>
-<p># Comments: 44</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2610.39302">https://arxiv.org/abs/2610.39302</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50325454">https://news.ycombinator.com/item?id=50325454</a></p>
+<p>Points: 25</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/)
+🔗 **Read more:** [https://arxiv.org/abs/2610.39302](https://arxiv.org/abs/2610.39302)
 
 ---
 
-### 4. Shops looted as German cost of living protests turn violent
+### 4. Shops looted as German cost-of-living protests turn violent
 
 **Source:** BBC
 
@@ -71,68 +71,68 @@ The protests in cities across Germany - including Berlin, Hamburg and Frankfurt 
 
 ---
 
-### 5. Democrats are used to heartbreak in Texas - could Talarico turn the tide?
+### 5. Healey risks breaking minimum wage promise for younger workers
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.
+The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Reeves says UK's future should be inside the EU
+### 6. More than 300 arrests at Palestine Action support protest outside US embassy
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-In her first major intervention since leaving the Treasury, Rachel Reeves says Brexit has made the UK "poorer, weaker and less secure".
+More than 4,000 people have been arrested for supporting the group since it was proscribed in July 2025.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c98rz23ed781o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c98rz23ed781o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US midterms: 2 days to go – what polls say as Trump, El-Sayed hit the trail
+### 7. Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Democrats remain ahead in national polls as Trump and candidates make their final push in the days before polling day.
+Mandate expires for UN mission tasked to monitor 1991 truce and hold a referendum in the disputed territory.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/us-midterms-2-days-to-go-what-polls-say-as-trump-el-sayed-hit-the-trail?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/us-midterms-2-days-to-go-what-polls-say-as-trump-el-sayed-hit-the-trail?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/why-is-morocco-celebrating-the-defeat-of-a-un-resolution-on-western-sahara?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/why-is-morocco-celebrating-the-defeat-of-a-un-resolution-on-western-sahara?traffic_source=rss)
 
 ---
 
-### 8. Trump at Halloween party ‘as himself’ says he’s ‘in no hurry’ with Iran
+### 8. Israel election: When will government be formed, who will lead it?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump, who came to his Halloween party dressed as himself, says US not in a hurry to make a decision on striking Iran.
+President Herzog must tap candidate to form new government by November 11, with fraught negotiations likely to follow.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/trump-at-halloween-party-as-himself-says-hes-in-no-hurry-with-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/trump-at-halloween-party-as-himself-says-hes-in-no-hurry-with-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it?traffic_source=rss)
 
 ---
 
-### 9. Mamdani says Trump to grant visa to mother of boy killed in Bronx shooting
+### 9. Israeli attacks on Gaza kill at least nine people
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New York City mayor says US president &#039;has agreed to grant her visa immediately&#039;.
+Israeli attacks on Gaza City and Khan Younis killed at least nine people on Sunday.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/mamdani-says-trump-to-grant-visa-to-mother-of-boy-killed-in-bronx-shooting?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/mamdani-says-trump-to-grant-visa-to-mother-of-boy-killed-in-bronx-shooting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss)
 
 ---
 
