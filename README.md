@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-01 19:39:22
+**Last Update:** 2026-11-01 23:00:27
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. We Took over ChatGPT Accounts
+### 1. Mathematics has changed. Let's act like it
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/">https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50326699">https://news.ycombinator.com/item?id=50326699</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/">https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328251">https://news.ycombinator.com/item?id=50328251</a></p>
+<p>Points: 43</p>
+<p># Comments: 40</p>
 
-🔗 **Read more:** [https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/)
+🔗 **Read more:** [https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/)
 
 ---
 
-### 2. Enlightenment 0.28.0 Release
+### 2. Patrick Stewart taught us what good men do with power
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0">https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50326530">https://news.ycombinator.com/item?id=50326530</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism">https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50327650">https://news.ycombinator.com/item?id=50327650</a></p>
+<p>Points: 173</p>
+<p># Comments: 113</p>
 
-🔗 **Read more:** [https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0](https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0)
+🔗 **Read more:** [https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism](https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism)
 
 ---
 
-### 3. Police chief unplugs Flock cameras after company ignores contract cancellation
+### 3. Frontier Airlines Likely Breached
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies">https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50326118">https://news.ycombinator.com/item?id=50326118</a></p>
-<p>Points: 54</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/">https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50327266">https://news.ycombinator.com/item?id=50327266</a></p>
+<p>Points: 97</p>
+<p># Comments: 25</p>
 
-🔗 **Read more:** [https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies](https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies)
+🔗 **Read more:** [https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/](https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/)
 
 ---
 
@@ -71,20 +71,7 @@ The protests in cities across Germany - including Berlin, Hamburg and Frankfurt 
 
 ---
 
-### 5. Healey risks breaking minimum wage promise for younger workers
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Five teenagers stabbed at Halloween party
+### 5. Five teenagers stabbed at Halloween party
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Hampshire Police believes an unknown group gained entry to the party at an addre
 
 ---
 
-### 7. Trump slams ex-lawyer’s $50m deal with pardoned banker’s family
+### 6. Thousands of jobs at Virgin Media O2 to be cut
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Alina Habba Mildon signed lucrative contract while working at the Justice Department, before Trump pardoned the banker.
+The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/trump-slams-ex-lawyers-50m-deal-with-pardoned-bankers-family?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/trump-slams-ex-lawyers-50m-deal-with-pardoned-bankers-family?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Dramatic helicopter rescue saves climbers stranded on Italian cliff
+### 7. How will the Iran war shape the outcome of the US midterm vote?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dramatic helicopter rescue saves climbers stranded on Italian cliff
+The conflict has become a central issue ahead of Tuesday&#039;s polls.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/dramatic-helicopter-rescue-saves-climbers-stranded-on-italian-cliff?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/dramatic-helicopter-rescue-saves-climbers-stranded-on-italian-cliff?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss)
 
 ---
 
-### 9. JERUSALEM DAILY: Israel continues siege and arrests in Hebron
+### 8. France opens ‘attempted murder’ probe into petrol bomb attacks on police
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel’s siege on Hebron is on its 10th day and its attacks on Gaza continue.
+No arrests made after several security officers were reportedly injured during incidents at Saturday&#039;s protests.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss)
+
+---
+
+### 9. Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+US Rep Stevens lost Democratic primary to Abdul El-Sayed and now endorses his Republican opponent in the Senate race.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss)
 
 ---
 
