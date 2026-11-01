@@ -1,74 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-02 00:07:53
+**Last Update:** 2026-11-02 02:58:49
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, Al Jazeera, NASA
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ask HN: Which TV do you recommend for privacy?
+### 1. AI delivers 'zero financial payoff' to most companies, Apollo economist says
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with at least 60hz display. I don’t mind paying a premium.<p>I have heard good things about Apple TV as a better alternative to most smart TV native apps. Would some TV’s pair better with this than others for privacy? I don’t want the TV doing anything other than being the display for Apple TV.<p>I am curious what success others have had.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328896">https://news.ycombinator.com/item?id=50328896</a></p>
-<p>Points: 21</p>
-<p># Comments: 25</p>
+<p>Article URL: <a href="https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/">https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50330456">https://news.ycombinator.com/item?id=50330456</a></p>
+<p>Points: 20</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=50328896](https://news.ycombinator.com/item?id=50328896)
+🔗 **Read more:** [https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
 
 ---
 
-### 2. It wasn't AI that flipped Proton's charge
+### 2. So I guess everyone uses LLMs to think now
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.raed.dev/posts/proton-loser-thinking/">https://blog.raed.dev/posts/proton-loser-thinking/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328488">https://news.ycombinator.com/item?id=50328488</a></p>
-<p>Points: 72</p>
-<p># Comments: 28</p>
+<p>Article URL: <a href="https://eva.ac/blog/llms/">https://eva.ac/blog/llms/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50330253">https://news.ycombinator.com/item?id=50330253</a></p>
+<p>Points: 42</p>
+<p># Comments: 32</p>
 
-🔗 **Read more:** [https://blog.raed.dev/posts/proton-loser-thinking/](https://blog.raed.dev/posts/proton-loser-thinking/)
+🔗 **Read more:** [https://eva.ac/blog/llms/](https://eva.ac/blog/llms/)
 
 ---
 
-### 3. Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare
+### 3. John Leeson (the voice of K9) has died
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nurse.org/news/uber-for-nursing-gig-apps-report/">https://nurse.org/news/uber-for-nursing-gig-apps-report/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328487">https://news.ycombinator.com/item?id=50328487</a></p>
-<p>Points: 109</p>
-<p># Comments: 94</p>
+<p>Article URL: <a href="https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html">https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50329707">https://news.ycombinator.com/item?id=50329707</a></p>
+<p>Points: 27</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://nurse.org/news/uber-for-nursing-gig-apps-report/](https://nurse.org/news/uber-for-nursing-gig-apps-report/)
+🔗 **Read more:** [https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html](https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html)
 
 ---
 
-### 4. Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end
+### 4. Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A rare humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky.
+Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -98,42 +97,42 @@ The broadband provider has not finalised the number of roles to be axed but it w
 
 ---
 
-### 7. Police clash with housing crisis protesters in Portugal
+### 7. High-ranking US Democratic senator suffers stroke
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police clash with housing crisis protesters in Portugal
+Senator Chris Murphy, a fierce Trump critic who is not up for re-election in the midterms, is &#039;alert&#039; after a stroke.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss)
 
 ---
 
-### 8. Al Jazeera celebrates 30th anniversary
+### 8. Kherson braces for return of war as localised Russia-Ukraine truce ends
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Since its first broadcast in 1996, Al Jazeera has spent three decades bringing stories to audiences worldwide.
+Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-celebrates-30th-anniversary?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-celebrates-30th-anniversary?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss)
 
 ---
 
-### 9. Video captures house collapsing due to Ecuador floods
+### 9. Democrat Haley Stevens heckled as she backs El-Sayed rival
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Residents filmed as a house collapsed into a swollen river in Ecuador, where torrential rains and floods linked to El N
+US Democrat Haley Stevens from Michigan was heckled as a ‘traitor’, after endorsing Republican Mike Rogers.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/video-captures-house-collapsing-due-to-ecuador-floods?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/video-captures-house-collapsing-due-to-ecuador-floods?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival?traffic_source=rss)
 
 ---
 

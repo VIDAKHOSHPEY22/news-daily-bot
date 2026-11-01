@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-02T02:58:49+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+            "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/\">https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50330456\">https://news.ycombinator.com/item?id=50330456</a></p>\n<p>Points: 20</p>\n<p># Comments: 5</p>",
+            "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+            "published": "Sun, 01 Nov 2026 22:10:45 +0000",
+            "fetched": "2026-11-02T02:58:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "So I guess everyone uses LLMs to think now",
+            "description": "<p>Article URL: <a href=\"https://eva.ac/blog/llms/\">https://eva.ac/blog/llms/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50330253\">https://news.ycombinator.com/item?id=50330253</a></p>\n<p>Points: 42</p>\n<p># Comments: 32</p>",
+            "url": "https://eva.ac/blog/llms/",
+            "published": "Sun, 01 Nov 2026 21:49:04 +0000",
+            "fetched": "2026-11-02T02:58:49+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "John Leeson (the voice of K9) has died",
+            "description": "<p>Article URL: <a href=\"https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html\">https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50329707\">https://news.ycombinator.com/item?id=50329707</a></p>\n<p>Points: 27</p>\n<p># Comments: 1</p>",
+            "url": "https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html",
+            "published": "Sun, 01 Nov 2026 20:48:04 +0000",
+            "fetched": "2026-11-02T02:58:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+            "description": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
+            "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 01 Nov 2026 22:38:24 GMT",
+            "fetched": "2026-11-02T02:58:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five teenagers stabbed at Halloween party",
+            "description": "Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's Ford.",
+            "url": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 01 Nov 2026 15:01:31 GMT",
+            "fetched": "2026-11-02T02:58:49+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Thousands of jobs at Virgin Media O2 to be cut",
+            "description": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.",
+            "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 01 Nov 2026 16:57:14 GMT",
+            "fetched": "2026-11-02T02:58:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "High-ranking US Democratic senator suffers stroke",
+            "description": "Senator Chris Murphy, a fierce Trump critic who is not up for re-election in the midterms, is &#039;alert&#039; after a stroke.",
+            "url": "https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss",
+            "published": "Sun, 01 Nov 2026 22:32:54 +0000",
+            "fetched": "2026-11-02T02:58:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kherson braces for return of war as localised Russia-Ukraine truce ends",
+            "description": "Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire.",
+            "url": "https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss",
+            "published": "Sun, 01 Nov 2026 22:15:14 +0000",
+            "fetched": "2026-11-02T02:58:49+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Democrat Haley Stevens heckled as she backs El-Sayed rival",
+            "description": "US Democrat Haley Stevens from Michigan was heckled as a ‘traitor’, after endorsing Republican Mike Rogers.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival?traffic_source=rss",
+            "published": "Sun, 01 Nov 2026 21:29:43 +0000",
+            "fetched": "2026-11-02T02:58:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-11-02T02:58:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-11-02T02:58:49+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-11-02T02:58:49+03:30"
+        }
+    ]
+}
