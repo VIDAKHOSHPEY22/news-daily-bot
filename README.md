@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-01 04:25:44
+**Last Update:** 2026-11-01 05:51:50
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. When electric cars were for women
+### 1. Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://spectrum.ieee.org/early-electric-vehicles">https://spectrum.ieee.org/early-electric-vehicles</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50321130">https://news.ycombinator.com/item?id=50321130</a></p>
-<p>Points: 20</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://spectrum.ieee.org/early-electric-vehicles](https://spectrum.ieee.org/early-electric-vehicles)
-
----
-
-### 2. Altoids Project
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://uvdn7.github.io/altoids-project/">https://uvdn7.github.io/altoids-project/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50321048">https://news.ycombinator.com/item?id=50321048</a></p>
-<p>Points: 11</p>
+<p>Hi HN,<p>I kept wiring Ben Eater's 8-bit computer wrong, so I built a realistic virtual breadboard editor.<p>Some of the nice features are side-by-side diff, scope, schematics auto-sync, auto-router (BBRouter stands for breadboard router), and my favorites: upload from the real Arduino IDE and connect to your AI with MCP, let Claude & co build it or help you troubleshoot.<p>The link is the SAP-1 running. You can orbit it, probe a hole with the scope, slow the clock down, play with the virtual displays for debugging, then you can actually build it following the step-by-step instructions.<p>A side-goal is to create a community, there are quite a lot of simulators out there but mostly offline / too abstract to realistically use it for a real build. I also never found one that had a decent UI/UX and worked well on mobile or with a trackpad.<p>Happy to answer anything, and tell me what breaks.<p>p.s. Maker plan is $7/month; code HACKERNEWS makes the first month free and then $5/month for as long as you keep it.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50321522">https://news.ycombinator.com/item?id=50321522</a></p>
+<p>Points: 4</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://uvdn7.github.io/altoids-project/](https://uvdn7.github.io/altoids-project/)
+🔗 **Read more:** [https://bbrouter.com/bbrouter/ben-eater-sap-1](https://bbrouter.com/bbrouter/ben-eater-sap-1)
 
 ---
 
-### 3. Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard
+### 2. Constructing a Quine from Kleene's Second Recursion Theorem
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve">https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50320995">https://news.ycombinator.com/item?id=50320995</a></p>
-<p>Points: 35</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://emarzion.github.io/KSRT/">https://emarzion.github.io/KSRT/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50321436">https://news.ycombinator.com/item?id=50321436</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)
+🔗 **Read more:** [https://emarzion.github.io/KSRT/](https://emarzion.github.io/KSRT/)
+
+---
+
+### 3. Work Requirements for Trick-or-Treaters
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://morewrong.lol/?post=work-requirements-trick-or-treaters">https://morewrong.lol/?post=work-requirements-trick-or-treaters</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50321373">https://news.ycombinator.com/item?id=50321373</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://morewrong.lol/?post=work-requirements-trick-or-treaters](https://morewrong.lol/?post=work-requirements-trick-or-treaters)
 
 ---
 
@@ -97,42 +98,42 @@ King Charles III will deliver a speech to the Commonwealth Heads of Government M
 
 ---
 
-### 7. Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz
+### 7. Thousands rally in Israel urging Eisenkot-Arab deal to remove Netanyahu
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Araghchi says Iran has reached a plan with Qatari mediators to open Hormuz in two days if the US meets its conditions.
+In a counterprotest, Netanyahu supporters demand that Israel should not have a government with &#039;terrorists&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss)
 
 ---
 
-### 8. ICE agent’s violent shove propels woman through the air
+### 8. Talarico draws a packed campus rally, but can he win over young voters?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A witness has captured video of an ICE agent violently shoving a teacher who was blocking his car in Chicago.
+Al Jazeera’s @EmmaWithrow attended a packed rally for Democrat Senate Candidate James Talarico at Texas A&amp;M.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/31/ice-agents-violent-shove-propels-woman-through-the-air?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/31/ice-agents-violent-shove-propels-woman-through-the-air?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/talarico-draws-a-packed-campus-rally-but-can-he-win-over-young-voters?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/talarico-draws-a-packed-campus-rally-but-can-he-win-over-young-voters?traffic_source=rss)
 
 ---
 
-### 9. Dutch authorities rescue 38 people adrift in rubber boat
+### 9. Polish president holds crisis talks in court standoff
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Migrant boats are rarely found in Dutch waters, and authorities are still trying to establish where this one came from.
+A dispute over the politicisation of Poland&#039;s constitutional court is deepening, with no side appearing to back down.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/dutch-authorities-rescue-38-people-adrift-in-rubber-boat?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/dutch-authorities-rescue-38-people-adrift-in-rubber-boat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff?traffic_source=rss)
 
 ---
 
