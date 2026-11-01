@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-01 02:07:08
+**Last Update:** 2026-11-01 04:25:44
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Distributed Proofreaders
+### 1. When electric cars were for women
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.pgdp.net/c/">https://www.pgdp.net/c/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50320137">https://news.ycombinator.com/item?id=50320137</a></p>
+<p>Article URL: <a href="https://spectrum.ieee.org/early-electric-vehicles">https://spectrum.ieee.org/early-electric-vehicles</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50321130">https://news.ycombinator.com/item?id=50321130</a></p>
+<p>Points: 20</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://spectrum.ieee.org/early-electric-vehicles](https://spectrum.ieee.org/early-electric-vehicles)
+
+---
+
+### 2. Altoids Project
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://uvdn7.github.io/altoids-project/">https://uvdn7.github.io/altoids-project/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50321048">https://news.ycombinator.com/item?id=50321048</a></p>
 <p>Points: 11</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.pgdp.net/c/](https://www.pgdp.net/c/)
+🔗 **Read more:** [https://uvdn7.github.io/altoids-project/](https://uvdn7.github.io/altoids-project/)
 
 ---
 
-### 2. With 86% of the words, you might understand only 38% of an anime's lines
+### 3. Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://learnfromx.com/research/anime-word-coverage-vs-lines-understood">https://learnfromx.com/research/anime-word-coverage-vs-lines-understood</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50320028">https://news.ycombinator.com/item?id=50320028</a></p>
-<p>Points: 31</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve">https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50320995">https://news.ycombinator.com/item?id=50320995</a></p>
+<p>Points: 35</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://learnfromx.com/research/anime-word-coverage-vs-lines-understood](https://learnfromx.com/research/anime-word-coverage-vs-lines-understood)
-
----
-
-### 3. Surviving "The Graduate"
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p><a href="https://archive.ph/Eqn1F" rel="nofollow">https://archive.ph/Eqn1F</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50319563">https://news.ycombinator.com/item?id=50319563</a></p>
-<p>Points: 27</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate](https://www.newyorker.com/culture/the-weekend-essay/dustin-hoffman-on-surviving-the-graduate)
+🔗 **Read more:** [https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)
 
 ---
 
@@ -85,55 +84,55 @@ The Chancellor has suggested that younger workers might not receive the same min
 
 ---
 
-### 6. Thousands demonstrate in Paris as protests spread across Europe
+### 6. King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-More than 320,000 people demonstrated across France against the rising cost of living and poor public services, with clashes between some protesters and police.
+King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Palestine Action supporters arrested outside US embassy in London
+### 7. Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hundreds of protesters gathered outside the US Embassy in London to oppose the UK government&#039;s ban on Palestine Action.
+Araghchi says Iran has reached a plan with Qatari mediators to open Hormuz in two days if the US meets its conditions.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/31/aje-onl-nf_palestine-action-supporters-arrested-in-london-311026?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss)
 
 ---
 
-### 8. Legal filing questions Trump’s claims of non-citizen voting in California
+### 8. ICE agent’s violent shove propels woman through the air
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Data scientists find that many &#039;likely non-citizens&#039; identified by the Trump administration were erroneously flagged.
+A witness has captured video of an ICE agent violently shoving a teacher who was blocking his car in Chicago.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/legal-filing-questions-trumps-claims-of-non-citizen-voting-in-california?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/legal-filing-questions-trumps-claims-of-non-citizen-voting-in-california?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/31/ice-agents-violent-shove-propels-woman-through-the-air?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/31/ice-agents-violent-shove-propels-woman-through-the-air?traffic_source=rss)
 
 ---
 
-### 9. Fiery confrontations between protestors and police in Albania
+### 9. Dutch authorities rescue 38 people adrift in rubber boat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fiery confrontations between protestors and police in Albania
+Migrant boats are rarely found in Dutch waters, and authorities are still trying to establish where this one came from.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/10/31/fiery-confrontations-between-protestors-and-police-in-albania?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/10/31/fiery-confrontations-between-protestors-and-police-in-albania?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/10/31/dutch-authorities-rescue-38-people-adrift-in-rubber-boat?traffic_source=rss](https://www.aljazeera.com/news/2026/10/31/dutch-authorities-rescue-38-people-adrift-in-rubber-boat?traffic_source=rss)
 
 ---
 

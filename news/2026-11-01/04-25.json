@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-01T04:25:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "When electric cars were for women",
+            "description": "<p>Article URL: <a href=\"https://spectrum.ieee.org/early-electric-vehicles\">https://spectrum.ieee.org/early-electric-vehicles</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50321130\">https://news.ycombinator.com/item?id=50321130</a></p>\n<p>Points: 20</p>\n<p># Comments: 2</p>",
+            "url": "https://spectrum.ieee.org/early-electric-vehicles",
+            "published": "Sat, 31 Oct 2026 23:08:12 +0000",
+            "fetched": "2026-11-01T04:25:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Altoids Project",
+            "description": "<p>Article URL: <a href=\"https://uvdn7.github.io/altoids-project/\">https://uvdn7.github.io/altoids-project/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50321048\">https://news.ycombinator.com/item?id=50321048</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+            "url": "https://uvdn7.github.io/altoids-project/",
+            "published": "Sat, 31 Oct 2026 22:54:55 +0000",
+            "fetched": "2026-11-01T04:25:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+            "description": "<p>Article URL: <a href=\"https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve\">https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50320995\">https://news.ycombinator.com/item?id=50320995</a></p>\n<p>Points: 35</p>\n<p># Comments: 13</p>",
+            "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+            "published": "Sat, 31 Oct 2026 22:46:12 +0000",
+            "fetched": "2026-11-01T04:25:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'We came back from hell', say Ukrainians after years in Russia-occupied front-line city",
+            "description": "One evacuated couple says they crossed minefields in Oleshky in search of food.",
+            "url": "https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 31 Oct 2026 19:22:26 GMT",
+            "fetched": "2026-11-01T04:25:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
+            "description": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.",
+            "url": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 31 Oct 2026 17:26:29 GMT",
+            "fetched": "2026-11-01T04:25:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour",
+            "description": "King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour.",
+            "url": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 31 Oct 2026 22:56:15 GMT",
+            "fetched": "2026-11-01T04:25:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Araghchi says talks under way on 2-day plan to reopen Hormuz",
+            "description": "Araghchi says Iran has reached a plan with Qatari mediators to open Hormuz in two days if the US meets its conditions.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/11/1/iran-war-live-araghchi-says-talks-under-way-on-2-day-plan-to-reopen-hormuz?traffic_source=rss",
+            "published": "Sun, 01 Nov 2026 00:00:51 +0000",
+            "fetched": "2026-11-01T04:25:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "ICE agent’s violent shove propels woman through the air",
+            "description": "A witness has captured video of an ICE agent violently shoving a teacher who was blocking his car in Chicago.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/10/31/ice-agents-violent-shove-propels-woman-through-the-air?traffic_source=rss",
+            "published": "Sat, 31 Oct 2026 23:45:36 +0000",
+            "fetched": "2026-11-01T04:25:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Dutch authorities rescue 38 people adrift in rubber boat",
+            "description": "Migrant boats are rarely found in Dutch waters, and authorities are still trying to establish where this one came from.",
+            "url": "https://www.aljazeera.com/news/2026/10/31/dutch-authorities-rescue-38-people-adrift-in-rubber-boat?traffic_source=rss",
+            "published": "Sat, 31 Oct 2026 22:38:03 +0000",
+            "fetched": "2026-11-01T04:25:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-11-01T04:25:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-11-01T04:25:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-11-01T04:25:44+03:30"
+        }
+    ]
+}
