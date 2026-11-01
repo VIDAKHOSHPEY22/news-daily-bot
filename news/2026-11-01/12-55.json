@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-01T12:55:13+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pac-Man's Siren Call",
+            "description": "<p>Article URL: <a href=\"https://unsung.aresluna.org/pac-mans-siren-call/\">https://unsung.aresluna.org/pac-mans-siren-call/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50323187\">https://news.ycombinator.com/item?id=50323187</a></p>\n<p>Points: 13</p>\n<p># Comments: 4</p>",
+            "url": "https://unsung.aresluna.org/pac-mans-siren-call/",
+            "published": "Sun, 01 Nov 2026 06:29:49 +0000",
+            "fetched": "2026-11-01T12:55:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The AI cost of JavaScript frameworks",
+            "description": "<p>Article URL: <a href=\"https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/\">https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50323088\">https://news.ycombinator.com/item?id=50323088</a></p>\n<p>Points: 46</p>\n<p># Comments: 24</p>",
+            "url": "https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/",
+            "published": "Sun, 01 Nov 2026 06:06:19 +0000",
+            "fetched": "2026-11-01T12:55:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+            "description": "<p>Article URL: <a href=\"https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/\">https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50322173\">https://news.ycombinator.com/item?id=50322173</a></p>\n<p>Points: 110</p>\n<p># Comments: 44</p>",
+            "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+            "published": "Sun, 01 Nov 2026 02:19:53 +0000",
+            "fetched": "2026-11-01T12:55:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Shops looted as German cost of living protests turn violent",
+            "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+            "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 01 Nov 2026 08:43:00 GMT",
+            "fetched": "2026-11-01T12:55:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
+            "description": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.",
+            "url": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 01 Nov 2026 06:03:57 GMT",
+            "fetched": "2026-11-01T12:55:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Reeves says UK's future should be inside the EU",
+            "description": "In her first major intervention since leaving the Treasury, Rachel Reeves says Brexit has made the UK \"poorer, weaker and less secure\".",
+            "url": "https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 01 Nov 2026 02:57:34 GMT",
+            "fetched": "2026-11-01T12:55:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US midterms: 2 days to go – what polls say as Trump, El-Sayed hit the trail",
+            "description": "Democrats remain ahead in national polls as Trump and candidates make their final push in the days before polling day.",
+            "url": "https://www.aljazeera.com/news/2026/11/1/us-midterms-2-days-to-go-what-polls-say-as-trump-el-sayed-hit-the-trail?traffic_source=rss",
+            "published": "Sun, 01 Nov 2026 08:47:19 +0000",
+            "fetched": "2026-11-01T12:55:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump at Halloween party ‘as himself’ says he’s ‘in no hurry’ with Iran",
+            "description": "Trump, who came to his Halloween party dressed as himself, says US not in a hurry to make a decision on striking Iran.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/trump-at-halloween-party-as-himself-says-hes-in-no-hurry-with-iran?traffic_source=rss",
+            "published": "Sun, 01 Nov 2026 08:24:50 +0000",
+            "fetched": "2026-11-01T12:55:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mamdani says Trump to grant visa to mother of boy killed in Bronx shooting",
+            "description": "New York City mayor says US president &#039;has agreed to grant her visa immediately&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/11/1/mamdani-says-trump-to-grant-visa-to-mother-of-boy-killed-in-bronx-shooting?traffic_source=rss",
+            "published": "Sun, 01 Nov 2026 08:18:23 +0000",
+            "fetched": "2026-11-01T12:55:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-11-01T12:55:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-11-01T12:55:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-11-01T12:55:13+03:30"
+        }
+    ]
+}

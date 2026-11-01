@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-01 10:50:53
+**Last Update:** 2026-11-01 12:55:13
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing
+### 1. Pac-Man's Siren Call
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://unsung.aresluna.org/pac-mans-siren-call/">https://unsung.aresluna.org/pac-mans-siren-call/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50323187">https://news.ycombinator.com/item?id=50323187</a></p>
+<p>Points: 13</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://unsung.aresluna.org/pac-mans-siren-call/](https://unsung.aresluna.org/pac-mans-siren-call/)
+
+---
+
+### 2. The AI cost of JavaScript frameworks
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/">https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50323088">https://news.ycombinator.com/item?id=50323088</a></p>
+<p>Points: 46</p>
+<p># Comments: 24</p>
+
+🔗 **Read more:** [https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/](https://nolanlawson.com/2026/10/28/the-ai-cost-of-javascript-frameworks/)
+
+---
+
+### 3. Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/">https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50322173">https://news.ycombinator.com/item?id=50322173</a></p>
-<p>Points: 85</p>
-<p># Comments: 32</p>
+<p>Points: 110</p>
+<p># Comments: 44</p>
 
 🔗 **Read more:** [https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/)
-
----
-
-### 2. OTape
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.otape.org/">https://www.otape.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50322169">https://news.ycombinator.com/item?id=50322169</a></p>
-<p>Points: 18</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://www.otape.org/](https://www.otape.org/)
-
----
-
-### 3. Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2409.02292">https://arxiv.org/abs/2409.02292</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50322022">https://news.ycombinator.com/item?id=50322022</a></p>
-<p>Points: 60</p>
-<p># Comments: 29</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2409.02292](https://arxiv.org/abs/2409.02292)
 
 ---
 
@@ -71,68 +71,68 @@ The protests in cities across Germany - including Berlin, Hamburg and Frankfurt 
 
 ---
 
-### 5. Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers
+### 5. Democrats are used to heartbreak in Texas - could Talarico turn the tide?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.
+The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Emotional reunions for Oleshky evacuees after years in Russia-occupied city
+### 6. Reeves says UK's future should be inside the EU
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents  arrived in buses and ambulances following a temporary ceasefire.
+In her first major intervention since leaving the Treasury, Rachel Reeves says Brexit has made the UK "poorer, weaker and less secure".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c62l4yz0eexpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Rubio says Trump administration did not help Bolsonaro flee Brazil to US
+### 7. US midterms: 2 days to go – what polls say as Trump, El-Sayed hit the trail
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump says defeated presidential candidate, who faces investigation in Brazil, can stay in the US &#039;as long as he wants&#039;.
+Democrats remain ahead in national polls as Trump and candidates make their final push in the days before polling day.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/flavio?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/flavio?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/us-midterms-2-days-to-go-what-polls-say-as-trump-el-sayed-hit-the-trail?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/us-midterms-2-days-to-go-what-polls-say-as-trump-el-sayed-hit-the-trail?traffic_source=rss)
 
 ---
 
-### 8. Canelo Alvarez defeats Christian Mbilli to reclaim WBC title in Riyadh
+### 8. Trump at Halloween party ‘as himself’ says he’s ‘in no hurry’ with Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mexican boxing star wins 12-round decision to defeat the French fighter and regain the super middleweight belt.
+Trump, who came to his Halloween party dressed as himself, says US not in a hurry to make a decision on striking Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/1/canelo-alvarez-defeats-christian-mbilli-to-reclaim-wbc-title-in-riyadh?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/1/canelo-alvarez-defeats-christian-mbilli-to-reclaim-wbc-title-in-riyadh?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/trump-at-halloween-party-as-himself-says-hes-in-no-hurry-with-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/trump-at-halloween-party-as-himself-says-hes-in-no-hurry-with-iran?traffic_source=rss)
 
 ---
 
-### 9. Golden State Valkyries defeat Atlanta Dream to capture first WNBA crown
+### 9. Mamdani says Trump to grant visa to mother of boy killed in Bronx shooting
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Gabby Williams, named Most Valuable Player, sets records for most points (137) and most steals (18) in the WNBA Finals.
+New York City mayor says US president &#039;has agreed to grant her visa immediately&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/1/golden-state-valkyries-defeat-atlanta-dream-to-capture-first-wnba-crown?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/1/golden-state-valkyries-defeat-atlanta-dream-to-capture-first-wnba-crown?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/mamdani-says-trump-to-grant-visa-to-mother-of-boy-killed-in-bronx-shooting?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/mamdani-says-trump-to-grant-visa-to-mother-of-boy-killed-in-bronx-shooting?traffic_source=rss)
 
 ---
 
