@@ -1,73 +1,74 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-01 23:00:27
+**Last Update:** 2026-11-02 00:07:53
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Mathematics has changed. Let's act like it
+### 1. Ask HN: Which TV do you recommend for privacy?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/">https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328251">https://news.ycombinator.com/item?id=50328251</a></p>
-<p>Points: 43</p>
-<p># Comments: 40</p>
-
-🔗 **Read more:** [https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/](https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/)
-
----
-
-### 2. Patrick Stewart taught us what good men do with power
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism">https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50327650">https://news.ycombinator.com/item?id=50327650</a></p>
-<p>Points: 173</p>
-<p># Comments: 113</p>
-
-🔗 **Read more:** [https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism](https://www.vox.com/politics/508526/patrick-stewart-jean-luc-picard-star-trek-liberalism)
-
----
-
-### 3. Frontier Airlines Likely Breached
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/">https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50327266">https://news.ycombinator.com/item?id=50327266</a></p>
-<p>Points: 97</p>
+<p>I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with at least 60hz display. I don’t mind paying a premium.<p>I have heard good things about Apple TV as a better alternative to most smart TV native apps. Would some TV’s pair better with this than others for privacy? I don’t want the TV doing anything other than being the display for Apple TV.<p>I am curious what success others have had.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328896">https://news.ycombinator.com/item?id=50328896</a></p>
+<p>Points: 21</p>
 <p># Comments: 25</p>
 
-🔗 **Read more:** [https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/](https://www.reddit.com/r/frontierairlines/comments/1xl20e8/psa_email_scam/)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=50328896](https://news.ycombinator.com/item?id=50328896)
 
 ---
 
-### 4. Shops looted as German cost-of-living protests turn violent
+### 2. It wasn't AI that flipped Proton's charge
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.raed.dev/posts/proton-loser-thinking/">https://blog.raed.dev/posts/proton-loser-thinking/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328488">https://news.ycombinator.com/item?id=50328488</a></p>
+<p>Points: 72</p>
+<p># Comments: 28</p>
+
+🔗 **Read more:** [https://blog.raed.dev/posts/proton-loser-thinking/](https://blog.raed.dev/posts/proton-loser-thinking/)
+
+---
+
+### 3. Nurses Sound Alarm as 'Uber for Nursing' Apps Push to Deregulate Healthcare
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://nurse.org/news/uber-for-nursing-gig-apps-report/">https://nurse.org/news/uber-for-nursing-gig-apps-report/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328487">https://news.ycombinator.com/item?id=50328487</a></p>
+<p>Points: 109</p>
+<p># Comments: 94</p>
+
+🔗 **Read more:** [https://nurse.org/news/uber-for-nursing-gig-apps-report/](https://nurse.org/news/uber-for-nursing-gig-apps-report/)
+
+---
+
+### 4. Russian strikes cut power to thousands in Ukraine as Kherson ceasefire to end
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.
+A rare humanitarian ceasefire has allowed civilians to evacuate the Russian-occupied city of Oleshky.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c64g1y90p71eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +98,42 @@ The broadband provider has not finalised the number of roles to be axed but it w
 
 ---
 
-### 7. How will the Iran war shape the outcome of the US midterm vote?
+### 7. Police clash with housing crisis protesters in Portugal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The conflict has become a central issue ahead of Tuesday&#039;s polls.
+Police clash with housing crisis protesters in Portugal
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/11/1/how-will-the-iran-war-shape-the-outcome-of-the-u-s-midterm-vote?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/police-clash-with-housing-crisis-protesters-in-portugal?traffic_source=rss)
 
 ---
 
-### 8. France opens ‘attempted murder’ probe into petrol bomb attacks on police
+### 8. Al Jazeera celebrates 30th anniversary
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-No arrests made after several security officers were reportedly injured during incidents at Saturday&#039;s protests.
+Since its first broadcast in 1996, Al Jazeera has spent three decades bringing stories to audiences worldwide.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-celebrates-30th-anniversary?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/al-jazeera-celebrates-30th-anniversary?traffic_source=rss)
 
 ---
 
-### 9. Michigan Dem Haley Stevens endorses Republican Senate candidate Mike Rogers
+### 9. Video captures house collapsing due to Ecuador floods
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Rep Stevens lost Democratic primary to Abdul El-Sayed and now endorses his Republican opponent in the Senate race.
+Residents filmed as a house collapsed into a swollen river in Ecuador, where torrential rains and floods linked to El N
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/michigan-dem-haley-stevens-endorses-republican-senate-candidate-mike-rogers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/video-captures-house-collapsing-due-to-ecuador-floods?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/video-captures-house-collapsing-due-to-ecuador-floods?traffic_source=rss)
 
 ---
 
