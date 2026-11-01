@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-01T19:39:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "We Took over ChatGPT Accounts",
+            "description": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/\">https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50326699\">https://news.ycombinator.com/item?id=50326699</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+            "url": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+            "published": "Sun, 01 Nov 2026 15:41:41 +0000",
+            "fetched": "2026-11-01T19:39:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Enlightenment 0.28.0 Release",
+            "description": "<p>Article URL: <a href=\"https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0\">https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50326530\">https://news.ycombinator.com/item?id=50326530</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0",
+            "published": "Sun, 01 Nov 2026 15:26:06 +0000",
+            "fetched": "2026-11-01T19:39:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+            "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies\">https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50326118\">https://news.ycombinator.com/item?id=50326118</a></p>\n<p>Points: 54</p>\n<p># Comments: 8</p>",
+            "url": "https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies",
+            "published": "Sun, 01 Nov 2026 14:36:13 +0000",
+            "fetched": "2026-11-01T19:39:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Shops looted as German cost-of-living protests turn violent",
+            "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+            "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 01 Nov 2026 11:57:48 GMT",
+            "fetched": "2026-11-01T19:39:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Healey risks breaking minimum wage promise for younger workers",
+            "description": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.",
+            "url": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 01 Nov 2026 11:05:40 GMT",
+            "fetched": "2026-11-01T19:39:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five teenagers stabbed at Halloween party",
+            "description": "Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's Ford.",
+            "url": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 01 Nov 2026 15:01:31 GMT",
+            "fetched": "2026-11-01T19:39:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump slams ex-lawyer’s $50m deal with pardoned banker’s family",
+            "description": "Alina Habba Mildon signed lucrative contract while working at the Justice Department, before Trump pardoned the banker.",
+            "url": "https://www.aljazeera.com/news/2026/11/1/trump-slams-ex-lawyers-50m-deal-with-pardoned-bankers-family?traffic_source=rss",
+            "published": "Sun, 01 Nov 2026 15:50:19 +0000",
+            "fetched": "2026-11-01T19:39:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Dramatic helicopter rescue saves climbers stranded on Italian cliff",
+            "description": "Dramatic helicopter rescue saves climbers stranded on Italian cliff",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/dramatic-helicopter-rescue-saves-climbers-stranded-on-italian-cliff?traffic_source=rss",
+            "published": "Sun, 01 Nov 2026 15:40:58 +0000",
+            "fetched": "2026-11-01T19:39:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "JERUSALEM DAILY: Israel continues siege and arrests in Hebron",
+            "description": "Israel’s siege on Hebron is on its 10th day and its attacks on Gaza continue.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss",
+            "published": "Sun, 01 Nov 2026 15:38:12 +0000",
+            "fetched": "2026-11-01T19:39:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-11-01T19:39:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-11-01T19:39:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-11-01T19:39:22+03:30"
+        }
+    ]
+}

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-01 18:26:33
+**Last Update:** 2026-11-01 19:39:22
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Novellas with Groff
+### 1. We Took over ChatGPT Accounts
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html">https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50325694">https://news.ycombinator.com/item?id=50325694</a></p>
+<p>Article URL: <a href="https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/">https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50326699">https://news.ycombinator.com/item?id=50326699</a></p>
 <p>Points: 11</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/](https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/)
+
+---
+
+### 2. Enlightenment 0.28.0 Release
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0">https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50326530">https://news.ycombinator.com/item?id=50326530</a></p>
+<p>Points: 8</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html](https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html)
+🔗 **Read more:** [https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0](https://www.enlightenment.org/news/2026-10-31-enlightenment-0.28.0)
 
 ---
 
-### 2. AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy
+### 3. Police chief unplugs Flock cameras after company ignores contract cancellation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy">https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50325662">https://news.ycombinator.com/item?id=50325662</a></p>
-<p>Points: 20</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies">https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50326118">https://news.ycombinator.com/item?id=50326118</a></p>
+<p>Points: 54</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy](https://www.tomshardware.com/tech-industry/artificial-intelligence/ai-agent-swarms-unleashed-in-minecraft-to-build-a-thriving-civilization-50-agent-teams-fail-after-falling-into-paralyzing-bureaucracy)
-
----
-
-### 3. Proving and Improving the Platonic Representation Hypothesis with JEPAs
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2610.39302">https://arxiv.org/abs/2610.39302</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50325454">https://news.ycombinator.com/item?id=50325454</a></p>
-<p>Points: 25</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2610.39302](https://arxiv.org/abs/2610.39302)
+🔗 **Read more:** [https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies](https://www.tomshardware.com/tech-industry/big-tech/police-chief-physically-unplugs-flock-cameras-after-the-company-ignores-contract-cancellation-city-takes-matters-into-its-own-hands-amid-privacy-controversies)
 
 ---
 
@@ -84,55 +84,55 @@ The Chancellor has suggested that younger workers might not receive the same min
 
 ---
 
-### 6. More than 300 arrests at Palestine Action support protest outside US embassy
+### 6. Five teenagers stabbed at Halloween party
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-More than 4,000 people have been arrested for supporting the group since it was proscribed in July 2025.
+Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's Ford.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c98rz23ed781o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c98rz23ed781o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Why is Morocco celebrating the defeat of a UN resolution on Western Sahara?
+### 7. Trump slams ex-lawyer’s $50m deal with pardoned banker’s family
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Mandate expires for UN mission tasked to monitor 1991 truce and hold a referendum in the disputed territory.
+Alina Habba Mildon signed lucrative contract while working at the Justice Department, before Trump pardoned the banker.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/why-is-morocco-celebrating-the-defeat-of-a-un-resolution-on-western-sahara?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/why-is-morocco-celebrating-the-defeat-of-a-un-resolution-on-western-sahara?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/trump-slams-ex-lawyers-50m-deal-with-pardoned-bankers-family?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/trump-slams-ex-lawyers-50m-deal-with-pardoned-bankers-family?traffic_source=rss)
 
 ---
 
-### 8. Israel election: When will government be formed, who will lead it?
+### 8. Dramatic helicopter rescue saves climbers stranded on Italian cliff
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Herzog must tap candidate to form new government by November 11, with fraught negotiations likely to follow.
+Dramatic helicopter rescue saves climbers stranded on Italian cliff
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/israel-election-when-will-government-be-formed-who-will-lead-it?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/dramatic-helicopter-rescue-saves-climbers-stranded-on-italian-cliff?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/dramatic-helicopter-rescue-saves-climbers-stranded-on-italian-cliff?traffic_source=rss)
 
 ---
 
-### 9. Israeli attacks on Gaza kill at least nine people
+### 9. JERUSALEM DAILY: Israel continues siege and arrests in Hebron
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli attacks on Gaza City and Khan Younis killed at least nine people on Sunday.
+Israel’s siege on Hebron is on its 10th day and its attacks on Gaza continue.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/israeli-attacks-on-gaza-kill-at-least-nine-people?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/jerusalem-daily-israel-continues-siege-and-arrests-in-hebron?traffic_source=rss)
 
 ---
 
