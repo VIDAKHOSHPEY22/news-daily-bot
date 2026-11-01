@@ -1,74 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-01 05:51:50
+**Last Update:** 2026-11-01 10:50:53
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Show HN: BBRouter – Ben Eater's 8-bit computer, simulated on 3D breadboards
+### 1. Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hi HN,<p>I kept wiring Ben Eater's 8-bit computer wrong, so I built a realistic virtual breadboard editor.<p>Some of the nice features are side-by-side diff, scope, schematics auto-sync, auto-router (BBRouter stands for breadboard router), and my favorites: upload from the real Arduino IDE and connect to your AI with MCP, let Claude & co build it or help you troubleshoot.<p>The link is the SAP-1 running. You can orbit it, probe a hole with the scope, slow the clock down, play with the virtual displays for debugging, then you can actually build it following the step-by-step instructions.<p>A side-goal is to create a community, there are quite a lot of simulators out there but mostly offline / too abstract to realistically use it for a real build. I also never found one that had a decent UI/UX and worked well on mobile or with a trackpad.<p>Happy to answer anything, and tell me what breaks.<p>p.s. Maker plan is $7/month; code HACKERNEWS makes the first month free and then $5/month for as long as you keep it.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50321522">https://news.ycombinator.com/item?id=50321522</a></p>
-<p>Points: 4</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/">https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50322173">https://news.ycombinator.com/item?id=50322173</a></p>
+<p>Points: 85</p>
+<p># Comments: 32</p>
 
-🔗 **Read more:** [https://bbrouter.com/bbrouter/ben-eater-sap-1](https://bbrouter.com/bbrouter/ben-eater-sap-1)
+🔗 **Read more:** [https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/)
 
 ---
 
-### 2. Constructing a Quine from Kleene's Second Recursion Theorem
+### 2. OTape
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://emarzion.github.io/KSRT/">https://emarzion.github.io/KSRT/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50321436">https://news.ycombinator.com/item?id=50321436</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.otape.org/">https://www.otape.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50322169">https://news.ycombinator.com/item?id=50322169</a></p>
+<p>Points: 18</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://emarzion.github.io/KSRT/](https://emarzion.github.io/KSRT/)
+🔗 **Read more:** [https://www.otape.org/](https://www.otape.org/)
 
 ---
 
-### 3. Work Requirements for Trick-or-Treaters
+### 3. Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://morewrong.lol/?post=work-requirements-trick-or-treaters">https://morewrong.lol/?post=work-requirements-trick-or-treaters</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50321373">https://news.ycombinator.com/item?id=50321373</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2409.02292">https://arxiv.org/abs/2409.02292</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50322022">https://news.ycombinator.com/item?id=50322022</a></p>
+<p>Points: 60</p>
+<p># Comments: 29</p>
 
-🔗 **Read more:** [https://morewrong.lol/?post=work-requirements-trick-or-treaters](https://morewrong.lol/?post=work-requirements-trick-or-treaters)
+🔗 **Read more:** [https://arxiv.org/abs/2409.02292](https://arxiv.org/abs/2409.02292)
 
 ---
 
-### 4. 'We came back from hell', say Ukrainians after years in Russia-occupied front-line city
+### 4. Shops looted as German cost of living protests turn violent
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-One evacuated couple says they crossed minefields in Oleshky in search of food.
+The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqglw3k7djp1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -85,55 +84,55 @@ The Chancellor has suggested that younger workers might not receive the same min
 
 ---
 
-### 6. King to address slavery during Commonwealth speech in Antigua on final leg of Caribbean tour
+### 6. Emotional reunions for Oleshky evacuees after years in Russia-occupied city
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-King Charles III will deliver a speech to the Commonwealth Heads of Government Meeting on Tuesday as he concludes his nine-day Caribbean tour.
+The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents  arrived in buses and ambulances following a temporary ceasefire.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Thousands rally in Israel urging Eisenkot-Arab deal to remove Netanyahu
+### 7. Rubio says Trump administration did not help Bolsonaro flee Brazil to US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In a counterprotest, Netanyahu supporters demand that Israel should not have a government with &#039;terrorists&#039;.
+Trump says defeated presidential candidate, who faces investigation in Brazil, can stay in the US &#039;as long as he wants&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/thousands-rally-in-israel-urging-eisenkot-arab-deal-to-remove-netanyahu?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/flavio?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/flavio?traffic_source=rss)
 
 ---
 
-### 8. Talarico draws a packed campus rally, but can he win over young voters?
+### 8. Canelo Alvarez defeats Christian Mbilli to reclaim WBC title in Riyadh
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera’s @EmmaWithrow attended a packed rally for Democrat Senate Candidate James Talarico at Texas A&amp;M.
+Mexican boxing star wins 12-round decision to defeat the French fighter and regain the super middleweight belt.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/talarico-draws-a-packed-campus-rally-but-can-he-win-over-young-voters?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/talarico-draws-a-packed-campus-rally-but-can-he-win-over-young-voters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/1/canelo-alvarez-defeats-christian-mbilli-to-reclaim-wbc-title-in-riyadh?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/1/canelo-alvarez-defeats-christian-mbilli-to-reclaim-wbc-title-in-riyadh?traffic_source=rss)
 
 ---
 
-### 9. Polish president holds crisis talks in court standoff
+### 9. Golden State Valkyries defeat Atlanta Dream to capture first WNBA crown
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A dispute over the politicisation of Poland&#039;s constitutional court is deepening, with no side appearing to back down.
+Gabby Williams, named Most Valuable Player, sets records for most points (137) and most steals (18) in the WNBA Finals.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/polish-president-holds-crisis-talks-in-court-standoff?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/1/golden-state-valkyries-defeat-atlanta-dream-to-capture-first-wnba-crown?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/1/golden-state-valkyries-defeat-atlanta-dream-to-capture-first-wnba-crown?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-01T10:50:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+            "description": "<p>Article URL: <a href=\"https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/\">https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50322173\">https://news.ycombinator.com/item?id=50322173</a></p>\n<p>Points: 85</p>\n<p># Comments: 32</p>",
+            "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+            "published": "Sun, 01 Nov 2026 02:19:53 +0000",
+            "fetched": "2026-11-01T10:50:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OTape",
+            "description": "<p>Article URL: <a href=\"https://www.otape.org/\">https://www.otape.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50322169\">https://news.ycombinator.com/item?id=50322169</a></p>\n<p>Points: 18</p>\n<p># Comments: 5</p>",
+            "url": "https://www.otape.org/",
+            "published": "Sun, 01 Nov 2026 02:18:46 +0000",
+            "fetched": "2026-11-01T10:50:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2409.02292\">https://arxiv.org/abs/2409.02292</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50322022\">https://news.ycombinator.com/item?id=50322022</a></p>\n<p>Points: 60</p>\n<p># Comments: 29</p>",
+            "url": "https://arxiv.org/abs/2409.02292",
+            "published": "Sun, 01 Nov 2026 01:46:29 +0000",
+            "fetched": "2026-11-01T10:50:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Shops looted as German cost of living protests turn violent",
+            "description": "The protests in cities across Germany - including Berlin, Hamburg and Frankfurt - came on the same day hundreds of thousands also protested in France.",
+            "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 01 Nov 2026 07:05:50 GMT",
+            "fetched": "2026-11-01T10:50:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
+            "description": "The Chancellor has suggested that younger workers might not receive the same minimum wage as others before the next election.",
+            "url": "https://www.bbc.co.uk/news/articles/cv369266644lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 31 Oct 2026 17:26:29 GMT",
+            "fetched": "2026-11-01T10:50:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Emotional reunions for Oleshky evacuees after years in Russia-occupied city",
+            "description": "The BBC's Dan Johnson travelled to the northern Ukrainian border with Belarus after evacuated Oleshky residents  arrived in buses and ambulances following a temporary ceasefire.",
+            "url": "https://www.bbc.co.uk/news/videos/cmy83w0jwznpo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 31 Oct 2026 16:55:47 GMT",
+            "fetched": "2026-11-01T10:50:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rubio says Trump administration did not help Bolsonaro flee Brazil to US",
+            "description": "Trump says defeated presidential candidate, who faces investigation in Brazil, can stay in the US &#039;as long as he wants&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/11/1/flavio?traffic_source=rss",
+            "published": "Sun, 01 Nov 2026 06:34:20 +0000",
+            "fetched": "2026-11-01T10:50:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Canelo Alvarez defeats Christian Mbilli to reclaim WBC title in Riyadh",
+            "description": "Mexican boxing star wins 12-round decision to defeat the French fighter and regain the super middleweight belt.",
+            "url": "https://www.aljazeera.com/sports/2026/11/1/canelo-alvarez-defeats-christian-mbilli-to-reclaim-wbc-title-in-riyadh?traffic_source=rss",
+            "published": "Sun, 01 Nov 2026 06:19:52 +0000",
+            "fetched": "2026-11-01T10:50:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Golden State Valkyries defeat Atlanta Dream to capture first WNBA crown",
+            "description": "Gabby Williams, named Most Valuable Player, sets records for most points (137) and most steals (18) in the WNBA Finals.",
+            "url": "https://www.aljazeera.com/sports/2026/11/1/golden-state-valkyries-defeat-atlanta-dream-to-capture-first-wnba-crown?traffic_source=rss",
+            "published": "Sun, 01 Nov 2026 06:17:45 +0000",
+            "fetched": "2026-11-01T10:50:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-11-01T10:50:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-11-01T10:50:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-11-01T10:50:53+03:30"
+        }
+    ]
+}
