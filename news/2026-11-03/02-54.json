@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-03T02:54:23+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anthropic's growth just flattened",
+            "description": "<p>Article URL: <a href=\"https://www.regenerator1.com/p/anthropics-growth-just-flattened\">https://www.regenerator1.com/p/anthropics-growth-just-flattened</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50344958\">https://news.ycombinator.com/item?id=50344958</a></p>\n<p>Points: 51</p>\n<p># Comments: 28</p>",
+            "url": "https://www.regenerator1.com/p/anthropics-growth-just-flattened",
+            "published": "Mon, 02 Nov 2026 22:33:20 +0000",
+            "fetched": "2026-11-03T02:54:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The SEC Should Block Anthropic's IPO to Protect the Public",
+            "description": "<p>Article URL: <a href=\"https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/\">https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50344919\">https://news.ycombinator.com/item?id=50344919</a></p>\n<p>Points: 67</p>\n<p># Comments: 21</p>",
+            "url": "https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/",
+            "published": "Mon, 02 Nov 2026 22:30:47 +0000",
+            "fetched": "2026-11-03T02:54:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple reports fourth quarter results",
+            "description": "<p>Article URL: <a href=\"https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/\">https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50344670\">https://news.ycombinator.com/item?id=50344670</a></p>\n<p>Points: 44</p>\n<p># Comments: 17</p>",
+            "url": "https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/",
+            "published": "Mon, 02 Nov 2026 22:13:42 +0000",
+            "fetched": "2026-11-03T02:54:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mahmood scraps settlement plans for migrant care workers",
+            "description": "The home secretary laid out a revised proposal for changing when migrants can claim permanent residency.",
+            "url": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 02 Nov 2026 22:32:31 GMT",
+            "fetched": "2026-11-03T02:54:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Shop freezers in seven European countries hit by cyber-attack",
+            "description": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+            "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 02 Nov 2026 17:38:11 GMT",
+            "fetched": "2026-11-03T02:54:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+            "description": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
+            "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 02 Nov 2026 17:34:58 GMT",
+            "fetched": "2026-11-03T02:54:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US midterms 2026: What polls reveal about Democratic, Republican voters",
+            "description": "From the economy and cost of living to immigration, polls suggest where American voters agree and disagree.",
+            "url": "https://www.aljazeera.com/news/2026/11/2/us-midterms-2026-what-polls-reveal-about-democratic-republican-voters?traffic_source=rss",
+            "published": "Mon, 02 Nov 2026 22:40:06 +0000",
+            "fetched": "2026-11-03T02:54:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Student protests resume in France as pupils return to school",
+            "description": "Student protests resume in France as pupils return to school",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/student-protests-resume-in-france-as-pupils-return-to-school?traffic_source=rss",
+            "published": "Mon, 02 Nov 2026 21:28:55 +0000",
+            "fetched": "2026-11-03T02:54:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Work to do’: Authorities give update on Florida private jet crash",
+            "description": "Officials have provided an update on the investigation into Sunday’s deadly Learjet crash in Florida.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/work-to-do-authorities-give-update-on-florida-private-jet-crash?traffic_source=rss",
+            "published": "Mon, 02 Nov 2026 21:23:31 +0000",
+            "fetched": "2026-11-03T02:54:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-03T02:54:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-03T02:54:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire McCarty Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25986",
+            "published": "2026-10-29T12:16:00Z",
+            "fetched": "2026-11-03T02:54:23+03:30"
+        }
+    ]
+}
