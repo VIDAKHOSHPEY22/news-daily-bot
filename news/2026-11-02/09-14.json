@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-02T09:14:33+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix",
+            "description": "<p>Article URL: <a href=\"https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/\">https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50332163\">https://news.ycombinator.com/item?id=50332163</a></p>\n<p>Points: 61</p>\n<p># Comments: 5</p>",
+            "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+            "published": "Mon, 02 Nov 2026 01:59:38 +0000",
+            "fetched": "2026-11-02T09:14:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI fan wikis riddled with errors are muddying the waters of games culture",
+            "description": "<p>Article URL: <a href=\"https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture\">https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50332086\">https://news.ycombinator.com/item?id=50332086</a></p>\n<p>Points: 56</p>\n<p># Comments: 29</p>",
+            "url": "https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture",
+            "published": "Mon, 02 Nov 2026 01:47:07 +0000",
+            "fetched": "2026-11-02T09:14:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Trigger.dev customer environment variables exposed",
+            "description": "<p>Article URL: <a href=\"https://trigger.dev/blog/security-incident-nov-2026\">https://trigger.dev/blog/security-incident-nov-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50331784\">https://news.ycombinator.com/item?id=50331784</a></p>\n<p>Points: 45</p>\n<p># Comments: 14</p>",
+            "url": "https://trigger.dev/blog/security-incident-nov-2026",
+            "published": "Mon, 02 Nov 2026 01:09:16 +0000",
+            "fetched": "2026-11-02T09:14:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five teenagers stabbed at Halloween party",
+            "description": "Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's Ford.",
+            "url": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 01 Nov 2026 15:01:31 GMT",
+            "fetched": "2026-11-02T09:14:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Like a missile coming down' - Nine killed in fiery Florida jet crash",
+            "description": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\".",
+            "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 02 Nov 2026 02:59:02 GMT",
+            "fetched": "2026-11-02T09:14:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How a Democrat in Michigan rocked the party days before the US midterms",
+            "description": "BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.",
+            "url": "https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 02 Nov 2026 04:40:00 GMT",
+            "fetched": "2026-11-02T09:14:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Write-In Ralph: South Carolina Republicans challenge Trump’s Senate pick",
+            "description": "As Trump supports Senator Darline Graham, one conservative group is rallying around someone else.",
+            "url": "https://www.aljazeera.com/news/2026/11/2/write-in-ralph-south-carolina-republicans-challenge-trumps-senate-pick?traffic_source=rss",
+            "published": "Mon, 02 Nov 2026 04:31:02 +0000",
+            "fetched": "2026-11-02T09:14:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bulgaria has its first elected female president",
+            "description": "Iliana Iotova has won Bulgaria’s presidential runoff, becoming the country’s first elected female president.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bulgaria-has-its-first-elected-female-president?traffic_source=rss",
+            "published": "Mon, 02 Nov 2026 04:25:56 +0000",
+            "fetched": "2026-11-02T09:14:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump leans into Islamophobia and conspiracy in last-ditch campaign rallies",
+            "description": "Trump attacks Muslim politicians Abdul El-Sayed and Ilhan Omar in his two last rallies on the campaign trail.",
+            "url": "https://www.aljazeera.com/news/2026/11/2/trump-leans-into-islamophobia-and-conspiracy-in-last-ditch-campaign-rallies?traffic_source=rss",
+            "published": "Mon, 02 Nov 2026 04:08:54 +0000",
+            "fetched": "2026-11-02T09:14:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-11-02T09:14:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-11-02T09:14:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-11-02T09:14:33+03:30"
+        }
+    ]
+}
