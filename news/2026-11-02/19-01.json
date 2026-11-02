@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-02T19:01:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Shop freezers in seven European countries hit by cyber-attack",
+            "description": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+            "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 02 Nov 2026 15:12:22 GMT",
+            "fetched": "2026-11-02T19:01:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mother told to book appointment to give birth to her baby who had died",
+            "description": "Newcastle Hospitals NHS Trust apologises for care it says \"fell short of the standards\" expected.",
+            "url": "https://www.bbc.co.uk/news/articles/cm9dzn8e737jo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 02 Nov 2026 12:51:10 GMT",
+            "fetched": "2026-11-02T19:01:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nine killed as small jet crashes on Florida street",
+            "description": "In air traffic audio, a crew member can be heard shouting: \"We are going to crash into the ground.\"",
+            "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 02 Nov 2026 09:10:19 GMT",
+            "fetched": "2026-11-02T19:01:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Al Jazeera condemns Israeli ban extension, calls for its immediate lifting",
+            "description": "Network calls move &#039;assault&#039; on press freedom, warns of &#039;dangerous pattern&#039; that undermines ability to report facts.",
+            "url": "https://www.aljazeera.com/news/2026/11/2/al-jazeera-condemns-israeli-ban-extension-calls-for-its-immediate-lifting?traffic_source=rss",
+            "published": "Mon, 02 Nov 2026 15:09:49 +0000",
+            "fetched": "2026-11-02T19:01:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Arab parties back Eisenkot: What’s the latest in Israel’s coalition talks?",
+            "description": "Political wrangling is still ongoing as all blocs weigh potential paths to power.",
+            "url": "https://www.aljazeera.com/news/2026/11/2/arab-parties-back-eisenkot-whats-the-latest-in-israels-coalition-talks?traffic_source=rss",
+            "published": "Mon, 02 Nov 2026 15:00:08 +0000",
+            "fetched": "2026-11-02T19:01:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Barcelona vs Aston Villa: Champions League – Predictions, news, lineups",
+            "description": "Aston Villa, second in the UEFA Champions League table after three wins from three, head to Barcelona, three points back",
+            "url": "https://www.aljazeera.com/sports/2026/11/2/barcelona-vs-aston-villa-champions-league-predictions-news?traffic_source=rss",
+            "published": "Mon, 02 Nov 2026 14:57:01 +0000",
+            "fetched": "2026-11-02T19:01:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-11-02T19:01:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-11-02T19:01:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-11-02T19:01:57+03:30"
+        }
+    ]
+}
