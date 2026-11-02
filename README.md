@@ -1,16 +1,33 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-02 09:14:33
+**Last Update:** 2026-11-02 11:17:12
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix
+### 1. Show HN: Wikihack – HackerTube, but for Wikipedia articles mentioned on HN
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>After seeing Karpathy's Hackertube and Hackerbooks, I just had to make Wikihack.<p>I scraped all mentions of wikipedia on hackernews and ranked them, and turn them into a scrollable feed to make it a bit more easy to digest / interact with. You can see where people submitted the articles and where people mentioned it in comments.<p>The top shows the most frequently linked articles.<p>Random is random but slightly weighted towards the more frequently linked articles (a little bit like Wikipedia actually).<p>Rising is ranked towards the past 12 months.<p>The entire site is served only through the frontend -- I'll add more features if people enjoy this!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50333339">https://news.ycombinator.com/item?id=50333339</a></p>
+<p>Points: 44</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://wikihack.netlify.app](https://wikihack.netlify.app)
+
+---
+
+### 2. F/OSS Comics #13: BSD Unix, Part 3 – The Beginning of BSD Unix
 
 **Source:** Hacker News
 
@@ -19,14 +36,14 @@
 **Description:**
 <p>Article URL: <a href="https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/">https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50332163">https://news.ycombinator.com/item?id=50332163</a></p>
-<p>Points: 61</p>
-<p># Comments: 5</p>
+<p>Points: 87</p>
+<p># Comments: 8</p>
 
 🔗 **Read more:** [https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/](https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/)
 
 ---
 
-### 2. AI fan wikis riddled with errors are muddying the waters of games culture
+### 3. AI fan wikis riddled with errors are muddying the waters of games culture
 
 **Source:** Hacker News
 
@@ -35,30 +52,40 @@
 **Description:**
 <p>Article URL: <a href="https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture">https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50332086">https://news.ycombinator.com/item?id=50332086</a></p>
-<p>Points: 56</p>
-<p># Comments: 29</p>
+<p>Points: 78</p>
+<p># Comments: 57</p>
 
 🔗 **Read more:** [https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture](https://www.eurogamer.net/ai-fan-wikis-errors-complicating-games-culture)
 
 ---
 
-### 3. Trigger.dev customer environment variables exposed
+### 4. Mother told to book appointment to give birth to her dead baby
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://trigger.dev/blog/security-incident-nov-2026">https://trigger.dev/blog/security-incident-nov-2026</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50331784">https://news.ycombinator.com/item?id=50331784</a></p>
-<p>Points: 45</p>
-<p># Comments: 14</p>
+Newcastle Hospitals NHS Trust apologises for care it says "fell short of the standards" expected.
 
-🔗 **Read more:** [https://trigger.dev/blog/security-incident-nov-2026](https://trigger.dev/blog/security-incident-nov-2026)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm9dzn8e737jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm9dzn8e737jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Five teenagers stabbed at Halloween party
+### 5. Iran killed her teenage daughter - now she is facing up to the regime
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Samira's 16-year-old daughter Sevda was shot dead as they took part in mass protests in January.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3qjn8117kwjo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Five teenagers stabbed at Halloween party
 
 **Source:** BBC
 
@@ -71,68 +98,42 @@ Hampshire Police believes an unknown group gained entry to the party at an addre
 
 ---
 
-### 5. 'Like a missile coming down' - Nine killed in fiery Florida jet crash
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a "horrific tragedy".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. How a Democrat in Michigan rocked the party days before the US midterms
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-BBC's Nada Tawfik visited Detroit, Michigan where the party spat unfolded.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cqvgjljj74n8o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Write-In Ralph: South Carolina Republicans challenge Trump’s Senate pick
+### 7. Hormuz shipping still faces major risks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As Trump supports Senator Darline Graham, one conservative group is rallying around someone else.
+The Strait of Hormuz remains dangerous and costly for shipping, despite US claims that it is open.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/2/write-in-ralph-south-carolina-republicans-challenge-trumps-senate-pick?traffic_source=rss](https://www.aljazeera.com/news/2026/11/2/write-in-ralph-south-carolina-republicans-challenge-trumps-senate-pick?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/2/hormuz-shipping-still-faces-major-risks?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/2/hormuz-shipping-still-faces-major-risks?traffic_source=rss)
 
 ---
 
-### 8. Bulgaria has its first elected female president
+### 8. The future of the Palestinian vote in Israel
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iliana Iotova has won Bulgaria’s presidential runoff, becoming the country’s first elected female president.
+The backlash against the high Palestinian turnout reveals much about the state of Israeli democracy and its future.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/2/bulgaria-has-its-first-elected-female-president?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/2/bulgaria-has-its-first-elected-female-president?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/2/the-future-of-the-palestinian-vote-in-israel?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/2/the-future-of-the-palestinian-vote-in-israel?traffic_source=rss)
 
 ---
 
-### 9. Trump leans into Islamophobia and conspiracy in last-ditch campaign rallies
+### 9. Bangladesh garment factories disrupted as protests continue for third day
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump attacks Muslim politicians Abdul El-Sayed and Ilhan Omar in his two last rallies on the campaign trail.
+Workers in Bangladesh&#039;s largest export sector are demanding a minimum wage increase amid rising inflation.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/2/trump-leans-into-islamophobia-and-conspiracy-in-last-ditch-campaign-rallies?traffic_source=rss](https://www.aljazeera.com/news/2026/11/2/trump-leans-into-islamophobia-and-conspiracy-in-last-ditch-campaign-rallies?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/2/bangladesh-garment-factories-disrupted-as-protests-continue-for-third-day?traffic_source=rss](https://www.aljazeera.com/news/2026/11/2/bangladesh-garment-factories-disrupted-as-protests-continue-for-third-day?traffic_source=rss)
 
 ---
 
