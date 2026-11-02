@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-02T04:24:06+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "U.S. workers took home their smallest share of capital since at least 1947",
+            "description": "<p>Article URL: <a href=\"https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/\">https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50330939\">https://news.ycombinator.com/item?id=50330939</a></p>\n<p>Points: 161</p>\n<p># Comments: 55</p>",
+            "url": "https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/",
+            "published": "Sun, 01 Nov 2026 23:20:31 +0000",
+            "fetched": "2026-11-02T04:24:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI delivers 'zero financial payoff' to most companies, Apollo economist says",
+            "description": "<p>Article URL: <a href=\"https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/\">https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50330456\">https://news.ycombinator.com/item?id=50330456</a></p>\n<p>Points: 119</p>\n<p># Comments: 105</p>",
+            "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+            "published": "Sun, 01 Nov 2026 22:10:45 +0000",
+            "fetched": "2026-11-02T04:24:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ask HN: Which TV do you recommend for privacy?",
+            "description": "<p>I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with at least 60hz display. I don’t mind paying a premium.<p>I have heard good things about Apple TV as a better alternative to most smart TV native apps. Would some TV’s pair better with this than others for privacy? I don’t want the TV doing anything other than being the display for Apple TV.<p>I am curious what success others have had.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50328896\">https://news.ycombinator.com/item?id=50328896</a></p>\n<p>Points: 110</p>\n<p># Comments: 192</p>",
+            "url": "https://news.ycombinator.com/item?id=50328896",
+            "published": "Sun, 01 Nov 2026 19:35:27 +0000",
+            "fetched": "2026-11-02T04:24:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ukraine air raid app apparently hacked as users receive false radiation threat, Air Force says",
+            "description": "Authorities say there is no threat and have advised the public to stay calm and follow official channels for information.",
+            "url": "https://www.bbc.co.uk/news/articles/c51kdy1ew7zvo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 01 Nov 2026 22:38:24 GMT",
+            "fetched": "2026-11-02T04:24:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five teenagers stabbed at Halloween party",
+            "description": "Hampshire Police believes an unknown group gained entry to the party at an address in Chandler's Ford.",
+            "url": "https://www.bbc.co.uk/news/articles/c6n4ed1l2pn1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 01 Nov 2026 15:01:31 GMT",
+            "fetched": "2026-11-02T04:24:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Thousands of jobs at Virgin Media O2 to be cut",
+            "description": "The broadband provider has not finalised the number of roles to be axed but it will likely be a sizeable chunk of its workforce, the BBC understands.",
+            "url": "https://www.bbc.co.uk/news/articles/c6rry8x9d9qko?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 01 Nov 2026 16:57:14 GMT",
+            "fetched": "2026-11-02T04:24:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nine die in ‘cataclysmic’ Florida business jet crash",
+            "description": "Florida Governor Ron DeSantis tells reporters there appeared to be no casualties on the ground.",
+            "url": "https://www.aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet?traffic_source=rss",
+            "published": "Mon, 02 Nov 2026 00:34:22 +0000",
+            "fetched": "2026-11-02T04:24:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli officials say results stand as Netanyahu claims election ‘stolen’",
+            "description": "Election body says deadlocked result won&#039;t be undermined even if foreign interference claims are found to be true.",
+            "url": "https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss",
+            "published": "Mon, 02 Nov 2026 00:29:16 +0000",
+            "fetched": "2026-11-02T04:24:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bollywood star greets fans in bulletproof glass after bomb threat",
+            "description": "Bollywood legend Amitabh Bachchan had greeted fans from a bulletproof enclosure outside his residence in Mumbai.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss",
+            "published": "Mon, 02 Nov 2026 00:14:22 +0000",
+            "fetched": "2026-11-02T04:24:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire South Tank Trail, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25827",
+            "published": "2026-10-28T18:02:00Z",
+            "fetched": "2026-11-02T04:24:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Walker Hill 3 Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25829",
+            "published": "2026-10-28T11:22:00Z",
+            "fetched": "2026-11-02T04:24:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Brie Slash Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25830",
+            "published": "2026-10-28T11:21:00Z",
+            "fetched": "2026-11-02T04:24:06+03:30"
+        }
+    ]
+}

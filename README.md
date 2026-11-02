@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-02 02:58:49
+**Last Update:** 2026-11-02 04:24:06
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI delivers 'zero financial payoff' to most companies, Apollo economist says
+### 1. U.S. workers took home their smallest share of capital since at least 1947
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/">https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50330939">https://news.ycombinator.com/item?id=50330939</a></p>
+<p>Points: 161</p>
+<p># Comments: 55</p>
+
+🔗 **Read more:** [https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/](https://fortune.com/article/why-did-us-workers-just-take-home-smallest-share-of-capital-since-1947-lowest-ever-recorded/)
+
+---
+
+### 2. AI delivers 'zero financial payoff' to most companies, Apollo economist says
 
 **Source:** Hacker News
 
@@ -19,42 +35,27 @@
 **Description:**
 <p>Article URL: <a href="https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/">https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50330456">https://news.ycombinator.com/item?id=50330456</a></p>
-<p>Points: 20</p>
-<p># Comments: 5</p>
+<p>Points: 119</p>
+<p># Comments: 105</p>
 
 🔗 **Read more:** [https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/](https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/)
 
 ---
 
-### 2. So I guess everyone uses LLMs to think now
+### 3. Ask HN: Which TV do you recommend for privacy?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://eva.ac/blog/llms/">https://eva.ac/blog/llms/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50330253">https://news.ycombinator.com/item?id=50330253</a></p>
-<p>Points: 42</p>
-<p># Comments: 32</p>
+<p>I haven’t owned a TV in years and would like one that respects my privacy. Are there any TV’s which do this well? I am looking for something in the 60”to 80”range and would like a 4k display with at least 60hz display. I don’t mind paying a premium.<p>I have heard good things about Apple TV as a better alternative to most smart TV native apps. Would some TV’s pair better with this than others for privacy? I don’t want the TV doing anything other than being the display for Apple TV.<p>I am curious what success others have had.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50328896">https://news.ycombinator.com/item?id=50328896</a></p>
+<p>Points: 110</p>
+<p># Comments: 192</p>
 
-🔗 **Read more:** [https://eva.ac/blog/llms/](https://eva.ac/blog/llms/)
-
----
-
-### 3. John Leeson (the voice of K9) has died
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html">https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50329707">https://news.ycombinator.com/item?id=50329707</a></p>
-<p>Points: 27</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html](https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=50328896](https://news.ycombinator.com/item?id=50328896)
 
 ---
 
@@ -97,42 +98,42 @@ The broadband provider has not finalised the number of roles to be axed but it w
 
 ---
 
-### 7. High-ranking US Democratic senator suffers stroke
+### 7. Nine die in ‘cataclysmic’ Florida business jet crash
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Senator Chris Murphy, a fierce Trump critic who is not up for re-election in the midterms, is &#039;alert&#039; after a stroke.
+Florida Governor Ron DeSantis tells reporters there appeared to be no casualties on the ground.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/high-ranking-us-democratic-senator-suffers-stroke?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet?traffic_source=rss](https://www.aljazeera.com/news/2026/11/2/nine-die-in-cataclysmic-florida-business-jet?traffic_source=rss)
 
 ---
 
-### 8. Kherson braces for return of war as localised Russia-Ukraine truce ends
+### 8. Israeli officials say results stand as Netanyahu claims election ‘stolen’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Moscow and Kyiv continue strikes elsewhere, but no reported violations in Kherson region during the six-day ceasefire.
+Election body says deadlocked result won&#039;t be undermined even if foreign interference claims are found to be true.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss](https://www.aljazeera.com/news/2026/11/1/ukraine-evacuates-civilians-in-kherson-region-as-localised-ceasefire-ends?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss](https://www.aljazeera.com/news/2026/11/2/israeli-officials-say-results-stand-as-netanyahu-claims-election-stolen?traffic_source=rss)
 
 ---
 
-### 9. Democrat Haley Stevens heckled as she backs El-Sayed rival
+### 9. Bollywood star greets fans in bulletproof glass after bomb threat
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Democrat Haley Stevens from Michigan was heckled as a ‘traitor’, after endorsing Republican Mike Rogers.
+Bollywood legend Amitabh Bachchan had greeted fans from a bulletproof enclosure outside his residence in Mumbai.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/1/democrat-haley-stevens-heckled-as-she-backs-el-sayed-rival?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/2/bollywood-star-greets-fans-in-bulletproof-glass-after-bomb-threat?traffic_source=rss)
 
 ---
 
