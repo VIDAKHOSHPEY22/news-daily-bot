@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-03T05:10:52+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ask HN: Does anyone have a contact with Cleveland-area Ham club?",
+            "description": "<p>I filled out the web form for the Cuyahoga Amateur Radio Club but it's probably been circular-filed...  I gave some info about a large collection of radio gear that needs to be removed from a home or it will be put into a dumpster.  A lot of it brand-new.  If you know anybody at the club, please tell them to check whatever it is that receives their webform input.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50346164\">https://news.ycombinator.com/item?id=50346164</a></p>\n<p>Points: 13</p>\n<p># Comments: 2</p>",
+            "url": "https://news.ycombinator.com/item?id=50346164",
+            "published": "Tue, 03 Nov 2026 00:09:36 +0000",
+            "fetched": "2026-11-03T05:10:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Intel stock collapse worsens as $3.5T chip rout spreads",
+            "description": "<p>Article URL: <a href=\"https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html\">https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50346153\">https://news.ycombinator.com/item?id=50346153</a></p>\n<p>Points: 57</p>\n<p># Comments: 24</p>",
+            "url": "https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html",
+            "published": "Tue, 03 Nov 2026 00:08:53 +0000",
+            "fetched": "2026-11-03T05:10:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GUI64 – GUI for the Commodore 64 running on top of the built-in ROM",
+            "description": "<p>Article URL: <a href=\"https://www.c64-wiki.com/wiki/GUI64\">https://www.c64-wiki.com/wiki/GUI64</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50345735\">https://news.ycombinator.com/item?id=50345735</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://www.c64-wiki.com/wiki/GUI64",
+            "published": "Mon, 02 Nov 2026 23:32:22 +0000",
+            "fetched": "2026-11-03T05:10:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Mahmood scraps settlement plans for migrant care workers",
+            "description": "The home secretary laid out a revised proposal for changing when migrants can claim permanent residency.",
+            "url": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 02 Nov 2026 22:32:31 GMT",
+            "fetched": "2026-11-03T05:10:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Shop freezers in seven European countries hit by cyber-attack",
+            "description": "The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.",
+            "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 02 Nov 2026 17:38:11 GMT",
+            "fetched": "2026-11-03T05:10:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
+            "description": "Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.",
+            "url": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 02 Nov 2026 17:34:58 GMT",
+            "fetched": "2026-11-03T05:10:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool",
+            "description": "US President Donald Trump urged supporters to turn out ahead of Election Day",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 01:01:16 +0000",
+            "fetched": "2026-11-03T05:10:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ebola outbreak kills more than 5,300 people in DR Congo",
+            "description": "The Bundibugyo strain has spread to Kenya and Uganda, while two in Nigeria returned negative results.",
+            "url": "https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 00:50:38 +0000",
+            "fetched": "2026-11-03T05:10:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’",
+            "description": "Tehran says the US must lift its naval blockade and meet its demands in full before any agreement is reached.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 00:00:00 +0000",
+            "fetched": "2026-11-03T05:10:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-03T05:10:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-03T05:10:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire McCarty Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25986",
+            "published": "2026-10-29T12:16:00Z",
+            "fetched": "2026-11-03T05:10:52+03:30"
+        }
+    ]
+}

@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-03 02:54:23
+**Last Update:** 2026-11-03 05:10:52
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Anthropic's growth just flattened
+### 1. Ask HN: Does anyone have a contact with Cleveland-area Ham club?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.regenerator1.com/p/anthropics-growth-just-flattened">https://www.regenerator1.com/p/anthropics-growth-just-flattened</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50344958">https://news.ycombinator.com/item?id=50344958</a></p>
-<p>Points: 51</p>
-<p># Comments: 28</p>
+<p>I filled out the web form for the Cuyahoga Amateur Radio Club but it's probably been circular-filed...  I gave some info about a large collection of radio gear that needs to be removed from a home or it will be put into a dumpster.  A lot of it brand-new.  If you know anybody at the club, please tell them to check whatever it is that receives their webform input.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50346164">https://news.ycombinator.com/item?id=50346164</a></p>
+<p>Points: 13</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.regenerator1.com/p/anthropics-growth-just-flattened](https://www.regenerator1.com/p/anthropics-growth-just-flattened)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=50346164](https://news.ycombinator.com/item?id=50346164)
 
 ---
 
-### 2. The SEC Should Block Anthropic's IPO to Protect the Public
+### 2. Intel stock collapse worsens as $3.5T chip rout spreads
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/">https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50344919">https://news.ycombinator.com/item?id=50344919</a></p>
-<p>Points: 67</p>
-<p># Comments: 21</p>
+<p>Article URL: <a href="https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html">https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50346153">https://news.ycombinator.com/item?id=50346153</a></p>
+<p>Points: 57</p>
+<p># Comments: 24</p>
 
-🔗 **Read more:** [https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/](https://www.techpolicy.press/the-sec-should-block-anthropics-ipo-to-protect-the-public/)
+🔗 **Read more:** [https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html](https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html)
 
 ---
 
-### 3. Apple reports fourth quarter results
+### 3. GUI64 – GUI for the Commodore 64 running on top of the built-in ROM
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/">https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50344670">https://news.ycombinator.com/item?id=50344670</a></p>
-<p>Points: 44</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://www.c64-wiki.com/wiki/GUI64">https://www.c64-wiki.com/wiki/GUI64</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50345735">https://news.ycombinator.com/item?id=50345735</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/](https://www.apple.com/newsroom/2026/11/apple-reports-fourth-quarter-results/)
+🔗 **Read more:** [https://www.c64-wiki.com/wiki/GUI64](https://www.c64-wiki.com/wiki/GUI64)
 
 ---
 
@@ -97,42 +98,42 @@ Dozens of supermarkets in seven European countries dumped huge quantities of foo
 
 ---
 
-### 7. US midterms 2026: What polls reveal about Democratic, Republican voters
+### 7. Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-From the economy and cost of living to immigration, polls suggest where American voters agree and disagree.
+US President Donald Trump urged supporters to turn out ahead of Election Day
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/2/us-midterms-2026-what-polls-reveal-about-democratic-republican-voters?traffic_source=rss](https://www.aljazeera.com/news/2026/11/2/us-midterms-2026-what-polls-reveal-about-democratic-republican-voters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss)
 
 ---
 
-### 8. Student protests resume in France as pupils return to school
+### 8. Ebola outbreak kills more than 5,300 people in DR Congo
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Student protests resume in France as pupils return to school
+The Bundibugyo strain has spread to Kenya and Uganda, while two in Nigeria returned negative results.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/2/student-protests-resume-in-france-as-pupils-return-to-school?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/2/student-protests-resume-in-france-as-pupils-return-to-school?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss](https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss)
 
 ---
 
-### 9. ‘Work to do’: Authorities give update on Florida private jet crash
+### 9. Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Officials have provided an update on the investigation into Sunday’s deadly Learjet crash in Florida.
+Tehran says the US must lift its naval blockade and meet its demands in full before any agreement is reached.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/2/work-to-do-authorities-give-update-on-florida-private-jet-crash?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/2/work-to-do-authorities-give-update-on-florida-private-jet-crash?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss)
 
 ---
 
