@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-04T00:24:46+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pratt parsing is a black box",
+            "description": "<p>Article URL: <a href=\"https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/\">https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50357457\">https://news.ycombinator.com/item?id=50357457</a></p>\n<p>Points: 9</p>\n<p># Comments: 3</p>",
+            "url": "https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/",
+            "published": "Tue, 03 Nov 2026 20:07:41 +0000",
+            "fetched": "2026-11-04T00:24:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
+            "description": "<p><a href=\"https://docs.flipper.net/one\" rel=\"nofollow\">https://docs.flipper.net/one</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50356994\">https://news.ycombinator.com/item?id=50356994</a></p>\n<p>Points: 67</p>\n<p># Comments: 27</p>",
+            "url": "https://flipper.net/pages/flipper-one",
+            "published": "Tue, 03 Nov 2026 19:32:13 +0000",
+            "fetched": "2026-11-04T00:24:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Introduction to Programming in ATS",
+            "description": "<p>Article URL: <a href=\"https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html\">https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50356913\">https://news.ycombinator.com/item?id=50356913</a></p>\n<p>Points: 26</p>\n<p># Comments: 3</p>",
+            "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+            "published": "Tue, 03 Nov 2026 19:25:18 +0000",
+            "fetched": "2026-11-04T00:24:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
+            "description": "The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.",
+            "url": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 10:32:56 GMT",
+            "fetched": "2026-11-04T00:24:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Spanish transport minister resigns days after deadly train crash",
+            "description": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.",
+            "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 20:44:19 GMT",
+            "fetched": "2026-11-04T00:24:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
+            "description": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.",
+            "url": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 20:38:38 GMT",
+            "fetched": "2026-11-04T00:24:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Michigan voters face crucial choice as Trump’s grip on Congress is tested",
+            "description": "Michigan’s closely contested Senate race and voter concerns over the economy are putting Trump’s control of Washington.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/michigan-voters-face-crucial-choice-as-trumps-grip-on-congress-is-tested?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 20:00:30 +0000",
+            "fetched": "2026-11-04T00:24:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Michigan US Senate race: Rogers, El-Sayed urge turnout for critical race",
+            "description": "Abdul El-Sayed hopes to become the first Muslim US senator as Michigan&#039;s Senate race reaches its critical final hours.",
+            "url": "https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 19:13:49 +0000",
+            "fetched": "2026-11-04T00:24:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Severe weather disrupts election day across several US states",
+            "description": "Flash floods, torrential rain and tornadoes have disrupted midterm election day in several US states.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_severe-weather-disrupts-election-day-across-us-031126?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 19:13:19 +0000",
+            "fetched": "2026-11-04T00:24:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-04T00:24:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-04T00:24:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-04T00:24:46+03:30"
+        }
+    ]
+}
