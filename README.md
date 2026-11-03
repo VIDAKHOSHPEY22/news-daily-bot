@@ -1,139 +1,139 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-03 05:10:52
+**Last Update:** 2026-11-03 09:55:58
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Ask HN: Does anyone have a contact with Cleveland-area Ham club?
+### 1. Cloudflare experiencing multiple active incidents
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I filled out the web form for the Cuyahoga Amateur Radio Club but it's probably been circular-filed...  I gave some info about a large collection of radio gear that needs to be removed from a home or it will be put into a dumpster.  A lot of it brand-new.  If you know anybody at the club, please tell them to check whatever it is that receives their webform input.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50346164">https://news.ycombinator.com/item?id=50346164</a></p>
-<p>Points: 13</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://news.ycombinator.com/item?id=50346164](https://news.ycombinator.com/item?id=50346164)
-
----
-
-### 2. Intel stock collapse worsens as $3.5T chip rout spreads
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html">https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50346153">https://news.ycombinator.com/item?id=50346153</a></p>
-<p>Points: 57</p>
-<p># Comments: 24</p>
-
-🔗 **Read more:** [https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html](https://finance.yahoo.com/markets/article/the-intel-stock-collapse-is-getting-worse--and-the-37-trillion-chip-rout-is-spreading-212154947.html)
-
----
-
-### 3. GUI64 – GUI for the Commodore 64 running on top of the built-in ROM
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.c64-wiki.com/wiki/GUI64">https://www.c64-wiki.com/wiki/GUI64</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50345735">https://news.ycombinator.com/item?id=50345735</a></p>
-<p>Points: 5</p>
+<p>Article URL: <a href="https://www.cloudflarestatus.com/">https://www.cloudflarestatus.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50348260">https://news.ycombinator.com/item?id=50348260</a></p>
+<p>Points: 9</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.c64-wiki.com/wiki/GUI64](https://www.c64-wiki.com/wiki/GUI64)
+🔗 **Read more:** [https://www.cloudflarestatus.com/](https://www.cloudflarestatus.com/)
 
 ---
 
-### 4. Mahmood scraps settlement plans for migrant care workers
+### 2. Show HN: I built a little browser game to practice Vim commands
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>I made hjkl to help myself remember Vim commands. It’s a little browser game you can play when you want to unwind and get a bit of Vim practice in.<p>There are still a lot of commands I want to add, but I hope someone finds it useful in the meantime :)</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50347552">https://news.ycombinator.com/item?id=50347552</a></p>
+<p>Points: 9</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://hjkl.duy.run](https://hjkl.duy.run)
+
+---
+
+### 3. Show HN: Rustable is an open source database client built in Rust
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://rustable.app">https://rustable.app</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50347524">https://news.ycombinator.com/item?id=50347524</a></p>
+<p>Points: 17</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://rustable.app](https://rustable.app)
+
+---
+
+### 4. Americans head to the polls for elections that could define Trump's closing chapter
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The home secretary laid out a revised proposal for changing when migrants can claim permanent residency.
+The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Shop freezers in seven European countries hit by cyber-attack
+### 5. US strikes Iran ahead of midterm elections
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The temperature of freezers in several shops across Europe reportedly rose to as high as 50C.
+US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. 'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack
+### 6. UK and EU agree draft deal to scrap Brexit red tape over food exports
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Dozens of supermarkets in seven European countries dumped huge quantities of food after refrigerators and freezers were targeted in a cyber-attack.
+The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump makes final midterms pitch at Lincoln Memorial Reflecting Pool
+### 7. How a Harvard dream ended in tragedy for a Pakistani family
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump urged supporters to turn out ahead of Election Day
+A 24-year-old physics graduate dies after her family pays millions to a man who lied about getting her into university.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/3/trump-makes-final-midterms-pitch-at-lincoln-memorial-reflecting-pool?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/3/how-a-harvard-dream-ended-in-tragedy-for-a-pakistani-family?traffic_source=rss](https://www.aljazeera.com/features/2026/11/3/how-a-harvard-dream-ended-in-tragedy-for-a-pakistani-family?traffic_source=rss)
 
 ---
 
-### 8. Ebola outbreak kills more than 5,300 people in DR Congo
+### 8. ‘Going hungry’: Garment workers in Bangladesh say wages barely cover needs
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Bundibugyo strain has spread to Kenya and Uganda, while two in Nigeria returned negative results.
+Tens of thousands of workers in world&#039;s second-largest apparel exporter hit the streets to demand better minimum wages.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss](https://www.aljazeera.com/news/2026/11/3/ebola-outbreak-kills-more-than-5300-people-in-dr-congo?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/3/going-hungry-garment-workers-in-bangladesh-say-wages-barely-cover-needs?traffic_source=rss](https://www.aljazeera.com/news/2026/11/3/going-hungry-garment-workers-in-bangladesh-say-wages-barely-cover-needs?traffic_source=rss)
 
 ---
 
-### 9. Iran war live: Vance sees ‘progress’, Tehran says ‘ball is in US court’
+### 9. California’s Bay Area debates data centres ahead of US midterm elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran says the US must lift its naval blockade and meet its demands in full before any agreement is reached.
+At least seven Bay Area cities have passed data centre moratoriums, despite the region&#039;s reputation as an AI hub.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/3/iran-war-live-vance-sees-progress-in-talks-tehran-says-ball-in-us-court?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/3/californias-bay-area-debates-data-centres-ahead-of-us-midterm-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/11/3/californias-bay-area-debates-data-centres-ahead-of-us-midterm-elections?traffic_source=rss)
 
 ---
 

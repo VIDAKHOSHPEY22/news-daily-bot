@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-03T09:55:58+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cloudflare experiencing multiple active incidents",
+            "description": "<p>Article URL: <a href=\"https://www.cloudflarestatus.com/\">https://www.cloudflarestatus.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50348260\">https://news.ycombinator.com/item?id=50348260</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://www.cloudflarestatus.com/",
+            "published": "Tue, 03 Nov 2026 04:57:27 +0000",
+            "fetched": "2026-11-03T09:55:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: I built a little browser game to practice Vim commands",
+            "description": "<p>I made hjkl to help myself remember Vim commands. It’s a little browser game you can play when you want to unwind and get a bit of Vim practice in.<p>There are still a lot of commands I want to add, but I hope someone finds it useful in the meantime :)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50347552\">https://news.ycombinator.com/item?id=50347552</a></p>\n<p>Points: 9</p>\n<p># Comments: 9</p>",
+            "url": "https://hjkl.duy.run",
+            "published": "Tue, 03 Nov 2026 03:10:04 +0000",
+            "fetched": "2026-11-03T09:55:58+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Rustable is an open source database client built in Rust",
+            "description": "<p>Article URL: <a href=\"https://rustable.app\">https://rustable.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50347524\">https://news.ycombinator.com/item?id=50347524</a></p>\n<p>Points: 17</p>\n<p># Comments: 7</p>",
+            "url": "https://rustable.app",
+            "published": "Tue, 03 Nov 2026 03:06:53 +0000",
+            "fetched": "2026-11-03T09:55:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Americans head to the polls for elections that could define Trump's closing chapter",
+            "description": "The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him.",
+            "url": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 05:00:43 GMT",
+            "fetched": "2026-11-03T09:55:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US strikes Iran ahead of midterm elections",
+            "description": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+            "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 03:39:08 GMT",
+            "fetched": "2026-11-03T09:55:58+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+            "description": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+            "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 02:11:13 GMT",
+            "fetched": "2026-11-03T09:55:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How a Harvard dream ended in tragedy for a Pakistani family",
+            "description": "A 24-year-old physics graduate dies after her family pays millions to a man who lied about getting her into university.",
+            "url": "https://www.aljazeera.com/features/2026/11/3/how-a-harvard-dream-ended-in-tragedy-for-a-pakistani-family?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 05:51:29 +0000",
+            "fetched": "2026-11-03T09:55:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Going hungry’: Garment workers in Bangladesh say wages barely cover needs",
+            "description": "Tens of thousands of workers in world&#039;s second-largest apparel exporter hit the streets to demand better minimum wages.",
+            "url": "https://www.aljazeera.com/news/2026/11/3/going-hungry-garment-workers-in-bangladesh-say-wages-barely-cover-needs?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 05:27:56 +0000",
+            "fetched": "2026-11-03T09:55:58+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "California’s Bay Area debates data centres ahead of US midterm elections",
+            "description": "At least seven Bay Area cities have passed data centre moratoriums, despite the region&#039;s reputation as an AI hub.",
+            "url": "https://www.aljazeera.com/news/2026/11/3/californias-bay-area-debates-data-centres-ahead-of-us-midterm-elections?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 05:13:42 +0000",
+            "fetched": "2026-11-03T09:55:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-03T09:55:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-03T09:55:58+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire McCarty Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25986",
+            "published": "2026-10-29T12:16:00Z",
+            "fetched": "2026-11-03T09:55:58+03:30"
+        }
+    ]
+}
