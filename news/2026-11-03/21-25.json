@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-03T21:25:46+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+            "description": "<p>Article URL: <a href=\"https://github.com/postmanlabs/postman-app-support/issues/14370\">https://github.com/postmanlabs/postman-app-support/issues/14370</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50354960\">https://news.ycombinator.com/item?id=50354960</a></p>\n<p>Points: 42</p>\n<p># Comments: 11</p>",
+            "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+            "published": "Tue, 03 Nov 2026 17:22:37 +0000",
+            "fetched": "2026-11-03T21:25:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ashby (YC W19) Is Hiring EMs",
+            "description": "<p>Article URL: <a href=\"https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&amp;utm_source=hn\">https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&amp;utm_source=hn</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50354582\">https://news.ycombinator.com/item?id=50354582</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ashbyhq.com/careers?ashby_jid=695b1ce6-c375-4fad-94ef-61b50a3fbd28&utm_source=hn",
+            "published": "Tue, 03 Nov 2026 17:00:53 +0000",
+            "fetched": "2026-11-03T21:25:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Gitbook Breached",
+            "description": "<p>We opened a ticket with support about Gitbook availability issues and got this in reply. We have yet to see any official customer communication or breach notification. Apologies for the formatting, did the best I could as it's a mobile paste.<p>Update:<p>GitBook security incident update\n Hey <$name>,\n The GitBook app, the GitBook API, and published docs are available again. A few services may still be degraded as we finish restoring everything to full performance.<p>*What happened*\n GitBook has been the target of a sophisticated, highly targeted attack using AI agents. \n At 19:00 CET, November 2, the attacker gained unauthorized access to some of our infrastructure credentials. We detected the attack immediately and acted swiftly to block further impact. \n To make sure our infrastructure was fully secure, we then took the GitBook app and authenticated docs sites offline. We kept publicly published content live for as long as possible, using cached data.<p>*What we did immediately*\n* Blocked the attacker and closed the vulnerabilities involved\n* Replaced every credential and secret across our infrastructure\n* Brought services back only once we were confident they were secure\n* Invalidated every customer’s API tokens on our platform<p>*Your data*\n Our investigation shows that the attacker may have accessed the following:\n* Git Sync secrets.\n* GitBook API tokens.\n* Third-party API tokens used to connect external tools to GitBook.\n* Questions asked to GitBook Assistant by your site visitors.<p>At this stage, we have found no evidence that any of your content in GitBook was modified.<p>*What you need to do now*\n* Rotate any existing GitBook API tokens. We revoked all personal API tokens during the incident.\n* Rotate any third-party API tokens or secrets you use to connect other tools to GitBook.\n* If you have published integrations that use secrets, rotate those secrets.\n* If you use the GitBook MCP server, re-authenticate it.\n Please contact your GitBook organization’s admin to assist with this process.<p>*What we are doing next*\n* Monitoring the situation in case of further attacks.\n* Introducing further security measures to our platform.\n* Writing a full post mortem that will be published soon with more detailed information about the incident.\n* If you have any further questions, please reach out to your account manager or our support team. You can also check status.gitbook.com for updates<p>Thank you for your patience, and we apologize again for the disruption\n The GitBook team</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50354336\">https://news.ycombinator.com/item?id=50354336</a></p>\n<p>Points: 36</p>\n<p># Comments: 6</p>",
+            "url": "https://news.ycombinator.com/item?id=50354336",
+            "published": "Tue, 03 Nov 2026 16:45:49 +0000",
+            "fetched": "2026-11-03T21:25:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
+            "description": "The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.",
+            "url": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 10:32:56 GMT",
+            "fetched": "2026-11-03T21:25:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Bomb threats target seven flights across Europe",
+            "description": "Planes in Poland, Spain, Bulgaria and Italy have been checked for explosives following separate threats.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2wd4v04eeo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 17:21:26 GMT",
+            "fetched": "2026-11-03T21:25:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
+            "description": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.",
+            "url": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 17:04:02 GMT",
+            "fetched": "2026-11-03T21:25:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jerusalem Daily: Israel detains Al Jazeera journalist in Hebron raids",
+            "description": "Al Jazeera journalist Montaser Nassar was detained in raids near Hebron.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/jerusalem-daily-israel-detains-al-jazeera-journalist-in-hebron-raids?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 17:26:02 +0000",
+            "fetched": "2026-11-03T21:25:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian strikes on Dnipro kill two, injure 20 others",
+            "description": "Russian strikes on Dnipro damaged residential areas and several medical facilities.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/3/russian-strikes-on-dnipro-kill-two-injure-20-others?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 17:24:08 +0000",
+            "fetched": "2026-11-03T21:25:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "South Carolina shrimpers weigh costs, vote in crucial US midterms",
+            "description": "Shrimpers worry about fuel costs, tariffs and Trump&#039;s proposed cuts to the agency that provides vital weather data.",
+            "url": "https://www.aljazeera.com/news/2026/11/3/south-carolina-shrimpers-weigh-costs-vote-in-crucial-us-midterms?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 17:22:45 +0000",
+            "fetched": "2026-11-03T21:25:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-03T21:25:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-03T21:25:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg C39",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051",
+            "published": "2022-04-29T00:00:00Z",
+            "fetched": "2026-11-03T21:25:46+03:30"
+        }
+    ]
+}
