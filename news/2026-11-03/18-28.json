@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-03T18:28:28+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Just a little AI resistance, as a treat",
+            "description": "<p>Article URL: <a href=\"https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/\">https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50352257\">https://news.ycombinator.com/item?id=50352257</a></p>\n<p>Points: 53</p>\n<p># Comments: 20</p>",
+            "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat/",
+            "published": "Tue, 03 Nov 2026 14:14:12 +0000",
+            "fetched": "2026-11-03T18:28:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Microsoft's Canada timezone troubles leave admins fixing calendars",
+            "description": "<p>Article URL: <a href=\"https://www.theregister.com/software/2026/11/02/microsofts-canada-timezone-troubles-leave-admins-fixing-calendars-pretending-theyre-in-bogota/5306934\">https://www.theregister.com/software/2026/11/02/microsofts-canada-timezone-troubles-leave-admins-fixing-calendars-pretending-theyre-in-bogota/5306934</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50351833\">https://news.ycombinator.com/item?id=50351833</a></p>\n<p>Points: 17</p>\n<p># Comments: 8</p>",
+            "url": "https://www.theregister.com/software/2026/11/02/microsofts-canada-timezone-troubles-leave-admins-fixing-calendars-pretending-theyre-in-bogota/5306934",
+            "published": "Tue, 03 Nov 2026 13:37:27 +0000",
+            "fetched": "2026-11-03T18:28:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anthropic's IPO Filing Warns It May Be 'Imminently' Close to RSI",
+            "description": "<p>Article URL: <a href=\"https://epyhia.com/anthropic-s-ipo-filing-warns-it-may-be-imminently-close-to-recursive\">https://epyhia.com/anthropic-s-ipo-filing-warns-it-may-be-imminently-close-to-recursive</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50351712\">https://news.ycombinator.com/item?id=50351712</a></p>\n<p>Points: 16</p>\n<p># Comments: 15</p>",
+            "url": "https://epyhia.com/anthropic-s-ipo-filing-warns-it-may-be-imminently-close-to-recursive",
+            "published": "Tue, 03 Nov 2026 13:26:43 +0000",
+            "fetched": "2026-11-03T18:28:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
+            "description": "The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.",
+            "url": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 10:32:56 GMT",
+            "fetched": "2026-11-03T18:28:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Spanish footballer dies after collision with goalkeeper during match",
+            "description": "Tenerife striker Jesus de Miguel has died after the 30-year-old suffered a serious injury during a Spanish second-division match.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/ck62yvz046pjo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 09:09:18 GMT",
+            "fetched": "2026-11-03T18:28:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "MI5 will not face contempt of court charges despite admitting its evidence was a lie",
+            "description": "MI5 chief Sir Ken McCallum welcomed the court's decision and says its judgment \"underlines MI5's serious failures in this case\".",
+            "url": "https://www.bbc.co.uk/news/articles/cq5yn64wn2y7o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 11:02:47 GMT",
+            "fetched": "2026-11-03T18:28:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "From Italy to Canada, how the UK’s Palestine Action group went global",
+            "description": "The banned UK group, which targets Israel&#039;s war machine, has inspired activists in Europe and beyond.",
+            "url": "https://www.aljazeera.com/news/2026/11/3/from-italy-to-canada-how-the-uks-palestine-action-group-went-global?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 14:30:24 +0000",
+            "fetched": "2026-11-03T18:28:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Very cold war: Who’s attacking Europe’s supermarket freezers?",
+            "description": "Cold stores in supermarkets across Europe have been targeted in a cyberattack with no clear culprit.",
+            "url": "https://www.aljazeera.com/news/2026/11/3/very-cold-war-whos-attacking-europes-supermarket-freezers?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 14:17:29 +0000",
+            "fetched": "2026-11-03T18:28:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who is goalkeeper Owono and will he be punished after De Miguel’s death?",
+            "description": "Andorra goalkeeper Jesus Owono is at the centre of a social media storm after the death of Tenerife&#039;s Jesus de Miguel.",
+            "url": "https://www.aljazeera.com/sports/2026/11/3/who-is-goalkeeper-jesus-owono-and-will-he-be-punished-after-miguels-death?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 14:02:00 +0000",
+            "fetched": "2026-11-03T18:28:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-03T18:28:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-03T18:28:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg C39",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_6051",
+            "published": "2022-04-29T00:00:00Z",
+            "fetched": "2026-11-03T18:28:28+03:30"
+        }
+    ]
+}
