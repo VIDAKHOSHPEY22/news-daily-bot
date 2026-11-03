@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-03T13:14:11+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+            "description": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far.",
+            "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 09:14:07 GMT",
+            "fetched": "2026-11-03T13:14:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Americans head to the polls for elections that could define Trump's closing chapter",
+            "description": "The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him.",
+            "url": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 09:29:32 GMT",
+            "fetched": "2026-11-03T13:14:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US strikes Iranian island ahead of midterm elections",
+            "description": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner.",
+            "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 03:39:08 GMT",
+            "fetched": "2026-11-03T13:14:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cyclone Murasu makes landfall on India’s eastern coast",
+            "description": "Severe cyclonic storm uproots trees and downs power lines, days after another cyclone battered the same region.",
+            "url": "https://www.aljazeera.com/news/2026/11/3/cyclone-murasu-makes-landfall-on-indias-eastern-coast?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 09:33:18 +0000",
+            "fetched": "2026-11-03T13:14:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sudan’s displaced return to new challenges in war-battered Khartoum",
+            "description": "The capital was one of the first areas to be affected, and one of the worst hit, by the war between the SAF and the RSF.",
+            "url": "https://www.aljazeera.com/features/2026/11/3/sudans-displaced-return-to-new-challenges-in-war-battered-khartoum?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 09:18:48 +0000",
+            "fetched": "2026-11-03T13:14:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Surging ICE raids shadow final weeks of California congressional race",
+            "description": "Local organisations and representatives say immigration raids have spread fear and uncertainty through communities.",
+            "url": "https://www.aljazeera.com/news/2026/11/3/surging-ice-raids-shadow-final-weeks-of-california-congressional-race?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 09:13:49 +0000",
+            "fetched": "2026-11-03T13:14:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-03T13:14:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-03T13:14:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire McCarty Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25986",
+            "published": "2026-10-29T12:16:00Z",
+            "fetched": "2026-11-03T13:14:11+03:30"
+        }
+    ]
+}
