@@ -1,65 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-04 00:24:46
+**Last Update:** 2026-11-04 03:00:26
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Pratt parsing is a black box
+### 1. The Internals of PostgreSQL
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/">https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50357457">https://news.ycombinator.com/item?id=50357457</a></p>
-<p>Points: 9</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.interdb.jp/pg/index.html">https://www.interdb.jp/pg/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50358702">https://news.ycombinator.com/item?id=50358702</a></p>
+<p>Points: 42</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/](https://vinipsmaker.github.io/blog/article/pratt-parsing-is-a-black-box/)
+🔗 **Read more:** [https://www.interdb.jp/pg/index.html](https://www.interdb.jp/pg/index.html)
 
 ---
 
-### 2. Preparing for the Flipper One Kickstarter and opening pre-orders
+### 2. The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p><a href="https://docs.flipper.net/one" rel="nofollow">https://docs.flipper.net/one</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50356994">https://news.ycombinator.com/item?id=50356994</a></p>
-<p>Points: 67</p>
-<p># Comments: 27</p>
+<p>Article URL: <a href="https://arxiv.org/abs/2605.29713">https://arxiv.org/abs/2605.29713</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50358582">https://news.ycombinator.com/item?id=50358582</a></p>
+<p>Points: 115</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://flipper.net/pages/flipper-one](https://flipper.net/pages/flipper-one)
+🔗 **Read more:** [https://arxiv.org/abs/2605.29713](https://arxiv.org/abs/2605.29713)
 
 ---
 
-### 3. Introduction to Programming in ATS
+### 3. Safari introduces Adaptive Dark Mode in 27.3
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html">https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50356913">https://news.ycombinator.com/item?id=50356913</a></p>
-<p>Points: 26</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://webkit.org/blog/18541/introducing-adaptive-dark-mode/">https://webkit.org/blog/18541/introducing-adaptive-dark-mode/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50358562">https://news.ycombinator.com/item?id=50358562</a></p>
+<p>Points: 173</p>
+<p># Comments: 112</p>
 
-🔗 **Read more:** [https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html](https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html)
+🔗 **Read more:** [https://webkit.org/blog/18541/introducing-adaptive-dark-mode/](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/)
 
 ---
 
-### 4. How the US midterm results could unfold - as millions of Americans head to the polls
+### 4. A simple guide to the midterms
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+US voters will head to the polls on Tuesday in a ballot that could have a major impact on Donald Trump’s presidency.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. When will we know the results?
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Once polls close, it is possible the results will not be projected for several hours, days or even weeks
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. How the US midterm results could unfold - as millions of Americans head to the polls
 
 **Source:** BBC
 
@@ -72,68 +97,42 @@ The BBC's North America correspondent considers three different scenarios, and w
 
 ---
 
-### 5. Spanish transport minister resigns days after deadly train crash
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-At least 69 people were killed and dozens injured in the collision south of the capital, Madrid.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. King calls slave trade a 'shameful chapter' during Commonwealth address
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Michigan voters face crucial choice as Trump’s grip on Congress is tested
+### 7. First polls close in pivotal US midterm elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Michigan’s closely contested Senate race and voter concerns over the economy are putting Trump’s control of Washington.
+With control of the US Congress on the line, results from Tuesday&#039;s races will have marked implications for the country.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/3/michigan-voters-face-crucial-choice-as-trumps-grip-on-congress-is-tested?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/3/michigan-voters-face-crucial-choice-as-trumps-grip-on-congress-is-tested?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/3/first-polls-close-in-pivotal-us-midterm-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/11/3/first-polls-close-in-pivotal-us-midterm-elections?traffic_source=rss)
 
 ---
 
-### 8. Michigan US Senate race: Rogers, El-Sayed urge turnout for critical race
+### 8. US midterm election results live: Polls start closing in some states
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Abdul El-Sayed hopes to become the first Muslim US senator as Michigan&#039;s Senate race reaches its critical final hours.
+Polls to start closing in waves across the country, with the earliest closures at 23:00 GMT in Indiana and Kentucky.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss](https://www.aljazeera.com/news/2026/11/3/michigan-us-senate-race-rogers-el-sayed-urge-turnout-for-critical-race?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss)
 
 ---
 
-### 9. Severe weather disrupts election day across several US states
+### 9. Raphinha, Lamal fire Barcelona to 3-0 Champions League win over Aston Villa
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Flash floods, torrential rain and tornadoes have disrupted midterm election day in several US states.
+Barca took early lead through Lamine Yamal before Raphinha continued fine goal-scoring form with a second-half brace.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_severe-weather-disrupts-election-day-across-us-031126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/3/aje-onl-nf_severe-weather-disrupts-election-day-across-us-031126?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/3/raphinha-lamal-fire-barcelona-to-3-0-champions-league-win-over-aston-villa?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/3/raphinha-lamal-fire-barcelona-to-3-0-champions-league-win-over-aston-villa?traffic_source=rss)
 
 ---
 

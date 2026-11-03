@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-04T03:00:26+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Internals of PostgreSQL",
+            "description": "<p>Article URL: <a href=\"https://www.interdb.jp/pg/index.html\">https://www.interdb.jp/pg/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50358702\">https://news.ycombinator.com/item?id=50358702</a></p>\n<p>Points: 42</p>\n<p># Comments: 1</p>",
+            "url": "https://www.interdb.jp/pg/index.html",
+            "published": "Tue, 03 Nov 2026 21:51:06 +0000",
+            "fetched": "2026-11-04T03:00:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2605.29713\">https://arxiv.org/abs/2605.29713</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50358582\">https://news.ycombinator.com/item?id=50358582</a></p>\n<p>Points: 115</p>\n<p># Comments: 12</p>",
+            "url": "https://arxiv.org/abs/2605.29713",
+            "published": "Tue, 03 Nov 2026 21:40:53 +0000",
+            "fetched": "2026-11-04T03:00:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Safari introduces Adaptive Dark Mode in 27.3",
+            "description": "<p>Article URL: <a href=\"https://webkit.org/blog/18541/introducing-adaptive-dark-mode/\">https://webkit.org/blog/18541/introducing-adaptive-dark-mode/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50358562\">https://news.ycombinator.com/item?id=50358562</a></p>\n<p>Points: 173</p>\n<p># Comments: 112</p>",
+            "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+            "published": "Tue, 03 Nov 2026 21:39:05 +0000",
+            "fetched": "2026-11-04T03:00:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "A simple guide to the midterms",
+            "description": "US voters will head to the polls on Tuesday in a ballot that could have a major impact on Donald Trump’s presidency.",
+            "url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 10:15:35 GMT",
+            "fetched": "2026-11-04T03:00:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "When will we know the results?",
+            "description": "Once polls close, it is possible the results will not be projected for several hours, days or even weeks",
+            "url": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 07:56:09 GMT",
+            "fetched": "2026-11-04T03:00:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
+            "description": "The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.",
+            "url": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 10:32:56 GMT",
+            "fetched": "2026-11-04T03:00:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "First polls close in pivotal US midterm elections",
+            "description": "With control of the US Congress on the line, results from Tuesday&#039;s races will have marked implications for the country.",
+            "url": "https://www.aljazeera.com/news/2026/11/3/first-polls-close-in-pivotal-us-midterm-elections?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 23:03:42 +0000",
+            "fetched": "2026-11-04T03:00:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US midterm election results live: Polls start closing in some states",
+            "description": "Polls to start closing in waves across the country, with the earliest closures at 23:00 GMT in Indiana and Kentucky.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/11/3/us-midterm-election-results-live-polls-to-start-closing-in-some-states?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 22:30:00 +0000",
+            "fetched": "2026-11-04T03:00:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Raphinha, Lamal fire Barcelona to 3-0 Champions League win over Aston Villa",
+            "description": "Barca took early lead through Lamine Yamal before Raphinha continued fine goal-scoring form with a second-half brace.",
+            "url": "https://www.aljazeera.com/sports/2026/11/3/raphinha-lamal-fire-barcelona-to-3-0-champions-league-win-over-aston-villa?traffic_source=rss",
+            "published": "Tue, 03 Nov 2026 22:19:13 +0000",
+            "fetched": "2026-11-04T03:00:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-04T03:00:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-04T03:00:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-04T03:00:26+03:30"
+        }
+    ]
+}
