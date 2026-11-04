@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-04T12:26:17+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The lost malloc()",
+            "description": "<p>Article URL: <a href=\"https://napcakes.nekoweb.org/posts/malloc/\">https://napcakes.nekoweb.org/posts/malloc/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50362466\">https://news.ycombinator.com/item?id=50362466</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
+            "url": "https://napcakes.nekoweb.org/posts/malloc/",
+            "published": "Wed, 04 Nov 2026 07:37:30 +0000",
+            "fetched": "2026-11-04T12:26:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI stocks slide as Texas governor result raises data center risks",
+            "description": "<p>Article URL: <a href=\"https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html\">https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50362274\">https://news.ycombinator.com/item?id=50362274</a></p>\n<p>Points: 15</p>\n<p># Comments: 5</p>",
+            "url": "https://www.cnbc.com/2026/11/04/ai-stocks-texas-governor-data-centers.html",
+            "published": "Wed, 04 Nov 2026 07:00:20 +0000",
+            "fetched": "2026-11-04T12:26:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jelly Sheet",
+            "description": "<p>Article URL: <a href=\"https://mrdoob.github.io/codevember-2026/01/\">https://mrdoob.github.io/codevember-2026/01/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50361268\">https://news.ycombinator.com/item?id=50361268</a></p>\n<p>Points: 210</p>\n<p># Comments: 49</p>",
+            "url": "https://mrdoob.github.io/codevember-2026/01/",
+            "published": "Wed, 04 Nov 2026 03:40:50 +0000",
+            "fetched": "2026-11-04T12:26:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthony Zurcher: Democrats tear up Trump's political map on historic night",
+            "description": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
+            "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 06:53:56 GMT",
+            "fetched": "2026-11-04T12:26:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How America voted in maps and charts",
+            "description": "See the maps and charts that show how America voted in the US midterm elections.",
+            "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 07:24:59 GMT",
+            "fetched": "2026-11-04T12:26:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Key moments from a night of midterm election firsts",
+            "description": "Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments of celebration.",
+            "url": "https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 07:40:12 GMT",
+            "fetched": "2026-11-04T12:26:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Republicans fuming after Democrat Talarico flips Texas Senate blue",
+            "description": "Republicans in Texas are trying to make sense of how they lost to the Democrats for the first time in almost 40 years.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/republicans-fuming-after-democrat-talarico-flips-texas-senate-blue?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 08:42:50 +0000",
+            "fetched": "2026-11-04T12:26:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Democrat Troy Jackson unseats Republican Senator Susan Collins in Maine",
+            "description": "Democrat Troy Jackson unseats Republican Senator Susan Collins in Maine",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democrat-troy-jackson-unseats-republican-senator-susan-collins-in-maine?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 08:30:38 +0000",
+            "fetched": "2026-11-04T12:26:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Australian government defends social media ban for under 16s in court",
+            "description": "Government lawyers argued that social media use posed risks to children, and action is needed to protect them.",
+            "url": "https://www.aljazeera.com/news/2026/11/4/australian-government-defends-social-media-ban-for-under-16s-in-court?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 08:26:50 +0000",
+            "fetched": "2026-11-04T12:26:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-04T12:26:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-04T12:26:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-04T12:26:17+03:30"
+        }
+    ]
+}
