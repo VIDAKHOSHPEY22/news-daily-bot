@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-04T20:33:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "'It's just vape, nail, charity shops': Can anything save UK high street?",
+            "description": "<p>Article URL: <a href=\"https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham\">https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50367653\">https://news.ycombinator.com/item?id=50367653</a></p>\n<p>Points: 39</p>\n<p># Comments: 55</p>",
+            "url": "https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham",
+            "published": "Wed, 04 Nov 2026 16:11:33 +0000",
+            "fetched": "2026-11-04T20:33:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AMD expects to outsell Intel in Q4 for the first time in history",
+            "description": "<p>Article URL: <a href=\"https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections\">https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50367125\">https://news.ycombinator.com/item?id=50367125</a></p>\n<p>Points: 75</p>\n<p># Comments: 19</p>",
+            "url": "https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections",
+            "published": "Wed, 04 Nov 2026 15:38:34 +0000",
+            "fetched": "2026-11-04T20:33:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Letting users trust their own MCP clients, without opening a phishing hole",
+            "description": "<p>Article URL: <a href=\"https://streamvessel.com/blog/mcp-trusted-redirect-uris\">https://streamvessel.com/blog/mcp-trusted-redirect-uris</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50367004\">https://news.ycombinator.com/item?id=50367004</a></p>\n<p>Points: 15</p>\n<p># Comments: 2</p>",
+            "url": "https://streamvessel.com/blog/mcp-trusted-redirect-uris",
+            "published": "Wed, 04 Nov 2026 15:30:57 +0000",
+            "fetched": "2026-11-04T20:33:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+            "description": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 13:33:30 GMT",
+            "fetched": "2026-11-04T20:33:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
+            "description": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
+            "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 06:53:56 GMT",
+            "fetched": "2026-11-04T20:33:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five reasons why Republicans lost so badly",
+            "description": "From angry voters to an unpopular president, here is why Americans in traditional Republican areas turned to Democrats.",
+            "url": "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 12:44:19 GMT",
+            "fetched": "2026-11-04T20:33:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Photos: Iran marks US embassy takeover with rallies against US, Israel",
+            "description": "Tehran rallies see slogans, flag burnings and claims of US-Israeli defeats amid historic embassy takeover anniversary.",
+            "url": "https://www.aljazeera.com/gallery/2026/11/4/photos-iran-marks-us-embassy-takeover-with-rallies-against-america-israel?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 16:37:49 +0000",
+            "fetched": "2026-11-04T20:33:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ukrainian strikes kill three in Russia’s Belgorod region",
+            "description": "Russian strikes also cut power to Ukrainian cities as Moscow claims 700 Ukrainian drones downed across multiple regions.",
+            "url": "https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 16:20:23 +0000",
+            "fetched": "2026-11-04T20:33:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Democratic voters celebrate El-Sayed’s Michigan win in election ‘blue wave’",
+            "description": "Democratic voters danced as they celebrated Abdul El-Sayed’s victory in Michigan.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/democratic-voters-celebrate-el-sayeds-michigan-win-in-election-blue?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 15:51:32 +0000",
+            "fetched": "2026-11-04T20:33:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-04T20:33:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-04T20:33:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-04T20:33:36+03:30"
+        }
+    ]
+}
