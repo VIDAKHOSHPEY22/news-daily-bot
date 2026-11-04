@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-04 20:33:36
+**Last Update:** 2026-11-05 01:29:15
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. 'It's just vape, nail, charity shops': Can anything save UK high street?
+### 1. Everything is an AI scam now
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham">https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50367653">https://news.ycombinator.com/item?id=50367653</a></p>
-<p>Points: 39</p>
-<p># Comments: 55</p>
+<p>Article URL: <a href="https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/">https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50371508">https://news.ycombinator.com/item?id=50371508</a></p>
+<p>Points: 63</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham](https://www.theguardian.com/business/2026/nov/04/what-can-save-the-british-high-street-rotherham)
+🔗 **Read more:** [https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/](https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/)
 
 ---
 
-### 2. AMD expects to outsell Intel in Q4 for the first time in history
+### 2. AR guitar with just a laptop and scissors
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections">https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50367125">https://news.ycombinator.com/item?id=50367125</a></p>
-<p>Points: 75</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://www.arguitar.com/">https://www.arguitar.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50371370">https://news.ycombinator.com/item?id=50371370</a></p>
+<p>Points: 11</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections](https://www.tomshardware.com/pc-components/cpus/amd-expects-to-outsell-intel-in-q4-for-the-first-time-in-history-usd17b-guidance-would-exceed-intels-projections)
+🔗 **Read more:** [https://www.arguitar.com/](https://www.arguitar.com/)
 
 ---
 
-### 3. Letting users trust their own MCP clients, without opening a phishing hole
+### 3. If you're on Replit Pro, you have until November 8 to opt out of arbitration
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://streamvessel.com/blog/mcp-trusted-redirect-uris">https://streamvessel.com/blog/mcp-trusted-redirect-uris</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50367004">https://news.ycombinator.com/item?id=50367004</a></p>
-<p>Points: 15</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8">https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50371346">https://news.ycombinator.com/item?id=50371346</a></p>
+<p>Points: 24</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://streamvessel.com/blog/mcp-trusted-redirect-uris](https://streamvessel.com/blog/mcp-trusted-redirect-uris)
+🔗 **Read more:** [https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8](https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8)
 
 ---
 
-### 4. 'This is a disaster': Angry Republicans blame Trump for midterms defeat
+### 4. Bowen: Trump's loss limits powers at home, but it will likely be different abroad
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.
+After bruising midterm results, President Trump will want to show he can still shake the world, the BBC's international editor writes.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Anthony Zurcher: Democrats push deep into Trump heartland on historic night
+### 5. How America voted in maps and charts
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.
+See the maps and charts that show how America voted in the US midterm elections.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Five reasons why Republicans lost so badly
+### 6. What Democrats can and can't do with their new power after taking Congress
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-From angry voters to an unpopular president, here is why Americans in traditional Republican areas turned to Democrats.
+Democrats can vote legislation through. But Trump still has veto power.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Photos: Iran marks US embassy takeover with rallies against US, Israel
+### 7. Social media reacts to Democrats’ takeover of US Congress
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran rallies see slogans, flag burnings and claims of US-Israeli defeats amid historic embassy takeover anniversary.
+Social media is awash with reactions to Democrats’ sweeping midterm gains.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/11/4/photos-iran-marks-us-embassy-takeover-with-rallies-against-america-israel?traffic_source=rss](https://www.aljazeera.com/gallery/2026/11/4/photos-iran-marks-us-embassy-takeover-with-rallies-against-america-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss)
 
 ---
 
-### 8. Ukrainian strikes kill three in Russia’s Belgorod region
+### 8. Israel restricting treatment for 1,100 child amputees in Gaza: NGO
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russian strikes also cut power to Ukrainian cities as Moscow claims 700 Ukrainian drones downed across multiple regions.
+Israeli restrictions on travel and medical evacuations prevent children in Gaza from being treated abroad.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/ukrainian-strikes-kill-three-in-russias-belgorod-region?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss)
 
 ---
 
-### 9. Democratic voters celebrate El-Sayed’s Michigan win in election ‘blue wave’
+### 9. US midterm election results live: Trump blames Iran war after losses
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Democratic voters danced as they celebrated Abdul El-Sayed’s victory in Michigan.
+A Democratic romp has rocked the US political landscape, but several closely contested races remain too close to call.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/democratic-voters-celebrate-el-sayeds-michigan-win-in-election-blue?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/democratic-voters-celebrate-el-sayeds-michigan-win-in-election-blue?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss)
 
 ---
 

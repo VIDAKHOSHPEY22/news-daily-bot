@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-05T01:29:15+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Everything is an AI scam now",
+            "description": "<p>Article URL: <a href=\"https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/\">https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50371508\">https://news.ycombinator.com/item?id=50371508</a></p>\n<p>Points: 63</p>\n<p># Comments: 16</p>",
+            "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
+            "published": "Wed, 04 Nov 2026 21:05:19 +0000",
+            "fetched": "2026-11-05T01:29:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AR guitar with just a laptop and scissors",
+            "description": "<p>Article URL: <a href=\"https://www.arguitar.com/\">https://www.arguitar.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50371370\">https://news.ycombinator.com/item?id=50371370</a></p>\n<p>Points: 11</p>\n<p># Comments: 4</p>",
+            "url": "https://www.arguitar.com/",
+            "published": "Wed, 04 Nov 2026 20:54:34 +0000",
+            "fetched": "2026-11-05T01:29:15+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "If you're on Replit Pro, you have until November 8 to opt out of arbitration",
+            "description": "<p>Article URL: <a href=\"https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8\">https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50371346\">https://news.ycombinator.com/item?id=50371346</a></p>\n<p>Points: 24</p>\n<p># Comments: 0</p>",
+            "url": "https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8",
+            "published": "Wed, 04 Nov 2026 20:52:53 +0000",
+            "fetched": "2026-11-05T01:29:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Bowen: Trump's loss limits powers at home, but it will likely be different abroad",
+            "description": "After bruising midterm results, President Trump will want to show he can still shake the world, the BBC's international editor writes.",
+            "url": "https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 18:35:07 GMT",
+            "fetched": "2026-11-05T01:29:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How America voted in maps and charts",
+            "description": "See the maps and charts that show how America voted in the US midterm elections.",
+            "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 09:53:18 GMT",
+            "fetched": "2026-11-05T01:29:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What Democrats can and can't do with their new power after taking Congress",
+            "description": "Democrats can vote legislation through. But Trump still has veto power.",
+            "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 18:01:27 GMT",
+            "fetched": "2026-11-05T01:29:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Social media reacts to Democrats’ takeover of US Congress",
+            "description": "Social media is awash with reactions to Democrats’ sweeping midterm gains.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 21:21:58 +0000",
+            "fetched": "2026-11-05T01:29:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel restricting treatment for 1,100 child amputees in Gaza: NGO",
+            "description": "Israeli restrictions on travel and medical evacuations prevent children in Gaza from being treated abroad.",
+            "url": "https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 21:13:56 +0000",
+            "fetched": "2026-11-05T01:29:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US midterm election results live: Trump blames Iran war after losses",
+            "description": "A Democratic romp has rocked the US political landscape, but several closely contested races remain too close to call.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 21:00:00 +0000",
+            "fetched": "2026-11-05T01:29:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-05T01:29:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-05T01:29:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-05T01:29:15+03:30"
+        }
+    ]
+}
