@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-04 04:41:56
+**Last Update:** 2026-11-04 10:13:40
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Internals of PostgreSQL
+### 1. US midterm elections 2026 live updates: Democrats win Senate control and edge
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.interdb.jp/pg/index.html">https://www.interdb.jp/pg/index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50358702">https://news.ycombinator.com/item?id=50358702</a></p>
-<p>Points: 86</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates">https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50361936">https://news.ycombinator.com/item?id=50361936</a></p>
+<p>Points: 43</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://www.interdb.jp/pg/index.html](https://www.interdb.jp/pg/index.html)
+🔗 **Read more:** [https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates](https://www.theguardian.com/us-news/live/2026/nov/03/midterm-election-results-live-updates)
 
 ---
 
-### 2. The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer
+### 2. Jelly Sheet
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2605.29713">https://arxiv.org/abs/2605.29713</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50358582">https://news.ycombinator.com/item?id=50358582</a></p>
-<p>Points: 206</p>
-<p># Comments: 32</p>
+<p>Article URL: <a href="https://mrdoob.github.io/codevember-2026/01/">https://mrdoob.github.io/codevember-2026/01/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50361268">https://news.ycombinator.com/item?id=50361268</a></p>
+<p>Points: 88</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://arxiv.org/abs/2605.29713](https://arxiv.org/abs/2605.29713)
+🔗 **Read more:** [https://mrdoob.github.io/codevember-2026/01/](https://mrdoob.github.io/codevember-2026/01/)
 
 ---
 
-### 3. Safari introduces Adaptive Dark Mode in 27.3
+### 3. Distinct cellular and genetic differences in colorectal cancer in young patients
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://webkit.org/blog/18541/introducing-adaptive-dark-mode/">https://webkit.org/blog/18541/introducing-adaptive-dark-mode/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50358562">https://news.ycombinator.com/item?id=50358562</a></p>
-<p>Points: 267</p>
-<p># Comments: 172</p>
+<p>Article URL: <a href="https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients">https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50361154">https://news.ycombinator.com/item?id=50361154</a></p>
+<p>Points: 48</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://webkit.org/blog/18541/introducing-adaptive-dark-mode/](https://webkit.org/blog/18541/introducing-adaptive-dark-mode/)
+🔗 **Read more:** [https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients](https://www.dana-farber.org/newsroom/news-releases/2026/study-reveals-distinct-cellular-and-genetic-differences-in-colorectal-cancer-in-younger-patients)
 
 ---
 
-### 4. When will we know the results?
+### 4. Ecstatic scenes and historic moments: What's happened so far in the midterms
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The first polls have closed, but it is possible the results will not be projected for several hours, days or even weeks.
+Democrats have taken control of Congress for the rest of Donald Trump's presidency - proving moments of celebration.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmr4y92rgd9po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. US voters name economy and state of democracy as top issues, poll says
+### 5. How America voted in maps and charts
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A major election day survey suggests voters are the most unhappy with the economy.
+See the maps and charts that show how America voted in the US midterm elections.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. How the US midterm results could unfold - as millions of Americans head to the polls
+### 6. Anthony Zurcher: Democrats tear up Trump's political map on historic night
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.
+Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Bomb threats disrupt flights across Europe, no explosive devices found
+### 7. House Democratic leader Hakeem Jeffries hails midterm victory
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least seven flights and an Israel-bound cruise ship received threats, but officials say searches found no explosives.
+Top US Democratic politician Hakeem Jeffries has called the midterm results the start of a ‘great American comeback’.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/house-democratic-leader-hakeem-jeffries-hails-midterm-victory?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/house-democratic-leader-hakeem-jeffries-hails-midterm-victory?traffic_source=rss)
 
 ---
 
-### 8. US Department of Justice expands its probe into Alaska’s US Senate election
+### 8. Lula’s victory is a stress test for the Global South
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Trump administration is doubling down on allegations Democrats stood up a &#039;spoiler&#039; candidate against Republicans.
+Trump can still punish Brazil for pursuing an independent course. Can China offer lasting alternatives to US dominance?
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/us-department-of-justice-expands-its-probe-into-alaskas-us-senate-election?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/us-department-of-justice-expands-its-probe-into-alaskas-us-senate-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/4/lulas-victory-is-a-stress-test-for-the-global-south?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/4/lulas-victory-is-a-stress-test-for-the-global-south?traffic_source=rss)
 
 ---
 
-### 9. Stevie Wonder endorses Abdul El-Sayed
+### 9. Photos: Champions League and Tenerife fans pay tribute to De Miguel
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-American singer Stevie Wonder has delivered a last minute endorsement of Democrat Abdul El-Sayed for the US Senate.
+CD Tenerife forward Jesus de Miguel died after suffering cardiac arrest following an on-field collision.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/stevie-wonder-endorses-abdul-el-sayed?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/stevie-wonder-endorses-abdul-el-sayed?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss](https://www.aljazeera.com/gallery/2026/11/4/photos-champions-league-and-tenerife-fans-pay-tribute-to-de-miguel?traffic_source=rss)
 
 ---
 
