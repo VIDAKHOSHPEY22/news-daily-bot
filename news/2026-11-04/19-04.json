@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-04T19:04:08+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Debian apt security update (man-in-the-middle)",
+            "description": "<p>Article URL: <a href=\"https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=\">https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50366575\">https://news.ycombinator.com/item?id=50366575</a></p>\n<p>Points: 13</p>\n<p># Comments: 0</p>",
+            "url": "https://lists.debian.org/debian-security-announce/2026/msg00526.html?pow_referer=",
+            "published": "Wed, 04 Nov 2026 15:04:14 +0000",
+            "fetched": "2026-11-04T19:04:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "US voters roundly reject data centers in ballot measures",
+            "description": "<p>Article URL: <a href=\"https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures\">https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50365982\">https://news.ycombinator.com/item?id=50365982</a></p>\n<p>Points: 125</p>\n<p># Comments: 140</p>",
+            "url": "https://www.semafor.com/article/11/04/2026/us-voters-roundly-reject-data-centers-in-ballot-measures",
+            "published": "Wed, 04 Nov 2026 14:27:02 +0000",
+            "fetched": "2026-11-04T19:04:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jaron Lanier on parallels between AI and social media",
+            "description": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=WxaRn8kX2eI\">https://www.youtube.com/watch?v=WxaRn8kX2eI</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50365760\">https://news.ycombinator.com/item?id=50365760</a></p>\n<p>Points: 15</p>\n<p># Comments: 0</p>",
+            "url": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+            "published": "Wed, 04 Nov 2026 14:10:14 +0000",
+            "fetched": "2026-11-04T19:04:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'This is a disaster': Angry Republicans blame Trump for midterms defeat",
+            "description": "Some Republicans tell the BBC the president's focus on his legacy and indifference to voter concerns cost them.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x29rr8djy3o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 13:33:30 GMT",
+            "fetched": "2026-11-04T19:04:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthony Zurcher: Democrats push deep into Trump heartland on historic night",
+            "description": "Two Senate races that a year ago were thought to be battlegrounds turned out to be slam-dunks for the Democrats.",
+            "url": "https://www.bbc.co.uk/news/articles/cwz0v5lv30lyo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 06:53:56 GMT",
+            "fetched": "2026-11-04T19:04:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Five reasons why Republicans lost so badly",
+            "description": "From angry voters to an unpopular president, here is why Americans in traditional Republican areas turned to Democrats.",
+            "url": "https://www.bbc.co.uk/news/articles/cqkgjvr00zmyo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 12:44:19 GMT",
+            "fetched": "2026-11-04T19:04:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iranian leaders welcome US midterms, but Trump may still attack",
+            "description": "Tehran views midterm results as a rejection of Trump&#039;s &#039;war on Iran&#039;, signalling US frustration with foreign policy.",
+            "url": "https://www.aljazeera.com/news/2026/11/4/iranian-leaders-welcome-us-midterms-but-trump-may-still-attack?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 15:13:00 +0000",
+            "fetched": "2026-11-04T19:04:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ice hockey federation reiterates opposition to reinstatement of Russia",
+            "description": "The CAS ruled last week to overturn governing body&#039;s exclusion of ‌Russia over its 2022 invasion of Ukraine.",
+            "url": "https://www.aljazeera.com/sports/2026/11/4/ice-hockey-federation-reiterates-opposition-to-reinstatement-of-russia?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 15:04:34 +0000",
+            "fetched": "2026-11-04T19:04:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Is Trump really a ‘lame duck’ after losing both houses of US Congress?",
+            "description": "Despite losing legislative control, the US president still has strong executive powers to push his agenda forward.",
+            "url": "https://www.aljazeera.com/news/2026/11/4/is-trump-really-a-lame-duck-after-losing-both-houses-of-us-congress?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 15:04:08 +0000",
+            "fetched": "2026-11-04T19:04:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-04T19:04:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-04T19:04:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-04T19:04:08+03:30"
+        }
+    ]
+}
