@@ -1,60 +1,61 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-05 01:29:15
+**Last Update:** 2026-11-05 03:01:53
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Everything is an AI scam now
+### 1. Successful People (2013)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/">https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50371508">https://news.ycombinator.com/item?id=50371508</a></p>
-<p>Points: 63</p>
-<p># Comments: 16</p>
-
-🔗 **Read more:** [https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/](https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/)
-
----
-
-### 2. AR guitar with just a laptop and scissors
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.arguitar.com/">https://www.arguitar.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50371370">https://news.ycombinator.com/item?id=50371370</a></p>
-<p>Points: 11</p>
+<p>Article URL: <a href="https://blog.samaltman.com/successful-people">https://blog.samaltman.com/successful-people</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50372660">https://news.ycombinator.com/item?id=50372660</a></p>
+<p>Points: 5</p>
 <p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.arguitar.com/](https://www.arguitar.com/)
+🔗 **Read more:** [https://blog.samaltman.com/successful-people](https://blog.samaltman.com/successful-people)
 
 ---
 
-### 3. If you're on Replit Pro, you have until November 8 to opt out of arbitration
+### 2. Less Popular Than Coal
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8">https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50371346">https://news.ycombinator.com/item?id=50371346</a></p>
-<p>Points: 24</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.argmin.net/p/less-popular-than-coal">https://www.argmin.net/p/less-popular-than-coal</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50372360">https://news.ycombinator.com/item?id=50372360</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8](https://readthediff.substack.com/p/replit-pro-arbitration-opt-out-november-8)
+🔗 **Read more:** [https://www.argmin.net/p/less-popular-than-coal](https://www.argmin.net/p/less-popular-than-coal)
+
+---
+
+### 3. Ask HN: What your experience with the monthly "who wants to be hired" thread?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>I recently commented on the "who wants to be hired" this month and so far have only received spam. Has anyone had any success with this, or is it just a way to subscribe to junk mail and automated marketing?</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50372294">https://news.ycombinator.com/item?id=50372294</a></p>
+<p>Points: 35</p>
+<p># Comments: 24</p>
+
+🔗 **Read more:** [https://news.ycombinator.com/item?id=50372294](https://news.ycombinator.com/item?id=50372294)
 
 ---
 
@@ -97,42 +98,42 @@ Democrats can vote legislation through. But Trump still has veto power.
 
 ---
 
-### 7. Social media reacts to Democrats’ takeover of US Congress
+### 7. Democratic Socialists of America see record wins in US midterm elections
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Social media is awash with reactions to Democrats’ sweeping midterm gains.
+The left-wing movement has won support for its views on issues like the war in Gaza and universal healthcare.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/social-media-reacts-to-democrats-takeover-of-us-congress?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/democratic-socialists-of-america-see-record-wins-in-us-midterm-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/democratic-socialists-of-america-see-record-wins-in-us-midterm-elections?traffic_source=rss)
 
 ---
 
-### 8. Israel restricting treatment for 1,100 child amputees in Gaza: NGO
+### 8. Sudan factories struggle to restart after devastating wartime losses
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli restrictions on travel and medical evacuations prevent children in Gaza from being treated abroad.
+War has left Sudanese workers jobless and consumers facing higher prices as factories struggle to reopen.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/israel-restricting-treatment-for-1100-child-amputees-in-gaza-ngo?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses?traffic_source=rss)
 
 ---
 
-### 9. US midterm election results live: Trump blames Iran war after losses
+### 9. Palestinians, Israelis react after Democrats sweep US midterms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Democratic romp has rocked the US political landscape, but several closely contested races remain too close to call.
+Palestinians and Israelis are divided in their opinion following the win by Democrats in the US midterm elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/4/us-midterm-election-results-live-trump-reacts-as-more-results-awaited?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/palestinians-israelis-react-after-democrats-sweep-us-midterms?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/palestinians-israelis-react-after-democrats-sweep-us-midterms?traffic_source=rss)
 
 ---
 

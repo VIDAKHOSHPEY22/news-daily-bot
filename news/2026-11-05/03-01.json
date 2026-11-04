@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-05T03:01:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Successful People (2013)",
+            "description": "<p>Article URL: <a href=\"https://blog.samaltman.com/successful-people\">https://blog.samaltman.com/successful-people</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50372660\">https://news.ycombinator.com/item?id=50372660</a></p>\n<p>Points: 5</p>\n<p># Comments: 4</p>",
+            "url": "https://blog.samaltman.com/successful-people",
+            "published": "Wed, 04 Nov 2026 23:01:19 +0000",
+            "fetched": "2026-11-05T03:01:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Less Popular Than Coal",
+            "description": "<p>Article URL: <a href=\"https://www.argmin.net/p/less-popular-than-coal\">https://www.argmin.net/p/less-popular-than-coal</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50372360\">https://news.ycombinator.com/item?id=50372360</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://www.argmin.net/p/less-popular-than-coal",
+            "published": "Wed, 04 Nov 2026 22:26:24 +0000",
+            "fetched": "2026-11-05T03:01:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ask HN: What your experience with the monthly \"who wants to be hired\" thread?",
+            "description": "<p>I recently commented on the \"who wants to be hired\" this month and so far have only received spam. Has anyone had any success with this, or is it just a way to subscribe to junk mail and automated marketing?</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50372294\">https://news.ycombinator.com/item?id=50372294</a></p>\n<p>Points: 35</p>\n<p># Comments: 24</p>",
+            "url": "https://news.ycombinator.com/item?id=50372294",
+            "published": "Wed, 04 Nov 2026 22:18:21 +0000",
+            "fetched": "2026-11-05T03:01:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Bowen: Trump's loss limits powers at home, but it will likely be different abroad",
+            "description": "After bruising midterm results, President Trump will want to show he can still shake the world, the BBC's international editor writes.",
+            "url": "https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 18:35:07 GMT",
+            "fetched": "2026-11-05T03:01:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How America voted in maps and charts",
+            "description": "See the maps and charts that show how America voted in the US midterm elections.",
+            "url": "https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 09:53:18 GMT",
+            "fetched": "2026-11-05T03:01:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What Democrats can and can't do with their new power after taking Congress",
+            "description": "Democrats can vote legislation through. But Trump still has veto power.",
+            "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 18:01:27 GMT",
+            "fetched": "2026-11-05T03:01:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Democratic Socialists of America see record wins in US midterm elections",
+            "description": "The left-wing movement has won support for its views on issues like the war in Gaza and universal healthcare.",
+            "url": "https://www.aljazeera.com/news/2026/11/4/democratic-socialists-of-america-see-record-wins-in-us-midterm-elections?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 22:45:24 +0000",
+            "fetched": "2026-11-05T03:01:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sudan factories struggle to restart after devastating wartime losses",
+            "description": "War has left Sudanese workers jobless and consumers facing higher prices as factories struggle to reopen.",
+            "url": "https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 22:31:09 +0000",
+            "fetched": "2026-11-05T03:01:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinians, Israelis react after Democrats sweep US midterms",
+            "description": "Palestinians and Israelis are divided in their opinion following the win by Democrats in the US midterm elections.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/palestinians-israelis-react-after-democrats-sweep-us-midterms?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 22:06:24 +0000",
+            "fetched": "2026-11-05T03:01:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-05T03:01:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-05T03:01:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-05T03:01:53+03:30"
+        }
+    ]
+}
