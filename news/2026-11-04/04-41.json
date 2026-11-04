@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-04T04:41:56+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Internals of PostgreSQL",
+            "description": "<p>Article URL: <a href=\"https://www.interdb.jp/pg/index.html\">https://www.interdb.jp/pg/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50358702\">https://news.ycombinator.com/item?id=50358702</a></p>\n<p>Points: 86</p>\n<p># Comments: 2</p>",
+            "url": "https://www.interdb.jp/pg/index.html",
+            "published": "Tue, 03 Nov 2026 21:51:06 +0000",
+            "fetched": "2026-11-04T04:41:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2605.29713\">https://arxiv.org/abs/2605.29713</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50358582\">https://news.ycombinator.com/item?id=50358582</a></p>\n<p>Points: 206</p>\n<p># Comments: 32</p>",
+            "url": "https://arxiv.org/abs/2605.29713",
+            "published": "Tue, 03 Nov 2026 21:40:53 +0000",
+            "fetched": "2026-11-04T04:41:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Safari introduces Adaptive Dark Mode in 27.3",
+            "description": "<p>Article URL: <a href=\"https://webkit.org/blog/18541/introducing-adaptive-dark-mode/\">https://webkit.org/blog/18541/introducing-adaptive-dark-mode/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50358562\">https://news.ycombinator.com/item?id=50358562</a></p>\n<p>Points: 267</p>\n<p># Comments: 172</p>",
+            "url": "https://webkit.org/blog/18541/introducing-adaptive-dark-mode/",
+            "published": "Tue, 03 Nov 2026 21:39:05 +0000",
+            "fetched": "2026-11-04T04:41:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "When will we know the results?",
+            "description": "The first polls have closed, but it is possible the results will not be projected for several hours, days or even weeks.",
+            "url": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 00:56:05 GMT",
+            "fetched": "2026-11-04T04:41:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US voters name economy and state of democracy as top issues, poll says",
+            "description": "A major election day survey suggests voters are the most unhappy with the economy.",
+            "url": "https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 23:55:37 GMT",
+            "fetched": "2026-11-04T04:41:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How the US midterm results could unfold - as millions of Americans head to the polls",
+            "description": "The BBC's North America correspondent considers three different scenarios, and what they would mean for the country.",
+            "url": "https://www.bbc.co.uk/news/articles/cq78pgn7em34o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 03 Nov 2026 10:32:56 GMT",
+            "fetched": "2026-11-04T04:41:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bomb threats disrupt flights across Europe, no explosive devices found",
+            "description": "At least seven flights and an Israel-bound cruise ship received threats, but officials say searches found no explosives.",
+            "url": "https://www.aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 00:35:44 +0000",
+            "fetched": "2026-11-04T04:41:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Department of Justice expands its probe into Alaska’s US Senate election",
+            "description": "The Trump administration is doubling down on allegations Democrats stood up a &#039;spoiler&#039; candidate against Republicans.",
+            "url": "https://www.aljazeera.com/news/2026/11/4/us-department-of-justice-expands-its-probe-into-alaskas-us-senate-election?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 00:33:57 +0000",
+            "fetched": "2026-11-04T04:41:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Stevie Wonder endorses Abdul El-Sayed",
+            "description": "American singer Stevie Wonder has delivered a last minute endorsement of Democrat Abdul El-Sayed for the US Senate.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/4/stevie-wonder-endorses-abdul-el-sayed?traffic_source=rss",
+            "published": "Wed, 04 Nov 2026 00:13:41 +0000",
+            "fetched": "2026-11-04T04:41:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-04T04:41:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-04T04:41:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-04T04:41:56+03:30"
+        }
+    ]
+}
