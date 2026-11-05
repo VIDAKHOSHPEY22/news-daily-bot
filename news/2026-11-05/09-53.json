@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-05T09:53:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio",
+            "description": "<p>Article URL: <a href=\"https://www.altera.com/newsroom/agilex-2x\">https://www.altera.com/newsroom/agilex-2x</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50375653\">https://news.ycombinator.com/item?id=50375653</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://www.altera.com/newsroom/agilex-2x",
+            "published": "Thu, 05 Nov 2026 05:47:14 +0000",
+            "fetched": "2026-11-05T09:53:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Lemmings CSS Animation",
+            "description": "<p>Article URL: <a href=\"https://markblah.github.io/lemmings/\">https://markblah.github.io/lemmings/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50375354\">https://news.ycombinator.com/item?id=50375354</a></p>\n<p>Points: 22</p>\n<p># Comments: 2</p>",
+            "url": "https://markblah.github.io/lemmings/",
+            "published": "Thu, 05 Nov 2026 04:54:10 +0000",
+            "fetched": "2026-11-05T09:53:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Starfall – Affordable, routine access to microgravity",
+            "description": "<p>Article URL: <a href=\"https://www.spacex.com/starfall\">https://www.spacex.com/starfall</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50373308\">https://news.ycombinator.com/item?id=50373308</a></p>\n<p>Points: 180</p>\n<p># Comments: 114</p>",
+            "url": "https://www.spacex.com/starfall",
+            "published": "Thu, 05 Nov 2026 00:18:18 +0000",
+            "fetched": "2026-11-05T09:53:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
+            "description": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+            "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Nov 2026 03:47:56 GMT",
+            "fetched": "2026-11-05T09:53:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK commits to 'time-bound' talks on slavery apology",
+            "description": "British diplomats are looking to offer reassurance that there is a sense of urgency to deal with the issue, even if a date for doing so is not yet confirmed, Chris Mason writes.",
+            "url": "https://www.bbc.co.uk/news/articles/cqdr872jkk7vo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Nov 2026 02:17:18 GMT",
+            "fetched": "2026-11-05T09:53:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The NHS is relying more on charities - and that might be creating problems for patients",
+            "description": "Is it symptom a health service at breaking point - or a positive way of involving the public?",
+            "url": "https://www.bbc.co.uk/news/articles/c65yn75g9d18o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Nov 2026 00:12:30 GMT",
+            "fetched": "2026-11-05T09:53:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel’s opposition slams ‘toxic Netanyahu’ after Democrats win US Congress",
+            "description": "Netanyahu&#039;s rivals say US midterm results show Israel &#039;cannot afford&#039; to have the prime minister remain in office.",
+            "url": "https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss",
+            "published": "Thu, 05 Nov 2026 05:39:31 +0000",
+            "fetched": "2026-11-05T09:53:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Zelenskyy hopes Democratic Congress will bring more US help for Ukraine",
+            "description": "EU officials also urge new US Congress to step up pressure on Russia to end the four-and-a-half-year war.",
+            "url": "https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss",
+            "published": "Thu, 05 Nov 2026 04:49:56 +0000",
+            "fetched": "2026-11-05T09:53:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mamdani: ‘it’s morning again in America’ after blue wave",
+            "description": "New York City Mayor Zohran Mamdani urged fellow Democrats to ‘fulfill promises’ after sweeping wins.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/5/mamdani-its-morning-again-in-america-after-blue-wave?traffic_source=rss",
+            "published": "Thu, 05 Nov 2026 04:30:18 +0000",
+            "fetched": "2026-11-05T09:53:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-05T09:53:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-05T09:53:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-05T09:53:21+03:30"
+        }
+    ]
+}
