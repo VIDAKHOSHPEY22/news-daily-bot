@@ -1,64 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-05 14:44:19
+**Last Update:** 2026-11-05 18:50:42
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability
+### 1. Image of Our Satellite-Choked Night Skies
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://hachyderm.io/@damienmiller/117563026759098135">https://hachyderm.io/@damienmiller/117563026759098135</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50377221">https://news.ycombinator.com/item?id=50377221</a></p>
+<p>Article URL: <a href="https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies">https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50379773">https://news.ycombinator.com/item?id=50379773</a></p>
 <p>Points: 26</p>
-<p># Comments: 4</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://hachyderm.io/@damienmiller/117563026759098135](https://hachyderm.io/@damienmiller/117563026759098135)
+🔗 **Read more:** [https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies](https://kottke.org/26/11/stunning-image-of-our-satellite-choked-night-skies)
 
 ---
 
-### 2. Baidu released ERNIE 5.5 Flash Base
+### 2. Alpine Linux Security advisory: OpenSSH-server password authentication bypass
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ernie.baidu.com/release/ernie-5-5-flash-base/">https://ernie.baidu.com/release/ernie-5-5-flash-base/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50377078">https://news.ycombinator.com/item?id=50377078</a></p>
-<p>Points: 27</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/">https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50379704">https://news.ycombinator.com/item?id=50379704</a></p>
+<p>Points: 42</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://ernie.baidu.com/release/ernie-5-5-flash-base/](https://ernie.baidu.com/release/ernie-5-5-flash-base/)
+🔗 **Read more:** [https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/](https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/)
 
 ---
 
-### 3. Being a kid making games in the early 2000s
+### 3. September in Servo: <progress>, rounded rectangles, and more
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://jaytholen.net/teengamedev/">https://jaytholen.net/teengamedev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50375691">https://news.ycombinator.com/item?id=50375691</a></p>
-<p>Points: 13</p>
+<p>Article URL: <a href="https://servo.org/blog/2026/11/05/september-in-servo/">https://servo.org/blog/2026/11/05/september-in-servo/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50379576">https://news.ycombinator.com/item?id=50379576</a></p>
+<p>Points: 10</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://jaytholen.net/teengamedev/](https://jaytholen.net/teengamedev/)
+🔗 **Read more:** [https://servo.org/blog/2026/11/05/september-in-servo/](https://servo.org/blog/2026/11/05/september-in-servo/)
 
 ---
 
-### 4. Married at First Sight UK cancelled after BBC revealed rape allegations
+### 4. More women likely to come forward, says detective who led Russell Brand investigation
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Det Supt Andy Furphy said he hoped other potential victims would gain "courage" and "confidence" from the guilty verdicts.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Watch: How rapist Brand was never far from controversy
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+BBC correspondent Sima Kotecha explains how the trial unfolded.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c9dr8713zjgyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c9dr8713zjgyo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Married at First Sight UK cancelled after BBC revealed rape allegations
 
 **Source:** BBC
 
@@ -71,68 +97,42 @@ Three women made allegations about the men they were partnered with. Channel 4 h
 
 ---
 
-### 5. Vance walks Trump tightrope after blaming Iran war for election defeat
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Cristiano Ronaldo retires from international football
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Portugal legend Cristiano Ronaldo says he is retiring from international football.
-
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Cristiano Ronaldo announces retirement from international football
+### 7. Jerusalem Daily: Settler pogroms in Hebron
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The 41-year-old Portuguese legend says he will &#039;hand back the number 7 shirt&#039; in social media post.
+Israel’s president consults party leaders on forming a government, as Israeli forces attack Palestinians in Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/5/cristiano-ronaldo-announces-retirement-from-international-football?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/5/cristiano-ronaldo-announces-retirement-from-international-football?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/5/jerusalem-daily-settler-pogroms-in-hebron?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/5/jerusalem-daily-settler-pogroms-in-hebron?traffic_source=rss)
 
 ---
 
-### 8. Serbian officers arrested for using ‘excessive force’ against protesters
+### 8. Ronaldo in records: International milestones from the football icon
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ten suspects are accused of abusing and torturing several people in the garage of a government compound in Belgrade.
+Ronaldo, 41, ended an illustrious 23-year career that spanned six World Cups and six European Championships.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters?traffic_source=rss](https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/5/ronaldo-in-records-international-milestones-from-the-football-icon?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/5/ronaldo-in-records-international-milestones-from-the-football-icon?traffic_source=rss)
 
 ---
 
-### 9. ‘Helpless’: The families facing winter in tents on the beach in Gaza
+### 9. Why Guinea-Bissau halted a controversial hepatitis vaccine trial for babies
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An innovative idea to turn damaged cooking pots into seawater barriers is providing families in Gaza with some relief.
+Experts have said the US-funded trial would deny critical vaccines to thousands of infants.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/5/helpless-the-families-facing-winter-in-tents-on-the-beach-in-gaza?traffic_source=rss](https://www.aljazeera.com/features/2026/11/5/helpless-the-families-facing-winter-in-tents-on-the-beach-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/5/why-guinea-bissau-halted-a-controversial-hepatitis-vaccine-trial-for-babies?traffic_source=rss](https://www.aljazeera.com/news/2026/11/5/why-guinea-bissau-halted-a-controversial-hepatitis-vaccine-trial-for-babies?traffic_source=rss)
 
 ---
 
