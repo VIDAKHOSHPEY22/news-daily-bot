@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-05T06:06:20+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Chris Mason: The US elections will change Trump - how will Burnham react?",
+            "description": "The big question for the British government is does defeat at home make it more likely that President Trump gets angrier abroad?",
+            "url": "https://www.bbc.co.uk/news/articles/c615j8pw1y81o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 21:02:58 GMT",
+            "fetched": "2026-11-05T06:06:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Pound rises to its highest level since the Brexit referendum",
+            "description": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago",
+            "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 04 Nov 2026 23:30:28 GMT",
+            "fetched": "2026-11-05T06:06:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The NHS is relying more on charities - and that might be creating problems for patients",
+            "description": "Is it symptom a health service at breaking point - or a positive way of involving the public?",
+            "url": "https://www.bbc.co.uk/news/articles/c65yn75g9d18o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Nov 2026 00:12:30 GMT",
+            "fetched": "2026-11-05T06:06:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "El Salvador’s Bukele touts military intervention in Haiti",
+            "description": "Haitian police have found a vehicle used by four missing Salvadoran technicians as Salvadoran troops deploy to Haiti.",
+            "url": "https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss",
+            "published": "Thu, 05 Nov 2026 02:10:07 +0000",
+            "fetched": "2026-11-05T06:06:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Election deniers lose races for governor in key US swing states",
+            "description": "State leaders can hold significant sway over election administration, with implications for the 2028 presidential race.",
+            "url": "https://www.aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states?traffic_source=rss",
+            "published": "Thu, 05 Nov 2026 02:06:07 +0000",
+            "fetched": "2026-11-05T06:06:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel’s Herzog accepts vote results, opens talks on forming a government",
+            "description": "Move deals blow to Netanyahu&#039;s efforts to discredit the elections, in which he and his allies lost their majority.",
+            "url": "https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss",
+            "published": "Thu, 05 Nov 2026 01:53:30 +0000",
+            "fetched": "2026-11-05T06:06:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-05T06:06:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-05T06:06:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-05T06:06:20+03:30"
+        }
+    ]
+}

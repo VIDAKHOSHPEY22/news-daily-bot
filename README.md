@@ -1,143 +1,94 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-05 03:01:53
+**Last Update:** 2026-11-05 06:06:20
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Successful People (2013)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.samaltman.com/successful-people">https://blog.samaltman.com/successful-people</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50372660">https://news.ycombinator.com/item?id=50372660</a></p>
-<p>Points: 5</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://blog.samaltman.com/successful-people](https://blog.samaltman.com/successful-people)
-
----
-
-### 2. Less Popular Than Coal
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.argmin.net/p/less-popular-than-coal">https://www.argmin.net/p/less-popular-than-coal</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50372360">https://news.ycombinator.com/item?id=50372360</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.argmin.net/p/less-popular-than-coal](https://www.argmin.net/p/less-popular-than-coal)
-
----
-
-### 3. Ask HN: What your experience with the monthly "who wants to be hired" thread?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>I recently commented on the "who wants to be hired" this month and so far have only received spam. Has anyone had any success with this, or is it just a way to subscribe to junk mail and automated marketing?</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50372294">https://news.ycombinator.com/item?id=50372294</a></p>
-<p>Points: 35</p>
-<p># Comments: 24</p>
-
-🔗 **Read more:** [https://news.ycombinator.com/item?id=50372294](https://news.ycombinator.com/item?id=50372294)
-
----
-
-### 4. Bowen: Trump's loss limits powers at home, but it will likely be different abroad
+### 1. Chris Mason: The US elections will change Trump - how will Burnham react?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-After bruising midterm results, President Trump will want to show he can still shake the world, the BBC's international editor writes.
+The big question for the British government is does defeat at home make it more likely that President Trump gets angrier abroad?
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crkg7wj8g201o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c615j8pw1y81o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c615j8pw1y81o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. How America voted in maps and charts
+### 2. Pound rises to its highest level since the Brexit referendum
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-See the maps and charts that show how America voted in the US midterm elections.
+Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm4g1j0n92qdo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. What Democrats can and can't do with their new power after taking Congress
+### 3. The NHS is relying more on charities - and that might be creating problems for patients
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Democrats can vote legislation through. But Trump still has veto power.
+Is it symptom a health service at breaking point - or a positive way of involving the public?
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c65yn75g9d18o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c65yn75g9d18o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Democratic Socialists of America see record wins in US midterm elections
+### 4. El Salvador’s Bukele touts military intervention in Haiti
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The left-wing movement has won support for its views on issues like the war in Gaza and universal healthcare.
+Haitian police have found a vehicle used by four missing Salvadoran technicians as Salvadoran troops deploy to Haiti.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/democratic-socialists-of-america-see-record-wins-in-us-midterm-elections?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/democratic-socialists-of-america-see-record-wins-in-us-midterm-elections?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss](https://www.aljazeera.com/news/2026/11/5/el-salvadors-bukele-touts-military-intervention-in-haiti?traffic_source=rss)
 
 ---
 
-### 8. Sudan factories struggle to restart after devastating wartime losses
+### 5. Election deniers lose races for governor in key US swing states
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-War has left Sudanese workers jobless and consumers facing higher prices as factories struggle to reopen.
+State leaders can hold significant sway over election administration, with implications for the 2028 presidential race.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses?traffic_source=rss](https://www.aljazeera.com/news/2026/11/4/sudan-factories-struggle-to-restart-after-devastating-wartime-losses?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states?traffic_source=rss](https://www.aljazeera.com/news/2026/11/5/election-deniers-lose-races-for-governor-in-key-us-swing-states?traffic_source=rss)
 
 ---
 
-### 9. Palestinians, Israelis react after Democrats sweep US midterms
+### 6. Israel’s Herzog accepts vote results, opens talks on forming a government
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Palestinians and Israelis are divided in their opinion following the win by Democrats in the US midterm elections.
+Move deals blow to Netanyahu&#039;s efforts to discredit the elections, in which he and his allies lost their majority.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/4/palestinians-israelis-react-after-democrats-sweep-us-midterms?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/4/palestinians-israelis-react-after-democrats-sweep-us-midterms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss](https://www.aljazeera.com/news/2026/11/5/israels-herzog-accepts-vote-results-opens-talks-on-forming-a-government?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone Murasu
+### 7. Tropical Cyclone Murasu
 
 **Source:** NASA
 
@@ -150,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
+### 8. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
@@ -163,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Iceberg B22K
+### 9. Iceberg B22K
 
 **Source:** NASA
 
