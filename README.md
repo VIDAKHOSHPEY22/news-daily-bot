@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-05 09:53:21
+**Last Update:** 2026-11-05 14:44:19
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Altera Announces Agilex 2X, a Complete FPGA and SoC Portfolio
+### 1. OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.altera.com/newsroom/agilex-2x">https://www.altera.com/newsroom/agilex-2x</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50375653">https://news.ycombinator.com/item?id=50375653</a></p>
-<p>Points: 5</p>
+<p>Article URL: <a href="https://hachyderm.io/@damienmiller/117563026759098135">https://hachyderm.io/@damienmiller/117563026759098135</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50377221">https://news.ycombinator.com/item?id=50377221</a></p>
+<p>Points: 26</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://hachyderm.io/@damienmiller/117563026759098135](https://hachyderm.io/@damienmiller/117563026759098135)
+
+---
+
+### 2. Baidu released ERNIE 5.5 Flash Base
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://ernie.baidu.com/release/ernie-5-5-flash-base/">https://ernie.baidu.com/release/ernie-5-5-flash-base/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50377078">https://news.ycombinator.com/item?id=50377078</a></p>
+<p>Points: 27</p>
+<p># Comments: 20</p>
+
+🔗 **Read more:** [https://ernie.baidu.com/release/ernie-5-5-flash-base/](https://ernie.baidu.com/release/ernie-5-5-flash-base/)
+
+---
+
+### 3. Being a kid making games in the early 2000s
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://jaytholen.net/teengamedev/">https://jaytholen.net/teengamedev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50375691">https://news.ycombinator.com/item?id=50375691</a></p>
+<p>Points: 13</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.altera.com/newsroom/agilex-2x](https://www.altera.com/newsroom/agilex-2x)
+🔗 **Read more:** [https://jaytholen.net/teengamedev/](https://jaytholen.net/teengamedev/)
 
 ---
 
-### 2. Lemmings CSS Animation
+### 4. Married at First Sight UK cancelled after BBC revealed rape allegations
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://markblah.github.io/lemmings/">https://markblah.github.io/lemmings/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50375354">https://news.ycombinator.com/item?id=50375354</a></p>
-<p>Points: 22</p>
-<p># Comments: 2</p>
+Three women made allegations about the men they were partnered with. Channel 4 has apologised and said the show's budget would be reinvested  in "distinctive new programming".
 
-🔗 **Read more:** [https://markblah.github.io/lemmings/](https://markblah.github.io/lemmings/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw33xm0de221o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw33xm0de221o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Starfall – Affordable, routine access to microgravity
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.spacex.com/starfall">https://www.spacex.com/starfall</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50373308">https://news.ycombinator.com/item?id=50373308</a></p>
-<p>Points: 180</p>
-<p># Comments: 114</p>
-
-🔗 **Read more:** [https://www.spacex.com/starfall](https://www.spacex.com/starfall)
-
----
-
-### 4. Vance walks Trump tightrope with scathing election critique blaming Iran war
+### 5. Vance walks Trump tightrope after blaming Iran war for election defeat
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ The vice-president's blunt assessment of Republican election defeat marked one o
 
 ---
 
-### 5. UK commits to 'time-bound' talks on slavery apology
+### 6. Cristiano Ronaldo retires from international football
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-British diplomats are looking to offer reassurance that there is a sense of urgency to deal with the issue, even if a date for doing so is not yet confirmed, Chris Mason writes.
+Portugal legend Cristiano Ronaldo says he is retiring from international football.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqdr872jkk7vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqdr872jkk7vo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. The NHS is relying more on charities - and that might be creating problems for patients
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Is it symptom a health service at breaking point - or a positive way of involving the public?
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c65yn75g9d18o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c65yn75g9d18o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Israel’s opposition slams ‘toxic Netanyahu’ after Democrats win US Congress
+### 7. Cristiano Ronaldo announces retirement from international football
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Netanyahu&#039;s rivals say US midterm results show Israel &#039;cannot afford&#039; to have the prime minister remain in office.
+The 41-year-old Portuguese legend says he will &#039;hand back the number 7 shirt&#039; in social media post.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss](https://www.aljazeera.com/news/2026/11/5/israels-opposition-slams-toxic-netanyahu-after-democrats-win-us-congress?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/5/cristiano-ronaldo-announces-retirement-from-international-football?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/5/cristiano-ronaldo-announces-retirement-from-international-football?traffic_source=rss)
 
 ---
 
-### 8. Zelenskyy hopes Democratic Congress will bring more US help for Ukraine
+### 8. Serbian officers arrested for using ‘excessive force’ against protesters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-EU officials also urge new US Congress to step up pressure on Russia to end the four-and-a-half-year war.
+Ten suspects are accused of abusing and torturing several people in the garage of a government compound in Belgrade.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/11/5/zelenskyy-hopes-democratic-congress-will-bring-more-us-help-for-ukraine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters?traffic_source=rss](https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters?traffic_source=rss)
 
 ---
 
-### 9. Mamdani: ‘it’s morning again in America’ after blue wave
+### 9. ‘Helpless’: The families facing winter in tents on the beach in Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New York City Mayor Zohran Mamdani urged fellow Democrats to ‘fulfill promises’ after sweeping wins.
+An innovative idea to turn damaged cooking pots into seawater barriers is providing families in Gaza with some relief.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/5/mamdani-its-morning-again-in-america-after-blue-wave?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/5/mamdani-its-morning-again-in-america-after-blue-wave?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/5/helpless-the-families-facing-winter-in-tents-on-the-beach-in-gaza?traffic_source=rss](https://www.aljazeera.com/features/2026/11/5/helpless-the-families-facing-winter-in-tents-on-the-beach-in-gaza?traffic_source=rss)
 
 ---
 

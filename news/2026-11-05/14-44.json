@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-05T14:44:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenSSH 10.6p2 has been released with a workaround for a critical vulnerability",
+            "description": "<p>Article URL: <a href=\"https://hachyderm.io/@damienmiller/117563026759098135\">https://hachyderm.io/@damienmiller/117563026759098135</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50377221\">https://news.ycombinator.com/item?id=50377221</a></p>\n<p>Points: 26</p>\n<p># Comments: 4</p>",
+            "url": "https://hachyderm.io/@damienmiller/117563026759098135",
+            "published": "Thu, 05 Nov 2026 09:46:17 +0000",
+            "fetched": "2026-11-05T14:44:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Baidu released ERNIE 5.5 Flash Base",
+            "description": "<p>Article URL: <a href=\"https://ernie.baidu.com/release/ernie-5-5-flash-base/\">https://ernie.baidu.com/release/ernie-5-5-flash-base/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50377078\">https://news.ycombinator.com/item?id=50377078</a></p>\n<p>Points: 27</p>\n<p># Comments: 20</p>",
+            "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+            "published": "Thu, 05 Nov 2026 09:29:12 +0000",
+            "fetched": "2026-11-05T14:44:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Being a kid making games in the early 2000s",
+            "description": "<p>Article URL: <a href=\"https://jaytholen.net/teengamedev/\">https://jaytholen.net/teengamedev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50375691\">https://news.ycombinator.com/item?id=50375691</a></p>\n<p>Points: 13</p>\n<p># Comments: 0</p>",
+            "url": "https://jaytholen.net/teengamedev/",
+            "published": "Thu, 05 Nov 2026 05:53:53 +0000",
+            "fetched": "2026-11-05T14:44:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Married at First Sight UK cancelled after BBC revealed rape allegations",
+            "description": "Three women made allegations about the men they were partnered with. Channel 4 has apologised and said the show's budget would be reinvested  in \"distinctive new programming\".",
+            "url": "https://www.bbc.co.uk/news/articles/cw33xm0de221o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Nov 2026 10:30:03 GMT",
+            "fetched": "2026-11-05T14:44:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Vance walks Trump tightrope after blaming Iran war for election defeat",
+            "description": "The vice-president's blunt assessment of Republican election defeat marked one of the sharpest breaks with a sitting president in recent memory.",
+            "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Nov 2026 03:47:56 GMT",
+            "fetched": "2026-11-05T14:44:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cristiano Ronaldo retires from international football",
+            "description": "Portugal legend Cristiano Ronaldo says he is retiring from international football.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/cme8rxx2e1w9o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Nov 2026 10:55:11 GMT",
+            "fetched": "2026-11-05T14:44:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cristiano Ronaldo announces retirement from international football",
+            "description": "The 41-year-old Portuguese legend says he will &#039;hand back the number 7 shirt&#039; in social media post.",
+            "url": "https://www.aljazeera.com/sports/2026/11/5/cristiano-ronaldo-announces-retirement-from-international-football?traffic_source=rss",
+            "published": "Thu, 05 Nov 2026 10:57:26 +0000",
+            "fetched": "2026-11-05T14:44:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Serbian officers arrested for using ‘excessive force’ against protesters",
+            "description": "Ten suspects are accused of abusing and torturing several people in the garage of a government compound in Belgrade.",
+            "url": "https://www.aljazeera.com/news/2026/11/5/serbian-officers-arrested-for-using-excessive-force-against-protesters?traffic_source=rss",
+            "published": "Thu, 05 Nov 2026 10:34:42 +0000",
+            "fetched": "2026-11-05T14:44:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Helpless’: The families facing winter in tents on the beach in Gaza",
+            "description": "An innovative idea to turn damaged cooking pots into seawater barriers is providing families in Gaza with some relief.",
+            "url": "https://www.aljazeera.com/features/2026/11/5/helpless-the-families-facing-winter-in-tents-on-the-beach-in-gaza?traffic_source=rss",
+            "published": "Thu, 05 Nov 2026 10:25:28 +0000",
+            "fetched": "2026-11-05T14:44:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-05T14:44:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-05T14:44:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-05T14:44:19+03:30"
+        }
+    ]
+}
