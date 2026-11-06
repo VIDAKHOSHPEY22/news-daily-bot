@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-06T21:22:51+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anthropic IPO Valuation Talks Drop to $1.3T as Major Investors Balk",
+            "description": "<p>Article URL: <a href=\"https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors\">https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50395318\">https://news.ycombinator.com/item?id=50395318</a></p>\n<p>Points: 16</p>\n<p># Comments: 3</p>",
+            "url": "https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors",
+            "published": "Fri, 06 Nov 2026 17:21:15 +0000",
+            "fetched": "2026-11-06T21:22:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "UpCodes (YC S17) is hiring SDR's to sell AI compliance software",
+            "description": "<p>Article URL: <a href=\"https://up.codes/careers?utm_source=HN\">https://up.codes/careers?utm_source=HN</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50395043\">https://news.ycombinator.com/item?id=50395043</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://up.codes/careers?utm_source=HN",
+            "published": "Fri, 06 Nov 2026 17:03:33 +0000",
+            "fetched": "2026-11-06T21:22:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "First steps in bare-metal programming using UEFI",
+            "description": "<p>Article URL: <a href=\"https://kevinboone.me/efitest_index.html\">https://kevinboone.me/efitest_index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50394855\">https://news.ycombinator.com/item?id=50394855</a></p>\n<p>Points: 27</p>\n<p># Comments: 1</p>",
+            "url": "https://kevinboone.me/efitest_index.html",
+            "published": "Fri, 06 Nov 2026 16:50:29 +0000",
+            "fetched": "2026-11-06T21:22:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
+            "description": "Ian Winter allegedly confronted a reporter outside court who had investigated the comedian.",
+            "url": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 16:49:31 GMT",
+            "fetched": "2026-11-06T21:22:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "AI stocks climb after trillions wiped from market values",
+            "description": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.",
+            "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 17:03:02 GMT",
+            "fetched": "2026-11-06T21:22:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "New wave of bomb threats hit European airlines",
+            "description": "No link has been established between the threats against the airlines and those against the media outlets.",
+            "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 15:25:35 GMT",
+            "fetched": "2026-11-06T21:22:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How Paraguay’s Ueno collapse is only its latest banking crisis",
+            "description": "President Santiago Pena is under fire over links to parent company of collapsed bank.",
+            "url": "https://www.aljazeera.com/news/2026/11/6/how-paraguays-ueno-collapse-is-only-its-latest-banking-crisis?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 17:42:22 +0000",
+            "fetched": "2026-11-06T21:22:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US city votes to divest from Israel",
+            "description": "Voters in Providence, Rhode Island called for for the city to stop its investments that support genocide.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/us-city-votes-to-divest-from-israel?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 17:40:13 +0000",
+            "fetched": "2026-11-06T21:22:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US prosecutor who led Trump-backed election probe exits Justice Department",
+            "description": "Jason Reding Quinones&#039; resignation comes as administration braces for Democrat-led investigations.",
+            "url": "https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 17:02:19 +0000",
+            "fetched": "2026-11-06T21:22:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-06T21:22:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-06T21:22:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-06T21:22:51+03:30"
+        }
+    ]
+}

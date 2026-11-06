@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-06 18:42:18
+**Last Update:** 2026-11-06 21:22:51
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. University libraries are being swarmed by AI bots, putting public access at risk
+### 1. Anthropic IPO Valuation Talks Drop to $1.3T as Major Investors Balk
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287">https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50392499">https://news.ycombinator.com/item?id=50392499</a></p>
-<p>Points: 12</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors">https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50395318">https://news.ycombinator.com/item?id=50395318</a></p>
+<p>Points: 16</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287](https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287)
+🔗 **Read more:** [https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors](https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors)
 
 ---
 
-### 2. Gemini Omni 1.2 Flash
+### 2. UpCodes (YC S17) is hiring SDR's to sell AI compliance software
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/">https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50392118">https://news.ycombinator.com/item?id=50392118</a></p>
-<p>Points: 64</p>
-<p># Comments: 38</p>
+<p>Article URL: <a href="https://up.codes/careers?utm_source=HN">https://up.codes/careers?utm_source=HN</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50395043">https://news.ycombinator.com/item?id=50395043</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/)
+🔗 **Read more:** [https://up.codes/careers?utm_source=HN](https://up.codes/careers?utm_source=HN)
 
 ---
 
-### 3. Tesla winds down Cybertruck production after years of poor sales in few markets
+### 3. First steps in bare-metal programming using UEFI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv">https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50391456">https://news.ycombinator.com/item?id=50391456</a></p>
-<p>Points: 173</p>
-<p># Comments: 191</p>
+<p>Article URL: <a href="https://kevinboone.me/efitest_index.html">https://kevinboone.me/efitest_index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50394855">https://news.ycombinator.com/item?id=50394855</a></p>
+<p>Points: 27</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv](https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv)
+🔗 **Read more:** [https://kevinboone.me/efitest_index.html](https://kevinboone.me/efitest_index.html)
 
 ---
 
-### 4. Met chief says he wouldn't be surprised if more allegations made about Brand after rape conviction
+### 4. Brand's barrister refers himself to regulator after report he confronted journalist
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Sir Mark Rowley tells the BBC that what he heard reported from Brand's trial came close to "victim blaming".
+Ian Winter allegedly confronted a reporter outside court who had investigated the comedian.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmly00r44jgvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmly00r44jgvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. 'Misleading' student loans information left out examples of higher-salary repayments
+### 5. AI stocks climb after trillions wiped from market values
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Treasury Committee chair says she is "shocked" after one university compared repayments to the price of coffee.
+Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Two Gloucester schools in lockdown after boy hurt in incident
+### 6. New wave of bomb threats hit European airlines
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Armed police are on the scene in Tuffley - police say pupils are safe within school grounds.
+No link has been established between the threats against the airlines and those against the media outlets.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Veto or deals: Can Trump find a way to work with Democrats?
+### 7. How Paraguay’s Ueno collapse is only its latest banking crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump has three options to affect legislation, say analysts: veto legislation, enforce executive orders or make deals.
+President Santiago Pena is under fire over links to parent company of collapsed bank.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/veto-or-deals-can-trump-find-a-way-to-work-with-democrats?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/veto-or-deals-can-trump-find-a-way-to-work-with-democrats?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/how-paraguays-ueno-collapse-is-only-its-latest-banking-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/how-paraguays-ueno-collapse-is-only-its-latest-banking-crisis?traffic_source=rss)
 
 ---
 
-### 8. What a Trump-Xi-Putin summit could mean – and what it wouldn’t
+### 8. US city votes to divest from Israel
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Trump-Xi-Putin meeting at APEC would be a coup for Moscow, analysts say, but Beijing appears lukewarm.
+Voters in Providence, Rhode Island called for for the city to stop its investments that support genocide.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/6/us-city-votes-to-divest-from-israel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/6/us-city-votes-to-divest-from-israel?traffic_source=rss)
 
 ---
 
-### 9. Who is Kenya’s starvation cult leader?
+### 9. US prosecutor who led Trump-backed election probe exits Justice Department
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Who is Kenya’s starvation cult leader?
+Jason Reding Quinones&#039; resignation comes as administration braces for Democrat-led investigations.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/6/who-is-kenyas-starvation-cult-leader?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/6/who-is-kenyas-starvation-cult-leader?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss)
 
 ---
 
