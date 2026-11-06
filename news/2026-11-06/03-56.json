@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-06T03:56:13+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Brazilian Credit Guarantor Fund Data Breach Affecting PII and Payout Data",
+            "description": "<p>Article URL: <a href=\"https://www.fgc.org.br/comunicado\">https://www.fgc.org.br/comunicado</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50386104\">https://news.ycombinator.com/item?id=50386104</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.fgc.org.br/comunicado",
+            "published": "Thu, 05 Nov 2026 23:32:36 +0000",
+            "fetched": "2026-11-06T03:56:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue",
+            "description": "<p>Article URL: <a href=\"https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html\">https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50385870\">https://news.ycombinator.com/item?id=50385870</a></p>\n<p>Points: 31</p>\n<p># Comments: 10</p>",
+            "url": "https://finance.yahoo.com/technology/ai/articles/mark-cuban-says-facebook-knowingly-213000020.html",
+            "published": "Thu, 05 Nov 2026 23:09:57 +0000",
+            "fetched": "2026-11-06T03:56:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude Code sends your email address to websites",
+            "description": "<p>Article URL: <a href=\"https://github.com/anthropics/claude-code/issues/107757\">https://github.com/anthropics/claude-code/issues/107757</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50385272\">https://news.ycombinator.com/item?id=50385272</a></p>\n<p>Points: 350</p>\n<p># Comments: 109</p>",
+            "url": "https://github.com/anthropics/claude-code/issues/107757",
+            "published": "Thu, 05 Nov 2026 22:17:15 +0000",
+            "fetched": "2026-11-06T03:56:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand found guilty of rape and sexual assault",
+            "description": "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can now be reported.",
+            "url": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Nov 2026 18:28:35 GMT",
+            "fetched": "2026-11-06T03:56:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Met Police release Brand interview footage",
+            "description": "Brand was found guilty of one count of rape and three sexual assaults at Southwark Crown Court.",
+            "url": "https://www.bbc.co.uk/news/videos/c693ze38vywxo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Nov 2026 16:01:56 GMT",
+            "fetched": "2026-11-06T03:56:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+            "description": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms",
+            "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 00:05:05 GMT",
+            "fetched": "2026-11-06T03:56:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Turkiye’s parliament ratifies Mecca defence agreement",
+            "description": "Parliament&#039;s approval lays the groundwork for further Turkish involvement in Saudi Arabia&#039;s conflict with the Houthis.",
+            "url": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 00:15:22 +0000",
+            "fetched": "2026-11-06T03:56:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump met Russian envoy after he appeared with Melania Trump and Ukrainians",
+            "description": "Trump again said a major Russia-Ukraine deal is &#039;very close&#039;, but gave no specifics.",
+            "url": "https://www.aljazeera.com/news/2026/11/6/trump-met-russian-envoy-after-he-appeared-with-melania-trump-and-ukrainians?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 00:06:31 +0000",
+            "fetched": "2026-11-06T03:56:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Trump warns US may have to ‘destroy’ rest of Iran",
+            "description": "Trump says the US may have to &#039;destroy&#039; the rest of Iran, adding that people will &#039;know soon enough&#039;.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/11/6/iran-war-live-trump-warns-us-may-have-to-destroy-rest-of-iran?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 00:00:00 +0000",
+            "fetched": "2026-11-06T03:56:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-06T03:56:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-06T03:56:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-06T03:56:13+03:30"
+        }
+    ]
+}
