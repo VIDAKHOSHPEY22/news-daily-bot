@@ -1,90 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-06 05:42:23
+**Last Update:** 2026-11-06 10:34:56
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Investors wipe $2.5T off Nasdaq as blue tsunami prompts AI fears
+### 1. I struggle to believe that AI R&D is ingenious
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/">https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50386909">https://news.ycombinator.com/item?id=50386909</a></p>
-<p>Points: 19</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/](https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/)
-
----
-
-### 2. MoofTCP – A modern replacement for MacTCP on 68k Macs
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/matthewmrichter/mooftcp">https://github.com/matthewmrichter/mooftcp</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50386789">https://news.ycombinator.com/item?id=50386789</a></p>
-<p>Points: 4</p>
+<p>Article URL: <a href="https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL">https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50388513">https://news.ycombinator.com/item?id=50388513</a></p>
+<p>Points: 10</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/matthewmrichter/mooftcp](https://github.com/matthewmrichter/mooftcp)
+🔗 **Read more:** [https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL](https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL)
 
 ---
 
-### 3. Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation
+### 2. From Linux to Wikipedia: How Volunteers Build the Internet
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’">https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50386597">https://news.ycombinator.com/item?id=50386597</a></p>
-<p>Points: 30</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/">https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50388122">https://news.ycombinator.com/item?id=50388122</a></p>
+<p>Points: 29</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’](https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’)
+🔗 **Read more:** [https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/](https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/)
 
 ---
 
-### 4. Russell Brand found guilty of rape and sexual assault
+### 3. Pwn.college
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://pwn.college/">https://pwn.college/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50387796">https://news.ycombinator.com/item?id=50387796</a></p>
+<p>Points: 89</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://pwn.college/](https://pwn.college/)
+
+---
+
+### 4. Global tech stocks plunge as US midterms add to AI slowdown fears
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Brand is told to expect a prison sentence "of some length" and faces more rape allegations, it can now be reported.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Major tech stocks plunge as US midterms add to fears of AI slowdown
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.
+Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Met chief warns policing 'heading for failure' without reform
+### 5. Met chief warns policing 'heading for failure' without reform
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Sir Mark Rowley will argue that the current system is unable to cope with the so
 
 ---
 
-### 7. California governor commutes sentences of more than 500 people on death row
+### 6. Russell Brand is being investigated over two new rape complaints, police say
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Gavin Newsom cites state values and flaws in the legal system as he grants largest mass clemency in US history.
+Det Supt Andy Furphy said he hoped other potential victims would gain "courage" and "confidence" from the guilty verdicts.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Israeli settlers set fire to Palestinian olive grove near Ramallah
+### 7. Who is Kozo Tashima, the Japanese official running for FIFA presidency?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli settlers have set fire to olive trees belonging to Palestinian farmers in the village of Burqa, near Ramallah.
+Tashima has served as a football player, coach and bureaucrat, and has a reputation for being a safe pair of hands.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/6/kozo-tashima-japan-fifa-president-election-gianni-infantino?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/6/kozo-tashima-japan-fifa-president-election-gianni-infantino?traffic_source=rss)
 
 ---
 
-### 9. Turkiye’s parliament ratifies Mecca defence agreement
+### 8. Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Parliament&#039;s approval lays the groundwork for further Turkish involvement in Saudi Arabia&#039;s conflict with the Houthis.
+Tehran says ships from four countries can cross Hormuz freely, but analysts say the deals carry political risks.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions?traffic_source=rss)
+
+---
+
+### 9. In Athens’s pro-Palestinian heartland, Israeli buyers spark resentment
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+In Athens’s pro-Palestinian heartland, Israeli buyers spark resentment
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/6/in-athenss-pro-palestinian-heartland-israeli-buyers-spark-resentment?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/6/in-athenss-pro-palestinian-heartland-israeli-buyers-spark-resentment?traffic_source=rss)
 
 ---
 

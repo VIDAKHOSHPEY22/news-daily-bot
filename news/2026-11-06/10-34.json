@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-06T10:34:56+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I struggle to believe that AI R&D is ingenious",
+            "description": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL\">https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50388513\">https://news.ycombinator.com/item?id=50388513</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+            "url": "https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL",
+            "published": "Fri, 06 Nov 2026 05:19:04 +0000",
+            "fetched": "2026-11-06T10:34:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+            "description": "<p>Article URL: <a href=\"https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/\">https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50388122\">https://news.ycombinator.com/item?id=50388122</a></p>\n<p>Points: 29</p>\n<p># Comments: 6</p>",
+            "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+            "published": "Fri, 06 Nov 2026 04:17:49 +0000",
+            "fetched": "2026-11-06T10:34:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pwn.college",
+            "description": "<p>Article URL: <a href=\"https://pwn.college/\">https://pwn.college/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50387796\">https://news.ycombinator.com/item?id=50387796</a></p>\n<p>Points: 89</p>\n<p># Comments: 9</p>",
+            "url": "https://pwn.college/",
+            "published": "Fri, 06 Nov 2026 03:27:14 +0000",
+            "fetched": "2026-11-06T10:34:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
+            "description": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 06:00:59 GMT",
+            "fetched": "2026-11-06T10:34:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Met chief warns policing 'heading for failure' without reform",
+            "description": "Sir Mark Rowley will argue that the current system is unable to cope with the sophistication of modern criminals.",
+            "url": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 01:13:53 GMT",
+            "fetched": "2026-11-06T10:34:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand is being investigated over two new rape complaints, police say",
+            "description": "Det Supt Andy Furphy said he hoped other potential victims would gain \"courage\" and \"confidence\" from the guilty verdicts.",
+            "url": "https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Nov 2026 15:44:49 GMT",
+            "fetched": "2026-11-06T10:34:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who is Kozo Tashima, the Japanese official running for FIFA presidency?",
+            "description": "Tashima has served as a football player, coach and bureaucrat, and has a reputation for being a safe pair of hands.",
+            "url": "https://www.aljazeera.com/sports/2026/11/6/kozo-tashima-japan-fifa-president-election-gianni-infantino?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 06:43:42 +0000",
+            "fetched": "2026-11-06T10:34:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?",
+            "description": "Tehran says ships from four countries can cross Hormuz freely, but analysts say the deals carry political risks.",
+            "url": "https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 06:06:24 +0000",
+            "fetched": "2026-11-06T10:34:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "In Athens’s pro-Palestinian heartland, Israeli buyers spark resentment",
+            "description": "In Athens’s pro-Palestinian heartland, Israeli buyers spark resentment",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/in-athenss-pro-palestinian-heartland-israeli-buyers-spark-resentment?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 05:59:54 +0000",
+            "fetched": "2026-11-06T10:34:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-06T10:34:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-06T10:34:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-06T10:34:56+03:30"
+        }
+    ]
+}
