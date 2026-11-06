@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-06 10:34:56
+**Last Update:** 2026-11-06 14:11:37
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. I struggle to believe that AI R&D is ingenious
+### 1. Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL">https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50388513">https://news.ycombinator.com/item?id=50388513</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105">https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50390124">https://news.ycombinator.com/item?id=50390124</a></p>
+<p>Points: 16</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL](https://www.lesswrong.com/posts/DALNiKBjMGMF8grme/arjun-panickssery-s-shortform?commentId=fJtaHHHfx45tD7BSL)
+🔗 **Read more:** [https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105)
 
 ---
 
-### 2. From Linux to Wikipedia: How Volunteers Build the Internet
+### 2. Living Maps: Bay Area tech since 1960s
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/">https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50388122">https://news.ycombinator.com/item?id=50388122</a></p>
-<p>Points: 29</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://tomorrowasusual.com/living-maps/bay-area-tech/">https://tomorrowasusual.com/living-maps/bay-area-tech/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50389498">https://news.ycombinator.com/item?id=50389498</a></p>
+<p>Points: 6</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/](https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/)
+🔗 **Read more:** [https://tomorrowasusual.com/living-maps/bay-area-tech/](https://tomorrowasusual.com/living-maps/bay-area-tech/)
 
 ---
 
-### 3. Pwn.college
+### 3. App Store 2026 in numbers: AI, pricing, abandoned apps
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pwn.college/">https://pwn.college/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50387796">https://news.ycombinator.com/item?id=50387796</a></p>
-<p>Points: 89</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://obelisk.club/research/app-store-2026">https://obelisk.club/research/app-store-2026</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50389448">https://news.ycombinator.com/item?id=50389448</a></p>
+<p>Points: 38</p>
+<p># Comments: 30</p>
 
-🔗 **Read more:** [https://pwn.college/](https://pwn.college/)
+🔗 **Read more:** [https://obelisk.club/research/app-store-2026](https://obelisk.club/research/app-store-2026)
 
 ---
 
-### 4. Global tech stocks plunge as US midterms add to AI slowdown fears
+### 4. Did a data centre revolt affect the US mid-term election results?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry.
+BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,55 +84,55 @@ Sir Mark Rowley will argue that the current system is unable to cope with the so
 
 ---
 
-### 6. Russell Brand is being investigated over two new rape complaints, police say
+### 6. 'Misleading' student loans information left out examples of higher-salary repayments
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Det Supt Andy Furphy said he hoped other potential victims would gain "courage" and "confidence" from the guilty verdicts.
+The Treasury Committee chair says she is "shocked" after one university compared repayments to the price of coffee.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6vgx8q09gg4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Who is Kozo Tashima, the Japanese official running for FIFA presidency?
+### 7. Court grants ex-Malaysian PM Najib house arrest after $12m royal pardon
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tashima has served as a football player, coach and bureaucrat, and has a reputation for being a safe pair of hands.
+Court had approved his transfer after the Former Prime Minister&#039;s party paid $12m fine via crowdfunding.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/6/kozo-tashima-japan-fifa-president-election-gianni-infantino?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/6/kozo-tashima-japan-fifa-president-election-gianni-infantino?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/courts-grant-ex-malaysian-pm-najib-house-arrest-after-12m-royal-pardon?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/courts-grant-ex-malaysian-pm-najib-house-arrest-after-12m-royal-pardon?traffic_source=rss)
 
 ---
 
-### 8. Why is Iran exempting India, China, Qatar, Iraq from Hormuz restrictions?
+### 8. Tech stock rout, driven by US AI fears, continues in Asian trading
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran says ships from four countries can cross Hormuz freely, but analysts say the deals carry political risks.
+Global markets are being roiled due to concerns over US data centre expansion and AI regulation.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/why-is-iran-exempting-india-china-qatar-iraq-from-hormuz-restrictions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/6/tech-stock-rout-driven-by-us-ai-fears-continues-in-asian-trading?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/6/tech-stock-rout-driven-by-us-ai-fears-continues-in-asian-trading?traffic_source=rss)
 
 ---
 
-### 9. In Athens’s pro-Palestinian heartland, Israeli buyers spark resentment
+### 9. UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-In Athens’s pro-Palestinian heartland, Israeli buyers spark resentment
+Captain Ajay Pant was in international waters when his allegedly &#039;shadow&#039; tanker was captured by British soldiers.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/6/in-athenss-pro-palestinian-heartland-israeli-buyers-spark-resentment?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/6/in-athenss-pro-palestinian-heartland-israeli-buyers-spark-resentment?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/6/uk-jailing-of-indian-sailor-over-russia-sanctions-sets-off-perfect-storm?traffic_source=rss](https://www.aljazeera.com/features/2026/11/6/uk-jailing-of-indian-sailor-over-russia-sanctions-sets-off-perfect-storm?traffic_source=rss)
 
 ---
 
@@ -149,7 +149,20 @@ Natural event: Wildfires
 
 ---
 
-### 11. Tropical Cyclone Murasu
+### 11. Super Typhoon In-fa
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Severe Storms
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728)
+
+---
+
+### 12. Tropical Cyclone Murasu
 
 **Source:** NASA
 
@@ -159,19 +172,6 @@ Natural event: Wildfires
 Natural event: Severe Storms
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964)
-
----
-
-### 12. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Wildfires
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984)
 
 ---
 

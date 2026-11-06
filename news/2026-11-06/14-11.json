@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-06T14:11:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+            "description": "<p>Article URL: <a href=\"https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105\">https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50390124\">https://news.ycombinator.com/item?id=50390124</a></p>\n<p>Points: 16</p>\n<p># Comments: 2</p>",
+            "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+            "published": "Fri, 06 Nov 2026 09:27:12 +0000",
+            "fetched": "2026-11-06T14:11:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Living Maps: Bay Area tech since 1960s",
+            "description": "<p>Article URL: <a href=\"https://tomorrowasusual.com/living-maps/bay-area-tech/\">https://tomorrowasusual.com/living-maps/bay-area-tech/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50389498\">https://news.ycombinator.com/item?id=50389498</a></p>\n<p>Points: 6</p>\n<p># Comments: 5</p>",
+            "url": "https://tomorrowasusual.com/living-maps/bay-area-tech/",
+            "published": "Fri, 06 Nov 2026 08:08:19 +0000",
+            "fetched": "2026-11-06T14:11:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "App Store 2026 in numbers: AI, pricing, abandoned apps",
+            "description": "<p>Article URL: <a href=\"https://obelisk.club/research/app-store-2026\">https://obelisk.club/research/app-store-2026</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50389448\">https://news.ycombinator.com/item?id=50389448</a></p>\n<p>Points: 38</p>\n<p># Comments: 30</p>",
+            "url": "https://obelisk.club/research/app-store-2026",
+            "published": "Fri, 06 Nov 2026 07:59:19 +0000",
+            "fetched": "2026-11-06T14:11:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Did a data centre revolt affect the US mid-term election results?",
+            "description": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry.",
+            "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 06:01:13 GMT",
+            "fetched": "2026-11-06T14:11:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Met chief warns policing 'heading for failure' without reform",
+            "description": "Sir Mark Rowley will argue that the current system is unable to cope with the sophistication of modern criminals.",
+            "url": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 10:19:19 GMT",
+            "fetched": "2026-11-06T14:11:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Misleading' student loans information left out examples of higher-salary repayments",
+            "description": "The Treasury Committee chair says she is \"shocked\" after one university compared repayments to the price of coffee.",
+            "url": "https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 06:06:36 GMT",
+            "fetched": "2026-11-06T14:11:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Court grants ex-Malaysian PM Najib house arrest after $12m royal pardon",
+            "description": "Court had approved his transfer after the Former Prime Minister&#039;s party paid $12m fine via crowdfunding.",
+            "url": "https://www.aljazeera.com/news/2026/11/6/courts-grant-ex-malaysian-pm-najib-house-arrest-after-12m-royal-pardon?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 09:01:40 +0000",
+            "fetched": "2026-11-06T14:11:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tech stock rout, driven by US AI fears, continues in Asian trading",
+            "description": "Global markets are being roiled due to concerns over US data centre expansion and AI regulation.",
+            "url": "https://www.aljazeera.com/economy/2026/11/6/tech-stock-rout-driven-by-us-ai-fears-continues-in-asian-trading?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 08:41:05 +0000",
+            "fetched": "2026-11-06T14:11:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’",
+            "description": "Captain Ajay Pant was in international waters when his allegedly &#039;shadow&#039; tanker was captured by British soldiers.",
+            "url": "https://www.aljazeera.com/features/2026/11/6/uk-jailing-of-indian-sailor-over-russia-sanctions-sets-off-perfect-storm?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 08:32:57 +0000",
+            "fetched": "2026-11-06T14:11:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-06T14:11:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Super Typhoon In-fa",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728",
+            "published": "2026-10-23T18:00:00Z",
+            "fetched": "2026-11-06T14:11:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-06T14:11:37+03:30"
+        }
+    ]
+}
