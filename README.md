@@ -1,60 +1,69 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-06 21:22:51
+**Last Update:** 2026-11-07 00:27:07
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Anthropic IPO Valuation Talks Drop to $1.3T as Major Investors Balk
+### 1. SketchAgentBench – evaluate LLMs on 3D spatial reasoning
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors">https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50395318">https://news.ycombinator.com/item?id=50395318</a></p>
-<p>Points: 16</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors](https://epyhia.com/anthropic-ipo-valuation-talks-drop-to-1-3-trillion-as-major-investors)
-
----
-
-### 2. UpCodes (YC S17) is hiring SDR's to sell AI compliance software
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://up.codes/careers?utm_source=HN">https://up.codes/careers?utm_source=HN</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50395043">https://news.ycombinator.com/item?id=50395043</a></p>
-<p>Points: 0</p>
+<p>Article URL: <a href="https://sketchagent.dev/">https://sketchagent.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50398010">https://news.ycombinator.com/item?id=50398010</a></p>
+<p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://up.codes/careers?utm_source=HN](https://up.codes/careers?utm_source=HN)
+🔗 **Read more:** [https://sketchagent.dev/](https://sketchagent.dev/)
 
 ---
 
-### 3. First steps in bare-metal programming using UEFI
+### 2. A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://kevinboone.me/efitest_index.html">https://kevinboone.me/efitest_index.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50394855">https://news.ycombinator.com/item?id=50394855</a></p>
-<p>Points: 27</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://hightouch.com/blog/llm-judges-identity-resolution">https://hightouch.com/blog/llm-judges-identity-resolution</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50397429">https://news.ycombinator.com/item?id=50397429</a></p>
+<p>Points: 68</p>
+<p># Comments: 15</p>
 
-🔗 **Read more:** [https://kevinboone.me/efitest_index.html](https://kevinboone.me/efitest_index.html)
+🔗 **Read more:** [https://hightouch.com/blog/llm-judges-identity-resolution](https://hightouch.com/blog/llm-judges-identity-resolution)
+
+---
+
+### 3. Show HN: Agents infer Lego mechanisms from sources, then animate them
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Hi there :)<p>Around a month ago, I released LDraw Nova, an agentic toolset for assembling LEGO CAD models by generating LDraw source code files.<p>For more details, here's the Show HN post:<p><a href="https://news.ycombinator.com/item?id=49937916">https://news.ycombinator.com/item?id=49937916</a><p>From the comments, I got the impression that there was quite an interest in seeing not only AI-generated LEGO models, but also AI-animated LEGO ones.<p>I took a look at results from past experiments, and found it feasible to use agentic LLMs for:<p>- analyzing the LDraw source code for LEGO models
+- reverse-engineer! the mechanisms present by reading the descriptions and sequence for the parts there
+- and then, animate them via Blender!<p>This new project I'm presenting, LDraw Mecha, is the end result and proof that can be done:<p>- Read specially annotated LDraw LEGO models .mpd source files
+- Infer the model structure in terms of submodels
+- Select from those the ones that are mechanisms
+- Plan animations
+- Execute them in Blender<p>In summary, from an initial .mpd source file, get a rigged and animated version for the model as a Blender (.blend) file.<p>See the results here:<p>- Repo (v0.5.0): <a href="https://github.com/anteloc/ldraw-mecha/tree/v0.5.0" rel="nofollow">https://github.com/anteloc/ldraw-mecha/tree/v0.5.0</a>
+- Gallery: <a href="https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/GALLERY.md" rel="nofollow">https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/GALLERY.m...</a>
+- Process: <a href="https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/PROCESS.md" rel="nofollow">https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/PROCESS.m...</a><p>This project is very unusual, I'd really appreciate some feedback from the community.<p>Cheers!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50397325">https://news.ycombinator.com/item?id=50397325</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/anteloc/ldraw-mecha/tree/v0.5.0](https://github.com/anteloc/ldraw-mecha/tree/v0.5.0)
 
 ---
 
@@ -71,68 +80,68 @@ Ian Winter allegedly confronted a reporter outside court who had investigated th
 
 ---
 
-### 5. AI stocks climb after trillions wiped from market values
+### 5. How 2000s lad culture helped Russell Brand to hide in plain sight
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development.
+The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. New wave of bomb threats hit European airlines
+### 6. Trump replaces White House chief of staff days after Republicans suffer midterm defeats
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-No link has been established between the threats against the airlines and those against the media outlets.
+Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on Monday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. How Paraguay’s Ueno collapse is only its latest banking crisis
+### 7. How ‘Street Medics’ protect French protesters
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Santiago Pena is under fire over links to parent company of collapsed bank.
+French authorities are investigating more than a hundred cases of alleged police misconduct at cost of living protests.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/how-paraguays-ueno-collapse-is-only-its-latest-banking-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/how-paraguays-ueno-collapse-is-only-its-latest-banking-crisis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/6/how-street-medics-protect-french-protesters?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/6/how-street-medics-protect-french-protesters?traffic_source=rss)
 
 ---
 
-### 8. US city votes to divest from Israel
+### 8. Tanzanian opposition leader jailed in ‘politically motivated’ case
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Voters in Providence, Rhode Island called for for the city to stop its investments that support genocide.
+Tanzanian opposition leader Tundu Lissu has been jailed in a case widely condemned as politically motivated.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/6/us-city-votes-to-divest-from-israel?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/6/us-city-votes-to-divest-from-israel?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/6/tanzanian-opposition-leader-jailed-in-politically-motivated-case?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/6/tanzanian-opposition-leader-jailed-in-politically-motivated-case?traffic_source=rss)
 
 ---
 
-### 9. US prosecutor who led Trump-backed election probe exits Justice Department
+### 9. Why is Britain refusing to pay slavery reparations?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Jason Reding Quinones&#039; resignation comes as administration braces for Democrat-led investigations.
+Britain compensated slave owners, not the enslaved. Can an apology without reparations be enough?
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/us-prosecutor-who-led-trump-backed-election-probe-exits-justice-department?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/6/why-is-britain-refusing-to-pay-slavery-reparations?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/6/why-is-britain-refusing-to-pay-slavery-reparations?traffic_source=rss)
 
 ---
 

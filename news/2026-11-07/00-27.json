@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-07T00:27:07+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "SketchAgentBench – evaluate LLMs on 3D spatial reasoning",
+            "description": "<p>Article URL: <a href=\"https://sketchagent.dev/\">https://sketchagent.dev/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50398010\">https://news.ycombinator.com/item?id=50398010</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://sketchagent.dev/",
+            "published": "Fri, 06 Nov 2026 20:28:24 +0000",
+            "fetched": "2026-11-07T00:27:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+            "description": "<p>Article URL: <a href=\"https://hightouch.com/blog/llm-judges-identity-resolution\">https://hightouch.com/blog/llm-judges-identity-resolution</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397429\">https://news.ycombinator.com/item?id=50397429</a></p>\n<p>Points: 68</p>\n<p># Comments: 15</p>",
+            "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+            "published": "Fri, 06 Nov 2026 19:48:51 +0000",
+            "fetched": "2026-11-07T00:27:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
+            "description": "<p>Hi there :)<p>Around a month ago, I released LDraw Nova, an agentic toolset for assembling LEGO CAD models by generating LDraw source code files.<p>For more details, here's the Show HN post:<p><a href=\"https://news.ycombinator.com/item?id=49937916\">https://news.ycombinator.com/item?id=49937916</a><p>From the comments, I got the impression that there was quite an interest in seeing not only AI-generated LEGO models, but also AI-animated LEGO ones.<p>I took a look at results from past experiments, and found it feasible to use agentic LLMs for:<p>- analyzing the LDraw source code for LEGO models\n- reverse-engineer! the mechanisms present by reading the descriptions and sequence for the parts there\n- and then, animate them via Blender!<p>This new project I'm presenting, LDraw Mecha, is the end result and proof that can be done:<p>- Read specially annotated LDraw LEGO models .mpd source files\n- Infer the model structure in terms of submodels\n- Select from those the ones that are mechanisms\n- Plan animations\n- Execute them in Blender<p>In summary, from an initial .mpd source file, get a rigged and animated version for the model as a Blender (.blend) file.<p>See the results here:<p>- Repo (v0.5.0): <a href=\"https://github.com/anteloc/ldraw-mecha/tree/v0.5.0\" rel=\"nofollow\">https://github.com/anteloc/ldraw-mecha/tree/v0.5.0</a>\n- Gallery: <a href=\"https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/GALLERY.md\" rel=\"nofollow\">https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/GALLERY.m...</a>\n- Process: <a href=\"https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/PROCESS.md\" rel=\"nofollow\">https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/PROCESS.m...</a><p>This project is very unusual, I'd really appreciate some feedback from the community.<p>Cheers!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397325\">https://news.ycombinator.com/item?id=50397325</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
+            "published": "Fri, 06 Nov 2026 19:41:20 +0000",
+            "fetched": "2026-11-07T00:27:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
+            "description": "Ian Winter allegedly confronted a reporter outside court who had investigated the comedian.",
+            "url": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 16:49:31 GMT",
+            "fetched": "2026-11-07T00:27:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How 2000s lad culture helped Russell Brand to hide in plain sight",
+            "description": "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall.",
+            "url": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 12:16:44 GMT",
+            "fetched": "2026-11-07T00:27:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump replaces White House chief of staff days after Republicans suffer midterm defeats",
+            "description": "Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on Monday.",
+            "url": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 20:11:45 GMT",
+            "fetched": "2026-11-07T00:27:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How ‘Street Medics’ protect French protesters",
+            "description": "French authorities are investigating more than a hundred cases of alleged police misconduct at cost of living protests.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/how-street-medics-protect-french-protesters?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 20:17:32 +0000",
+            "fetched": "2026-11-07T00:27:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tanzanian opposition leader jailed in ‘politically motivated’ case",
+            "description": "Tanzanian opposition leader Tundu Lissu has been jailed in a case widely condemned as politically motivated.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/tanzanian-opposition-leader-jailed-in-politically-motivated-case?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 19:42:46 +0000",
+            "fetched": "2026-11-07T00:27:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why is Britain refusing to pay slavery reparations?",
+            "description": "Britain compensated slave owners, not the enslaved. Can an apology without reparations be enough?",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/why-is-britain-refusing-to-pay-slavery-reparations?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 19:34:33 +0000",
+            "fetched": "2026-11-07T00:27:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-07T00:27:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-07T00:27:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-07T00:27:07+03:30"
+        }
+    ]
+}
