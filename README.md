@@ -1,90 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-06 14:11:37
+**Last Update:** 2026-11-06 18:42:18
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS
+### 1. University libraries are being swarmed by AI bots, putting public access at risk
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105">https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50390124">https://news.ycombinator.com/item?id=50390124</a></p>
-<p>Points: 16</p>
+<p>Article URL: <a href="https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287">https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50392499">https://news.ycombinator.com/item?id=50392499</a></p>
+<p>Points: 12</p>
 <p># Comments: 2</p>
 
-🔗 **Read more:** [https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105](https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105)
+🔗 **Read more:** [https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287](https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287)
 
 ---
 
-### 2. Living Maps: Bay Area tech since 1960s
+### 2. Gemini Omni 1.2 Flash
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tomorrowasusual.com/living-maps/bay-area-tech/">https://tomorrowasusual.com/living-maps/bay-area-tech/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50389498">https://news.ycombinator.com/item?id=50389498</a></p>
-<p>Points: 6</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/">https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50392118">https://news.ycombinator.com/item?id=50392118</a></p>
+<p>Points: 64</p>
+<p># Comments: 38</p>
 
-🔗 **Read more:** [https://tomorrowasusual.com/living-maps/bay-area-tech/](https://tomorrowasusual.com/living-maps/bay-area-tech/)
+🔗 **Read more:** [https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/)
 
 ---
 
-### 3. App Store 2026 in numbers: AI, pricing, abandoned apps
+### 3. Tesla winds down Cybertruck production after years of poor sales in few markets
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://obelisk.club/research/app-store-2026">https://obelisk.club/research/app-store-2026</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50389448">https://news.ycombinator.com/item?id=50389448</a></p>
-<p>Points: 38</p>
-<p># Comments: 30</p>
+<p>Article URL: <a href="https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv">https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50391456">https://news.ycombinator.com/item?id=50391456</a></p>
+<p>Points: 173</p>
+<p># Comments: 191</p>
 
-🔗 **Read more:** [https://obelisk.club/research/app-store-2026](https://obelisk.club/research/app-store-2026)
+🔗 **Read more:** [https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv](https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv)
 
 ---
 
-### 4. Did a data centre revolt affect the US mid-term election results?
+### 4. Met chief says he wouldn't be surprised if more allegations made about Brand after rape conviction
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry.
+Sir Mark Rowley tells the BBC that what he heard reported from Brand's trial came close to "victim blaming".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Met chief warns policing 'heading for failure' without reform
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Sir Mark Rowley will argue that the current system is unable to cope with the sophistication of modern criminals.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmly00r44jgvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmly00r44jgvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. 'Misleading' student loans information left out examples of higher-salary repayments
+### 5. 'Misleading' student loans information left out examples of higher-salary repayments
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The Treasury Committee chair says she is "shocked" after one university compared
 
 ---
 
-### 7. Court grants ex-Malaysian PM Najib house arrest after $12m royal pardon
+### 6. Two Gloucester schools in lockdown after boy hurt in incident
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Court had approved his transfer after the Former Prime Minister&#039;s party paid $12m fine via crowdfunding.
+Armed police are on the scene in Tuffley - police say pupils are safe within school grounds.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/courts-grant-ex-malaysian-pm-najib-house-arrest-after-12m-royal-pardon?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/courts-grant-ex-malaysian-pm-najib-house-arrest-after-12m-royal-pardon?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Tech stock rout, driven by US AI fears, continues in Asian trading
+### 7. Veto or deals: Can Trump find a way to work with Democrats?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Global markets are being roiled due to concerns over US data centre expansion and AI regulation.
+Trump has three options to affect legislation, say analysts: veto legislation, enforce executive orders or make deals.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/6/tech-stock-rout-driven-by-us-ai-fears-continues-in-asian-trading?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/6/tech-stock-rout-driven-by-us-ai-fears-continues-in-asian-trading?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/veto-or-deals-can-trump-find-a-way-to-work-with-democrats?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/veto-or-deals-can-trump-find-a-way-to-work-with-democrats?traffic_source=rss)
 
 ---
 
-### 9. UK jailing of Indian sailor over Russia sanctions sets off ‘perfect storm’
+### 8. What a Trump-Xi-Putin summit could mean – and what it wouldn’t
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Captain Ajay Pant was in international waters when his allegedly &#039;shadow&#039; tanker was captured by British soldiers.
+A Trump-Xi-Putin meeting at APEC would be a coup for Moscow, analysts say, but Beijing appears lukewarm.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/6/uk-jailing-of-indian-sailor-over-russia-sanctions-sets-off-perfect-storm?traffic_source=rss](https://www.aljazeera.com/features/2026/11/6/uk-jailing-of-indian-sailor-over-russia-sanctions-sets-off-perfect-storm?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt?traffic_source=rss)
+
+---
+
+### 9. Who is Kenya’s starvation cult leader?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Who is Kenya’s starvation cult leader?
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/6/who-is-kenyas-starvation-cult-leader?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/6/who-is-kenyas-starvation-cult-leader?traffic_source=rss)
 
 ---
 
@@ -149,20 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Super Typhoon In-fa
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25728)
-
----
-
-### 12. Tropical Cyclone Murasu
+### 11. Tropical Cyclone Murasu
 
 **Source:** NASA
 
@@ -172,6 +159,19 @@ Natural event: Severe Storms
 Natural event: Severe Storms
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964)
+
+---
+
+### 12. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Wildfires
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984)
 
 ---
 

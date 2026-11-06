@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-06T18:42:18+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "University libraries are being swarmed by AI bots, putting public access at risk",
+            "description": "<p>Article URL: <a href=\"https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287\">https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50392499\">https://news.ycombinator.com/item?id=50392499</a></p>\n<p>Points: 12</p>\n<p># Comments: 2</p>",
+            "url": "https://www.cbc.ca/news/world/university-libraries-ai-data-scraping-bots-9.7408287",
+            "published": "Fri, 06 Nov 2026 14:13:09 +0000",
+            "fetched": "2026-11-06T18:42:18+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Gemini Omni 1.2 Flash",
+            "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/\">https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50392118\">https://news.ycombinator.com/item?id=50392118</a></p>\n<p>Points: 64</p>\n<p># Comments: 38</p>",
+            "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+            "published": "Fri, 06 Nov 2026 13:35:27 +0000",
+            "fetched": "2026-11-06T18:42:18+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tesla winds down Cybertruck production after years of poor sales in few markets",
+            "description": "<p>Article URL: <a href=\"https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv\">https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50391456\">https://news.ycombinator.com/item?id=50391456</a></p>\n<p>Points: 173</p>\n<p># Comments: 191</p>",
+            "url": "https://www.msn.com/en-us/technology/tech-companies/tesla-to-wind-down-cybertruck-production-after-years-of-poor-sales-in-few-markets/ar-AA2gSZGv",
+            "published": "Fri, 06 Nov 2026 12:13:51 +0000",
+            "fetched": "2026-11-06T18:42:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Met chief says he wouldn't be surprised if more allegations made about Brand after rape conviction",
+            "description": "Sir Mark Rowley tells the BBC that what he heard reported from Brand's trial came close to \"victim blaming\".",
+            "url": "https://www.bbc.co.uk/news/articles/cmly00r44jgvo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 13:57:52 GMT",
+            "fetched": "2026-11-06T18:42:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Misleading' student loans information left out examples of higher-salary repayments",
+            "description": "The Treasury Committee chair says she is \"shocked\" after one university compared repayments to the price of coffee.",
+            "url": "https://www.bbc.co.uk/news/articles/cqde8prpdge3o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 06:06:36 GMT",
+            "fetched": "2026-11-06T18:42:18+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two Gloucester schools in lockdown after boy hurt in incident",
+            "description": "Armed police are on the scene in Tuffley - police say pupils are safe within school grounds.",
+            "url": "https://www.bbc.co.uk/news/articles/c6ly3343yj5po?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 14:24:55 GMT",
+            "fetched": "2026-11-06T18:42:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Veto or deals: Can Trump find a way to work with Democrats?",
+            "description": "Trump has three options to affect legislation, say analysts: veto legislation, enforce executive orders or make deals.",
+            "url": "https://www.aljazeera.com/news/2026/11/6/veto-or-deals-can-trump-find-a-way-to-work-with-democrats?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 13:58:03 +0000",
+            "fetched": "2026-11-06T18:42:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What a Trump-Xi-Putin summit could mean – and what it wouldn’t",
+            "description": "A Trump-Xi-Putin meeting at APEC would be a coup for Moscow, analysts say, but Beijing appears lukewarm.",
+            "url": "https://www.aljazeera.com/news/2026/11/6/what-a-trump-xi-putin-summit-would-mean-and-what-it-wouldnt?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 13:49:07 +0000",
+            "fetched": "2026-11-06T18:42:18+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who is Kenya’s starvation cult leader?",
+            "description": "Who is Kenya’s starvation cult leader?",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/who-is-kenyas-starvation-cult-leader?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 13:43:41 +0000",
+            "fetched": "2026-11-06T18:42:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-06T18:42:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-06T18:42:18+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-06T18:42:18+03:30"
+        }
+    ]
+}
