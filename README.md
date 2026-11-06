@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-07 00:27:07
+**Last Update:** 2026-11-07 02:28:35
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. SketchAgentBench – evaluate LLMs on 3D spatial reasoning
+### 1. AI is dramatically accelerating AI research
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://sketchagent.dev/">https://sketchagent.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50398010">https://news.ycombinator.com/item?id=50398010</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai">https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50397994">https://news.ycombinator.com/item?id=50397994</a></p>
+<p>Points: 116</p>
+<p># Comments: 67</p>
 
-🔗 **Read more:** [https://sketchagent.dev/](https://sketchagent.dev/)
+🔗 **Read more:** [https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai)
 
 ---
 
-### 2. A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost
+### 2. Google has acquired Crusoe's data center site in southeast Wyoming
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update">https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50397711">https://news.ycombinator.com/item?id=50397711</a></p>
+<p>Points: 10</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update](https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update)
+
+---
+
+### 3. A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost
 
 **Source:** Hacker News
 
@@ -35,39 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://hightouch.com/blog/llm-judges-identity-resolution">https://hightouch.com/blog/llm-judges-identity-resolution</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50397429">https://news.ycombinator.com/item?id=50397429</a></p>
-<p>Points: 68</p>
-<p># Comments: 15</p>
+<p>Points: 230</p>
+<p># Comments: 50</p>
 
 🔗 **Read more:** [https://hightouch.com/blog/llm-judges-identity-resolution](https://hightouch.com/blog/llm-judges-identity-resolution)
 
 ---
 
-### 3. Show HN: Agents infer Lego mechanisms from sources, then animate them
+### 4. Meghan's father Thomas Markle appears in court over child sex abuse material
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Hi there :)<p>Around a month ago, I released LDraw Nova, an agentic toolset for assembling LEGO CAD models by generating LDraw source code files.<p>For more details, here's the Show HN post:<p><a href="https://news.ycombinator.com/item?id=49937916">https://news.ycombinator.com/item?id=49937916</a><p>From the comments, I got the impression that there was quite an interest in seeing not only AI-generated LEGO models, but also AI-animated LEGO ones.<p>I took a look at results from past experiments, and found it feasible to use agentic LLMs for:<p>- analyzing the LDraw source code for LEGO models
-- reverse-engineer! the mechanisms present by reading the descriptions and sequence for the parts there
-- and then, animate them via Blender!<p>This new project I'm presenting, LDraw Mecha, is the end result and proof that can be done:<p>- Read specially annotated LDraw LEGO models .mpd source files
-- Infer the model structure in terms of submodels
-- Select from those the ones that are mechanisms
-- Plan animations
-- Execute them in Blender<p>In summary, from an initial .mpd source file, get a rigged and animated version for the model as a Blender (.blend) file.<p>See the results here:<p>- Repo (v0.5.0): <a href="https://github.com/anteloc/ldraw-mecha/tree/v0.5.0" rel="nofollow">https://github.com/anteloc/ldraw-mecha/tree/v0.5.0</a>
-- Gallery: <a href="https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/GALLERY.md" rel="nofollow">https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/GALLERY.m...</a>
-- Process: <a href="https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/PROCESS.md" rel="nofollow">https://github.com/anteloc/ldraw-mecha/blob/v0.5.0/PROCESS.m...</a><p>This project is very unusual, I'd really appreciate some feedback from the community.<p>Cheers!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50397325">https://news.ycombinator.com/item?id=50397325</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented.
 
-🔗 **Read more:** [https://github.com/anteloc/ldraw-mecha/tree/v0.5.0](https://github.com/anteloc/ldraw-mecha/tree/v0.5.0)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Brand's barrister refers himself to regulator after report he confronted journalist
+### 5. Brand's barrister refers himself to regulator after report he confronted journalist
 
 **Source:** BBC
 
@@ -80,7 +84,7 @@ Ian Winter allegedly confronted a reporter outside court who had investigated th
 
 ---
 
-### 5. How 2000s lad culture helped Russell Brand to hide in plain sight
+### 6. How 2000s lad culture helped Russell Brand to hide in plain sight
 
 **Source:** BBC
 
@@ -93,55 +97,42 @@ The behaviour that formed the backdrop to Brand's prosecution also helped elevat
 
 ---
 
-### 6. Trump replaces White House chief of staff days after Republicans suffer midterm defeats
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on Monday.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. How ‘Street Medics’ protect French protesters
+### 7. Palestinian couples tie the knot in mass wedding in Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-French authorities are investigating more than a hundred cases of alleged police misconduct at cost of living protests.
+The event brought 250 couples together to celebrate love and new beginnings despite Israel’s genocidal war on Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/6/how-street-medics-protect-french-protesters?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/6/how-street-medics-protect-french-protesters?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss)
 
 ---
 
-### 8. Tanzanian opposition leader jailed in ‘politically motivated’ case
+### 8. Who is Stephen Miller, Trump’s new White House chief of staff?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tanzanian opposition leader Tundu Lissu has been jailed in a case widely condemned as politically motivated.
+Miller has been a close confidant of Trump since 2016 and an architect of the president&#039;s hardline immigration policies.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/6/tanzanian-opposition-leader-jailed-in-politically-motivated-case?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/6/tanzanian-opposition-leader-jailed-in-politically-motivated-case?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss)
 
 ---
 
-### 9. Why is Britain refusing to pay slavery reparations?
+### 9. Protesters break into Microsoft data centre site in Amsterdam
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Britain compensated slave owners, not the enslaved. Can an apology without reparations be enough?
+Data centres face protests across Europe due to the massive amounts of computing power and water they use.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/6/why-is-britain-refusing-to-pay-slavery-reparations?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/6/why-is-britain-refusing-to-pay-slavery-reparations?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss)
 
 ---
 

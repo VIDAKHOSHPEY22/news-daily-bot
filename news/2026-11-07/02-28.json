@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-07T02:28:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI is dramatically accelerating AI research",
+            "description": "<p>Article URL: <a href=\"https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai\">https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397994\">https://news.ycombinator.com/item?id=50397994</a></p>\n<p>Points: 116</p>\n<p># Comments: 67</p>",
+            "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+            "published": "Fri, 06 Nov 2026 20:27:23 +0000",
+            "fetched": "2026-11-07T02:28:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Google has acquired Crusoe's data center site in southeast Wyoming",
+            "description": "<p>Article URL: <a href=\"https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update\">https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397711\">https://news.ycombinator.com/item?id=50397711</a></p>\n<p>Points: 10</p>\n<p># Comments: 0</p>",
+            "url": "https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update",
+            "published": "Fri, 06 Nov 2026 20:09:14 +0000",
+            "fetched": "2026-11-07T02:28:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+            "description": "<p>Article URL: <a href=\"https://hightouch.com/blog/llm-judges-identity-resolution\">https://hightouch.com/blog/llm-judges-identity-resolution</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50397429\">https://news.ycombinator.com/item?id=50397429</a></p>\n<p>Points: 230</p>\n<p># Comments: 50</p>",
+            "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+            "published": "Fri, 06 Nov 2026 19:48:51 +0000",
+            "fetched": "2026-11-07T02:28:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+            "description": "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+            "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 21:26:56 GMT",
+            "fetched": "2026-11-07T02:28:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
+            "description": "Ian Winter allegedly confronted a reporter outside court who had investigated the comedian.",
+            "url": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 16:49:31 GMT",
+            "fetched": "2026-11-07T02:28:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How 2000s lad culture helped Russell Brand to hide in plain sight",
+            "description": "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall.",
+            "url": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 12:16:44 GMT",
+            "fetched": "2026-11-07T02:28:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinian couples tie the knot in mass wedding in Gaza",
+            "description": "The event brought 250 couples together to celebrate love and new beginnings despite Israel’s genocidal war on Gaza.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 21:37:30 +0000",
+            "fetched": "2026-11-07T02:28:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who is Stephen Miller, Trump’s new White House chief of staff?",
+            "description": "Miller has been a close confidant of Trump since 2016 and an architect of the president&#039;s hardline immigration policies.",
+            "url": "https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 21:22:57 +0000",
+            "fetched": "2026-11-07T02:28:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Protesters break into Microsoft data centre site in Amsterdam",
+            "description": "Data centres face protests across Europe due to the massive amounts of computing power and water they use.",
+            "url": "https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 21:04:40 +0000",
+            "fetched": "2026-11-07T02:28:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-07T02:28:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-07T02:28:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-07T02:28:35+03:30"
+        }
+    ]
+}
