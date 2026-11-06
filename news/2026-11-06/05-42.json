@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-06T05:42:23+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Investors wipe $2.5T off Nasdaq as blue tsunami prompts AI fears",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/\">https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50386909\">https://news.ycombinator.com/item?id=50386909</a></p>\n<p>Points: 19</p>\n<p># Comments: 1</p>",
+            "url": "https://www.reuters.com/legal/transactional/ai-data-center-stocks-slip-democratic-sweep-clouds-expansion-plans-2026-11-05/",
+            "published": "Fri, 06 Nov 2026 01:11:40 +0000",
+            "fetched": "2026-11-06T05:42:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "MoofTCP – A modern replacement for MacTCP on 68k Macs",
+            "description": "<p>Article URL: <a href=\"https://github.com/matthewmrichter/mooftcp\">https://github.com/matthewmrichter/mooftcp</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50386789\">https://news.ycombinator.com/item?id=50386789</a></p>\n<p>Points: 4</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/matthewmrichter/mooftcp",
+            "published": "Fri, 06 Nov 2026 00:54:15 +0000",
+            "fetched": "2026-11-06T05:42:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Major Investors Are Skeptical Anthropic IPO Can Achieve $1.5T Valuation",
+            "description": "<p>Article URL: <a href=\"https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’\">https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50386597\">https://news.ycombinator.com/item?id=50386597</a></p>\n<p>Points: 30</p>\n<p># Comments: 16</p>",
+            "url": "https://www.wsj.com/finance/major-investors-are-skeptical-anthropic-ipo-can-achieve-1-5-trillion-valuation-ca965d8b’",
+            "published": "Fri, 06 Nov 2026 00:31:11 +0000",
+            "fetched": "2026-11-06T05:42:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand found guilty of rape and sexual assault",
+            "description": "Brand is told to expect a prison sentence \"of some length\" and faces more rape allegations, it can now be reported.",
+            "url": "https://www.bbc.co.uk/news/articles/ckyvrze96y70o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 05 Nov 2026 18:28:35 GMT",
+            "fetched": "2026-11-06T05:42:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+            "description": "Markets have been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 01:44:03 GMT",
+            "fetched": "2026-11-06T05:42:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Met chief warns policing 'heading for failure' without reform",
+            "description": "Sir Mark Rowley will argue that the current system is unable to cope with the sophistication of modern criminals.",
+            "url": "https://www.bbc.co.uk/news/articles/cvglww2r307ko?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 01:13:53 GMT",
+            "fetched": "2026-11-06T05:42:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "California governor commutes sentences of more than 500 people on death row",
+            "description": "Gavin Newsom cites state values and flaws in the legal system as he grants largest mass clemency in US history.",
+            "url": "https://www.aljazeera.com/news/2026/11/6/california-governor-commutes-sentences-of-more-than-500-people-on-death-row?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 01:39:35 +0000",
+            "fetched": "2026-11-06T05:42:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli settlers set fire to Palestinian olive grove near Ramallah",
+            "description": "Israeli settlers have set fire to olive trees belonging to Palestinian farmers in the village of Burqa, near Ramallah.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/6/israeli-settlers-set-fire-to-palestinian-olive-grove-near-ramallah?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 00:19:57 +0000",
+            "fetched": "2026-11-06T05:42:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Turkiye’s parliament ratifies Mecca defence agreement",
+            "description": "Parliament&#039;s approval lays the groundwork for further Turkish involvement in Saudi Arabia&#039;s conflict with the Houthis.",
+            "url": "https://www.aljazeera.com/news/2026/11/6/turkiyes-parliament-ratifies-mecca-defence-agreement?traffic_source=rss",
+            "published": "Fri, 06 Nov 2026 00:15:22 +0000",
+            "fetched": "2026-11-06T05:42:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-06T05:42:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-06T05:42:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-06T05:42:23+03:30"
+        }
+    ]
+}
