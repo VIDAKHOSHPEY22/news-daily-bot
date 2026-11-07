@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-08T02:20:08+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm",
+            "description": "<p>Profession like software engineer, mechanical / graphics designer takes a lot of strain on your eyes, observing minute details for hours and hours on screen can significantly reduce the blink rate which you might not even notice until it gets irreversibly painful, leaving you with dry eyes. I am already a victim of it, working 20 years as a research engineer in computer vision, zooming into pixel level details to hand craft algorithms. Now the doctors says its only regular use of lubricating drops can keep your eyes safe.<p>Now with AI and available fantastic libraries it's possible to play safe so that your body does not pay the price of your profession. EyesRhythm is build to help you keep the blink rhythm healthy by giving small audio / visual indication to maintain healthy blink rhythm not just by monitoring healthy blink rate but also keeping a watch on how rhythmic they are.<p>EyeRhythm also has a visual log for the neck movement. It is also capable to automatically track the face using multiple webcams that you might have on your working desk to get the best view of your eyes for accurate blink detection.<p>Most importantly it works completely local no internet required.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50408350\">https://news.ycombinator.com/item?id=50408350</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://eyesrhythm.com/",
+            "published": "Sat, 07 Nov 2026 21:47:47 +0000",
+            "fetched": "2026-11-08T02:20:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "MeccanicOS",
+            "description": "<p>Article URL: <a href=\"https://meccanicos.com/\">https://meccanicos.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50408129\">https://news.ycombinator.com/item?id=50408129</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://meccanicos.com/",
+            "published": "Sat, 07 Nov 2026 21:13:44 +0000",
+            "fetched": "2026-11-08T02:20:08+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Shadow of the Sun",
+            "description": "<p>Article URL: <a href=\"https://mattlakeman.org/2021/07/27/shadow-of-the-sun/\">https://mattlakeman.org/2021/07/27/shadow-of-the-sun/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50408104\">https://news.ycombinator.com/item?id=50408104</a></p>\n<p>Points: 10</p>\n<p># Comments: 1</p>",
+            "url": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
+            "published": "Sat, 07 Nov 2026 21:11:05 +0000",
+            "fetched": "2026-11-08T02:20:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know so far after Krakow gun attack",
+            "description": "Six people were killed in a random shooting in the city's main square, and three bodies were later found at his home.",
+            "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 07 Nov 2026 22:27:30 GMT",
+            "fetched": "2026-11-08T02:20:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+            "description": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+            "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 07 Nov 2026 15:19:35 GMT",
+            "fetched": "2026-11-08T02:20:08+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
+            "description": "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU.",
+            "url": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 07 Nov 2026 17:32:42 GMT",
+            "fetched": "2026-11-08T02:20:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Real Madrid beat Valencia 3-0 to draw level with La Liga leaders Barcelona",
+            "description": "Valverde and Guler&#039;s first-half goals put Madrid in the driving seat, and Mbappe added a third in the second half.",
+            "url": "https://www.aljazeera.com/sports/2026/11/7/real-madrid-beat-valencia-3-0-to-draw-level-with-la-liga-leaders-barcelona?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 22:21:58 +0000",
+            "fetched": "2026-11-08T02:20:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Police clash with protesters as anti-government rallies sweep France",
+            "description": "Police have clashed with protesters in Paris as Yellow Vests defied a ban on their rally, leading to arrests.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/police-clash-with-protesters-as-anti-government-rallies-sweep-france?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 21:24:10 +0000",
+            "fetched": "2026-11-08T02:20:08+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mélenchon promises action against Israeli annexation if elected President",
+            "description": "Mélenchon promises action against Israeli annexation if elected President",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/melenchon-promises-action-against-israeli-annexation-if-elected-president?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 20:53:47 +0000",
+            "fetched": "2026-11-08T02:20:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-08T02:20:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-08T02:20:08+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-08T02:20:08+03:30"
+        }
+    ]
+}
