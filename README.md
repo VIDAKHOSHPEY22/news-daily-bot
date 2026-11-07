@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-07 19:46:22
+**Last Update:** 2026-11-07 22:24:13
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. The $8 Linux Computer (2022)
+### 1. What I run on my $10 USD OpenStick, Linux, Homelab
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html">http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50404599">https://news.ycombinator.com/item?id=50404599</a></p>
-<p>Points: 58</p>
-<p># Comments: 27</p>
+<p>Article URL: <a href="https://blog.bosscher.ch/posts/openstick/">https://blog.bosscher.ch/posts/openstick/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50406670">https://news.ycombinator.com/item?id=50406670</a></p>
+<p>Points: 31</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)
+🔗 **Read more:** [https://blog.bosscher.ch/posts/openstick/](https://blog.bosscher.ch/posts/openstick/)
 
 ---
 
-### 2. Upload Your RAM
+### 2. The End of AI Frontiers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://uploadyourram.org">https://uploadyourram.org</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50403214">https://news.ycombinator.com/item?id=50403214</a></p>
-<p>Points: 230</p>
-<p># Comments: 207</p>
+<p>Article URL: <a href="https://hunch.net/?p=13764006">https://hunch.net/?p=13764006</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50406589">https://news.ycombinator.com/item?id=50406589</a></p>
+<p>Points: 34</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://uploadyourram.org](https://uploadyourram.org)
+🔗 **Read more:** [https://hunch.net/?p=13764006](https://hunch.net/?p=13764006)
 
 ---
 
-### 3. Every Mac comes with an (undocumented) family member classifier
+### 3. Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://8rank.ai/game/apple-intelligence-personal-knowledge-graph">https://8rank.ai/game/apple-intelligence-personal-knowledge-graph</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50403097">https://news.ycombinator.com/item?id=50403097</a></p>
-<p>Points: 349</p>
-<p># Comments: 200</p>
+<p>Article URL: <a href="https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/">https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50406563">https://news.ycombinator.com/item?id=50406563</a></p>
+<p>Points: 47</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://8rank.ai/game/apple-intelligence-personal-knowledge-graph](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph)
+🔗 **Read more:** [https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/](https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/)
 
 ---
 
-### 4. UK cannot 'cherry pick' EU single market deal, Barnier tells BBC
+### 4. What we know about Krakow mass shooting so far
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. UK cannot 'cherry pick' EU single market deal, Barnier tells BBC
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ The former Brexit negotiator says EU countries would reject any British attempts
 
 ---
 
-### 5. Victims in rape cases must not feel like they are on trial, Burnham says
+### 6. Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The PM was responding after a police chief said comments made during Russell Brand's trial came close to "victim blaming".
+Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Two men arrested after boy injured in sword attack
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-A 17-year-old boy from Gloucester has also been arrested on suspicion of assisting an offender.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iran’s IRGC says building underground sites for weapons production, storage
+### 7. Paraguay’s ousted president charged over banking scandal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-IRGC says underground military complexes allow missile production to continue even under heavy bombardment.
+Santiago Pena was impeached over the collapse of Ueno Bank, which left millions unable to access their accounts.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal?traffic_source=rss)
 
 ---
 
-### 8. Trump’s new chief of staff Stephen Miller says he ‘saved America’
+### 8. Pope Leo hold first mass in Uruguay, urges crowd to be ‘bridge builders’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Stephen Miller, US President Donald Trump’s incoming chief of staff praises him.
+Vatican says some 40,000 people gathered to listen to the head of the Roman Catholic Church in western city of Paysandu.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders?traffic_source=rss)
 
 ---
 
-### 9. Casualties reported after shooting in Poland’s Krakow
+### 9. Houthis report 25 killed in Yemen strikes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Polish Prime Minister Donald Tusk says police are investigating after &#039;tragic shooting&#039; in second-largest city.
+Yemen’s Houthis say at least 25 people have been killed and 30 injured in air strikes.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-07T22:24:13+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What I run on my $10 USD OpenStick, Linux, Homelab",
+            "description": "<p>Article URL: <a href=\"https://blog.bosscher.ch/posts/openstick/\">https://blog.bosscher.ch/posts/openstick/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406670\">https://news.ycombinator.com/item?id=50406670</a></p>\n<p>Points: 31</p>\n<p># Comments: 5</p>",
+            "url": "https://blog.bosscher.ch/posts/openstick/",
+            "published": "Sat, 07 Nov 2026 18:12:12 +0000",
+            "fetched": "2026-11-07T22:24:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The End of AI Frontiers",
+            "description": "<p>Article URL: <a href=\"https://hunch.net/?p=13764006\">https://hunch.net/?p=13764006</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406589\">https://news.ycombinator.com/item?id=50406589</a></p>\n<p>Points: 34</p>\n<p># Comments: 11</p>",
+            "url": "https://hunch.net/?p=13764006",
+            "published": "Sat, 07 Nov 2026 18:04:07 +0000",
+            "fetched": "2026-11-07T22:24:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Microsoft Researcher John Langford Exits. AI Frontiers Group Declared Finished",
+            "description": "<p>Article URL: <a href=\"https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/\">https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406563\">https://news.ycombinator.com/item?id=50406563</a></p>\n<p>Points: 47</p>\n<p># Comments: 10</p>",
+            "url": "https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/",
+            "published": "Sat, 07 Nov 2026 18:02:17 +0000",
+            "fetched": "2026-11-07T22:24:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about Krakow mass shooting so far",
+            "description": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+            "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 07 Nov 2026 18:22:11 GMT",
+            "fetched": "2026-11-07T22:24:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+            "description": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+            "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 07 Nov 2026 15:19:35 GMT",
+            "fetched": "2026-11-07T22:24:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
+            "description": "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU.",
+            "url": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 07 Nov 2026 17:32:42 GMT",
+            "fetched": "2026-11-07T22:24:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Paraguay’s ousted president charged over banking scandal",
+            "description": "Santiago Pena was impeached over the collapse of Ueno Bank, which left millions unable to access their accounts.",
+            "url": "https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 18:35:15 +0000",
+            "fetched": "2026-11-07T22:24:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pope Leo hold first mass in Uruguay, urges crowd to be ‘bridge builders’",
+            "description": "Vatican says some 40,000 people gathered to listen to the head of the Roman Catholic Church in western city of Paysandu.",
+            "url": "https://www.aljazeera.com/news/2026/11/7/pope-leo-hold-first-mass-in-uruguay-urges-crowd-to-be-bridge-builders?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 18:00:21 +0000",
+            "fetched": "2026-11-07T22:24:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Houthis report 25 killed in Yemen strikes",
+            "description": "Yemen’s Houthis say at least 25 people have been killed and 30 injured in air strikes.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/houthis-report-25-killed-in-yemen-strikes?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 17:39:23 +0000",
+            "fetched": "2026-11-07T22:24:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-07T22:24:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-07T22:24:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-07T22:24:13+03:30"
+        }
+    ]
+}
