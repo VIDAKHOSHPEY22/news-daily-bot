@@ -1,142 +1,94 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-07 13:23:27
+**Last Update:** 2026-11-07 17:42:20
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Bong: DuckDuckGo bang alternative, open-source and self-hosted
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://bong.glendalab.com">https://bong.glendalab.com</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50402535">https://news.ycombinator.com/item?id=50402535</a></p>
-<p>Points: 12</p>
-<p># Comments: 3</p>
-
-🔗 **Read more:** [https://bong.glendalab.com](https://bong.glendalab.com)
-
----
-
-### 2. The Components of Agent Memory
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.anthropic.com/research/components-of-agent-memory">https://www.anthropic.com/research/components-of-agent-memory</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50402212">https://news.ycombinator.com/item?id=50402212</a></p>
-<p>Points: 36</p>
-<p># Comments: 18</p>
-
-🔗 **Read more:** [https://www.anthropic.com/research/components-of-agent-memory](https://www.anthropic.com/research/components-of-agent-memory)
-
----
-
-### 3. Asahi Linux Progress Linux 7.3
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://asahilinux.org/2026/11/progress-report-7-3/">https://asahilinux.org/2026/11/progress-report-7-3/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50401867">https://news.ycombinator.com/item?id=50401867</a></p>
-<p>Points: 165</p>
-<p># Comments: 120</p>
-
-🔗 **Read more:** [https://asahilinux.org/2026/11/progress-report-7-3/](https://asahilinux.org/2026/11/progress-report-7-3/)
-
----
-
-### 4. Meghan's father Thomas Markle under house arrest after child sex abuse material charge
+### 1. UK cannot 'cherry pick' EU single market deal, Barnier tells BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.
+The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules "a la carte".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. With Stephen Miller pick as new chief of staff, Trump readies for a battle
+### 2. Victims in rape cases must not feel like they are on trial, Burnham says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.
+The PM was responding after a police chief said comments made during Russell Brand's trial came close to "victim blaming".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Paraguay's president impeached after collapse of bank
+### 3. Two men arrested after boy injured in sword attack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.
+Police say a 17-year-old suffered a wound "believed to have been caused by a sword" in Gloucester on Friday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. China’s e-bikes boom as fuel prices rise
+### 4. New Zealand’s prime minister says election is ‘too close to call’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-E-bikes manufacturers in China are are now looking to expand to markets abroad as fuel prices stay high.
+New Zealand prime minister Christopher Luxon says he has a pathway to form the next government.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/7/chinas-e-bikes-boom-as-fuel-prices-rise?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/7/chinas-e-bikes-boom-as-fuel-prices-rise?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss)
 
 ---
 
-### 8. US Senator Abdul El-Sayed launches ‘Habibi’ political action committee
+### 5. Who is Hakeem Jeffries, the Democrat poised to become House speaker?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The first Muslim senator&#039;s new committee will let him raise money for other candidates.
+Likely to become the first Black House speaker, Jeffries faces pressure from progressives over Trump and Israel.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/el-sayed-launches-habibi-pac-days-after-historic-michigan-senate-win?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/el-sayed-launches-habibi-pac-days-after-historic-michigan-senate-win?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss)
 
 ---
 
-### 9. Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?
+### 6. ‘Radical’ or ‘hero’?: France debates leftist candidate Jean-Luc Melenchon
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US president has been sending mixed messages after his party suffered a defeat at the midterm elections.
+The hard-left leader has transformed into a real contender in next year presidential elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/radical-or-hero-france-debates-leftist-candidate-jean-luc-melenchon?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/radical-or-hero-france-debates-leftist-candidate-jean-luc-melenchon?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Wild River, Coos, New Hampshire
+### 7. Wildfire Wild River, Coos, New Hampshire
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Tropical Cyclone Murasu
+### 8. Tropical Cyclone Murasu
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
+### 9. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
