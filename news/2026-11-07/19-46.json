@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-07T19:46:22+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The $8 Linux Computer (2022)",
+            "description": "<p>Article URL: <a href=\"http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html\">http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50404599\">https://news.ycombinator.com/item?id=50404599</a></p>\n<p>Points: 58</p>\n<p># Comments: 27</p>",
+            "url": "http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html",
+            "published": "Sat, 07 Nov 2026 14:00:20 +0000",
+            "fetched": "2026-11-07T19:46:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Upload Your RAM",
+            "description": "<p>Article URL: <a href=\"https://uploadyourram.org\">https://uploadyourram.org</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403214\">https://news.ycombinator.com/item?id=50403214</a></p>\n<p>Points: 230</p>\n<p># Comments: 207</p>",
+            "url": "https://uploadyourram.org",
+            "published": "Sat, 07 Nov 2026 10:15:26 +0000",
+            "fetched": "2026-11-07T19:46:22+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Every Mac comes with an (undocumented) family member classifier",
+            "description": "<p>Article URL: <a href=\"https://8rank.ai/game/apple-intelligence-personal-knowledge-graph\">https://8rank.ai/game/apple-intelligence-personal-knowledge-graph</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50403097\">https://news.ycombinator.com/item?id=50403097</a></p>\n<p>Points: 349</p>\n<p># Comments: 200</p>",
+            "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+            "published": "Sat, 07 Nov 2026 09:46:03 +0000",
+            "fetched": "2026-11-07T19:46:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+            "description": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+            "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 07 Nov 2026 15:19:35 GMT",
+            "fetched": "2026-11-07T19:46:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Victims in rape cases must not feel like they are on trial, Burnham says",
+            "description": "The PM was responding after a police chief said comments made during Russell Brand's trial came close to \"victim blaming\".",
+            "url": "https://www.bbc.co.uk/news/articles/crgj99j8y998o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 07 Nov 2026 11:04:28 GMT",
+            "fetched": "2026-11-07T19:46:22+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two men arrested after boy injured in sword attack",
+            "description": "A 17-year-old boy from Gloucester has also been arrested on suspicion of assisting an offender.",
+            "url": "https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 07 Nov 2026 15:10:54 GMT",
+            "fetched": "2026-11-07T19:46:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran’s IRGC says building underground sites for weapons production, storage",
+            "description": "IRGC says underground military complexes allow missile production to continue even under heavy bombardment.",
+            "url": "https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 15:34:58 +0000",
+            "fetched": "2026-11-07T19:46:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump’s new chief of staff Stephen Miller says he ‘saved America’",
+            "description": "Stephen Miller, US President Donald Trump’s incoming chief of staff praises him.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 15:29:11 +0000",
+            "fetched": "2026-11-07T19:46:22+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Casualties reported after shooting in Poland’s Krakow",
+            "description": "Polish Prime Minister Donald Tusk says police are investigating after &#039;tragic shooting&#039; in second-largest city.",
+            "url": "https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 15:22:55 +0000",
+            "fetched": "2026-11-07T19:46:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-07T19:46:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-07T19:46:22+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-07T19:46:22+03:30"
+        }
+    ]
+}

@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-07 17:42:20
+**Last Update:** 2026-11-07 19:46:22
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. UK cannot 'cherry pick' EU single market deal, Barnier tells BBC
+### 1. The $8 Linux Computer (2022)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html">http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50404599">https://news.ycombinator.com/item?id=50404599</a></p>
+<p>Points: 58</p>
+<p># Comments: 27</p>
+
+🔗 **Read more:** [http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)
+
+---
+
+### 2. Upload Your RAM
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://uploadyourram.org">https://uploadyourram.org</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50403214">https://news.ycombinator.com/item?id=50403214</a></p>
+<p>Points: 230</p>
+<p># Comments: 207</p>
+
+🔗 **Read more:** [https://uploadyourram.org](https://uploadyourram.org)
+
+---
+
+### 3. Every Mac comes with an (undocumented) family member classifier
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://8rank.ai/game/apple-intelligence-personal-knowledge-graph">https://8rank.ai/game/apple-intelligence-personal-knowledge-graph</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50403097">https://news.ycombinator.com/item?id=50403097</a></p>
+<p>Points: 349</p>
+<p># Comments: 200</p>
+
+🔗 **Read more:** [https://8rank.ai/game/apple-intelligence-personal-knowledge-graph](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph)
+
+---
+
+### 4. UK cannot 'cherry pick' EU single market deal, Barnier tells BBC
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ The former Brexit negotiator says EU countries would reject any British attempts
 
 ---
 
-### 2. Victims in rape cases must not feel like they are on trial, Burnham says
+### 5. Victims in rape cases must not feel like they are on trial, Burnham says
 
 **Source:** BBC
 
@@ -36,59 +84,59 @@ The PM was responding after a police chief said comments made during Russell Bra
 
 ---
 
-### 3. Two men arrested after boy injured in sword attack
+### 6. Two men arrested after boy injured in sword attack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Police say a 17-year-old suffered a wound "believed to have been caused by a sword" in Gloucester on Friday.
+A 17-year-old boy from Gloucester has also been arrested on suspicion of assisting an offender.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmwy99yzd0v9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. New Zealand’s prime minister says election is ‘too close to call’
+### 7. Iran’s IRGC says building underground sites for weapons production, storage
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-New Zealand prime minister Christopher Luxon says he has a pathway to form the next government.
+IRGC says underground military complexes allow missile production to continue even under heavy bombardment.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/7/new-zealands-prime-minister-says-election-is-too-close-to?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/irans-irgc-says-building-underground-sites-for-weapons-production-storage?traffic_source=rss)
 
 ---
 
-### 5. Who is Hakeem Jeffries, the Democrat poised to become House speaker?
+### 8. Trump’s new chief of staff Stephen Miller says he ‘saved America’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Likely to become the first Black House speaker, Jeffries faces pressure from progressives over Trump and Israel.
+Stephen Miller, US President Donald Trump’s incoming chief of staff praises him.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/who-is-hakeem-jeffries-the-democrat-poised-to-become-house-speaker?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/7/7-11-sv-trump-stephen-miller-loyalty-pledge?traffic_source=rss)
 
 ---
 
-### 6. ‘Radical’ or ‘hero’?: France debates leftist candidate Jean-Luc Melenchon
+### 9. Casualties reported after shooting in Poland’s Krakow
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The hard-left leader has transformed into a real contender in next year presidential elections.
+Polish Prime Minister Donald Tusk says police are investigating after &#039;tragic shooting&#039; in second-largest city.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/radical-or-hero-france-debates-leftist-candidate-jean-luc-melenchon?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/radical-or-hero-france-debates-leftist-candidate-jean-luc-melenchon?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/casualties-reported-after-shooting-in-polands-krakow?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Wild River, Coos, New Hampshire
+### 10. Wildfire Wild River, Coos, New Hampshire
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Tropical Cyclone Murasu
+### 11. Tropical Cyclone Murasu
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
+### 12. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
