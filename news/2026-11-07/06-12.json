@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-07T06:12:28+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
+            "description": "<p>Article URL: <a href=\"https://josef.cn/blog/unitree\">https://josef.cn/blog/unitree</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50400597\">https://news.ycombinator.com/item?id=50400597</a></p>\n<p>Points: 27</p>\n<p># Comments: 9</p>",
+            "url": "https://josef.cn/blog/unitree",
+            "published": "Sat, 07 Nov 2026 01:05:16 +0000",
+            "fetched": "2026-11-07T06:12:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
+            "description": "<p>Article URL: <a href=\"https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/\">https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50399991\">https://news.ycombinator.com/item?id=50399991</a></p>\n<p>Points: 26</p>\n<p># Comments: 4</p>",
+            "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
+            "published": "Fri, 06 Nov 2026 23:37:19 +0000",
+            "fetched": "2026-11-07T06:12:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Libghostty 1.0",
+            "description": "<p>Article URL: <a href=\"https://mitchellh.com/writing/libghostty-1-0\">https://mitchellh.com/writing/libghostty-1-0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50399933\">https://news.ycombinator.com/item?id=50399933</a></p>\n<p>Points: 223</p>\n<p># Comments: 27</p>",
+            "url": "https://mitchellh.com/writing/libghostty-1-0",
+            "published": "Fri, 06 Nov 2026 23:30:52 +0000",
+            "fetched": "2026-11-07T06:12:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+            "description": "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+            "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 21:26:56 GMT",
+            "fetched": "2026-11-07T06:12:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "With Stephen Miller pick, Trump readies for a battle",
+            "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+            "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 23:24:15 GMT",
+            "fetched": "2026-11-07T06:12:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
+            "description": "Ian Winter allegedly confronted a reporter outside court who had investigated the comedian.",
+            "url": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 16:49:31 GMT",
+            "fetched": "2026-11-07T06:12:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "CDC reports more than 5,000 measles cases, highest number in 35 years",
+            "description": "Children and teenagers make up almost 60 percent of confirmed cases.",
+            "url": "https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 01:55:03 +0000",
+            "fetched": "2026-11-07T06:12:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "EU prosecutor office investigates fatal train crash in Spain",
+            "description": "The EU office carries out probes at Spanish rail network administrator, safety agency and state auditors.",
+            "url": "https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 01:33:39 +0000",
+            "fetched": "2026-11-07T06:12:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pope Leo XIV arrives for South American tour after cancer surgery",
+            "description": "Pope Leo XIV arrives in Uruguay kicking off a 12-day tour of South America after undergoing lung surgery last month.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 00:55:51 +0000",
+            "fetched": "2026-11-07T06:12:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-07T06:12:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-07T06:12:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-07T06:12:28+03:30"
+        }
+    ]
+}

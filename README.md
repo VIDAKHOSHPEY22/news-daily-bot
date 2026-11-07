@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-07 04:29:11
+**Last Update:** 2026-11-07 06:12:28
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Libghostty 1.0
+### 1. I Toured Unitree's Factory. I'm More Bullish on the West
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://josef.cn/blog/unitree">https://josef.cn/blog/unitree</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50400597">https://news.ycombinator.com/item?id=50400597</a></p>
+<p>Points: 27</p>
+<p># Comments: 9</p>
+
+🔗 **Read more:** [https://josef.cn/blog/unitree](https://josef.cn/blog/unitree)
+
+---
+
+### 2. RealPage rent-pricing case wraps with nearly $360M to renters
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/">https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50399991">https://news.ycombinator.com/item?id=50399991</a></p>
+<p>Points: 26</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/](https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/)
+
+---
+
+### 3. Libghostty 1.0
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://mitchellh.com/writing/libghostty-1-0">https://mitchellh.com/writing/libghostty-1-0</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50399933">https://news.ycombinator.com/item?id=50399933</a></p>
-<p>Points: 33</p>
-<p># Comments: 1</p>
+<p>Points: 223</p>
+<p># Comments: 27</p>
 
 🔗 **Read more:** [https://mitchellh.com/writing/libghostty-1-0](https://mitchellh.com/writing/libghostty-1-0)
-
----
-
-### 2. Outbound SIP calling is now available to all organizations
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://developers.openai.com/api/docs/guides/voice-sip">https://developers.openai.com/api/docs/guides/voice-sip</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50399695">https://news.ycombinator.com/item?id=50399695</a></p>
-<p>Points: 15</p>
-<p># Comments: 9</p>
-
-🔗 **Read more:** [https://developers.openai.com/api/docs/guides/voice-sip](https://developers.openai.com/api/docs/guides/voice-sip)
-
----
-
-### 3. CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/">https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50399657">https://news.ycombinator.com/item?id=50399657</a></p>
-<p>Points: 98</p>
-<p># Comments: 39</p>
-
-🔗 **Read more:** [https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/](https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/)
 
 ---
 
@@ -71,7 +71,20 @@ The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-a
 
 ---
 
-### 5. Brand's barrister refers himself to regulator after report he confronted journalist
+### 5. With Stephen Miller pick, Trump readies for a battle
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Brand's barrister refers himself to regulator after report he confronted journalist
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ Ian Winter allegedly confronted a reporter outside court who had investigated th
 
 ---
 
-### 6. How 2000s lad culture helped Russell Brand to hide in plain sight
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in
+### 7. CDC reports more than 5,000 measles cases, highest number in 35 years
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The sudden leadership change comes as Paraguay reels from the collapse of the Ueno Bank, a popular lender.
+Children and teenagers make up almost 60 percent of confirmed cases.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss)
 
 ---
 
-### 8. MTG warns Miller-Wiles shakeup will sink Republican chances in 2028
+### 8. EU prosecutor office investigates fatal train crash in Spain
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Marjorie Taylor Greene says Trump&#039;s White House personnel shuffle will sink the party’s next presidential campaign.
+The EU office carries out probes at Spanish rail network administrator, safety agency and state auditors.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss)
 
 ---
 
-### 9. Iran war live: Qatar says US, Iran should not wait to reach a peace deal
+### 9. Pope Leo XIV arrives for South American tour after cancer surgery
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Qatar&#039;s prime minister urges the US and Iran not to wait for a &#039;perfect moment&#039; to reach a deal to end the war.
+Pope Leo XIV arrives in Uruguay kicking off a 12-day tour of South America after undergoing lung surgery last month.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss)
 
 ---
 
