@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-08T00:16:29+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What I run on my $10 USD OpenStick homelab",
+            "description": "<p>Article URL: <a href=\"https://blog.bosscher.ch/posts/openstick/\">https://blog.bosscher.ch/posts/openstick/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406670\">https://news.ycombinator.com/item?id=50406670</a></p>\n<p>Points: 134</p>\n<p># Comments: 24</p>",
+            "url": "https://blog.bosscher.ch/posts/openstick/",
+            "published": "Sat, 07 Nov 2026 18:12:12 +0000",
+            "fetched": "2026-11-08T00:16:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The end of Microsoft Research's AI Frontiers group",
+            "description": "<p><a href=\"https://archive.is/AaY5O\" rel=\"nofollow\">https://archive.is/AaY5O</a><p><a href=\"https://businessexaminer.ca/victoria-articles/item/microsoft-researcher-john-langford-exits-as-ai-frontiers-group-is-declared/\" rel=\"nofollow\">https://businessexaminer.ca/victoria-articles/item/microsoft...</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406563\">https://news.ycombinator.com/item?id=50406563</a></p>\n<p>Points: 198</p>\n<p># Comments: 103</p>",
+            "url": "https://hunch.net/?p=13764006",
+            "published": "Sat, 07 Nov 2026 18:02:17 +0000",
+            "fetched": "2026-11-08T00:16:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GeoWorks, Microsoft Windows' Upstart '90s Competitor",
+            "description": "<p>Article URL: <a href=\"https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor\">https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50406502\">https://news.ycombinator.com/item?id=50406502</a></p>\n<p>Points: 15</p>\n<p># Comments: 0</p>",
+            "url": "https://www.atlasobscura.com/articles/the-history-of-geoworks-microsoft-windows-upstart-90s-competitor",
+            "published": "Sat, 07 Nov 2026 17:54:56 +0000",
+            "fetched": "2026-11-08T00:16:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know so far after Polish gunman opens fire in Krakow main square",
+            "description": "At least six people were killed by a gunman in military fatigues who opened fire in Poland's second largest city.",
+            "url": "https://www.bbc.co.uk/news/articles/cmd7q15drwgeo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 07 Nov 2026 20:23:17 GMT",
+            "fetched": "2026-11-08T00:16:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK cannot 'cherry pick' EU single market deal, Barnier tells BBC",
+            "description": "The former Brexit negotiator says EU countries would reject any British attempts to follow economic rules \"a la carte\".",
+            "url": "https://www.bbc.co.uk/news/articles/c9kgjj206nzpo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 07 Nov 2026 15:19:35 GMT",
+            "fetched": "2026-11-08T00:16:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Andy Burnham wants to get closer to the EU - but he shouldn't expect a smooth ride",
+            "description": "Laura Kuenssberg talks to government insiders about the prime minister opening the conversation about the UK rejoining the EU.",
+            "url": "https://www.bbc.co.uk/news/articles/cwjdmm0z74plo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 07 Nov 2026 17:32:42 GMT",
+            "fetched": "2026-11-08T00:16:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel’s president picks Eisenkot over Netanyahu to form next government",
+            "description": "President Isaac Herzog formally assigns Eisenkot 28 days to secure 61 Knesset seats and replace Netanyahu as PM.",
+            "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 20:26:58 +0000",
+            "fetched": "2026-11-08T00:16:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "More than 140,000 rally as new protests against rising costs sweep France",
+            "description": "Tear gas fired in Paris and Lyon as interior minister warns authorities are &#039;ready and waiting&#039; for rioters and looters.",
+            "url": "https://www.aljazeera.com/news/2026/11/7/more-than-140000-rally-as-new-protests-against-rising-costs-sweep-france?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 20:12:22 +0000",
+            "fetched": "2026-11-08T00:16:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ukraine’s Zaporizhzhia faces threat as Russian drones close in",
+            "description": "Ukraine’s Zaporizhzhia, once a refuge for those fleeing the war, is now facing growing danger.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/0711-reported-audrey-in-zaporizhzhia-071126?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 20:10:38 +0000",
+            "fetched": "2026-11-08T00:16:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-08T00:16:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-08T00:16:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-08T00:16:29+03:30"
+        }
+    ]
+}
