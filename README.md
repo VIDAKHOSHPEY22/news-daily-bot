@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-07 06:12:28
+**Last Update:** 2026-11-07 10:51:19
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. I Toured Unitree's Factory. I'm More Bullish on the West
+### 1. The Components of Agent Memory
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://josef.cn/blog/unitree">https://josef.cn/blog/unitree</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50400597">https://news.ycombinator.com/item?id=50400597</a></p>
-<p>Points: 27</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://www.anthropic.com/research/components-of-agent-memory">https://www.anthropic.com/research/components-of-agent-memory</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50402212">https://news.ycombinator.com/item?id=50402212</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://josef.cn/blog/unitree](https://josef.cn/blog/unitree)
+🔗 **Read more:** [https://www.anthropic.com/research/components-of-agent-memory](https://www.anthropic.com/research/components-of-agent-memory)
 
 ---
 
-### 2. RealPage rent-pricing case wraps with nearly $360M to renters
+### 2. Asahi Linux Progress Linux 7.3
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/">https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50399991">https://news.ycombinator.com/item?id=50399991</a></p>
-<p>Points: 26</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://asahilinux.org/2026/11/progress-report-7-3/">https://asahilinux.org/2026/11/progress-report-7-3/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50401867">https://news.ycombinator.com/item?id=50401867</a></p>
+<p>Points: 69</p>
+<p># Comments: 31</p>
 
-🔗 **Read more:** [https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/](https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/)
+🔗 **Read more:** [https://asahilinux.org/2026/11/progress-report-7-3/](https://asahilinux.org/2026/11/progress-report-7-3/)
 
 ---
 
-### 3. Libghostty 1.0
+### 3. A barbarian tribe's mythic origin story is true, ancient DNA reveals
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mitchellh.com/writing/libghostty-1-0">https://mitchellh.com/writing/libghostty-1-0</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50399933">https://news.ycombinator.com/item?id=50399933</a></p>
-<p>Points: 223</p>
-<p># Comments: 27</p>
+<p>Article URL: <a href="https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals">https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50401740">https://news.ycombinator.com/item?id=50401740</a></p>
+<p>Points: 45</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://mitchellh.com/writing/libghostty-1-0](https://mitchellh.com/writing/libghostty-1-0)
+🔗 **Read more:** [https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals](https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals)
 
 ---
 
@@ -71,7 +71,7 @@ The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-a
 
 ---
 
-### 5. With Stephen Miller pick, Trump readies for a battle
+### 5. With Stephen Miller pick as new chief of staff, Trump readies for a battle
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Ian Winter allegedly confronted a reporter outside court who had investigated th
 
 ---
 
-### 7. CDC reports more than 5,000 measles cases, highest number in 35 years
+### 7. Beachcombers in Morocco hunt for hidden treasure
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Children and teenagers make up almost 60 percent of confirmed cases.
+For many, the search is driven less by profit than by the thrill of an unexpected discovery.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/cdc-reports-more-than-5000-measles-cases-highest-number-in-35-years?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/beachcombers-in-morocco-hunt-for-hidden-treasure?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/beachcombers-in-morocco-hunt-for-hidden-treasure?traffic_source=rss)
 
 ---
 
-### 8. EU prosecutor office investigates fatal train crash in Spain
+### 8. Do not investigate Trump’s corporate allies until he leaves office
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The EU office carries out probes at Spanish rail network administrator, safety agency and state auditors.
+The US presidential pardon power has created a constitutional absurdity that can protect those accused of corruption.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/eu-prosecutor-office-investigates-fatal-train-crash-in-spain?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/7/do-not-investigate-trumps-corporate-allies-until-he-leaves-office?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/7/do-not-investigate-trumps-corporate-allies-until-he-leaves-office?traffic_source=rss)
 
 ---
 
-### 9. Pope Leo XIV arrives for South American tour after cancer surgery
+### 9. How the Iran war helped Democrats win the midterms
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pope Leo XIV arrives in Uruguay kicking off a 12-day tour of South America after undergoing lung surgery last month.
+Tehran brought the costs of war into American homes, fuelling the backlash against Trump&#039;s party.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/7/pope-leo-xiv-arrives-for-south-american-tour-after-cancer-surgery?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-07T10:51:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Components of Agent Memory",
+            "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/components-of-agent-memory\">https://www.anthropic.com/research/components-of-agent-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50402212\">https://news.ycombinator.com/item?id=50402212</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+            "url": "https://www.anthropic.com/research/components-of-agent-memory",
+            "published": "Sat, 07 Nov 2026 06:39:04 +0000",
+            "fetched": "2026-11-07T10:51:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Asahi Linux Progress Linux 7.3",
+            "description": "<p>Article URL: <a href=\"https://asahilinux.org/2026/11/progress-report-7-3/\">https://asahilinux.org/2026/11/progress-report-7-3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50401867\">https://news.ycombinator.com/item?id=50401867</a></p>\n<p>Points: 69</p>\n<p># Comments: 31</p>",
+            "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+            "published": "Sat, 07 Nov 2026 05:20:18 +0000",
+            "fetched": "2026-11-07T10:51:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A barbarian tribe's mythic origin story is true, ancient DNA reveals",
+            "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals\">https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50401740\">https://news.ycombinator.com/item?id=50401740</a></p>\n<p>Points: 45</p>\n<p># Comments: 12</p>",
+            "url": "https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals",
+            "published": "Sat, 07 Nov 2026 04:54:36 +0000",
+            "fetched": "2026-11-07T10:51:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+            "description": "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+            "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 21:26:56 GMT",
+            "fetched": "2026-11-07T10:51:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "With Stephen Miller pick as new chief of staff, Trump readies for a battle",
+            "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+            "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 23:24:15 GMT",
+            "fetched": "2026-11-07T10:51:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
+            "description": "Ian Winter allegedly confronted a reporter outside court who had investigated the comedian.",
+            "url": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 16:49:31 GMT",
+            "fetched": "2026-11-07T10:51:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Beachcombers in Morocco hunt for hidden treasure",
+            "description": "For many, the search is driven less by profit than by the thrill of an unexpected discovery.",
+            "url": "https://www.aljazeera.com/news/2026/11/7/beachcombers-in-morocco-hunt-for-hidden-treasure?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 06:47:45 +0000",
+            "fetched": "2026-11-07T10:51:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Do not investigate Trump’s corporate allies until he leaves office",
+            "description": "The US presidential pardon power has created a constitutional absurdity that can protect those accused of corruption.",
+            "url": "https://www.aljazeera.com/opinions/2026/11/7/do-not-investigate-trumps-corporate-allies-until-he-leaves-office?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 06:38:27 +0000",
+            "fetched": "2026-11-07T10:51:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How the Iran war helped Democrats win the midterms",
+            "description": "Tehran brought the costs of war into American homes, fuelling the backlash against Trump&#039;s party.",
+            "url": "https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 06:26:58 +0000",
+            "fetched": "2026-11-07T10:51:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-07T10:51:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-07T10:51:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-07T10:51:19+03:30"
+        }
+    ]
+}
