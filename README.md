@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-07 10:51:19
+**Last Update:** 2026-11-07 13:23:27
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Components of Agent Memory
+### 1. Bong: DuckDuckGo bang alternative, open-source and self-hosted
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://bong.glendalab.com">https://bong.glendalab.com</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50402535">https://news.ycombinator.com/item?id=50402535</a></p>
+<p>Points: 12</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://bong.glendalab.com](https://bong.glendalab.com)
+
+---
+
+### 2. The Components of Agent Memory
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.anthropic.com/research/components-of-agent-memory">https://www.anthropic.com/research/components-of-agent-memory</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50402212">https://news.ycombinator.com/item?id=50402212</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Points: 36</p>
+<p># Comments: 18</p>
 
 🔗 **Read more:** [https://www.anthropic.com/research/components-of-agent-memory](https://www.anthropic.com/research/components-of-agent-memory)
 
 ---
 
-### 2. Asahi Linux Progress Linux 7.3
+### 3. Asahi Linux Progress Linux 7.3
 
 **Source:** Hacker News
 
@@ -35,37 +51,21 @@
 **Description:**
 <p>Article URL: <a href="https://asahilinux.org/2026/11/progress-report-7-3/">https://asahilinux.org/2026/11/progress-report-7-3/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50401867">https://news.ycombinator.com/item?id=50401867</a></p>
-<p>Points: 69</p>
-<p># Comments: 31</p>
+<p>Points: 165</p>
+<p># Comments: 120</p>
 
 🔗 **Read more:** [https://asahilinux.org/2026/11/progress-report-7-3/](https://asahilinux.org/2026/11/progress-report-7-3/)
 
 ---
 
-### 3. A barbarian tribe's mythic origin story is true, ancient DNA reveals
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals">https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50401740">https://news.ycombinator.com/item?id=50401740</a></p>
-<p>Points: 45</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals](https://www.science.org/content/article/barbarian-tribe-s-mythic-origin-story-true-ancient-dna-reveals)
-
----
-
-### 4. Meghan's father Thomas Markle appears in court over child sex abuse material
+### 4. Meghan's father Thomas Markle under house arrest after child sex abuse material charge
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented.
+The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss)
 
@@ -84,55 +84,55 @@ The US president's promotion of Miller, a loyal partisan firebrand to be his new
 
 ---
 
-### 6. Brand's barrister refers himself to regulator after report he confronted journalist
+### 6. Paraguay's president impeached after collapse of bank
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ian Winter allegedly confronted a reporter outside court who had investigated the comedian.
+Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Beachcombers in Morocco hunt for hidden treasure
+### 7. China’s e-bikes boom as fuel prices rise
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-For many, the search is driven less by profit than by the thrill of an unexpected discovery.
+E-bikes manufacturers in China are are now looking to expand to markets abroad as fuel prices stay high.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/beachcombers-in-morocco-hunt-for-hidden-treasure?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/beachcombers-in-morocco-hunt-for-hidden-treasure?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/7/chinas-e-bikes-boom-as-fuel-prices-rise?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/7/chinas-e-bikes-boom-as-fuel-prices-rise?traffic_source=rss)
 
 ---
 
-### 8. Do not investigate Trump’s corporate allies until he leaves office
+### 8. US Senator Abdul El-Sayed launches ‘Habibi’ political action committee
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US presidential pardon power has created a constitutional absurdity that can protect those accused of corruption.
+The first Muslim senator&#039;s new committee will let him raise money for other candidates.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/7/do-not-investigate-trumps-corporate-allies-until-he-leaves-office?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/7/do-not-investigate-trumps-corporate-allies-until-he-leaves-office?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/el-sayed-launches-habibi-pac-days-after-historic-michigan-senate-win?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/el-sayed-launches-habibi-pac-days-after-historic-michigan-senate-win?traffic_source=rss)
 
 ---
 
-### 9. How the Iran war helped Democrats win the midterms
+### 9. Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran brought the costs of war into American homes, fuelling the backlash against Trump&#039;s party.
+The US president has been sending mixed messages after his party suffered a defeat at the midterm elections.
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/7/how-the-iran-war-helped-democrats-win-the-midterms?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss)
 
 ---
 

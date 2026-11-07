@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-07T13:23:27+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bong: DuckDuckGo bang alternative, open-source and self-hosted",
+            "description": "<p>Article URL: <a href=\"https://bong.glendalab.com\">https://bong.glendalab.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50402535\">https://news.ycombinator.com/item?id=50402535</a></p>\n<p>Points: 12</p>\n<p># Comments: 3</p>",
+            "url": "https://bong.glendalab.com",
+            "published": "Sat, 07 Nov 2026 07:48:13 +0000",
+            "fetched": "2026-11-07T13:23:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Components of Agent Memory",
+            "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/components-of-agent-memory\">https://www.anthropic.com/research/components-of-agent-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50402212\">https://news.ycombinator.com/item?id=50402212</a></p>\n<p>Points: 36</p>\n<p># Comments: 18</p>",
+            "url": "https://www.anthropic.com/research/components-of-agent-memory",
+            "published": "Sat, 07 Nov 2026 06:39:04 +0000",
+            "fetched": "2026-11-07T13:23:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Asahi Linux Progress Linux 7.3",
+            "description": "<p>Article URL: <a href=\"https://asahilinux.org/2026/11/progress-report-7-3/\">https://asahilinux.org/2026/11/progress-report-7-3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50401867\">https://news.ycombinator.com/item?id=50401867</a></p>\n<p>Points: 165</p>\n<p># Comments: 120</p>",
+            "url": "https://asahilinux.org/2026/11/progress-report-7-3/",
+            "published": "Sat, 07 Nov 2026 05:20:18 +0000",
+            "fetched": "2026-11-07T13:23:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+            "description": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+            "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 07 Nov 2026 07:27:44 GMT",
+            "fetched": "2026-11-07T13:23:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "With Stephen Miller pick as new chief of staff, Trump readies for a battle",
+            "description": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress.",
+            "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 23:24:15 GMT",
+            "fetched": "2026-11-07T13:23:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Paraguay's president impeached after collapse of bank",
+            "description": "Santiago Peña was ousted due to a banking crisis which left millions of people unable to access their money.",
+            "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 07 Nov 2026 07:20:00 GMT",
+            "fetched": "2026-11-07T13:23:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "China’s e-bikes boom as fuel prices rise",
+            "description": "E-bikes manufacturers in China are are now looking to expand to markets abroad as fuel prices stay high.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/chinas-e-bikes-boom-as-fuel-prices-rise?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 09:30:07 +0000",
+            "fetched": "2026-11-07T13:23:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Senator Abdul El-Sayed launches ‘Habibi’ political action committee",
+            "description": "The first Muslim senator&#039;s new committee will let him raise money for other candidates.",
+            "url": "https://www.aljazeera.com/news/2026/11/7/el-sayed-launches-habibi-pac-days-after-historic-michigan-senate-win?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 09:18:53 +0000",
+            "fetched": "2026-11-07T13:23:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
+            "description": "The US president has been sending mixed messages after his party suffered a defeat at the midterm elections.",
+            "url": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 08:45:36 +0000",
+            "fetched": "2026-11-07T13:23:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-07T13:23:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-07T13:23:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-07T13:23:27+03:30"
+        }
+    ]
+}
