@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-07 02:28:35
+**Last Update:** 2026-11-07 04:29:11
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA, Hacker News
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI is dramatically accelerating AI research
+### 1. Libghostty 1.0
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai">https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50397994">https://news.ycombinator.com/item?id=50397994</a></p>
-<p>Points: 116</p>
-<p># Comments: 67</p>
+<p>Article URL: <a href="https://mitchellh.com/writing/libghostty-1-0">https://mitchellh.com/writing/libghostty-1-0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50399933">https://news.ycombinator.com/item?id=50399933</a></p>
+<p>Points: 33</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai](https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai)
+🔗 **Read more:** [https://mitchellh.com/writing/libghostty-1-0](https://mitchellh.com/writing/libghostty-1-0)
 
 ---
 
-### 2. Google has acquired Crusoe's data center site in southeast Wyoming
+### 2. Outbound SIP calling is now available to all organizations
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update">https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50397711">https://news.ycombinator.com/item?id=50397711</a></p>
-<p>Points: 10</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://developers.openai.com/api/docs/guides/voice-sip">https://developers.openai.com/api/docs/guides/voice-sip</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50399695">https://news.ycombinator.com/item?id=50399695</a></p>
+<p>Points: 15</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update](https://www.crusoe.ai/resources/newsroom/crusoe-wyoming-data-center-campus-update)
+🔗 **Read more:** [https://developers.openai.com/api/docs/guides/voice-sip](https://developers.openai.com/api/docs/guides/voice-sip)
 
 ---
 
-### 3. A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost
+### 3. CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://hightouch.com/blog/llm-judges-identity-resolution">https://hightouch.com/blog/llm-judges-identity-resolution</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50397429">https://news.ycombinator.com/item?id=50397429</a></p>
-<p>Points: 230</p>
-<p># Comments: 50</p>
+<p>Article URL: <a href="https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/">https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50399657">https://news.ycombinator.com/item?id=50399657</a></p>
+<p>Points: 98</p>
+<p># Comments: 39</p>
 
-🔗 **Read more:** [https://hightouch.com/blog/llm-judges-identity-resolution](https://hightouch.com/blog/llm-judges-identity-resolution)
+🔗 **Read more:** [https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/](https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/)
 
 ---
 
@@ -97,42 +97,42 @@ The behaviour that formed the backdrop to Brand's prosecution also helped elevat
 
 ---
 
-### 7. Palestinian couples tie the knot in mass wedding in Gaza
+### 7. Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The event brought 250 couples together to celebrate love and new beginnings despite Israel’s genocidal war on Gaza.
+The sudden leadership change comes as Paraguay reels from the collapse of the Ueno Bank, a popular lender.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/6/palestinian-couples-tie-the-knot-in-mass-wedding-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss](https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss)
 
 ---
 
-### 8. Who is Stephen Miller, Trump’s new White House chief of staff?
+### 8. MTG warns Miller-Wiles shakeup will sink Republican chances in 2028
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Miller has been a close confidant of Trump since 2016 and an architect of the president&#039;s hardline immigration policies.
+Marjorie Taylor Greene says Trump&#039;s White House personnel shuffle will sink the party’s next presidential campaign.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/who-is-stephen-miller-trumps-new-white-house-chief-of-staff?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss)
 
 ---
 
-### 9. Protesters break into Microsoft data centre site in Amsterdam
+### 9. Iran war live: Qatar says US, Iran should not wait to reach a peace deal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Data centres face protests across Europe due to the massive amounts of computing power and water they use.
+Qatar&#039;s prime minister urges the US and Iran not to wait for a &#039;perfect moment&#039; to reach a deal to end the war.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss](https://www.aljazeera.com/news/2026/11/6/protesters-break-into-microsoft-data-centre-site-in-amsterdam?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss)
 
 ---
 

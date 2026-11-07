@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-07T04:29:11+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Libghostty 1.0",
+            "description": "<p>Article URL: <a href=\"https://mitchellh.com/writing/libghostty-1-0\">https://mitchellh.com/writing/libghostty-1-0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50399933\">https://news.ycombinator.com/item?id=50399933</a></p>\n<p>Points: 33</p>\n<p># Comments: 1</p>",
+            "url": "https://mitchellh.com/writing/libghostty-1-0",
+            "published": "Fri, 06 Nov 2026 23:30:52 +0000",
+            "fetched": "2026-11-07T04:29:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Outbound SIP calling is now available to all organizations",
+            "description": "<p>Article URL: <a href=\"https://developers.openai.com/api/docs/guides/voice-sip\">https://developers.openai.com/api/docs/guides/voice-sip</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50399695\">https://news.ycombinator.com/item?id=50399695</a></p>\n<p>Points: 15</p>\n<p># Comments: 9</p>",
+            "url": "https://developers.openai.com/api/docs/guides/voice-sip",
+            "published": "Fri, 06 Nov 2026 23:03:55 +0000",
+            "fetched": "2026-11-07T04:29:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",
+            "description": "<p>Article URL: <a href=\"https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/\">https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50399657\">https://news.ycombinator.com/item?id=50399657</a></p>\n<p>Points: 98</p>\n<p># Comments: 39</p>",
+            "url": "https://ievchina.com/energy-storage/catl-sodium-battery-cost-parity-lfp-2026-15000-cycles/",
+            "published": "Fri, 06 Nov 2026 23:00:46 +0000",
+            "fetched": "2026-11-07T04:29:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Meghan's father Thomas Markle appears in court over child sex abuse material",
+            "description": "The 82-year-old was arrested in Florida after the FBI searched two Los Angeles-area storage units he rented.",
+            "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 21:26:56 GMT",
+            "fetched": "2026-11-07T04:29:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Brand's barrister refers himself to regulator after report he confronted journalist",
+            "description": "Ian Winter allegedly confronted a reporter outside court who had investigated the comedian.",
+            "url": "https://www.bbc.co.uk/news/articles/c8kgee9yxvn7o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 16:49:31 GMT",
+            "fetched": "2026-11-07T04:29:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How 2000s lad culture helped Russell Brand to hide in plain sight",
+            "description": "The behaviour that formed the backdrop to Brand's prosecution also helped elevate him, writes the BBC's media editor Katie Razzall.",
+            "url": "https://www.bbc.co.uk/news/articles/cm4g1jqwylvgo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 06 Nov 2026 12:16:44 GMT",
+            "fetched": "2026-11-07T04:29:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Paraguay’s Santiago Pena under arrest, new president Pedro Alliana sworn in",
+            "description": "The sudden leadership change comes as Paraguay reels from the collapse of the Ueno Bank, a popular lender.",
+            "url": "https://www.aljazeera.com/news/2026/11/7/paraguays-santiago-pena-under-arrest-new-president-pedro-alliana-sworn-in?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 00:31:41 +0000",
+            "fetched": "2026-11-07T04:29:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "MTG warns Miller-Wiles shakeup will sink Republican chances in 2028",
+            "description": "Marjorie Taylor Greene says Trump&#039;s White House personnel shuffle will sink the party’s next presidential campaign.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/7/aje-onl-nf_mtg-warns-white-house-shakeup-sink-republican-2028-061126?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 00:21:49 +0000",
+            "fetched": "2026-11-07T04:29:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Qatar says US, Iran should not wait to reach a peace deal",
+            "description": "Qatar&#039;s prime minister urges the US and Iran not to wait for a &#039;perfect moment&#039; to reach a deal to end the war.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/11/7/iran-war-live-qatar-says-us-iran-should-not-wait-to-reach-a-peace-deal?traffic_source=rss",
+            "published": "Sat, 07 Nov 2026 00:00:00 +0000",
+            "fetched": "2026-11-07T04:29:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-07T04:29:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-07T04:29:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-07T04:29:11+03:30"
+        }
+    ]
+}
