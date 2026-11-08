@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-08T10:38:46+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Kirlian Photography: Building Your Own Equipment",
+            "description": "<p>Article URL: <a href=\"https://imagesco.com/articles/kirlian/kirlian-photography.html\">https://imagesco.com/articles/kirlian/kirlian-photography.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50410359\">https://news.ycombinator.com/item?id=50410359</a></p>\n<p>Points: 18</p>\n<p># Comments: 2</p>",
+            "url": "https://imagesco.com/articles/kirlian/kirlian-photography.html",
+            "published": "Sun, 08 Nov 2026 04:14:12 +0000",
+            "fetched": "2026-11-08T10:38:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ISponsorBlockTV: SponsorBlock client for all YouTube TV clients",
+            "description": "<p>Article URL: <a href=\"https://github.com/dmunozv04/isponsorblocktv\">https://github.com/dmunozv04/isponsorblocktv</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50410249\">https://news.ycombinator.com/item?id=50410249</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/dmunozv04/isponsorblocktv",
+            "published": "Sun, 08 Nov 2026 03:47:19 +0000",
+            "fetched": "2026-11-08T10:38:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Goodbye Claude, Hello Pi",
+            "description": "<p>Article URL: <a href=\"https://caleb.software/posts/claude-to-pi.html\">https://caleb.software/posts/claude-to-pi.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50410107\">https://news.ycombinator.com/item?id=50410107</a></p>\n<p>Points: 146</p>\n<p># Comments: 86</p>",
+            "url": "https://caleb.software/posts/claude-to-pi.html",
+            "published": "Sun, 08 Nov 2026 03:11:48 +0000",
+            "fetched": "2026-11-08T10:38:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Briton among six killed in Krakow shooting as three more bodies found at suspect's home",
+            "description": "Authorities say the attacker, described as being \"fascinated by far-right ideologies\", drove into a popular city centre square and opened fire.",
+            "url": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 08 Nov 2026 00:55:17 GMT",
+            "fetched": "2026-11-08T10:38:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+            "description": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
+            "url": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 08 Nov 2026 00:48:59 GMT",
+            "fetched": "2026-11-08T10:38:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Veterans shouldn't sleep rough this Christmas, Burnham says",
+            "description": "Downing Street says the prime minister will personally write to councils on Armistice Day to urge them to draw up plans.",
+            "url": "https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 08 Nov 2026 03:34:22 GMT",
+            "fetched": "2026-11-08T10:38:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Haitians cheer El Salvador’s Bukele amid gang war",
+            "description": "Some Haitians have cheered on El Salvadorian troops deployed to fight gangs in the Haitian capital.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war?traffic_source=rss",
+            "published": "Sun, 08 Nov 2026 05:09:39 +0000",
+            "fetched": "2026-11-08T10:38:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Plane clips truck during emergency landing on busy Florida road",
+            "description": "A small plane has made an emergency landing on a busy Florida road, much to the shock of drivers.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/aje-onl-nf_plane-clips-truck-during-emergency-landing-florida-071126?traffic_source=rss",
+            "published": "Sun, 08 Nov 2026 04:59:02 +0000",
+            "fetched": "2026-11-08T10:38:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Drone attack on Colombian army base kills three soldiers and wounds 16",
+            "description": "Colombian President de la Espriella says those behind the attack in Santa Rosa del Sur will have ‘nowhere to hide’.",
+            "url": "https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss",
+            "published": "Sun, 08 Nov 2026 04:56:37 +0000",
+            "fetched": "2026-11-08T10:38:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-08T10:38:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-08T10:38:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-08T10:38:46+03:30"
+        }
+    ]
+}
