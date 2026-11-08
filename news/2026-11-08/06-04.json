@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-08T06:04:04+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Commodore PET – The Worlds First Personal Computer",
+            "description": "<p>Article URL: <a href=\"https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/\">https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50408961\">https://news.ycombinator.com/item?id=50408961</a></p>\n<p>Points: 21</p>\n<p># Comments: 3</p>",
+            "url": "https://www.commodore.ca/commodore-products/commodore-pet-the-worlds-first-personal-computer/",
+            "published": "Sat, 07 Nov 2026 23:15:34 +0000",
+            "fetched": "2026-11-08T06:04:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GitHub New pull request overview page in public preview",
+            "description": "<p>Article URL: <a href=\"https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/\">https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50408931\">https://news.ycombinator.com/item?id=50408931</a></p>\n<p>Points: 69</p>\n<p># Comments: 52</p>",
+            "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+            "published": "Sat, 07 Nov 2026 23:09:40 +0000",
+            "fetched": "2026-11-08T06:04:04+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "IRA Velinsky – Commodore's Industrial Designer",
+            "description": "<p>Article URL: <a href=\"https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/\">https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50408750\">https://news.ycombinator.com/item?id=50408750</a></p>\n<p>Points: 13</p>\n<p># Comments: 0</p>",
+            "url": "https://www.commodore.ca/commodore-history/ira-velinsky-commodores-amazing-industrial-designer/",
+            "published": "Sat, 07 Nov 2026 22:45:39 +0000",
+            "fetched": "2026-11-08T06:04:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Briton among six killed in 'far-right' shooting in Krakow",
+            "description": "Police in the Polish city say the attacker randomly fired at people after driving on to Main Market Square.",
+            "url": "https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 08 Nov 2026 00:55:17 GMT",
+            "fetched": "2026-11-08T06:04:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+            "description": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election.",
+            "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 07 Nov 2026 22:19:59 GMT",
+            "fetched": "2026-11-08T06:04:04+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat",
+            "description": "While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.",
+            "url": "https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 08 Nov 2026 00:48:59 GMT",
+            "fetched": "2026-11-08T06:04:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Canary Islands’ El Hierro declares emergency amid migrant, refugee influx",
+            "description": "El Hierro asks Spanish government for help after more than 3,300 people arrived on boats since start of November.",
+            "url": "https://www.aljazeera.com/news/2026/11/8/canary-islands-el-hierro-declares-emergency-amid-migrant-refugee-influx?traffic_source=rss",
+            "published": "Sun, 08 Nov 2026 01:37:55 +0000",
+            "fetched": "2026-11-08T06:04:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Polish PM calls deadly Krakow shooting an act of ‘terrorism’",
+            "description": "Polish Prime Minister Donald Tusk describes a deadly shooting in Krakow that killed six people as an act of ‘terrorism’.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/8/polish-pm-calls-deadly-krakow-shooting-an-act-of?traffic_source=rss",
+            "published": "Sun, 08 Nov 2026 00:50:28 +0000",
+            "fetched": "2026-11-08T06:04:04+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Blasts heard in Qeshm; US moves to block land supply routes",
+            "description": "Iranian state media report blasts on Qeshm Island in Strait of Hormuz and the cities of Jask, Sirik and Bandar Abbas.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/11/8/iran-war-live-explosions-hit-qeshm-us-moves-to-block-land-supply-routes?traffic_source=rss",
+            "published": "Sun, 08 Nov 2026 00:00:56 +0000",
+            "fetched": "2026-11-08T06:04:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-08T06:04:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Murasu",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964",
+            "published": "2026-11-01T00:00:00Z",
+            "fetched": "2026-11-08T06:04:04+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-08T06:04:04+03:30"
+        }
+    ]
+}
