@@ -1,90 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-08 10:38:46
+**Last Update:** 2026-11-08 14:06:27
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Kirlian Photography: Building Your Own Equipment
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://imagesco.com/articles/kirlian/kirlian-photography.html">https://imagesco.com/articles/kirlian/kirlian-photography.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50410359">https://news.ycombinator.com/item?id=50410359</a></p>
-<p>Points: 18</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://imagesco.com/articles/kirlian/kirlian-photography.html](https://imagesco.com/articles/kirlian/kirlian-photography.html)
-
----
-
-### 2. ISponsorBlockTV: SponsorBlock client for all YouTube TV clients
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/dmunozv04/isponsorblocktv">https://github.com/dmunozv04/isponsorblocktv</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50410249">https://news.ycombinator.com/item?id=50410249</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://github.com/dmunozv04/isponsorblocktv](https://github.com/dmunozv04/isponsorblocktv)
-
----
-
-### 3. Goodbye Claude, Hello Pi
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://caleb.software/posts/claude-to-pi.html">https://caleb.software/posts/claude-to-pi.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50410107">https://news.ycombinator.com/item?id=50410107</a></p>
-<p>Points: 146</p>
-<p># Comments: 86</p>
-
-🔗 **Read more:** [https://caleb.software/posts/claude-to-pi.html](https://caleb.software/posts/claude-to-pi.html)
-
----
-
-### 4. Briton among six killed in Krakow shooting as three more bodies found at suspect's home
+### 1. How the deadly shooting in Krakow unfolded
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Authorities say the attacker, described as being "fascinated by far-right ideologies", drove into a popular city centre square and opened fire.
+Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6n9r01d2709o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Germans wrestle with what to do with Hitler's destroyed Eagle's Nest retreat
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-While some believe the site should be partially or completely rebuilt, others want it abandoned and all memory of its Nazi past forgotten.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm74pk1g51nko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Veterans shouldn't sleep rough this Christmas, Burnham says
+### 2. Veterans shouldn't sleep rough this Christmas, Burnham says
 
 **Source:** BBC
 
@@ -97,46 +36,59 @@ Downing Street says the prime minister will personally write to councils on Armi
 
 ---
 
-### 7. Haitians cheer El Salvador’s Bukele amid gang war
+### 3. Two seriously hurt in 30-vehicle crash on the M20 in Kent
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The crash happened in fog on Saturday evening on the London-bound carriageway near Maidstone, Kent.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 4. After rebel offensive, efforts to push them back appear to have stalled
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Some Haitians have cheered on El Salvadorian troops deployed to fight gangs in the Haitian capital.
+Saudi air power so far hasn&#039;t been enough for Yemen&#039;s government, and civilians are increasingly stuck in the middle
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/haitians-cheer-el-salvadors-bukele-amid-gang-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss](https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss)
 
 ---
 
-### 8. Plane clips truck during emergency landing on busy Florida road
+### 5. Tennis world number one Rybakina withdraws from WTA Finals due to virus
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A small plane has made an emergency landing on a busy Florida road, much to the shock of drivers.
+Rybakina pulled out on the eve of the Indian Wells tournament, with Ukraine&#039;s Marta Kostyuk replacing the top seed.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/aje-onl-nf_plane-clips-truck-during-emergency-landing-florida-071126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/aje-onl-nf_plane-clips-truck-during-emergency-landing-florida-071126?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/8/tennis-world-number-one-rybakina-withdraws-from-wta-finals-due-to-virus?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/8/tennis-world-number-one-rybakina-withdraws-from-wta-finals-due-to-virus?traffic_source=rss)
 
 ---
 
-### 9. Drone attack on Colombian army base kills three soldiers and wounds 16
+### 6. Democrats’ congressional win could strengthen Ukraine’s hand against Russia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Colombian President de la Espriella says those behind the attack in Santa Rosa del Sur will have ‘nowhere to hide’.
+Ukraine hopes for more US support but faces uncertainty over Trump’s peace efforts and continued military aid.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/drone-attack-on-colombian-army-base-kills-three-soldiers-and-wounds-16?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Wild River, Coos, New Hampshire
+### 7. Wildfire Wild River, Coos, New Hampshire
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Tropical Cyclone Murasu
+### 8. Tropical Cyclone Murasu
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
+### 9. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
