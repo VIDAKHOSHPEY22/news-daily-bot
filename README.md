@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-09 00:45:25
+**Last Update:** 2026-11-09 03:06:23
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nvidia Board of Directors Is Investigating Jensen Huang
+### 1. Chimera Vocal Synth
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors">https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50416801">https://news.ycombinator.com/item?id=50416801</a></p>
-<p>Points: 124</p>
-<p># Comments: 98</p>
+<p>Article URL: <a href="https://chimera-vocal-synth.vercel.app/">https://chimera-vocal-synth.vercel.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50418182">https://news.ycombinator.com/item?id=50418182</a></p>
+<p>Points: 19</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors)
+🔗 **Read more:** [https://chimera-vocal-synth.vercel.app/](https://chimera-vocal-synth.vercel.app/)
 
 ---
 
-### 2. Starship Flight 15 on 11/13 plans to catch both booster and ship
+### 2. KetchUp – Open-source SketchUp alternative built with Rust and WebGPU
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.spacex.com/launches/starship-flight-15">https://www.spacex.com/launches/starship-flight-15</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50416471">https://news.ycombinator.com/item?id=50416471</a></p>
-<p>Points: 26</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://ketchup3d.github.io/app/">https://ketchup3d.github.io/app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50418176">https://news.ycombinator.com/item?id=50418176</a></p>
+<p>Points: 12</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.spacex.com/launches/starship-flight-15](https://www.spacex.com/launches/starship-flight-15)
+🔗 **Read more:** [https://ketchup3d.github.io/app/](https://ketchup3d.github.io/app/)
 
 ---
 
-### 3. The Web Is More Than Enough, by Paul Ford
+### 3. Nvidia CEO Jensen Huang's letter to staff about affair
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ftrain.com/aboard-the-web-is-more-than-enough">https://ftrain.com/aboard-the-web-is-more-than-enough</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50416456">https://news.ycombinator.com/item?id=50416456</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company">https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50418016">https://news.ycombinator.com/item?id=50418016</a></p>
+<p>Points: 184</p>
+<p># Comments: 153</p>
 
-🔗 **Read more:** [https://ftrain.com/aboard-the-web-is-more-than-enough](https://ftrain.com/aboard-the-web-is-more-than-enough)
+🔗 **Read more:** [https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company](https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Jensen Huang also admitted to having been "unfaithful "to his wife and apologised for hurting her and their children.
+Jensen Huang also admitted to having been "unfaithful" to his wife and says he will cooperate with a security investigation.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Tw
 
 ---
 
-### 7. Deadly sand cliff collapses on displaced families in Gaza
+### 7. Lopez double fires Barcelona to win at Atletico Madrid
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Deadly sand cliff collapses on displaced families in Gaza
+Fermin Lopez brace has Barcelona come from behind to win 2-1 at Atletico Madrid to go three points clear in La Liga.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss)
 
 ---
 
-### 8. Why Abdul El-Sayed’s ‘JD, habibi’ is going viral online
+### 8. President Milei welcomes Pope Leo during historic visit to Argentina
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-‘JD, habibi’ is going viral after Michigan Senator-elect Abdul El-Sayed used the phrase to mock JD Vance in a speech.
+Pope Leo XIV&#039;s visit marks the first papal trip to Argentina in nearly four decades, amid tensions with the government.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/why-abdul-el-sayeds-jd-habibi-is-going-viral-online?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/why-abdul-el-sayeds-jd-habibi-is-going-viral-online?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss)
 
 ---
 
-### 9. Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis
+### 9. US chipmaker Nvidia investigates CEO Jensen Huang over affair
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iranian Foreign Minister Abbas Araghchi says there has been no progress in talks with the US.
+Huang has confirmed he had been having an affair with a woman accused of spying for China.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-09T03:06:23+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Chimera Vocal Synth",
+            "description": "<p>Article URL: <a href=\"https://chimera-vocal-synth.vercel.app/\">https://chimera-vocal-synth.vercel.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50418182\">https://news.ycombinator.com/item?id=50418182</a></p>\n<p>Points: 19</p>\n<p># Comments: 6</p>",
+            "url": "https://chimera-vocal-synth.vercel.app/",
+            "published": "Sun, 08 Nov 2026 22:36:03 +0000",
+            "fetched": "2026-11-09T03:06:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "KetchUp – Open-source SketchUp alternative built with Rust and WebGPU",
+            "description": "<p>Article URL: <a href=\"https://ketchup3d.github.io/app/\">https://ketchup3d.github.io/app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50418176\">https://news.ycombinator.com/item?id=50418176</a></p>\n<p>Points: 12</p>\n<p># Comments: 1</p>",
+            "url": "https://ketchup3d.github.io/app/",
+            "published": "Sun, 08 Nov 2026 22:35:35 +0000",
+            "fetched": "2026-11-09T03:06:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+            "description": "<p>Article URL: <a href=\"https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company\">https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50418016\">https://news.ycombinator.com/item?id=50418016</a></p>\n<p>Points: 184</p>\n<p># Comments: 153</p>",
+            "url": "https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company",
+            "published": "Sun, 08 Nov 2026 22:20:09 +0000",
+            "fetched": "2026-11-09T03:06:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+            "description": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+            "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 08 Nov 2026 22:42:41 GMT",
+            "fetched": "2026-11-09T03:06:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+            "description": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+            "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 08 Nov 2026 23:34:18 GMT",
+            "fetched": "2026-11-09T03:06:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "King leads solemn Remembrance Sunday service at Cenotaph",
+            "description": "Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London.",
+            "url": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 08 Nov 2026 18:20:53 GMT",
+            "fetched": "2026-11-09T03:06:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Lopez double fires Barcelona to win at Atletico Madrid",
+            "description": "Fermin Lopez brace has Barcelona come from behind to win 2-1 at Atletico Madrid to go three points clear in La Liga.",
+            "url": "https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss",
+            "published": "Sun, 08 Nov 2026 22:42:12 +0000",
+            "fetched": "2026-11-09T03:06:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "President Milei welcomes Pope Leo during historic visit to Argentina",
+            "description": "Pope Leo XIV&#039;s visit marks the first papal trip to Argentina in nearly four decades, amid tensions with the government.",
+            "url": "https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss",
+            "published": "Sun, 08 Nov 2026 22:16:50 +0000",
+            "fetched": "2026-11-09T03:06:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US chipmaker Nvidia investigates CEO Jensen Huang over affair",
+            "description": "Huang has confirmed he had been having an affair with a woman accused of spying for China.",
+            "url": "https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss",
+            "published": "Sun, 08 Nov 2026 22:16:10 +0000",
+            "fetched": "2026-11-09T03:06:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-09T03:06:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-09T03:06:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-09T03:06:23+03:30"
+        }
+    ]
+}
