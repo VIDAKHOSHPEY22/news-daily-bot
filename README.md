@@ -1,64 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-08 23:01:51
+**Last Update:** 2026-11-09 00:45:25
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It
+### 1. Nvidia Board of Directors Is Investigating Jensen Huang
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c">https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50415817">https://news.ycombinator.com/item?id=50415817</a></p>
-<p>Points: 27</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors">https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50416801">https://news.ycombinator.com/item?id=50416801</a></p>
+<p>Points: 124</p>
+<p># Comments: 98</p>
 
-🔗 **Read more:** [https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c](https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c)
+🔗 **Read more:** [https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors)
 
 ---
 
-### 2. Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders
+### 2. Starship Flight 15 on 11/13 plans to catch both booster and ship
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers">https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50415628">https://news.ycombinator.com/item?id=50415628</a></p>
-<p>Points: 159</p>
-<p># Comments: 99</p>
+<p>Article URL: <a href="https://www.spacex.com/launches/starship-flight-15">https://www.spacex.com/launches/starship-flight-15</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50416471">https://news.ycombinator.com/item?id=50416471</a></p>
+<p>Points: 26</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
+🔗 **Read more:** [https://www.spacex.com/launches/starship-flight-15](https://www.spacex.com/launches/starship-flight-15)
 
 ---
 
-### 3. Ads in Popular Apps Give Police a Powerful Tool to Spy on Users
+### 3. The Web Is More Than Enough, by Paul Ford
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/">https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50415281">https://news.ycombinator.com/item?id=50415281</a></p>
-<p>Points: 35</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://ftrain.com/aboard-the-web-is-more-than-enough">https://ftrain.com/aboard-the-web-is-more-than-enough</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50416456">https://news.ycombinator.com/item?id=50416456</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/](https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/)
+🔗 **Read more:** [https://ftrain.com/aboard-the-web-is-more-than-enough](https://ftrain.com/aboard-the-web-is-more-than-enough)
 
 ---
 
-### 4. King leads solemn Remembrance Sunday service at Cenotaph
+### 4. Nvidia launches investigation into CEO's affair with suspected Chinese spy
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Jensen Huang also admitted to having been "unfaithful "to his wife and apologised for hurting her and their children.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. King leads solemn Remembrance Sunday service at Cenotaph
 
 **Source:** BBC
 
@@ -71,68 +97,42 @@ Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Tw
 
 ---
 
-### 5. Seven dead and more than 100 injured after trains collide in Egypt
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Footage shows derailed carriages after fatal train crash in Egypt
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will "hold accountable anyone who proves their negligence".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. After the midterms, where does the Republican Party stand?
+### 7. Deadly sand cliff collapses on displaced families in Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-GOP suffered a loss, but it is hardly a historic one. A party in power has always been held to account in the midterms.
+Deadly sand cliff collapses on displaced families in Gaza
 
-🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/deadly-sand-cliff-collapses-on-displaced-families-in-gaza?traffic_source=rss)
 
 ---
 
-### 8. Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title
+### 8. Why Abdul El-Sayed’s ‘JD, habibi’ is going viral online
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Alcaraz bagged a 7-6 (7/5), 7-5 straight sets for an elusive Paris crown before the year-end ATP Finals.
+‘JD, habibi’ is going viral after Michigan Senator-elect Abdul El-Sayed used the phrase to mock JD Vance in a speech.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/why-abdul-el-sayeds-jd-habibi-is-going-viral-online?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/why-abdul-el-sayeds-jd-habibi-is-going-viral-online?traffic_source=rss)
 
 ---
 
-### 9. Eisenkot open to Netanyahu joining Israel’s next government
+### 9. Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel&#039;s president officially tasks the opposition leader with forming a new government.
+Iranian Foreign Minister Abbas Araghchi says there has been no progress in talks with the US.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/iran-waiting-to-resume-talks-after-us-midterms-shockiranian-foreign-minis?traffic_source=rss)
 
 ---
 
