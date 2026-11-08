@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-08T23:01:51+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It",
+            "description": "<p>Article URL: <a href=\"https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c\">https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50415817\">https://news.ycombinator.com/item?id=50415817</a></p>\n<p>Points: 27</p>\n<p># Comments: 19</p>",
+            "url": "https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c",
+            "published": "Sun, 08 Nov 2026 18:43:07 +0000",
+            "fetched": "2026-11-08T23:01:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
+            "description": "<p>Article URL: <a href=\"https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers\">https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50415628\">https://news.ycombinator.com/item?id=50415628</a></p>\n<p>Points: 159</p>\n<p># Comments: 99</p>",
+            "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+            "published": "Sun, 08 Nov 2026 18:16:07 +0000",
+            "fetched": "2026-11-08T23:01:51+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ads in Popular Apps Give Police a Powerful Tool to Spy on Users",
+            "description": "<p>Article URL: <a href=\"https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/\">https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50415281\">https://news.ycombinator.com/item?id=50415281</a></p>\n<p>Points: 35</p>\n<p># Comments: 3</p>",
+            "url": "https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/",
+            "published": "Sun, 08 Nov 2026 17:32:55 +0000",
+            "fetched": "2026-11-08T23:01:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "King leads solemn Remembrance Sunday service at Cenotaph",
+            "description": "Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London.",
+            "url": "https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 08 Nov 2026 18:20:53 GMT",
+            "fetched": "2026-11-08T23:01:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Seven dead and more than 100 injured after trains collide in Egypt",
+            "description": "Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.",
+            "url": "https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 08 Nov 2026 17:35:13 GMT",
+            "fetched": "2026-11-08T23:01:51+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Footage shows derailed carriages after fatal train crash in Egypt",
+            "description": "It is yet unclear what caused the accident but Egyptian President Abdel Fattah al-Sisi said an investigation is underway and will \"hold accountable anyone who proves their negligence\".",
+            "url": "https://www.bbc.co.uk/news/videos/cw78p2km7d94o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 08 Nov 2026 16:05:57 GMT",
+            "fetched": "2026-11-08T23:01:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "After the midterms, where does the Republican Party stand?",
+            "description": "GOP suffered a loss, but it is hardly a historic one. A party in power has always been held to account in the midterms.",
+            "url": "https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss",
+            "published": "Sun, 08 Nov 2026 19:09:18 +0000",
+            "fetched": "2026-11-08T23:01:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title",
+            "description": "Alcaraz bagged a 7-6 (7/5), 7-5 straight sets for an elusive Paris crown before the year-end ATP Finals.",
+            "url": "https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss",
+            "published": "Sun, 08 Nov 2026 18:22:58 +0000",
+            "fetched": "2026-11-08T23:01:51+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Eisenkot open to Netanyahu joining Israel’s next government",
+            "description": "Israel&#039;s president officially tasks the opposition leader with forming a new government.",
+            "url": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss",
+            "published": "Sun, 08 Nov 2026 18:12:27 +0000",
+            "fetched": "2026-11-08T23:01:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-08T23:01:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-08T23:01:51+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-08T23:01:51+03:30"
+        }
+    ]
+}

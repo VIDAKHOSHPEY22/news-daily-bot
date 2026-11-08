@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-08 20:38:11
+**Last Update:** 2026-11-08 23:01:51
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. "RAM Altman"= Linux script emailing Altman daily on how much RAM left on your PC
+### 1. Silicon Valley Promises AI Will Cure Disease. Drugmaker CEOs Aren't Buying It
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/">https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50414839">https://news.ycombinator.com/item?id=50414839</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/](https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/)
-
----
-
-### 2. Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/">https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50414427">https://news.ycombinator.com/item?id=50414427</a></p>
-<p>Points: 138</p>
-<p># Comments: 89</p>
-
-🔗 **Read more:** [https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/](https://cleantechnica.com/2026/11/07/tesla-hasnt-had-a-successful-new-product-launch-since-jb-straubel-stepped-down-as-cto/)
-
----
-
-### 3. Apple CEO Presses Software Chief to Pursue More Ambitious AI Strategy
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up">https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50414021">https://news.ycombinator.com/item?id=50414021</a></p>
+<p>Article URL: <a href="https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c">https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50415817">https://news.ycombinator.com/item?id=50415817</a></p>
 <p>Points: 27</p>
-<p># Comments: 39</p>
+<p># Comments: 19</p>
 
-🔗 **Read more:** [https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up](https://www.bloomberg.com/news/newsletters/2026-11-08/apple-explores-turning-siri-ai-into-chatgpt-dots-like-agent-ios-28-shake-up)
+🔗 **Read more:** [https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c](https://www.wsj.com/tech/ai/silicon-valley-promises-ai-will-cure-disease-drugmaker-ceos-arent-buying-it-5218511c)
+
+---
+
+### 2. Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers">https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50415628">https://news.ycombinator.com/item?id=50415628</a></p>
+<p>Points: 159</p>
+<p># Comments: 99</p>
+
+🔗 **Read more:** [https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers](https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers)
+
+---
+
+### 3. Ads in Popular Apps Give Police a Powerful Tool to Spy on Users
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/">https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50415281">https://news.ycombinator.com/item?id=50415281</a></p>
+<p>Points: 35</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/](https://www.bloomberg.com/features/2026-police-phone-tracking-advertising-tech/)
 
 ---
 
@@ -71,7 +71,20 @@ Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Tw
 
 ---
 
-### 5. Footage shows derailed carriages after fatal train crash in Egypt
+### 5. Seven dead and more than 100 injured after trains collide in Egypt
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Several carriages derailed after two trains travelling in the same direction crashed outside the city of Giza.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvgr20mmmevo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Footage shows derailed carriages after fatal train crash in Egypt
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ It is yet unclear what caused the accident but Egyptian President Abdel Fattah a
 
 ---
 
-### 6. Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Fan hospitalised after falling through stand at Norwegian football match
+### 7. After the midterms, where does the Republican Party stand?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A stand at the away end of Tromso&#039;s stadium gave way during a match against Bodo/Glimt, causing fans to fall through.
+GOP suffered a loss, but it is hardly a historic one. A party in power has always been held to account in the midterms.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/8/fan-hospitalised-after-falling-through-stand-at-norwegian-football-match?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/8/fan-hospitalised-after-falling-through-stand-at-norwegian-football-match?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/8/after-the-midterms-where-does-the-republican-party-stand?traffic_source=rss)
 
 ---
 
-### 8. Israeli opposition leader warns of ‘point of no return’ for democracy
+### 8. Carlos Alcaraz beats Ben Shelton to win Paris Masters tennis title
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli opposition leader Gadi Eisenkot has been tasked by Israeli President Isaac Herzog with forming a new government.
+Alcaraz bagged a 7-6 (7/5), 7-5 straight sets for an elusive Paris crown before the year-end ATP Finals.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/8-11-clip-eisenkot-address-il?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/8/carlos-alcaraz-beats-ben-shelton-to-win-paris-masters-tennis-title?traffic_source=rss)
 
 ---
 
-### 9. Train crash kills seven, injures dozens near Egypt’s Cairo city
+### 9. Eisenkot open to Netanyahu joining Israel’s next government
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The passenger train was travelling from Egypt&#039;s capital to Aswan in the south when it derailed, overturning carriages.
+Israel&#039;s president officially tasks the opposition leader with forming a new government.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/train-crash-kills-four-injures-dozens-near-egypts-cairo-city?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government?traffic_source=rss)
 
 ---
 
