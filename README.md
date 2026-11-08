@@ -1,94 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-08 14:06:27
+**Last Update:** 2026-11-08 18:28:33
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. How the deadly shooting in Krakow unfolded
+### 1. Person of Interest
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://krthr.co/person-of-interest/">https://krthr.co/person-of-interest/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50412318">https://news.ycombinator.com/item?id=50412318</a></p>
+<p>Points: 183</p>
+<p># Comments: 118</p>
+
+🔗 **Read more:** [https://krthr.co/person-of-interest/](https://krthr.co/person-of-interest/)
+
+---
+
+### 2. Petered (what happens after the Peter Principle)
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://aworkinglibrary.com/writing/petered">https://aworkinglibrary.com/writing/petered</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50412152">https://news.ycombinator.com/item?id=50412152</a></p>
+<p>Points: 91</p>
+<p># Comments: 57</p>
+
+🔗 **Read more:** [https://aworkinglibrary.com/writing/petered](https://aworkinglibrary.com/writing/petered)
+
+---
+
+### 3. JIT bitmap text rendering for microcontrollers
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://linebender.org/blog/jit-bitmap-text/">https://linebender.org/blog/jit-bitmap-text/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50412072">https://news.ycombinator.com/item?id=50412072</a></p>
+<p>Points: 47</p>
+<p># Comments: 7</p>
+
+🔗 **Read more:** [https://linebender.org/blog/jit-bitmap-text/](https://linebender.org/blog/jit-bitmap-text/)
+
+---
+
+### 4. King leads solemn Remembrance service at Cenotaph
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Video authenticated by BBC Verify shows the moment gunshots rang out in Krakow's main market square.
+Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq74p2zpwyjmo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Veterans shouldn't sleep rough this Christmas, Burnham says
+### 5. Watch: Royals and veterans reflect at Remembrance ceremony
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Downing Street says the prime minister will personally write to councils on Armistice Day to urge them to draw up plans.
+King Charles has led the annual Remembrance Sunday commemorations, laying a wreath at the solemn ceremony held at the Cenotaph.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6pwg4ddwkzeo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cw1l307v4edlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cw1l307v4edlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Two seriously hurt in 30-vehicle crash on the M20 in Kent
+### 6. 'Time is up': Minister warns media industry to take abuse seriously in wake of Brand case
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The crash happened in fog on Saturday evening on the London-bound carriageway near Maidstone, Kent.
+Lisa Nandy tells the BBC "many people" in the media industry have come forward to her.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck87z9exex2lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckn9r0zd0ynwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. After rebel offensive, efforts to push them back appear to have stalled
+### 7. Tearful Alex Eala loses Hong Kong Open final to Claire Liu in straight sets
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saudi air power so far hasn&#039;t been enough for Yemen&#039;s government, and civilians are increasingly stuck in the middle
+Philippine tennis star Eala stunned after 6-3, 6-0 loss to the 102nd-ranked American in Hong Kong.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss](https://www.aljazeera.com/video/project-force-2/2026/11/8/after-rebel-offensive-efforts-to-push-them-back-appear-to-have-stalled?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/8/tearful-alex-eala-loses-hong-kong-open-final-to-claire-liu-in-straight-sets?traffic_source=rss)
 
 ---
 
-### 5. Tennis world number one Rybakina withdraws from WTA Finals due to virus
+### 8. US task force to cut off Iran’s transport of advanced weapons: What we know
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rybakina pulled out on the eve of the Indian Wells tournament, with Ukraine&#039;s Marta Kostyuk replacing the top seed.
+As fears of an escalation grow, Washington announces &#039;Task Force Iron Gate&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/8/tennis-world-number-one-rybakina-withdraws-from-wta-finals-due-to-virus?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/8/tennis-world-number-one-rybakina-withdraws-from-wta-finals-due-to-virus?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/us-task-force-to-cut-off-irans-transport-of-advanced-weapons-what-we-know?traffic_source=rss)
 
 ---
 
-### 6. Democrats’ congressional win could strengthen Ukraine’s hand against Russia
+### 9. Spain win Padel World Cup in Qatar as sport’s popularity soars
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukraine hopes for more US support but faces uncertainty over Trump’s peace efforts and continued military aid.
+Spain has beaten Argentina at another world cup. The Spanish men’s and women’s team swept the Padel World Championships
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/democrats-congressional-win-could-strengthen-ukraines-hand-against-russia?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/8/spain-win-padel-world-cup-in-qatar-as-sports-popularity-soars-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/8/spain-win-padel-world-cup-in-qatar-as-sports-popularity-soars-2?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Wild River, Coos, New Hampshire
+### 10. Wildfire Wild River, Coos, New Hampshire
 
 **Source:** NASA
 
@@ -101,20 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Tropical Cyclone Murasu
-
-**Source:** NASA
-
-**Category:** nature
-
-**Description:**
-Natural event: Severe Storms
-
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25964)
-
----
-
-### 9. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
+### 11. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
@@ -124,6 +159,19 @@ Natural event: Severe Storms
 Natural event: Wildfires
 
 🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984)
+
+---
+
+### 12. Iceberg B22K
+
+**Source:** NASA
+
+**Category:** nature
+
+**Description:**
+Natural event: Sea and Lake Ice
+
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990)
 
 ---
 
