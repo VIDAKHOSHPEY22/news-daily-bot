@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-09T11:39:11+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2610.14162\">https://arxiv.org/abs/2610.14162</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50422168\">https://news.ycombinator.com/item?id=50422168</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://arxiv.org/abs/2610.14162",
+            "published": "Mon, 09 Nov 2026 07:20:37 +0000",
+            "fetched": "2026-11-09T11:39:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Is Opus 5.5 nerfed? Thinking patterns changed on November 3",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/shanemelaugh/status/2119192075505893695\">https://twitter.com/shanemelaugh/status/2119192075505893695</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50422069\">https://news.ycombinator.com/item?id=50422069</a></p>\n<p>Points: 12</p>\n<p># Comments: 5</p>",
+            "url": "https://twitter.com/shanemelaugh/status/2119192075505893695",
+            "published": "Mon, 09 Nov 2026 07:04:25 +0000",
+            "fetched": "2026-11-09T11:39:11+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster",
+            "description": "<p>Decision models need their own inference engine.<p>So we developed Flide, a high-performance and exact inference engine for Jev-like decision models.<p>Flide achieves up to a 9.5x speedup over vLLM and SGLang.<p>It now supports 30+ popular local Jev-like decision models.<p>Start to make your decision immediately:<p>pip install flide</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50421155\">https://news.ycombinator.com/item?id=50421155</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/OmniJev/Flide",
+            "published": "Mon, 09 Nov 2026 04:43:12 +0000",
+            "fetched": "2026-11-09T11:39:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Will Jensen Huang’s rockstar reputation survive after scandal?",
+            "description": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
+            "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 09 Nov 2026 07:10:11 GMT",
+            "fetched": "2026-11-09T11:39:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Inside the French drug gangs recruiting children to kill",
+            "description": "The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.",
+            "url": "https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 09 Nov 2026 06:00:26 GMT",
+            "fetched": "2026-11-09T11:39:11+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Krakow shooting suspect has died in hospital, police say",
+            "description": "At least six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
+            "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 09 Nov 2026 07:26:09 GMT",
+            "fetched": "2026-11-09T11:39:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "MotoGP: Bezzecchi denies Marquez world title as motorsport returns to Qatar",
+            "description": "Aprilia&#039;s Marco Bezzecchi wins Qatar Grand Prix as Ducati&#039;s Marc Marquez finishes second.",
+            "url": "https://www.aljazeera.com/sports/2026/11/9/motogp-bezzecchi-denies-marquez-world-title-as-motorsport-returns-to-qatar?traffic_source=rss",
+            "published": "Mon, 09 Nov 2026 07:56:16 +0000",
+            "fetched": "2026-11-09T11:39:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Which countries and industries emit the most greenhouse gases?",
+            "description": "The US has emitted the most CO2 in history; China is now the biggest emitter. Here’s who is driving global emissions.",
+            "url": "https://www.aljazeera.com/news/2026/11/9/which-countries-and-industries-emit-the-most-greenhouse-gases?traffic_source=rss",
+            "published": "Mon, 09 Nov 2026 07:21:37 +0000",
+            "fetched": "2026-11-09T11:39:11+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ousted PM Sheikh Hasina seeks passport in sign of Bangladesh return plan",
+            "description": "Hasina, who has been living in India for two years, has promised that she would return to Bangladesh in December.",
+            "url": "https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss",
+            "published": "Mon, 09 Nov 2026 07:12:09 +0000",
+            "fetched": "2026-11-09T11:39:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-09T11:39:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-09T11:39:11+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-09T11:39:11+03:30"
+        }
+    ]
+}
