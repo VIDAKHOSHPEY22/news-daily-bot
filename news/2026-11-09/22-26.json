@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-09T22:26:47+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Too many men suffering in silence, national health report finds (Canada)",
+            "description": "<p>Article URL: <a href=\"https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds\">https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429475\">https://news.ycombinator.com/item?id=50429475</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds",
+            "published": "Mon, 09 Nov 2026 18:27:58 +0000",
+            "fetched": "2026-11-09T22:26:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Infineon marks innovation milestone with 300mm power silicon carbide wafer",
+            "description": "<p>Article URL: <a href=\"https://www.infineon.com/press-release/2026/infpr202611-028\">https://www.infineon.com/press-release/2026/infpr202611-028</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429430\">https://news.ycombinator.com/item?id=50429430</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://www.infineon.com/press-release/2026/infpr202611-028",
+            "published": "Mon, 09 Nov 2026 18:25:01 +0000",
+            "fetched": "2026-11-09T22:26:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Our Smallest, Most Efficient Model: Muse Ember",
+            "description": "<p>Article URL: <a href=\"https://research.meta.ai/blog/muse-ember\">https://research.meta.ai/blog/muse-ember</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50429024\">https://news.ycombinator.com/item?id=50429024</a></p>\n<p>Points: 22</p>\n<p># Comments: 8</p>",
+            "url": "https://research.meta.ai/blog/muse-ember",
+            "published": "Mon, 09 Nov 2026 17:58:46 +0000",
+            "fetched": "2026-11-09T22:26:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
+            "description": "The disgraced entertainer was sentenced on Monday following a four-week trial at Southwark Crown Court.",
+            "url": "https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 09 Nov 2026 17:31:08 GMT",
+            "fetched": "2026-11-09T22:26:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Moment judge sentences Brand in court",
+            "description": "Russell Brand was sentenced for rape and three counts of sexual assault at Southwark Crown Court on Monday.",
+            "url": "https://www.bbc.co.uk/news/videos/c6vg7gnjjlj8o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 09 Nov 2026 15:18:04 GMT",
+            "fetched": "2026-11-09T22:26:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "France accuses Iran of supermarket fridge hacking",
+            "description": "The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.",
+            "url": "https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 09 Nov 2026 16:55:07 GMT",
+            "fetched": "2026-11-09T22:26:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Krakow shooting suspect dies as Poland mourns six victims",
+            "description": "A 24-year-old man who killed six people and wounded 15 in a shooting in Krakow, has died in hospital.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/krakow-shooting-suspect-dies-as-poland-mourns-six-victims?traffic_source=rss",
+            "published": "Mon, 09 Nov 2026 18:12:46 +0000",
+            "fetched": "2026-11-09T22:26:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Meta rolls out automated age checks for teens globally",
+            "description": "AI-powered scans will be used for Instagram accounts starting this month and later extended to Facebook and Threads.",
+            "url": "https://www.aljazeera.com/news/2026/11/9/meta-rolls-out-automated-age-checks-for-teens-globally?traffic_source=rss",
+            "published": "Mon, 09 Nov 2026 18:09:26 +0000",
+            "fetched": "2026-11-09T22:26:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jerusalem Daily: Deadly aftermath of Gaza rainstorm continues",
+            "description": "Five Palestinians were killed in Gaza when heavy rain collapsed a sand embankment on a displacement camp.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/jerusalem-daily-deadly-aftermath-of-gaza-rainstorm-continues?traffic_source=rss",
+            "published": "Mon, 09 Nov 2026 17:55:47 +0000",
+            "fetched": "2026-11-09T22:26:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 03S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159",
+            "published": "2026-11-07T18:00:00Z",
+            "fetched": "2026-11-09T22:26:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Cempaka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157",
+            "published": "2026-11-07T00:00:00Z",
+            "fetched": "2026-11-09T22:26:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Pena",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158",
+            "published": "2026-11-06T18:00:00Z",
+            "fetched": "2026-11-09T22:26:47+03:30"
+        }
+    ]
+}

@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-09 19:29:35
+**Last Update:** 2026-11-09 22:26:47
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Crypto foundation demanded employees endorse suicide pledge
+### 1. Too many men suffering in silence, national health report finds (Canada)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/">https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50426899">https://news.ycombinator.com/item?id=50426899</a></p>
-<p>Points: 8</p>
+<p>Article URL: <a href="https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds">https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50429475">https://news.ycombinator.com/item?id=50429475</a></p>
+<p>Points: 7</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/](https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/)
+🔗 **Read more:** [https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds](https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds)
 
 ---
 
-### 2. Zebkit – Chromium as an embeddable library
+### 2. Infineon marks innovation milestone with 300mm power silicon carbide wafer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/ikey4u/zebkit">https://github.com/ikey4u/zebkit</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50426207">https://news.ycombinator.com/item?id=50426207</a></p>
-<p>Points: 36</p>
-<p># Comments: 19</p>
+<p>Article URL: <a href="https://www.infineon.com/press-release/2026/infpr202611-028">https://www.infineon.com/press-release/2026/infpr202611-028</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50429430">https://news.ycombinator.com/item?id=50429430</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/ikey4u/zebkit](https://github.com/ikey4u/zebkit)
+🔗 **Read more:** [https://www.infineon.com/press-release/2026/infpr202611-028](https://www.infineon.com/press-release/2026/infpr202611-028)
 
 ---
 
-### 3. Humans will never again create a project like Wikipedia
+### 3. Our Smallest, Most Efficient Model: Muse Ember
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia">https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50424704">https://news.ycombinator.com/item?id=50424704</a></p>
-<p>Points: 320</p>
-<p># Comments: 254</p>
+<p>Article URL: <a href="https://research.meta.ai/blog/muse-ember">https://research.meta.ai/blog/muse-ember</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50429024">https://news.ycombinator.com/item?id=50429024</a></p>
+<p>Points: 22</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia](https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia)
+🔗 **Read more:** [https://research.meta.ai/blog/muse-ember](https://research.meta.ai/blog/muse-ember)
 
 ---
 
-### 4. Watch: Moment judge sentences Brand in court
+### 4. Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The disgraced entertainer was sentenced on Monday following a four-week trial at Southwark Crown Court.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Watch: Moment judge sentences Brand in court
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ Russell Brand was sentenced for rape and three counts of sexual assault at South
 
 ---
 
-### 5. Civil servant who juggled five jobs found guilty of fraud
+### 6. France accuses Iran of supermarket fridge hacking
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.
+The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Krakow shooting suspect has died in hospital, police say
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump says Iran is sealed off. But can new US task force stop weapons flow?
+### 7. Krakow shooting suspect dies as Poland mourns six victims
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Analysts say a small intelligence-focused unit cannot seal Iran’s borders, and others warn it could expand the war.
+A 24-year-old man who killed six people and wounded 15 in a shooting in Krakow, has died in hospital.
 
-🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/9/krakow-shooting-suspect-dies-as-poland-mourns-six-victims?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/9/krakow-shooting-suspect-dies-as-poland-mourns-six-victims?traffic_source=rss)
 
 ---
 
-### 8. Senegal human rights group demands government action after deadly sinking
+### 8. Meta rolls out automated age checks for teens globally
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands ⁠of people have ⁠died in recent years attempting to reach Spain’s Canary Islands from West Africa.
+AI-powered scans will be used for Instagram accounts starting this month and later extended to Facebook and Threads.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/senegal-human-rights-group-demands-government-action-after-deadly-sinking?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/senegal-human-rights-group-demands-government-action-after-deadly-sinking?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/meta-rolls-out-automated-age-checks-for-teens-globally?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/meta-rolls-out-automated-age-checks-for-teens-globally?traffic_source=rss)
 
 ---
 
-### 9. IRGC strikes three tankers near Hormuz over ‘US links’
+### 9. Jerusalem Daily: Deadly aftermath of Gaza rainstorm continues
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An oil tanker caught fire near the Strait of Hormuz after Iran’s IRGC said it had struck three tankers on Sunday,
+Five Palestinians were killed in Gaza when heavy rain collapsed a sand embankment on a displacement camp.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/9/jerusalem-daily-deadly-aftermath-of-gaza-rainstorm-continues?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/9/jerusalem-daily-deadly-aftermath-of-gaza-rainstorm-continues?traffic_source=rss)
 
 ---
 
