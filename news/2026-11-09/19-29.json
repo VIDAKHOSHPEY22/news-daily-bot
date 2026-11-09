@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-09T19:29:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Crypto foundation demanded employees endorse suicide pledge",
+            "description": "<p>Article URL: <a href=\"https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/\">https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50426899\">https://news.ycombinator.com/item?id=50426899</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/",
+            "published": "Mon, 09 Nov 2026 15:23:57 +0000",
+            "fetched": "2026-11-09T19:29:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Zebkit – Chromium as an embeddable library",
+            "description": "<p>Article URL: <a href=\"https://github.com/ikey4u/zebkit\">https://github.com/ikey4u/zebkit</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50426207\">https://news.ycombinator.com/item?id=50426207</a></p>\n<p>Points: 36</p>\n<p># Comments: 19</p>",
+            "url": "https://github.com/ikey4u/zebkit",
+            "published": "Mon, 09 Nov 2026 14:34:00 +0000",
+            "fetched": "2026-11-09T19:29:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Humans will never again create a project like Wikipedia",
+            "description": "<p>Article URL: <a href=\"https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia\">https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50424704\">https://news.ycombinator.com/item?id=50424704</a></p>\n<p>Points: 320</p>\n<p># Comments: 254</p>",
+            "url": "https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia",
+            "published": "Mon, 09 Nov 2026 12:30:20 +0000",
+            "fetched": "2026-11-09T19:29:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Moment judge sentences Brand in court",
+            "description": "Russell Brand was sentenced for rape and three counts of sexual assault at Southwark Crown Court on Monday.",
+            "url": "https://www.bbc.co.uk/news/videos/c6vg7gnjjlj8o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 09 Nov 2026 15:18:04 GMT",
+            "fetched": "2026-11-09T19:29:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Civil servant who juggled five jobs found guilty of fraud",
+            "description": "Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.",
+            "url": "https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 09 Nov 2026 15:33:35 GMT",
+            "fetched": "2026-11-09T19:29:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Krakow shooting suspect has died in hospital, police say",
+            "description": "Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.",
+            "url": "https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 09 Nov 2026 11:56:25 GMT",
+            "fetched": "2026-11-09T19:29:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says Iran is sealed off. But can new US task force stop weapons flow?",
+            "description": "Analysts say a small intelligence-focused unit cannot seal Iran’s borders, and others warn it could expand the war.",
+            "url": "https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow?traffic_source=rss",
+            "published": "Mon, 09 Nov 2026 15:31:37 +0000",
+            "fetched": "2026-11-09T19:29:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Senegal human rights group demands government action after deadly sinking",
+            "description": "Thousands ⁠of people have ⁠died in recent years attempting to reach Spain’s Canary Islands from West Africa.",
+            "url": "https://www.aljazeera.com/news/2026/11/9/senegal-human-rights-group-demands-government-action-after-deadly-sinking?traffic_source=rss",
+            "published": "Mon, 09 Nov 2026 15:30:09 +0000",
+            "fetched": "2026-11-09T19:29:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "IRGC strikes three tankers near Hormuz over ‘US links’",
+            "description": "An oil tanker caught fire near the Strait of Hormuz after Iran’s IRGC said it had struck three tankers on Sunday,",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us?traffic_source=rss",
+            "published": "Mon, 09 Nov 2026 15:10:20 +0000",
+            "fetched": "2026-11-09T19:29:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 03S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159",
+            "published": "2026-11-07T18:00:00Z",
+            "fetched": "2026-11-09T19:29:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Cempaka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157",
+            "published": "2026-11-07T00:00:00Z",
+            "fetched": "2026-11-09T19:29:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Pena",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158",
+            "published": "2026-11-06T18:00:00Z",
+            "fetched": "2026-11-09T19:29:35+03:30"
+        }
+    ]
+}

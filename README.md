@@ -1,87 +1,86 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-09 11:39:11
+**Last Update:** 2026-11-09 19:29:35
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation
+### 1. Crypto foundation demanded employees endorse suicide pledge
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2610.14162">https://arxiv.org/abs/2610.14162</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50422168">https://news.ycombinator.com/item?id=50422168</a></p>
+<p>Article URL: <a href="https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/">https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50426899">https://news.ycombinator.com/item?id=50426899</a></p>
 <p>Points: 8</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://arxiv.org/abs/2610.14162](https://arxiv.org/abs/2610.14162)
-
----
-
-### 2. Is Opus 5.5 nerfed? Thinking patterns changed on November 3
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://twitter.com/shanemelaugh/status/2119192075505893695">https://twitter.com/shanemelaugh/status/2119192075505893695</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50422069">https://news.ycombinator.com/item?id=50422069</a></p>
-<p>Points: 12</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://twitter.com/shanemelaugh/status/2119192075505893695](https://twitter.com/shanemelaugh/status/2119192075505893695)
-
----
-
-### 3. Show HN: Flide: Make Jev-like decision models up to 9.5x faster
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Decision models need their own inference engine.<p>So we developed Flide, a high-performance and exact inference engine for Jev-like decision models.<p>Flide achieves up to a 9.5x speedup over vLLM and SGLang.<p>It now supports 30+ popular local Jev-like decision models.<p>Start to make your decision immediately:<p>pip install flide</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50421155">https://news.ycombinator.com/item?id=50421155</a></p>
-<p>Points: 13</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/OmniJev/Flide](https://github.com/OmniJev/Flide)
+🔗 **Read more:** [https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/](https://www.denverpost.com/2026/11/06/ethereum-suicide-pledge-lawsuit-mandate-boulder-crypto/)
 
 ---
 
-### 4. Will Jensen Huang’s rockstar reputation survive after scandal?
+### 2. Zebkit – Chromium as an embeddable library
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/ikey4u/zebkit">https://github.com/ikey4u/zebkit</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50426207">https://news.ycombinator.com/item?id=50426207</a></p>
+<p>Points: 36</p>
+<p># Comments: 19</p>
+
+🔗 **Read more:** [https://github.com/ikey4u/zebkit](https://github.com/ikey4u/zebkit)
+
+---
+
+### 3. Humans will never again create a project like Wikipedia
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia">https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50424704">https://news.ycombinator.com/item?id=50424704</a></p>
+<p>Points: 320</p>
+<p># Comments: 254</p>
+
+🔗 **Read more:** [https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia](https://www.economist.com/culture/2026/10/29/humans-will-never-again-create-a-project-quite-like-wikipedia)
+
+---
+
+### 4. Watch: Moment judge sentences Brand in court
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?
+Russell Brand was sentenced for rape and three counts of sexual assault at Southwark Crown Court on Monday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6vg7gnjjlj8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6vg7gnjjlj8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Inside the French drug gangs recruiting children to kill
+### 5. Civil servant who juggled five jobs found guilty of fraud
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC enters Marseille's dangerous underworld, where young people are trapped, brutalised and exploited.
+Kashim Chowdhury had secretly held multiple public sector jobs on full-time salaries.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq62y01r2313o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm70pgnx891do?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -92,87 +91,87 @@ The BBC enters Marseille's dangerous underworld, where young people are trapped,
 **Category:** world
 
 **Description:**
-At least six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.
+Six people were killed in the shooting, and three bodies of the suspect's family members were found at their home.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6y434dw8319o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. MotoGP: Bezzecchi denies Marquez world title as motorsport returns to Qatar
+### 7. Trump says Iran is sealed off. But can new US task force stop weapons flow?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Aprilia&#039;s Marco Bezzecchi wins Qatar Grand Prix as Ducati&#039;s Marc Marquez finishes second.
+Analysts say a small intelligence-focused unit cannot seal Iran’s borders, and others warn it could expand the war.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/9/motogp-bezzecchi-denies-marquez-world-title-as-motorsport-returns-to-qatar?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/9/motogp-bezzecchi-denies-marquez-world-title-as-motorsport-returns-to-qatar?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/11/9/trump-says-iran-is-sealed-off-but-can-new-us-task-force-stop-weapons-flow?traffic_source=rss)
 
 ---
 
-### 8. Which countries and industries emit the most greenhouse gases?
+### 8. Senegal human rights group demands government action after deadly sinking
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US has emitted the most CO2 in history; China is now the biggest emitter. Here’s who is driving global emissions.
+Thousands ⁠of people have ⁠died in recent years attempting to reach Spain’s Canary Islands from West Africa.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/which-countries-and-industries-emit-the-most-greenhouse-gases?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/which-countries-and-industries-emit-the-most-greenhouse-gases?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/senegal-human-rights-group-demands-government-action-after-deadly-sinking?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/senegal-human-rights-group-demands-government-action-after-deadly-sinking?traffic_source=rss)
 
 ---
 
-### 9. Ousted PM Sheikh Hasina seeks passport in sign of Bangladesh return plan
+### 9. IRGC strikes three tankers near Hormuz over ‘US links’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hasina, who has been living in India for two years, has promised that she would return to Bangladesh in December.
+An oil tanker caught fire near the Strait of Hormuz after Iran’s IRGC said it had struck three tankers on Sunday,
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/ousted-pm-sheikh-hasina-seeks-passport-in-sign-of-bangladesh-return-plan?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/9/irgc-strikes-three-tankers-near-hormuz-over-us?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Wild River, Coos, New Hampshire
+### 10. Tropical Cyclone 03S
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159)
 
 ---
 
-### 11. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
+### 11. Typhoon Cempaka
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157)
 
 ---
 
-### 12. Iceberg B22K
+### 12. Tropical Storm Pena
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Sea and Lake Ice
+Natural event: Severe Storms
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158)
 
 ---
 
