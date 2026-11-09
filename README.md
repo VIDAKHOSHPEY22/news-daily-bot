@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-09 03:06:23
+**Last Update:** 2026-11-09 04:31:37
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Chimera Vocal Synth
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://chimera-vocal-synth.vercel.app/">https://chimera-vocal-synth.vercel.app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50418182">https://news.ycombinator.com/item?id=50418182</a></p>
-<p>Points: 19</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://chimera-vocal-synth.vercel.app/](https://chimera-vocal-synth.vercel.app/)
-
----
-
-### 2. KetchUp – Open-source SketchUp alternative built with Rust and WebGPU
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://ketchup3d.github.io/app/">https://ketchup3d.github.io/app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50418176">https://news.ycombinator.com/item?id=50418176</a></p>
-<p>Points: 12</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://ketchup3d.github.io/app/](https://ketchup3d.github.io/app/)
-
----
-
-### 3. Nvidia CEO Jensen Huang's letter to staff about affair
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company">https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50418016">https://news.ycombinator.com/item?id=50418016</a></p>
-<p>Points: 184</p>
-<p># Comments: 153</p>
-
-🔗 **Read more:** [https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company](https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-affair-email-to-company)
-
----
-
-### 4. Nvidia launches investigation into CEO's affair with suspected Chinese spy
+### 1. Nvidia launches investigation into CEO's affair with suspected Chinese spy
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ Jensen Huang also admitted to having been "unfaithful" to his wife and says he w
 
 ---
 
-### 5. Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says
+### 2. Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says
 
 **Source:** BBC
 
@@ -84,59 +36,59 @@ Further details have emerged about two police officers hailed for preventing a P
 
 ---
 
-### 6. King leads solemn Remembrance Sunday service at Cenotaph
+### 3. Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Wreaths are laid as 10,000 armed forces veterans, including 12 from World War Two, pay tribute in central London.
+The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqy8l0gyvvv2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Lopez double fires Barcelona to win at Atletico Madrid
+### 4. India’s night lights up for Diwali
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Fermin Lopez brace has Barcelona come from behind to win 2-1 at Atletico Madrid to go three points clear in La Liga.
+India is celebrating Diwali with prayers, lights and fireworks marking one of the country&#039;s biggest Hindu festivals.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/8/lopez-double-fires-barcelona-to-win-at-atletico-madrid?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali?traffic_source=rss](https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali?traffic_source=rss)
 
 ---
 
-### 8. President Milei welcomes Pope Leo during historic visit to Argentina
+### 5. Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pope Leo XIV&#039;s visit marks the first papal trip to Argentina in nearly four decades, amid tensions with the government.
+Democratic lawmakers are mapping out their post-midterm agenda with pledges to lead committee investigations into Trump.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/president-milei-welcomes-pope-leo-during-historic-visit-to-argentina?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss)
 
 ---
 
-### 9. US chipmaker Nvidia investigates CEO Jensen Huang over affair
+### 6. Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gas field
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Huang has confirmed he had been having an affair with a woman accused of spying for China.
+More than 70 percent of northern Iraq&#039;s Kurdish region is without power after a drone struck the Khor Mor gas facility,
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss](https://www.aljazeera.com/news/2026/11/8/us-chipmaker-nvidia-investigates-ceo-jensen-huang-over-affair?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Wild River, Coos, New Hampshire
+### 7. Wildfire Wild River, Coos, New Hampshire
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
+### 8. Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Iceberg B22K
+### 9. Iceberg B22K
 
 **Source:** NASA
 

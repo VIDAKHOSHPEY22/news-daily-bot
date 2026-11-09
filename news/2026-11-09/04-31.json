@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-09T04:31:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nvidia launches investigation into CEO's affair with suspected Chinese spy",
+            "description": "Jensen Huang also admitted to having been \"unfaithful\" to his wife and says he will cooperate with a security investigation.",
+            "url": "https://www.bbc.co.uk/news/articles/c3dxw10rjn9no?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 09 Nov 2026 00:50:06 GMT",
+            "fetched": "2026-11-09T04:31:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Surgeon having lunch near Krakow shooting undoubtedly saved officer's life, colleague says",
+            "description": "Further details have emerged about two police officers hailed for preventing a Polish gunman from killing more.",
+            "url": "https://www.bbc.co.uk/news/articles/c5x2vw4e1gx1o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 08 Nov 2026 23:34:18 GMT",
+            "fetched": "2026-11-09T04:31:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nandy defends linking Erasmus student scheme to Remembrance Sunday after backlash",
+            "description": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice.",
+            "url": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 08 Nov 2026 13:05:30 GMT",
+            "fetched": "2026-11-09T04:31:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India’s night lights up for Diwali",
+            "description": "India is celebrating Diwali with prayers, lights and fireworks marking one of the country&#039;s biggest Hindu festivals.",
+            "url": "https://www.aljazeera.com/video/2026/11/9/indias-night-lights-up-for-diwali?traffic_source=rss",
+            "published": "Mon, 09 Nov 2026 00:24:04 +0000",
+            "fetched": "2026-11-09T04:31:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jeffries backs Hegseth impeachment as Democrats vow probes of Trump allies",
+            "description": "Democratic lawmakers are mapping out their post-midterm agenda with pledges to lead committee investigations into Trump.",
+            "url": "https://www.aljazeera.com/news/2026/11/9/jeffries-backs-hegseth-impeachment-as-democrats-vow-probes-of-trump-allies?traffic_source=rss",
+            "published": "Mon, 09 Nov 2026 00:07:02 +0000",
+            "fetched": "2026-11-09T04:31:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Trump says ‘Iron Gate’ in effect; drone hits Iraq gas field",
+            "description": "More than 70 percent of northern Iraq&#039;s Kurdish region is without power after a drone struck the Khor Mor gas facility,",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-land-blockade-in-effect-drone-cuts-power-in-iraq?traffic_source=rss",
+            "published": "Mon, 09 Nov 2026 00:00:34 +0000",
+            "fetched": "2026-11-09T04:31:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Wild River, Coos, New Hampshire",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26057",
+            "published": "2026-11-02T07:58:00Z",
+            "fetched": "2026-11-09T04:31:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Dry Lake Hills Piles RX, Coconino, Arizona",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25984",
+            "published": "2026-10-30T10:13:00Z",
+            "fetched": "2026-11-09T04:31:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Iceberg B22K",
+            "description": "Natural event: Sea and Lake Ice",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_25990",
+            "published": "2026-10-30T00:00:00Z",
+            "fetched": "2026-11-09T04:31:37+03:30"
+        }
+    ]
+}
