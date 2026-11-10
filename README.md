@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-10 05:47:41
+**Last Update:** 2026-11-10 11:44:40
 
 **Total News:** 12
 
@@ -10,81 +10,68 @@
 
 ## 📰 Latest News
 
-### 1. Locating the Source of a Mysterious Beep
+### 1. M John Harrison becomes first science fiction author to win the Booker prize
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://simonwillison.net/2026/Nov/9/mysterious-beeps/">https://simonwillison.net/2026/Nov/9/mysterious-beeps/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50434310">https://news.ycombinator.com/item?id=50434310</a></p>
+<p>Article URL: <a href="https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize">https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50437242">https://news.ycombinator.com/item?id=50437242</a></p>
 <p>Points: 8</p>
-<p># Comments: 4</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://simonwillison.net/2026/Nov/9/mysterious-beeps/](https://simonwillison.net/2026/Nov/9/mysterious-beeps/)
+🔗 **Read more:** [https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize](https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize)
 
 ---
 
-### 2. Horible public key tricks
+### 2. ClickHouse Acquires Xata
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://maurycyz.com/projects/badcert/">https://maurycyz.com/projects/badcert/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50434264">https://news.ycombinator.com/item?id=50434264</a></p>
-<p>Points: 30</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://xata.io/blog/xata-is-joining-clickhouse">https://xata.io/blog/xata-is-joining-clickhouse</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50436706">https://news.ycombinator.com/item?id=50436706</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://maurycyz.com/projects/badcert/](https://maurycyz.com/projects/badcert/)
+🔗 **Read more:** [https://xata.io/blog/xata-is-joining-clickhouse](https://xata.io/blog/xata-is-joining-clickhouse)
 
 ---
 
-### 3. Fable 5.2 one-shotted my nephew's dream game
+### 3. Amazon saves millions by replacing Sonnet 4.6 with Strands Decider
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game">https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50433659">https://news.ycombinator.com/item?id=50433659</a></p>
-<p>Points: 151</p>
-<p># Comments: 111</p>
+<p>Article URL: <a href="https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/">https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50436640">https://news.ycombinator.com/item?id=50436640</a></p>
+<p>Points: 152</p>
+<p># Comments: 42</p>
 
-🔗 **Read more:** [https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)
+🔗 **Read more:** [https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
 
 ---
 
-### 4. Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault
+### 4. Jemima Goldsmith accuses Russell Brand of violence and abuse against her
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The disgraced entertainer was sentenced on Monday following a four-week trial at Southwark Crown Court.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Brand's ex Jemima Goldsmith accuses him of violence and abuse against her
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-She accuses the disgraced performer of "violence, coercive control and abuse" while the two were together.
+Goldsmith accuses the disgraced entertainer of "violence, coercive control and abuse" while the two were together.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. What happened inside court as Brand was sentenced
+### 5. What happened inside court as Brand was sentenced
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The BBC's Sima Kotecha was inside the court as the judge sentenced Brand to 10 y
 
 ---
 
-### 7. France blames Iran for October supermarket cyberattack
+### 6. Phones to be banned from pupils' bags or pockets under stricter rules for schools in England
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-French Foreign Minister Jean-Noël Barrot has blamed the Iranian Islamic Revolutionary Guard Corps for the cyberattack.
+The government says it is strengthening its guidance for schools in England, which came into force in June.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Trump signals ‘positive momentum’ with Iran after meeting Qatari PM
+### 7. Australia tightens AI oversight rules after OpenAI government breach
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump says there is ‘positive momentum’ towards ending the war on Iran following a ceasefire proposal delivered by Qatar
+The decision comes after ​an OpenAI agent breached ​an Australian government website in June.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss)
 
 ---
 
-### 9. Verdict delayed in Honduras sex-trafficking case linked to disappearance
+### 8. Why adults are buying toys
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Angie Pena&#039;s disappearance in 2022 exposed what prosecutors called a sex-trafficking network and state corruption.
+How nostalgia is making adults buy toys
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearance?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearance?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/money-works/2026/11/10/why-adults-are-buying-toys?traffic_source=rss](https://www.aljazeera.com/video/money-works/2026/11/10/why-adults-are-buying-toys?traffic_source=rss)
+
+---
+
+### 9. Palestine Weekly: West Bank on fire – and Gaza’s tents under water
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+More than 2,000 Gaza buildings risk collapse amid floods, with 400,000 displaced in vulnerable zones, says government.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under?traffic_source=rss)
 
 ---
 
