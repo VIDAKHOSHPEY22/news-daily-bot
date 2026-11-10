@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-10T20:27:07+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tailscale's DNS IPv6 spells out \"Tailscale\"",
+            "description": "<p>Article URL: <a href=\"https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/\">https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50442691\">https://news.ycombinator.com/item?id=50442691</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/",
+            "published": "Tue, 10 Nov 2026 16:34:45 +0000",
+            "fetched": "2026-11-10T20:27:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Blender 5.3 released with Gaussian Splat support",
+            "description": "<p>Article URL: <a href=\"https://www.blender.org/download/releases/5-3/\">https://www.blender.org/download/releases/5-3/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50442426\">https://news.ycombinator.com/item?id=50442426</a></p>\n<p>Points: 56</p>\n<p># Comments: 7</p>",
+            "url": "https://www.blender.org/download/releases/5-3/",
+            "published": "Tue, 10 Nov 2026 16:15:43 +0000",
+            "fetched": "2026-11-10T20:27:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Gemini 4 Carbon is now available",
+            "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/\">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50442303\">https://news.ycombinator.com/item?id=50442303</a></p>\n<p>Points: 97</p>\n<p># Comments: 38</p>",
+            "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/",
+            "published": "Tue, 10 Nov 2026 16:07:15 +0000",
+            "fetched": "2026-11-10T20:27:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "More than 12 US military aircraft leave second UK base",
+            "description": "The departures come weeks after the US withdrew bombers from RAF Fairford airbase over a suspected Iran-linked security incident.",
+            "url": "https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Nov 2026 16:42:23 GMT",
+            "fetched": "2026-11-10T20:27:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+            "description": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
+            "url": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Nov 2026 16:19:48 GMT",
+            "fetched": "2026-11-10T20:27:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+            "description": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+            "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Nov 2026 15:10:20 GMT",
+            "fetched": "2026-11-10T20:27:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Did Fox News’ fixation on Hasan Piker backfire?",
+            "description": "Did Fox News&#039; fixation on Hasan Piker backfire?",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/did-fox-news-fixation-on-hasan-piker-backfire?traffic_source=rss",
+            "published": "Tue, 10 Nov 2026 16:26:08 +0000",
+            "fetched": "2026-11-10T20:27:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least 12 people killed in Bulgaria motorway pile-up",
+            "description": "At least 12 people have been killed and dozens injured in multiple crashes involving around 50 vehicles on a motorway",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/at-least-12-people-killed-in-bulgaria-motorway-pile-up?traffic_source=rss",
+            "published": "Tue, 10 Nov 2026 16:20:12 +0000",
+            "fetched": "2026-11-10T20:27:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Father, child among six Palestinians killed in Israeli attacks on Gaza",
+            "description": "Israel has killed more than 1,600 people in Gaza since last year&#039;s &#039;ceasefire&#039;, the enclave&#039;s Health Ministry says.",
+            "url": "https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss",
+            "published": "Tue, 10 Nov 2026 15:49:36 +0000",
+            "fetched": "2026-11-10T20:27:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 03S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159",
+            "published": "2026-11-07T18:00:00Z",
+            "fetched": "2026-11-10T20:27:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Cempaka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157",
+            "published": "2026-11-07T00:00:00Z",
+            "fetched": "2026-11-10T20:27:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Pena",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158",
+            "published": "2026-11-06T18:00:00Z",
+            "fetched": "2026-11-10T20:27:07+03:30"
+        }
+    ]
+}

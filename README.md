@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-10 13:35:41
+**Last Update:** 2026-11-10 20:27:07
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, NASA, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Queens Public library under ransomware attack e-borrowing suspended
+### 1. Tailscale's DNS IPv6 spells out "Tailscale"
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://connect.queenslibrary.org/">https://connect.queenslibrary.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50437790">https://news.ycombinator.com/item?id=50437790</a></p>
-<p>Points: 17</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/">https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50442691">https://news.ycombinator.com/item?id=50442691</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://connect.queenslibrary.org/](https://connect.queenslibrary.org/)
+🔗 **Read more:** [https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/](https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/)
 
 ---
 
-### 2. M John Harrison becomes first science fiction author to win the Booker prize
+### 2. Blender 5.3 released with Gaussian Splat support
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize">https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50437242">https://news.ycombinator.com/item?id=50437242</a></p>
-<p>Points: 50</p>
-<p># Comments: 17</p>
-
-🔗 **Read more:** [https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize](https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize)
-
----
-
-### 3. Fireworks AI security breach impacts Notion and their customers
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor">https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50437106">https://news.ycombinator.com/item?id=50437106</a></p>
-<p>Points: 34</p>
+<p>Article URL: <a href="https://www.blender.org/download/releases/5-3/">https://www.blender.org/download/releases/5-3/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50442426">https://news.ycombinator.com/item?id=50442426</a></p>
+<p>Points: 56</p>
 <p># Comments: 7</p>
 
-🔗 **Read more:** [https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor)
+🔗 **Read more:** [https://www.blender.org/download/releases/5-3/](https://www.blender.org/download/releases/5-3/)
 
 ---
 
-### 4. Jemima Goldsmith accuses Russell Brand of violence and abuse against her
+### 3. Gemini 4 Carbon is now available
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50442303">https://news.ycombinator.com/item?id=50442303</a></p>
+<p>Points: 97</p>
+<p># Comments: 38</p>
+
+🔗 **Read more:** [https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/)
+
+---
+
+### 4. More than 12 US military aircraft leave second UK base
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Goldsmith accuses the disgraced entertainer of "violence, coercive control and abuse" while they were in a relationship.
+The departures come weeks after the US withdrew bombers from RAF Fairford airbase over a suspected Iran-linked security incident.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. What happened inside court as Brand was sentenced
+### 5. Arrests made in Mohamed Al Fayed probe in France, police say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC's Sima Kotecha was inside the court as the judge sentenced Brand to 10 years and six months in prison, after being convicted of rape and sexual assault.
+The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq99z9mrv35lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq99z9mrv35lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Phones to be banned from pupils' bags or pockets under stricter rules for schools in England
+### 6. Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The government says it is strengthening its guidance for schools in England, which came into force in June.
+Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Three workers die at Tata’s iPhone parts plant in India’s Tamil Nadu
+### 7. Did Fox News’ fixation on Hasan Piker backfire?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The workers had inhaled gas while inspecting an external nano-filtration tank, a district official says.
+Did Fox News&#039; fixation on Hasan Piker backfire?
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/three-workers-die-at-tatas-iphone-parts-plant-in-indias-tamil-nadu?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/three-workers-die-at-tatas-iphone-parts-plant-in-indias-tamil-nadu?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/10/did-fox-news-fixation-on-hasan-piker-backfire?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/10/did-fox-news-fixation-on-hasan-piker-backfire?traffic_source=rss)
 
 ---
 
-### 8. Are your supplements fake?
+### 8. At least 12 people killed in Bulgaria motorway pile-up
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-That protein powder in your cupboard might not be all protein, and those creatine gummies might be candy.
+At least 12 people have been killed and dozens injured in multiple crashes involving around 50 vehicles on a motorway
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/10/are-your-supplements-fake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/10/are-your-supplements-fake?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/10/at-least-12-people-killed-in-bulgaria-motorway-pile-up?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/10/at-least-12-people-killed-in-bulgaria-motorway-pile-up?traffic_source=rss)
 
 ---
 
-### 9. UFC CEO Dana White takes the White House podium during Washington visit
+### 9. Father, child among six Palestinians killed in Israeli attacks on Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-During his visit to meet with US President Donald Trump in Washington, Dana White answers questions at the White House.
+Israel has killed more than 1,600 people in Gaza since last year&#039;s &#039;ceasefire&#039;, the enclave&#039;s Health Ministry says.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/10/ufc-ceo-dana-white-takes-the-white-house-podium-during-washington-visit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/10/ufc-ceo-dana-white-takes-the-white-house-podium-during-washington-visit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss)
 
 ---
 
