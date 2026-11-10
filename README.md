@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-10 03:40:44
+**Last Update:** 2026-11-10 05:47:41
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault
+### 1. Locating the Source of a Mysterious Beep
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://simonwillison.net/2026/Nov/9/mysterious-beeps/">https://simonwillison.net/2026/Nov/9/mysterious-beeps/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50434310">https://news.ycombinator.com/item?id=50434310</a></p>
+<p>Points: 8</p>
+<p># Comments: 4</p>
+
+🔗 **Read more:** [https://simonwillison.net/2026/Nov/9/mysterious-beeps/](https://simonwillison.net/2026/Nov/9/mysterious-beeps/)
+
+---
+
+### 2. Horible public key tricks
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://maurycyz.com/projects/badcert/">https://maurycyz.com/projects/badcert/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50434264">https://news.ycombinator.com/item?id=50434264</a></p>
+<p>Points: 30</p>
+<p># Comments: 11</p>
+
+🔗 **Read more:** [https://maurycyz.com/projects/badcert/](https://maurycyz.com/projects/badcert/)
+
+---
+
+### 3. Fable 5.2 one-shotted my nephew's dream game
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game">https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50433659">https://news.ycombinator.com/item?id=50433659</a></p>
+<p>Points: 151</p>
+<p># Comments: 111</p>
+
+🔗 **Read more:** [https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game](https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game)
+
+---
+
+### 4. Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ The disgraced entertainer was sentenced on Monday following a four-week trial at
 
 ---
 
-### 2. Brand's ex Jemima Goldsmith accuses him of violence and abuse against her
+### 5. Brand's ex Jemima Goldsmith accuses him of violence and abuse against her
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ She accuses the disgraced performer of "violence, coercive control and abuse" wh
 
 ---
 
-### 3. What happened inside court as Brand was sentenced
+### 6. What happened inside court as Brand was sentenced
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ The BBC's Sima Kotecha was inside the court as the judge sentenced Brand to 10 y
 
 ---
 
-### 4. US Supreme Court allows border wall in Big Bend National Park to proceed
+### 7. France blames Iran for October supermarket cyberattack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lawsuit had sought to block border wall construction in national park by targeting waivers that sidestep protections.
+French Foreign Minister Jean-Noël Barrot has blamed the Iranian Islamic Revolutionary Guard Corps for the cyberattack.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss)
 
 ---
 
-### 5. Trump defends Nvidia’s Huang after calling about spy scandal
+### 8. Trump signals ‘positive momentum’ with Iran after meeting Qatari PM
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump told reporters he believes Nvidia’s CEO Jensen Huang had no idea his alleged mistress was a suspected Chinese spy.
+Trump says there is ‘positive momentum’ towards ending the war on Iran following a ceasefire proposal delivered by Qatar
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidias-huang-after-calling-about-spy-scandal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidias-huang-after-calling-about-spy-scandal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss)
 
 ---
 
-### 6. Trump says war on Iran ‘effectively over’ after talks with Qatar’s PM
+### 9. Verdict delayed in Honduras sex-trafficking case linked to disappearance
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iranian officials dismissed Trump&#039;s latest remarks as &#039;fake news&#039; after the US president suggested an end to the war.
+Angie Pena&#039;s disappearance in 2022 exposed what prosecutors called a sex-trafficking network and state corruption.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearance?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearance?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone 03S
+### 10. Tropical Cyclone 03S
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Typhoon Cempaka
+### 11. Typhoon Cempaka
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Tropical Storm Pena
+### 12. Tropical Storm Pena
 
 **Source:** NASA
 

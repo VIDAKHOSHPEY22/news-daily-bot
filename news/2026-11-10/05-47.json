@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-10T05:47:41+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Locating the Source of a Mysterious Beep",
+            "description": "<p>Article URL: <a href=\"https://simonwillison.net/2026/Nov/9/mysterious-beeps/\">https://simonwillison.net/2026/Nov/9/mysterious-beeps/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50434310\">https://news.ycombinator.com/item?id=50434310</a></p>\n<p>Points: 8</p>\n<p># Comments: 4</p>",
+            "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps/",
+            "published": "Tue, 10 Nov 2026 00:10:46 +0000",
+            "fetched": "2026-11-10T05:47:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Horible public key tricks",
+            "description": "<p>Article URL: <a href=\"https://maurycyz.com/projects/badcert/\">https://maurycyz.com/projects/badcert/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50434264\">https://news.ycombinator.com/item?id=50434264</a></p>\n<p>Points: 30</p>\n<p># Comments: 11</p>",
+            "url": "https://maurycyz.com/projects/badcert/",
+            "published": "Tue, 10 Nov 2026 00:07:17 +0000",
+            "fetched": "2026-11-10T05:47:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Fable 5.2 one-shotted my nephew's dream game",
+            "description": "<p>Article URL: <a href=\"https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game\">https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50433659\">https://news.ycombinator.com/item?id=50433659</a></p>\n<p>Points: 151</p>\n<p># Comments: 111</p>",
+            "url": "https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game",
+            "published": "Mon, 09 Nov 2026 23:08:13 +0000",
+            "fetched": "2026-11-10T05:47:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
+            "description": "The disgraced entertainer was sentenced on Monday following a four-week trial at Southwark Crown Court.",
+            "url": "https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 09 Nov 2026 17:31:08 GMT",
+            "fetched": "2026-11-10T05:47:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Brand's ex Jemima Goldsmith accuses him of violence and abuse against her",
+            "description": "She accuses the disgraced performer of \"violence, coercive control and abuse\" while the two were together.",
+            "url": "https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 09 Nov 2026 22:06:29 GMT",
+            "fetched": "2026-11-10T05:47:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What happened inside court as Brand was sentenced",
+            "description": "The BBC's Sima Kotecha was inside the court as the judge sentenced Brand to 10 years and six months in prison, after being convicted of rape and sexual assault.",
+            "url": "https://www.bbc.co.uk/news/videos/cq99z9mrv35lo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 09 Nov 2026 20:13:41 GMT",
+            "fetched": "2026-11-10T05:47:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "France blames Iran for October supermarket cyberattack",
+            "description": "French Foreign Minister Jean-Noël Barrot has blamed the Iranian Islamic Revolutionary Guard Corps for the cyberattack.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/france-blames-iran-for-october-supermarket-cyberattack?traffic_source=rss",
+            "published": "Tue, 10 Nov 2026 01:01:47 +0000",
+            "fetched": "2026-11-10T05:47:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump signals ‘positive momentum’ with Iran after meeting Qatari PM",
+            "description": "Trump says there is ‘positive momentum’ towards ending the war on Iran following a ceasefire proposal delivered by Qatar",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/trump-signals-positive-momentum-with-iran-after-meeting-qatari-pm?traffic_source=rss",
+            "published": "Tue, 10 Nov 2026 01:00:00 +0000",
+            "fetched": "2026-11-10T05:47:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Verdict delayed in Honduras sex-trafficking case linked to disappearance",
+            "description": "Angie Pena&#039;s disappearance in 2022 exposed what prosecutors called a sex-trafficking network and state corruption.",
+            "url": "https://www.aljazeera.com/news/2026/11/10/verdict-delayed-in-honduras-sex-trafficking-case-linked-to-disappearance?traffic_source=rss",
+            "published": "Tue, 10 Nov 2026 00:57:58 +0000",
+            "fetched": "2026-11-10T05:47:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 03S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159",
+            "published": "2026-11-07T18:00:00Z",
+            "fetched": "2026-11-10T05:47:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Cempaka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157",
+            "published": "2026-11-07T00:00:00Z",
+            "fetched": "2026-11-10T05:47:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Pena",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158",
+            "published": "2026-11-06T18:00:00Z",
+            "fetched": "2026-11-10T05:47:41+03:30"
+        }
+    ]
+}
