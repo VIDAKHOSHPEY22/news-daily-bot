@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-10 11:44:40
+**Last Update:** 2026-11-10 13:35:41
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. M John Harrison becomes first science fiction author to win the Booker prize
+### 1. Queens Public library under ransomware attack e-borrowing suspended
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://connect.queenslibrary.org/">https://connect.queenslibrary.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50437790">https://news.ycombinator.com/item?id=50437790</a></p>
+<p>Points: 17</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://connect.queenslibrary.org/](https://connect.queenslibrary.org/)
+
+---
+
+### 2. M John Harrison becomes first science fiction author to win the Booker prize
 
 **Source:** Hacker News
 
@@ -19,42 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize">https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50437242">https://news.ycombinator.com/item?id=50437242</a></p>
-<p>Points: 8</p>
-<p># Comments: 0</p>
+<p>Points: 50</p>
+<p># Comments: 17</p>
 
 🔗 **Read more:** [https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize](https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize)
 
 ---
 
-### 2. ClickHouse Acquires Xata
+### 3. Fireworks AI security breach impacts Notion and their customers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://xata.io/blog/xata-is-joining-clickhouse">https://xata.io/blog/xata-is-joining-clickhouse</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50436706">https://news.ycombinator.com/item?id=50436706</a></p>
-<p>Points: 9</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor">https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50437106">https://news.ycombinator.com/item?id=50437106</a></p>
+<p>Points: 34</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://xata.io/blog/xata-is-joining-clickhouse](https://xata.io/blog/xata-is-joining-clickhouse)
-
----
-
-### 3. Amazon saves millions by replacing Sonnet 4.6 with Strands Decider
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/">https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50436640">https://news.ycombinator.com/item?id=50436640</a></p>
-<p>Points: 152</p>
-<p># Comments: 42</p>
-
-🔗 **Read more:** [https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
+🔗 **Read more:** [https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor](https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-Goldsmith accuses the disgraced entertainer of "violence, coercive control and abuse" while the two were together.
+Goldsmith accuses the disgraced entertainer of "violence, coercive control and abuse" while they were in a relationship.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss)
 
@@ -97,42 +97,42 @@ The government says it is strengthening its guidance for schools in England, whi
 
 ---
 
-### 7. Australia tightens AI oversight rules after OpenAI government breach
+### 7. Three workers die at Tata’s iPhone parts plant in India’s Tamil Nadu
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The decision comes after ​an OpenAI agent breached ​an Australian government website in June.
+The workers had inhaled gas while inspecting an external nano-filtration tank, a district official says.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/australia-tightens-ai-oversight-rules-after-openai-government-breach?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/three-workers-die-at-tatas-iphone-parts-plant-in-indias-tamil-nadu?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/three-workers-die-at-tatas-iphone-parts-plant-in-indias-tamil-nadu?traffic_source=rss)
 
 ---
 
-### 8. Why adults are buying toys
+### 8. Are your supplements fake?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-How nostalgia is making adults buy toys
+That protein powder in your cupboard might not be all protein, and those creatine gummies might be candy.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/money-works/2026/11/10/why-adults-are-buying-toys?traffic_source=rss](https://www.aljazeera.com/video/money-works/2026/11/10/why-adults-are-buying-toys?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/10/are-your-supplements-fake?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/10/are-your-supplements-fake?traffic_source=rss)
 
 ---
 
-### 9. Palestine Weekly: West Bank on fire – and Gaza’s tents under water
+### 9. UFC CEO Dana White takes the White House podium during Washington visit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 2,000 Gaza buildings risk collapse amid floods, with 400,000 displaced in vulnerable zones, says government.
+During his visit to meet with US President Donald Trump in Washington, Dana White answers questions at the White House.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/palestine-weekly-west-bank-on-fire-and-gazas-tents-under?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/10/ufc-ceo-dana-white-takes-the-white-house-podium-during-washington-visit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/10/ufc-ceo-dana-white-takes-the-white-house-podium-during-washington-visit?traffic_source=rss)
 
 ---
 

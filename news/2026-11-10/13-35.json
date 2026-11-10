@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-10T13:35:41+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Queens Public library under ransomware attack e-borrowing suspended",
+            "description": "<p>Article URL: <a href=\"https://connect.queenslibrary.org/\">https://connect.queenslibrary.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50437790\">https://news.ycombinator.com/item?id=50437790</a></p>\n<p>Points: 17</p>\n<p># Comments: 5</p>",
+            "url": "https://connect.queenslibrary.org/",
+            "published": "Tue, 10 Nov 2026 09:04:39 +0000",
+            "fetched": "2026-11-10T13:35:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "M John Harrison becomes first science fiction author to win the Booker prize",
+            "description": "<p>Article URL: <a href=\"https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize\">https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50437242\">https://news.ycombinator.com/item?id=50437242</a></p>\n<p>Points: 50</p>\n<p># Comments: 17</p>",
+            "url": "https://www.theguardian.com/books/2026/nov/09/m-john-harrison-the-end-of-everything-wins-2026-booker-prize",
+            "published": "Tue, 10 Nov 2026 07:40:52 +0000",
+            "fetched": "2026-11-10T13:35:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Fireworks AI security breach impacts Notion and their customers",
+            "description": "<p>Article URL: <a href=\"https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor\">https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50437106\">https://news.ycombinator.com/item?id=50437106</a></p>\n<p>Points: 34</p>\n<p># Comments: 7</p>",
+            "url": "https://www.notion.com/help/security-incident-involving-a-third-party-ai-vendor",
+            "published": "Tue, 10 Nov 2026 07:19:38 +0000",
+            "fetched": "2026-11-10T13:35:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jemima Goldsmith accuses Russell Brand of violence and abuse against her",
+            "description": "Goldsmith accuses the disgraced entertainer of \"violence, coercive control and abuse\" while they were in a relationship.",
+            "url": "https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Nov 2026 02:59:42 GMT",
+            "fetched": "2026-11-10T13:35:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What happened inside court as Brand was sentenced",
+            "description": "The BBC's Sima Kotecha was inside the court as the judge sentenced Brand to 10 years and six months in prison, after being convicted of rape and sexual assault.",
+            "url": "https://www.bbc.co.uk/news/videos/cq99z9mrv35lo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 09 Nov 2026 20:13:41 GMT",
+            "fetched": "2026-11-10T13:35:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
+            "description": "The government says it is strengthening its guidance for schools in England, which came into force in June.",
+            "url": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Nov 2026 09:25:03 GMT",
+            "fetched": "2026-11-10T13:35:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Three workers die at Tata’s iPhone parts plant in India’s Tamil Nadu",
+            "description": "The workers had inhaled gas while inspecting an external nano-filtration tank, a district official says.",
+            "url": "https://www.aljazeera.com/news/2026/11/10/three-workers-die-at-tatas-iphone-parts-plant-in-indias-tamil-nadu?traffic_source=rss",
+            "published": "Tue, 10 Nov 2026 09:29:54 +0000",
+            "fetched": "2026-11-10T13:35:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Are your supplements fake?",
+            "description": "That protein powder in your cupboard might not be all protein, and those creatine gummies might be candy.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/are-your-supplements-fake?traffic_source=rss",
+            "published": "Tue, 10 Nov 2026 09:09:09 +0000",
+            "fetched": "2026-11-10T13:35:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UFC CEO Dana White takes the White House podium during Washington visit",
+            "description": "During his visit to meet with US President Donald Trump in Washington, Dana White answers questions at the White House.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/10/ufc-ceo-dana-white-takes-the-white-house-podium-during-washington-visit?traffic_source=rss",
+            "published": "Tue, 10 Nov 2026 08:49:25 +0000",
+            "fetched": "2026-11-10T13:35:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 03S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159",
+            "published": "2026-11-07T18:00:00Z",
+            "fetched": "2026-11-10T13:35:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Cempaka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157",
+            "published": "2026-11-07T00:00:00Z",
+            "fetched": "2026-11-10T13:35:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Pena",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158",
+            "published": "2026-11-06T18:00:00Z",
+            "fetched": "2026-11-10T13:35:41+03:30"
+        }
+    ]
+}
