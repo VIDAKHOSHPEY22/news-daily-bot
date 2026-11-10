@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-11T03:04:41+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings",
+            "description": "<p>Article URL: <a href=\"https://www.vulncheck.com/blog/anthropic-glasswing-november-update\">https://www.vulncheck.com/blog/anthropic-glasswing-november-update</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50447074\">https://news.ycombinator.com/item?id=50447074</a></p>\n<p>Points: 57</p>\n<p># Comments: 10</p>",
+            "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+            "published": "Tue, 10 Nov 2026 22:17:56 +0000",
+            "fetched": "2026-11-11T03:04:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "rVPN – stealth VPN with end-to-end encryption",
+            "description": "<p>Article URL: <a href=\"https://rvpn.org/\">https://rvpn.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50446714\">https://news.ycombinator.com/item?id=50446714</a></p>\n<p>Points: 34</p>\n<p># Comments: 33</p>",
+            "url": "https://rvpn.org/",
+            "published": "Tue, 10 Nov 2026 21:42:50 +0000",
+            "fetched": "2026-11-11T03:04:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple has new Mac app coming to make running local AI models easy",
+            "description": "<p>Article URL: <a href=\"https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/\">https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50446520\">https://news.ycombinator.com/item?id=50446520</a></p>\n<p>Points: 71</p>\n<p># Comments: 33</p>",
+            "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+            "published": "Tue, 10 Nov 2026 21:25:03 +0000",
+            "fetched": "2026-11-11T03:04:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US Army soldier suspected of spying for Russia arrested in UK",
+            "description": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+            "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Nov 2026 20:20:04 GMT",
+            "fetched": "2026-11-11T03:04:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "David Walliams accused of sexual misconduct after losing injunction bid",
+            "description": "ITN and the Guardian allege the comedian preyed on teenage girls and young women. He has denied all allegations.",
+            "url": "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Nov 2026 20:20:11 GMT",
+            "fetched": "2026-11-11T03:04:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Why Walliams' unprecedented legal battle to stay anonymous failed",
+            "description": "The 55-year-old was named in reports by ITV News and the Guardian on Tuesday after losing a court bid to stop allegations being made public.",
+            "url": "https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Nov 2026 22:41:01 GMT",
+            "fetched": "2026-11-11T03:04:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "French far-right author Zemmour launches second presidential bid",
+            "description": "Zemmour seeks to expel &#039;foreign unemployed people&#039; after last month&#039;s violent protests.",
+            "url": "https://www.aljazeera.com/news/2026/11/10/french-far-right-author-zemmour-launches-second-presidential-bid?traffic_source=rss",
+            "published": "Tue, 10 Nov 2026 23:23:12 +0000",
+            "fetched": "2026-11-11T03:04:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia expels Moldovan diplomat in tit-for-tat move",
+            "description": "Relations between Moscow and Chisinau have worsened since Russia&#039;s full-scale invasion of Ukraine in 2022.",
+            "url": "https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss",
+            "published": "Tue, 10 Nov 2026 22:41:07 +0000",
+            "fetched": "2026-11-11T03:04:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US House Republicans reject effort to impeach Pentagon chief Pete Hegseth",
+            "description": "Hegseth has been accused of spearheading war on Iran without required congressional approval.",
+            "url": "https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss",
+            "published": "Tue, 10 Nov 2026 22:36:14 +0000",
+            "fetched": "2026-11-11T03:04:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 03S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159",
+            "published": "2026-11-07T18:00:00Z",
+            "fetched": "2026-11-11T03:04:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Cempaka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157",
+            "published": "2026-11-07T00:00:00Z",
+            "fetched": "2026-11-11T03:04:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Pena",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158",
+            "published": "2026-11-06T18:00:00Z",
+            "fetched": "2026-11-11T03:04:41+03:30"
+        }
+    ]
+}

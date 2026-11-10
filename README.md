@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-11 01:46:35
+**Last Update:** 2026-11-11 03:04:41
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. rVPN – stealth VPN with end-to-end encryption
+### 1. After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.vulncheck.com/blog/anthropic-glasswing-november-update">https://www.vulncheck.com/blog/anthropic-glasswing-november-update</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50447074">https://news.ycombinator.com/item?id=50447074</a></p>
+<p>Points: 57</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://www.vulncheck.com/blog/anthropic-glasswing-november-update](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
+
+---
+
+### 2. rVPN – stealth VPN with end-to-end encryption
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://rvpn.org/">https://rvpn.org/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50446714">https://news.ycombinator.com/item?id=50446714</a></p>
-<p>Points: 12</p>
-<p># Comments: 7</p>
+<p>Points: 34</p>
+<p># Comments: 33</p>
 
 🔗 **Read more:** [https://rvpn.org/](https://rvpn.org/)
 
 ---
 
-### 2. Apple has new Mac app coming to make running local AI models easy
+### 3. Apple has new Mac app coming to make running local AI models easy
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/">https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50446520">https://news.ycombinator.com/item?id=50446520</a></p>
-<p>Points: 18</p>
-<p># Comments: 0</p>
+<p>Points: 71</p>
+<p># Comments: 33</p>
 
 🔗 **Read more:** [https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)
-
----
-
-### 3. Six Math Essentials by Terence Tao
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://teorth.github.io/tao-web/six-math-essentials.html">https://teorth.github.io/tao-web/six-math-essentials.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50446246">https://news.ycombinator.com/item?id=50446246</a></p>
-<p>Points: 43</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://teorth.github.io/tao-web/six-math-essentials.html](https://teorth.github.io/tao-web/six-math-essentials.html)
 
 ---
 
@@ -84,55 +84,55 @@ ITN and the Guardian allege the comedian preyed on teenage girls and young women
 
 ---
 
-### 6. Watch: What we know about the allegations against Walliams
+### 6. Why Walliams' unprecedented legal battle to stay anonymous failed
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The author and comedian recently lost a court battle trying to block publication of the allegations.
+The 55-year-old was named in reports by ITV News and the Guardian on Tuesday after losing a court bid to stop allegations being made public.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmn9r90wyq2lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmn9r90wyq2lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. UNIFIL patrol comes under fire in southern Lebanon
+### 7. French far-right author Zemmour launches second presidential bid
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UNIFIL said on Tuesday that &#039;about a dozen rounds&#039; were fired at one of its patrols, without identifying the assailants.
+Zemmour seeks to expel &#039;foreign unemployed people&#039; after last month&#039;s violent protests.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/unifil-patrol-comes-under-fire-in-southern-lebanon?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/unifil-patrol-comes-under-fire-in-southern-lebanon?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/french-far-right-author-zemmour-launches-second-presidential-bid?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/french-far-right-author-zemmour-launches-second-presidential-bid?traffic_source=rss)
 
 ---
 
-### 8. US poll shows death penalty lost majority support for first time since 1971
+### 8. Russia expels Moldovan diplomat in tit-for-tat move
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Support for capital punishment has been declining in the US for years over concerns about fairness and racial bias.
+Relations between Moscow and Chisinau have worsened since Russia&#039;s full-scale invasion of Ukraine in 2022.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss)
 
 ---
 
-### 9. IBM’s biggest division ends most US foreign worker sponsorships
+### 9. US House Republicans reject effort to impeach Pentagon chief Pete Hegseth
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Announcement follows Trump administration crackdown on visa programmes for skilled foreign workers.
+Hegseth has been accused of spearheading war on Iran without required congressional approval.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/ibms-biggest-division-ends-most-us-foreign-worker-sponsorships?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/ibms-biggest-division-ends-most-us-foreign-worker-sponsorships?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss)
 
 ---
 
