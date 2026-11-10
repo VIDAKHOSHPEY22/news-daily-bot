@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-11T01:46:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "rVPN – stealth VPN with end-to-end encryption",
+            "description": "<p>Article URL: <a href=\"https://rvpn.org/\">https://rvpn.org/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50446714\">https://news.ycombinator.com/item?id=50446714</a></p>\n<p>Points: 12</p>\n<p># Comments: 7</p>",
+            "url": "https://rvpn.org/",
+            "published": "Tue, 10 Nov 2026 21:42:50 +0000",
+            "fetched": "2026-11-11T01:46:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple has new Mac app coming to make running local AI models easy",
+            "description": "<p>Article URL: <a href=\"https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/\">https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50446520\">https://news.ycombinator.com/item?id=50446520</a></p>\n<p>Points: 18</p>\n<p># Comments: 0</p>",
+            "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+            "published": "Tue, 10 Nov 2026 21:25:03 +0000",
+            "fetched": "2026-11-11T01:46:35+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Six Math Essentials by Terence Tao",
+            "description": "<p>Article URL: <a href=\"https://teorth.github.io/tao-web/six-math-essentials.html\">https://teorth.github.io/tao-web/six-math-essentials.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50446246\">https://news.ycombinator.com/item?id=50446246</a></p>\n<p>Points: 43</p>\n<p># Comments: 4</p>",
+            "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+            "published": "Tue, 10 Nov 2026 20:58:44 +0000",
+            "fetched": "2026-11-11T01:46:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US Army soldier suspected of spying for Russia arrested in UK",
+            "description": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+            "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Nov 2026 20:20:04 GMT",
+            "fetched": "2026-11-11T01:46:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "David Walliams accused of sexual misconduct after losing injunction bid",
+            "description": "ITN and the Guardian allege the comedian preyed on teenage girls and young women. He has denied all allegations.",
+            "url": "https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Nov 2026 20:20:11 GMT",
+            "fetched": "2026-11-11T01:46:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What we know about the allegations against Walliams",
+            "description": "The author and comedian recently lost a court battle trying to block publication of the allegations.",
+            "url": "https://www.bbc.co.uk/news/videos/cmn9r90wyq2lo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Nov 2026 19:35:17 GMT",
+            "fetched": "2026-11-11T01:46:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UNIFIL patrol comes under fire in southern Lebanon",
+            "description": "UNIFIL said on Tuesday that &#039;about a dozen rounds&#039; were fired at one of its patrols, without identifying the assailants.",
+            "url": "https://www.aljazeera.com/news/2026/11/10/unifil-patrol-comes-under-fire-in-southern-lebanon?traffic_source=rss",
+            "published": "Tue, 10 Nov 2026 22:03:50 +0000",
+            "fetched": "2026-11-11T01:46:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US poll shows death penalty lost majority support for first time since 1971",
+            "description": "Support for capital punishment has been declining in the US for years over concerns about fairness and racial bias.",
+            "url": "https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss",
+            "published": "Tue, 10 Nov 2026 22:03:20 +0000",
+            "fetched": "2026-11-11T01:46:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "IBM’s biggest division ends most US foreign worker sponsorships",
+            "description": "Announcement follows Trump administration crackdown on visa programmes for skilled foreign workers.",
+            "url": "https://www.aljazeera.com/news/2026/11/10/ibms-biggest-division-ends-most-us-foreign-worker-sponsorships?traffic_source=rss",
+            "published": "Tue, 10 Nov 2026 21:55:49 +0000",
+            "fetched": "2026-11-11T01:46:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 03S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159",
+            "published": "2026-11-07T18:00:00Z",
+            "fetched": "2026-11-11T01:46:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Cempaka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157",
+            "published": "2026-11-07T00:00:00Z",
+            "fetched": "2026-11-11T01:46:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Pena",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158",
+            "published": "2026-11-06T18:00:00Z",
+            "fetched": "2026-11-11T01:46:35+03:30"
+        }
+    ]
+}

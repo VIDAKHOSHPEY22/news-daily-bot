@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-10 21:29:09
+**Last Update:** 2026-11-11 01:46:35
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, Hacker News, BBC
+**Sources:** BBC, Al Jazeera, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. AMD's Zen 6 Family: Feeding the Beast
+### 1. rVPN – stealth VPN with end-to-end encryption
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast">https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50443090">https://news.ycombinator.com/item?id=50443090</a></p>
-<p>Points: 28</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://rvpn.org/">https://rvpn.org/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50446714">https://news.ycombinator.com/item?id=50446714</a></p>
+<p>Points: 12</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast](https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast)
+🔗 **Read more:** [https://rvpn.org/](https://rvpn.org/)
 
 ---
 
-### 2. .name Grandfathered
+### 2. Apple has new Mac app coming to make running local AI models easy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://neil.fraser.name/news/2026/11/10/">https://neil.fraser.name/news/2026/11/10/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50442736">https://news.ycombinator.com/item?id=50442736</a></p>
-<p>Points: 201</p>
-<p># Comments: 27</p>
+<p>Article URL: <a href="https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/">https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50446520">https://news.ycombinator.com/item?id=50446520</a></p>
+<p>Points: 18</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://neil.fraser.name/news/2026/11/10/](https://neil.fraser.name/news/2026/11/10/)
+🔗 **Read more:** [https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)
 
 ---
 
-### 3. Tailscale's DNS IPv6 spells out "Tailscale"
+### 3. Six Math Essentials by Terence Tao
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/">https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50442691">https://news.ycombinator.com/item?id=50442691</a></p>
-<p>Points: 55</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://teorth.github.io/tao-web/six-math-essentials.html">https://teorth.github.io/tao-web/six-math-essentials.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50446246">https://news.ycombinator.com/item?id=50446246</a></p>
+<p>Points: 43</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/](https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/)
+🔗 **Read more:** [https://teorth.github.io/tao-web/six-math-essentials.html](https://teorth.github.io/tao-web/six-math-essentials.html)
 
 ---
 
-### 4. Inside devastated front-line city that Russia wants Ukraine to give up
+### 4. US Army soldier suspected of spying for Russia arrested in UK
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.
+The 41-year-old senior soldier is accused of national security offences and is being questioned in London.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Arrests made in Mohamed Al Fayed probe in France, police say
+### 5. David Walliams accused of sexual misconduct after losing injunction bid
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.
+ITN and the Guardian allege the comedian preyed on teenage girls and young women. He has denied all allegations.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch
+### 6. Watch: What we know about the allegations against Walliams
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.
+The author and comedian recently lost a court battle trying to block publication of the allegations.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmn9r90wyq2lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmn9r90wyq2lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US petrol prices are down, but elevated inflation continues
+### 7. UNIFIL patrol comes under fire in southern Lebanon
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Inflation has remained high, despite some easing in fuel prices caused by the US war on Iran.
+UNIFIL said on Tuesday that &#039;about a dozen rounds&#039; were fired at one of its patrols, without identifying the assailants.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/us-petrol-prices-are-down-but-elevated-inflation-continues?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/us-petrol-prices-are-down-but-elevated-inflation-continues?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/unifil-patrol-comes-under-fire-in-southern-lebanon?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/unifil-patrol-comes-under-fire-in-southern-lebanon?traffic_source=rss)
 
 ---
 
-### 8. Iran backs nuclear treaty even as hardliners raise prospect of bomb
+### 8. US poll shows death penalty lost majority support for first time since 1971
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran says it is committed to non-proliferation treaty, but hardliners may be pushing for a change in nuclear policy.
+Support for capital punishment has been declining in the US for years over concerns about fairness and racial bias.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/iran-backs-nuclear-treaty-even-as-hardliners-raise-prospect-of-bomb?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/iran-backs-nuclear-treaty-even-as-hardliners-raise-prospect-of-bomb?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/us-poll-shows-death-penalty-lost-majority-support-for-first-time-since-1971?traffic_source=rss)
 
 ---
 
-### 9. Anthropic targets $1.4 trillion valuation in massive stock market debut
+### 9. IBM’s biggest division ends most US foreign worker sponsorships
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The maker of Claude is looking to raise up to $64.4bn in one of the largest IPOs in history next week.
+Announcement follows Trump administration crackdown on visa programmes for skilled foreign workers.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/10/anthropic-targets-1-4-trillion-valuation-in-massive-stock-market-debut?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/10/anthropic-targets-1-4-trillion-valuation-in-massive-stock-market-debut?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/ibms-biggest-division-ends-most-us-foreign-worker-sponsorships?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/ibms-biggest-division-ends-most-us-foreign-worker-sponsorships?traffic_source=rss)
 
 ---
 
