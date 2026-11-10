@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-10T21:29:09+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AMD's Zen 6 Family: Feeding the Beast",
+            "description": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast\">https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50443090\">https://news.ycombinator.com/item?id=50443090</a></p>\n<p>Points: 28</p>\n<p># Comments: 6</p>",
+            "url": "https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast",
+            "published": "Tue, 10 Nov 2026 17:02:32 +0000",
+            "fetched": "2026-11-10T21:29:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": ".name Grandfathered",
+            "description": "<p>Article URL: <a href=\"https://neil.fraser.name/news/2026/11/10/\">https://neil.fraser.name/news/2026/11/10/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50442736\">https://news.ycombinator.com/item?id=50442736</a></p>\n<p>Points: 201</p>\n<p># Comments: 27</p>",
+            "url": "https://neil.fraser.name/news/2026/11/10/",
+            "published": "Tue, 10 Nov 2026 16:37:44 +0000",
+            "fetched": "2026-11-10T21:29:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tailscale's DNS IPv6 spells out \"Tailscale\"",
+            "description": "<p>Article URL: <a href=\"https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/\">https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50442691\">https://news.ycombinator.com/item?id=50442691</a></p>\n<p>Points: 55</p>\n<p># Comments: 20</p>",
+            "url": "https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/",
+            "published": "Tue, 10 Nov 2026 16:34:45 +0000",
+            "fetched": "2026-11-10T21:29:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Inside devastated front-line city that Russia wants Ukraine to give up",
+            "description": "The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.",
+            "url": "https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Nov 2026 17:00:11 GMT",
+            "fetched": "2026-11-10T21:29:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Arrests made in Mohamed Al Fayed probe in France, police say",
+            "description": "The Ritz hotel in Paris, which is still owned by the Al Fayed family, is one of the properties searched by police.",
+            "url": "https://www.bbc.co.uk/news/articles/ck1wvwyrd4ywo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Nov 2026 16:19:48 GMT",
+            "fetched": "2026-11-10T21:29:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Sales of tinned food and bottled water  jump after 'Be Ready' campaign launch",
+            "description": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies.",
+            "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Nov 2026 15:10:20 GMT",
+            "fetched": "2026-11-10T21:29:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US petrol prices are down, but elevated inflation continues",
+            "description": "Inflation has remained high, despite some easing in fuel prices caused by the US war on Iran.",
+            "url": "https://www.aljazeera.com/news/2026/11/10/us-petrol-prices-are-down-but-elevated-inflation-continues?traffic_source=rss",
+            "published": "Tue, 10 Nov 2026 17:40:35 +0000",
+            "fetched": "2026-11-10T21:29:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran backs nuclear treaty even as hardliners raise prospect of bomb",
+            "description": "Iran says it is committed to non-proliferation treaty, but hardliners may be pushing for a change in nuclear policy.",
+            "url": "https://www.aljazeera.com/news/2026/11/10/iran-backs-nuclear-treaty-even-as-hardliners-raise-prospect-of-bomb?traffic_source=rss",
+            "published": "Tue, 10 Nov 2026 17:35:07 +0000",
+            "fetched": "2026-11-10T21:29:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Anthropic targets $1.4 trillion valuation in massive stock market debut",
+            "description": "The maker of Claude is looking to raise up to $64.4bn in one of the largest IPOs in history next week.",
+            "url": "https://www.aljazeera.com/economy/2026/11/10/anthropic-targets-1-4-trillion-valuation-in-massive-stock-market-debut?traffic_source=rss",
+            "published": "Tue, 10 Nov 2026 17:21:58 +0000",
+            "fetched": "2026-11-10T21:29:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 03S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159",
+            "published": "2026-11-07T18:00:00Z",
+            "fetched": "2026-11-10T21:29:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Cempaka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157",
+            "published": "2026-11-07T00:00:00Z",
+            "fetched": "2026-11-10T21:29:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Pena",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158",
+            "published": "2026-11-06T18:00:00Z",
+            "fetched": "2026-11-10T21:29:09+03:30"
+        }
+    ]
+}

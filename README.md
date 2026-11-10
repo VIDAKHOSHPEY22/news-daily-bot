@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-10 20:27:07
+**Last Update:** 2026-11-10 21:29:09
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, Al Jazeera, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tailscale's DNS IPv6 spells out "Tailscale"
+### 1. AMD's Zen 6 Family: Feeding the Beast
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast">https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50443090">https://news.ycombinator.com/item?id=50443090</a></p>
+<p>Points: 28</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast](https://chipsandcheese.com/p/amds-zen-6-family-feeding-the-beast)
+
+---
+
+### 2. .name Grandfathered
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://neil.fraser.name/news/2026/11/10/">https://neil.fraser.name/news/2026/11/10/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50442736">https://news.ycombinator.com/item?id=50442736</a></p>
+<p>Points: 201</p>
+<p># Comments: 27</p>
+
+🔗 **Read more:** [https://neil.fraser.name/news/2026/11/10/](https://neil.fraser.name/news/2026/11/10/)
+
+---
+
+### 3. Tailscale's DNS IPv6 spells out "Tailscale"
 
 **Source:** Hacker News
 
@@ -19,55 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/">https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50442691">https://news.ycombinator.com/item?id=50442691</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 55</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/](https://www.reddit.com/r/Tailscale/comments/1xsr24r/tailscales_dns_ipv6_spells_out_tailscale_easter/)
 
 ---
 
-### 2. Blender 5.3 released with Gaussian Splat support
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.blender.org/download/releases/5-3/">https://www.blender.org/download/releases/5-3/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50442426">https://news.ycombinator.com/item?id=50442426</a></p>
-<p>Points: 56</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://www.blender.org/download/releases/5-3/](https://www.blender.org/download/releases/5-3/)
-
----
-
-### 3. Gemini 4 Carbon is now available
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/">https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50442303">https://news.ycombinator.com/item?id=50442303</a></p>
-<p>Points: 97</p>
-<p># Comments: 38</p>
-
-🔗 **Read more:** [https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/)
-
----
-
-### 4. More than 12 US military aircraft leave second UK base
+### 4. Inside devastated front-line city that Russia wants Ukraine to give up
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The departures come weeks after the US withdrew bombers from RAF Fairford airbase over a suspected Iran-linked security incident.
+The BBC gains rare access to a specialist drone unit defending the eastern city of Slovyansk from heavy Russian fire.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c32l4lw12z7po?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq0memrywvzro?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Sales of essential goods such as hand sanitiser soar after the government called
 
 ---
 
-### 7. Did Fox News’ fixation on Hasan Piker backfire?
+### 7. US petrol prices are down, but elevated inflation continues
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Did Fox News&#039; fixation on Hasan Piker backfire?
+Inflation has remained high, despite some easing in fuel prices caused by the US war on Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/10/did-fox-news-fixation-on-hasan-piker-backfire?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/10/did-fox-news-fixation-on-hasan-piker-backfire?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/us-petrol-prices-are-down-but-elevated-inflation-continues?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/us-petrol-prices-are-down-but-elevated-inflation-continues?traffic_source=rss)
 
 ---
 
-### 8. At least 12 people killed in Bulgaria motorway pile-up
+### 8. Iran backs nuclear treaty even as hardliners raise prospect of bomb
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least 12 people have been killed and dozens injured in multiple crashes involving around 50 vehicles on a motorway
+Iran says it is committed to non-proliferation treaty, but hardliners may be pushing for a change in nuclear policy.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/10/at-least-12-people-killed-in-bulgaria-motorway-pile-up?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/10/at-least-12-people-killed-in-bulgaria-motorway-pile-up?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/iran-backs-nuclear-treaty-even-as-hardliners-raise-prospect-of-bomb?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/iran-backs-nuclear-treaty-even-as-hardliners-raise-prospect-of-bomb?traffic_source=rss)
 
 ---
 
-### 9. Father, child among six Palestinians killed in Israeli attacks on Gaza
+### 9. Anthropic targets $1.4 trillion valuation in massive stock market debut
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israel has killed more than 1,600 people in Gaza since last year&#039;s &#039;ceasefire&#039;, the enclave&#039;s Health Ministry says.
+The maker of Claude is looking to raise up to $64.4bn in one of the largest IPOs in history next week.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/israeli-attacks-kill-at-least-six-in-gaza-including-father-and-son?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/10/anthropic-targets-1-4-trillion-valuation-in-massive-stock-market-debut?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/10/anthropic-targets-1-4-trillion-valuation-in-massive-stock-market-debut?traffic_source=rss)
 
 ---
 
