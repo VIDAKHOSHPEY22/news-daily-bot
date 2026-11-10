@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-10T03:40:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault",
+            "description": "The disgraced entertainer was sentenced on Monday following a four-week trial at Southwark Crown Court.",
+            "url": "https://www.bbc.co.uk/news/articles/ckzd6dl18dmyo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 09 Nov 2026 17:31:08 GMT",
+            "fetched": "2026-11-10T03:40:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Brand's ex Jemima Goldsmith accuses him of violence and abuse against her",
+            "description": "She accuses the disgraced performer of \"violence, coercive control and abuse\" while the two were together.",
+            "url": "https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 09 Nov 2026 22:06:29 GMT",
+            "fetched": "2026-11-10T03:40:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What happened inside court as Brand was sentenced",
+            "description": "The BBC's Sima Kotecha was inside the court as the judge sentenced Brand to 10 years and six months in prison, after being convicted of rape and sexual assault.",
+            "url": "https://www.bbc.co.uk/news/videos/cq99z9mrv35lo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 09 Nov 2026 20:13:41 GMT",
+            "fetched": "2026-11-10T03:40:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Supreme Court allows border wall in Big Bend National Park to proceed",
+            "description": "Lawsuit had sought to block border wall construction in national park by targeting waivers that sidestep protections.",
+            "url": "https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed?traffic_source=rss",
+            "published": "Mon, 09 Nov 2026 23:15:19 +0000",
+            "fetched": "2026-11-10T03:40:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump defends Nvidia’s Huang after calling about spy scandal",
+            "description": "Trump told reporters he believes Nvidia’s CEO Jensen Huang had no idea his alleged mistress was a suspected Chinese spy.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidias-huang-after-calling-about-spy-scandal?traffic_source=rss",
+            "published": "Mon, 09 Nov 2026 23:13:44 +0000",
+            "fetched": "2026-11-10T03:40:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump says war on Iran ‘effectively over’ after talks with Qatar’s PM",
+            "description": "Iranian officials dismissed Trump&#039;s latest remarks as &#039;fake news&#039; after the US president suggested an end to the war.",
+            "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss",
+            "published": "Mon, 09 Nov 2026 22:31:19 +0000",
+            "fetched": "2026-11-10T03:40:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 03S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159",
+            "published": "2026-11-07T18:00:00Z",
+            "fetched": "2026-11-10T03:40:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Cempaka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157",
+            "published": "2026-11-07T00:00:00Z",
+            "fetched": "2026-11-10T03:40:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Pena",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158",
+            "published": "2026-11-06T18:00:00Z",
+            "fetched": "2026-11-10T03:40:44+03:30"
+        }
+    ]
+}

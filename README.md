@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-09 22:26:47
+**Last Update:** 2026-11-10 03:40:44
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Too many men suffering in silence, national health report finds (Canada)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds">https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50429475">https://news.ycombinator.com/item?id=50429475</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds](https://www.westcentralonline.com/articles/too-many-men-suffering-in-silence-national-health-report-finds)
-
----
-
-### 2. Infineon marks innovation milestone with 300mm power silicon carbide wafer
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.infineon.com/press-release/2026/infpr202611-028">https://www.infineon.com/press-release/2026/infpr202611-028</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50429430">https://news.ycombinator.com/item?id=50429430</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.infineon.com/press-release/2026/infpr202611-028](https://www.infineon.com/press-release/2026/infpr202611-028)
-
----
-
-### 3. Our Smallest, Most Efficient Model: Muse Ember
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://research.meta.ai/blog/muse-ember">https://research.meta.ai/blog/muse-ember</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50429024">https://news.ycombinator.com/item?id=50429024</a></p>
-<p>Points: 22</p>
-<p># Comments: 8</p>
-
-🔗 **Read more:** [https://research.meta.ai/blog/muse-ember](https://research.meta.ai/blog/muse-ember)
-
----
-
-### 4. Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault
+### 1. Russell Brand sentenced to 10-and-a-half years in prison for rape and sexual assault
 
 **Source:** BBC
 
@@ -71,72 +23,72 @@ The disgraced entertainer was sentenced on Monday following a four-week trial at
 
 ---
 
-### 5. Watch: Moment judge sentences Brand in court
+### 2. Brand's ex Jemima Goldsmith accuses him of violence and abuse against her
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Russell Brand was sentenced for rape and three counts of sexual assault at Southwark Crown Court on Monday.
+She accuses the disgraced performer of "violence, coercive control and abuse" while the two were together.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6vg7gnjjlj8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6vg7gnjjlj8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c95ynylr8j6xo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. France accuses Iran of supermarket fridge hacking
+### 3. What happened inside court as Brand was sentenced
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The cyber-attack last month saw fridges and freezers in hundreds of supermarkets across France heated up.
+The BBC's Sima Kotecha was inside the court as the judge sentenced Brand to 10 years and six months in prison, after being convicted of rape and sexual assault.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmg474vk6dyqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cq99z9mrv35lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cq99z9mrv35lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Krakow shooting suspect dies as Poland mourns six victims
+### 4. US Supreme Court allows border wall in Big Bend National Park to proceed
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A 24-year-old man who killed six people and wounded 15 in a shooting in Krakow, has died in hospital.
+Lawsuit had sought to block border wall construction in national park by targeting waivers that sidestep protections.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/9/krakow-shooting-suspect-dies-as-poland-mourns-six-victims?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/9/krakow-shooting-suspect-dies-as-poland-mourns-six-victims?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/us-supreme-court-allows-border-wall-in-big-bend-national-park-to-proceed?traffic_source=rss)
 
 ---
 
-### 8. Meta rolls out automated age checks for teens globally
+### 5. Trump defends Nvidia’s Huang after calling about spy scandal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-AI-powered scans will be used for Instagram accounts starting this month and later extended to Facebook and Threads.
+Trump told reporters he believes Nvidia’s CEO Jensen Huang had no idea his alleged mistress was a suspected Chinese spy.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/meta-rolls-out-automated-age-checks-for-teens-globally?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/meta-rolls-out-automated-age-checks-for-teens-globally?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidias-huang-after-calling-about-spy-scandal?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/9/trump-defends-nvidias-huang-after-calling-about-spy-scandal?traffic_source=rss)
 
 ---
 
-### 9. Jerusalem Daily: Deadly aftermath of Gaza rainstorm continues
+### 6. Trump says war on Iran ‘effectively over’ after talks with Qatar’s PM
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Five Palestinians were killed in Gaza when heavy rain collapsed a sand embankment on a displacement camp.
+Iranian officials dismissed Trump&#039;s latest remarks as &#039;fake news&#039; after the US president suggested an end to the war.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/9/jerusalem-daily-deadly-aftermath-of-gaza-rainstorm-continues?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/9/jerusalem-daily-deadly-aftermath-of-gaza-rainstorm-continues?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss](https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone 03S
+### 7. Tropical Cyclone 03S
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Typhoon Cempaka
+### 8. Typhoon Cempaka
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Tropical Storm Pena
+### 9. Tropical Storm Pena
 
 **Source:** NASA
 
