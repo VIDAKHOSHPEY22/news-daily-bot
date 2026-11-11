@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-11T10:19:25+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+            "description": "<p>Article URL: <a href=\"https://github.com/gmkurtzer/ginux\">https://github.com/gmkurtzer/ginux</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50450007\">https://news.ycombinator.com/item?id=50450007</a></p>\n<p>Points: 32</p>\n<p># Comments: 5</p>",
+            "url": "https://github.com/gmkurtzer/ginux",
+            "published": "Wed, 11 Nov 2026 05:25:54 +0000",
+            "fetched": "2026-11-11T10:19:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Protecting SSH Keys with macOS Secure Enclave",
+            "description": "<p>Article URL: <a href=\"https://gatezh.com/posts/macos-secure-enclave-ssh-keys/\">https://gatezh.com/posts/macos-secure-enclave-ssh-keys/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50449748\">https://news.ycombinator.com/item?id=50449748</a></p>\n<p>Points: 78</p>\n<p># Comments: 28</p>",
+            "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+            "published": "Wed, 11 Nov 2026 04:28:57 +0000",
+            "fetched": "2026-11-11T10:19:25+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA",
+            "description": "<p>Article URL: <a href=\"https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna\">https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50449275\">https://news.ycombinator.com/item?id=50449275</a></p>\n<p>Points: 53</p>\n<p># Comments: 29</p>",
+            "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+            "published": "Wed, 11 Nov 2026 02:57:08 +0000",
+            "fetched": "2026-11-11T10:19:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
+            "description": "The TV presenter says he was once \"friendly\" with both David Walliams and Russell Brand, but was \"genuinely unaware of their conduct\".",
+            "url": "https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 04:03:25 GMT",
+            "fetched": "2026-11-11T10:19:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Why Walliams' unprecedented legal battle to stay anonymous failed",
+            "description": "The 55-year-old was named in reports by ITV News and the Guardian on Tuesday after losing a court bid to stop allegations being made public.",
+            "url": "https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 10 Nov 2026 22:41:01 GMT",
+            "fetched": "2026-11-11T10:19:25+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+            "description": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+            "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 01:01:20 GMT",
+            "fetched": "2026-11-11T10:19:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "South African swimmer Tatjana Smith switches allegiance to Netherlands",
+            "description": "Double Olympic gold medallist cites &#039;financial and practical challenges&#039; of swimming.",
+            "url": "https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss",
+            "published": "Wed, 11 Nov 2026 05:52:28 +0000",
+            "fetched": "2026-11-11T10:19:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses",
+            "description": "Yemen&#039;s government says 190 rebel fighters killed and wounded, as Houthis also claim inflicting heavy losses.",
+            "url": "https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss",
+            "published": "Wed, 11 Nov 2026 05:39:26 +0000",
+            "fetched": "2026-11-11T10:19:25+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘I pay $500 for 5 square metres’: Spain’s protesters, in their own words",
+            "description": "Young people are stuck in the family home or forced into cramped, overpriced rentals with little security or control.",
+            "url": "https://www.aljazeera.com/news/2026/11/11/i-pay-500-for-5-square-metres-spains-protesters-in-their-own-words?traffic_source=rss",
+            "published": "Wed, 11 Nov 2026 05:16:57 +0000",
+            "fetched": "2026-11-11T10:19:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 03S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159",
+            "published": "2026-11-07T18:00:00Z",
+            "fetched": "2026-11-11T10:19:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Cempaka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157",
+            "published": "2026-11-07T00:00:00Z",
+            "fetched": "2026-11-11T10:19:25+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Pena",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158",
+            "published": "2026-11-06T18:00:00Z",
+            "fetched": "2026-11-11T10:19:25+03:30"
+        }
+    ]
+}

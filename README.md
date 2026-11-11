@@ -1,90 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-11 06:10:37
+**Last Update:** 2026-11-11 10:19:25
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. A great old-timey game-programming hack (2013)
+### 1. Greg Kurtzer's Ginux is now a userspace kernel
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html">https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50448921">https://news.ycombinator.com/item?id=50448921</a></p>
-<p>Points: 15</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://github.com/gmkurtzer/ginux">https://github.com/gmkurtzer/ginux</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50450007">https://news.ycombinator.com/item?id=50450007</a></p>
+<p>Points: 32</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
+🔗 **Read more:** [https://github.com/gmkurtzer/ginux](https://github.com/gmkurtzer/ginux)
 
 ---
 
-### 2. LLMs Play Zachtronics' TIS-100
+### 2. Protecting SSH Keys with macOS Secure Enclave
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tis-100.wincon.dev/">https://tis-100.wincon.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50448340">https://news.ycombinator.com/item?id=50448340</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://gatezh.com/posts/macos-secure-enclave-ssh-keys/">https://gatezh.com/posts/macos-secure-enclave-ssh-keys/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50449748">https://news.ycombinator.com/item?id=50449748</a></p>
+<p>Points: 78</p>
+<p># Comments: 28</p>
 
-🔗 **Read more:** [https://tis-100.wincon.dev/](https://tis-100.wincon.dev/)
+🔗 **Read more:** [https://gatezh.com/posts/macos-secure-enclave-ssh-keys/](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
 
 ---
 
-### 3. AI is an information gateway. Audiences still don't want it making their news
+### 3. To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/">https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50448174">https://news.ycombinator.com/item?id=50448174</a></p>
-<p>Points: 13</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna">https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50449275">https://news.ycombinator.com/item?id=50449275</a></p>
+<p>Points: 53</p>
+<p># Comments: 29</p>
 
-🔗 **Read more:** [https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/](https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/)
+🔗 **Read more:** [https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna](https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna)
 
 ---
 
-### 4. US Army soldier suspected of spying for Russia arrested in UK
+### 4. Jonathan Ross 'horrified' by Walliams allegations and Brand conviction
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The 41-year-old senior soldier is accused of national security offences and is being questioned in London.
+The TV presenter says he was once "friendly" with both David Walliams and Russell Brand, but was "genuinely unaware of their conduct".
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. David Walliams accused of sexual misconduct after losing injunction bid
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-ITN and the Guardian allege the comedian preyed on teenage girls and young women. He has denied all allegations.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckn8w8p9370zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Why Walliams' unprecedented legal battle to stay anonymous failed
+### 5. Why Walliams' unprecedented legal battle to stay anonymous failed
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The 55-year-old was named in reports by ITV News and the Guardian on Tuesday aft
 
 ---
 
-### 7. Protesters throw milk at Joe Biden during Hunter event in Dublin
+### 6. Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Pro-Palestinian protesters hurled milk towards Joe Biden in Ireland over his support for Israel.
+The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Former Iraqi lawmaker Ahmed al-Alwani found dead in Beirut
+### 7. South African swimmer Tatjana Smith switches allegiance to Netherlands
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lebanese authorities launch a &#039;murder&#039; investigation after al-Alwani&#039;s body is found in an apartment in Beirut.
+Double Olympic gold medallist cites &#039;financial and practical challenges&#039; of swimming.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/former-iraqi-awmaker-ahmed-al-alwani-found-dead-in-beirut?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/former-iraqi-awmaker-ahmed-al-alwani-found-dead-in-beirut?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss)
 
 ---
 
-### 9. US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base
+### 8. Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The men, including one who is already in jail, face charges over alleged plot at UK air base used in US war on Iran.
+Yemen&#039;s government says 190 rebel fighters killed and wounded, as Houthis also claim inflicting heavy losses.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss)
+
+---
+
+### 9. ‘I pay $500 for 5 square metres’: Spain’s protesters, in their own words
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Young people are stuck in the family home or forced into cramped, overpriced rentals with little security or control.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/i-pay-500-for-5-square-metres-spains-protesters-in-their-own-words?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/i-pay-500-for-5-square-metres-spains-protesters-in-their-own-words?traffic_source=rss)
 
 ---
 
