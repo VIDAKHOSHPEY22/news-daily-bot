@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-11T14:10:05+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Greg Kurtzer's Ginux is now a userspace kernel",
+            "description": "<p>Article URL: <a href=\"https://github.com/gmkurtzer/ginux\">https://github.com/gmkurtzer/ginux</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50450007\">https://news.ycombinator.com/item?id=50450007</a></p>\n<p>Points: 73</p>\n<p># Comments: 35</p>",
+            "url": "https://github.com/gmkurtzer/ginux",
+            "published": "Wed, 11 Nov 2026 05:25:54 +0000",
+            "fetched": "2026-11-11T14:10:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Black Ops II statically recompiled to native ARM64 macOS",
+            "description": "<p>I grew up with Black Ops 2 and wanted to see if I could make it work on my 2020 MacBook Pro. So I used Claude Opus 5.5 to create a tool that converts your copy of the game (from Steam) to a native ARM64 Mac app, with almost 60fps in all areas. The whole game is statically recompilated ahead-of-time (AOT) and does not use any emulator whatsoever, be it Wine, Crossover or Rosetta. The best thing is the performance, although some heat issues are still to fix. You get to play the whole Campaign, local Multiplayer (with bots) and local Zombies (all DLCs maps; you need to have them in your Steam library obviously) at about 60fps. Split-screen was not in the PC version, but I've been working on it lately; it's coming soon! LAN mode is on the roadmap for later too :)</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50449891\">https://news.ycombinator.com/item?id=50449891</a></p>\n<p>Points: 24</p>\n<p># Comments: 2</p>",
+            "url": "https://github.com/adrbn/bo2-mac",
+            "published": "Wed, 11 Nov 2026 04:56:47 +0000",
+            "fetched": "2026-11-11T14:10:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Protecting SSH Keys with macOS Secure Enclave",
+            "description": "<p>Article URL: <a href=\"https://gatezh.com/posts/macos-secure-enclave-ssh-keys/\">https://gatezh.com/posts/macos-secure-enclave-ssh-keys/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50449748\">https://news.ycombinator.com/item?id=50449748</a></p>\n<p>Points: 206</p>\n<p># Comments: 75</p>",
+            "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+            "published": "Wed, 11 Nov 2026 04:28:57 +0000",
+            "fetched": "2026-11-11T14:10:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
+            "description": "The TV presenter says he was once \"friendly\" with David Walliams and Russell Brand, but was \"genuinely unaware\" of their conduct.",
+            "url": "https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 10:14:22 GMT",
+            "fetched": "2026-11-11T14:10:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I felt like I was being manipulated': Woman alleges Walliams groomed her as a teenager",
+            "description": "Lilly Creightmore, who has alleged Walliams \"groomed\" her as a teenager, has told BBC Newsnight that she was \"angry\" at his behaviour.",
+            "url": "https://www.bbc.co.uk/news/videos/c8g46y14ye3zo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 09:29:45 GMT",
+            "fetched": "2026-11-11T14:10:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+            "description": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+            "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 01:01:20 GMT",
+            "fetched": "2026-11-11T14:10:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Did Democrats save Pete Hegseth from impeachment?",
+            "description": "Eleven Democrats are absent from procedural vote that narrowly shelves House impeachment vote against defence secretary.",
+            "url": "https://www.aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment?traffic_source=rss",
+            "published": "Wed, 11 Nov 2026 10:32:03 +0000",
+            "fetched": "2026-11-11T14:10:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "AI boom or bubble?",
+            "description": "A tech sell-off has raised questions about AI spending and the risks to jobs and growth across the global economy.",
+            "url": "https://www.aljazeera.com/video/counting-the-cost/2026/11/11/ai-boom-or-bubble?traffic_source=rss",
+            "published": "Wed, 11 Nov 2026 10:31:24 +0000",
+            "fetched": "2026-11-11T14:10:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What’s the Falklands oil project at the heart of latest UK-Argentina spat?",
+            "description": "UK says it will defend its interests at Tribunal hearing, as Argentina seeks measures to block the offshore project.",
+            "url": "https://www.aljazeera.com/news/2026/11/11/whats-the-falklands-oil-project-at-the-heart-of-latest-uk-argentina-spat?traffic_source=rss",
+            "published": "Wed, 11 Nov 2026 10:28:12 +0000",
+            "fetched": "2026-11-11T14:10:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 03S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159",
+            "published": "2026-11-07T18:00:00Z",
+            "fetched": "2026-11-11T14:10:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Cempaka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157",
+            "published": "2026-11-07T00:00:00Z",
+            "fetched": "2026-11-11T14:10:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Pena",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158",
+            "published": "2026-11-06T18:00:00Z",
+            "fetched": "2026-11-11T14:10:05+03:30"
+        }
+    ]
+}

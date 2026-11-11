@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-11 10:19:25
+**Last Update:** 2026-11-11 14:10:05
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
@@ -19,14 +19,31 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/gmkurtzer/ginux">https://github.com/gmkurtzer/ginux</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50450007">https://news.ycombinator.com/item?id=50450007</a></p>
-<p>Points: 32</p>
-<p># Comments: 5</p>
+<p>Points: 73</p>
+<p># Comments: 35</p>
 
 🔗 **Read more:** [https://github.com/gmkurtzer/ginux](https://github.com/gmkurtzer/ginux)
 
 ---
 
-### 2. Protecting SSH Keys with macOS Secure Enclave
+### 2. Show HN: Black Ops II statically recompiled to native ARM64 macOS
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>I grew up with Black Ops 2 and wanted to see if I could make it work on my 2020 MacBook Pro. So I used Claude Opus 5.5 to create a tool that converts your copy of the game (from Steam) to a native ARM64 Mac app, with almost 60fps in all areas. The whole game is statically recompilated ahead-of-time (AOT) and does not use any emulator whatsoever, be it Wine, Crossover or Rosetta. The best thing is the performance, although some heat issues are still to fix. You get to play the whole Campaign, local Multiplayer (with bots) and local Zombies (all DLCs maps; you need to have them in your Steam library obviously) at about 60fps. Split-screen was not in the PC version, but I've been working on it lately; it's coming soon! LAN mode is on the roadmap for later too :)</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50449891">https://news.ycombinator.com/item?id=50449891</a></p>
+<p>Points: 24</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://github.com/adrbn/bo2-mac](https://github.com/adrbn/bo2-mac)
+
+---
+
+### 3. Protecting SSH Keys with macOS Secure Enclave
 
 **Source:** Hacker News
 
@@ -35,26 +52,10 @@
 **Description:**
 <p>Article URL: <a href="https://gatezh.com/posts/macos-secure-enclave-ssh-keys/">https://gatezh.com/posts/macos-secure-enclave-ssh-keys/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50449748">https://news.ycombinator.com/item?id=50449748</a></p>
-<p>Points: 78</p>
-<p># Comments: 28</p>
+<p>Points: 206</p>
+<p># Comments: 75</p>
 
 🔗 **Read more:** [https://gatezh.com/posts/macos-secure-enclave-ssh-keys/](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
-
----
-
-### 3. To deter bioterrorism, U.S. imposes new rules on ordering synthetic DNA
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna">https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50449275">https://news.ycombinator.com/item?id=50449275</a></p>
-<p>Points: 53</p>
-<p># Comments: 29</p>
-
-🔗 **Read more:** [https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna](https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna)
 
 ---
 
@@ -65,22 +66,22 @@
 **Category:** world
 
 **Description:**
-The TV presenter says he was once "friendly" with both David Walliams and Russell Brand, but was "genuinely unaware of their conduct".
+The TV presenter says he was once "friendly" with David Walliams and Russell Brand, but was "genuinely unaware" of their conduct.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Why Walliams' unprecedented legal battle to stay anonymous failed
+### 5. 'I felt like I was being manipulated': Woman alleges Walliams groomed her as a teenager
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The 55-year-old was named in reports by ITV News and the Guardian on Tuesday after losing a court bid to stop allegations being made public.
+Lilly Creightmore, who has alleged Walliams "groomed" her as a teenager, has told BBC Newsnight that she was "angry" at his behaviour.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwx2922r4mrjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c8g46y14ye3zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c8g46y14ye3zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +98,42 @@ The US Department of Justice says the men were involved in a string of plots, in
 
 ---
 
-### 7. South African swimmer Tatjana Smith switches allegiance to Netherlands
+### 7. Did Democrats save Pete Hegseth from impeachment?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Double Olympic gold medallist cites &#039;financial and practical challenges&#039; of swimming.
+Eleven Democrats are absent from procedural vote that narrowly shelves House impeachment vote against defence secretary.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/11/south-african-swimmer-tatjana-smith-switches-allegiance-to-netherlands?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment?traffic_source=rss)
 
 ---
 
-### 8. Yemeni forces, Houthis exchange attacks, claim to inflict heavy losses
+### 8. AI boom or bubble?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yemen&#039;s government says 190 rebel fighters killed and wounded, as Houthis also claim inflicting heavy losses.
+A tech sell-off has raised questions about AI spending and the risks to jobs and growth across the global economy.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/yemeni-forces-houthis-exchange-attacks-claim-to-inflict-heavy-losses?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/counting-the-cost/2026/11/11/ai-boom-or-bubble?traffic_source=rss](https://www.aljazeera.com/video/counting-the-cost/2026/11/11/ai-boom-or-bubble?traffic_source=rss)
 
 ---
 
-### 9. ‘I pay $500 for 5 square metres’: Spain’s protesters, in their own words
+### 9. What’s the Falklands oil project at the heart of latest UK-Argentina spat?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Young people are stuck in the family home or forced into cramped, overpriced rentals with little security or control.
+UK says it will defend its interests at Tribunal hearing, as Argentina seeks measures to block the offshore project.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/i-pay-500-for-5-square-metres-spains-protesters-in-their-own-words?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/i-pay-500-for-5-square-metres-spains-protesters-in-their-own-words?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/whats-the-falklands-oil-project-at-the-heart-of-latest-uk-argentina-spat?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/whats-the-falklands-oil-project-at-the-heart-of-latest-uk-argentina-spat?traffic_source=rss)
 
 ---
 
