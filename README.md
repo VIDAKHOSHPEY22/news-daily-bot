@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-11 03:04:41
+**Last Update:** 2026-11-11 06:10:37
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings
+### 1. A great old-timey game-programming hack (2013)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.vulncheck.com/blog/anthropic-glasswing-november-update">https://www.vulncheck.com/blog/anthropic-glasswing-november-update</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50447074">https://news.ycombinator.com/item?id=50447074</a></p>
-<p>Points: 57</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html">https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50448921">https://news.ycombinator.com/item?id=50448921</a></p>
+<p>Points: 15</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.vulncheck.com/blog/anthropic-glasswing-november-update](https://www.vulncheck.com/blog/anthropic-glasswing-november-update)
+🔗 **Read more:** [https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html](https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html)
 
 ---
 
-### 2. rVPN – stealth VPN with end-to-end encryption
+### 2. LLMs Play Zachtronics' TIS-100
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://rvpn.org/">https://rvpn.org/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50446714">https://news.ycombinator.com/item?id=50446714</a></p>
-<p>Points: 34</p>
-<p># Comments: 33</p>
+<p>Article URL: <a href="https://tis-100.wincon.dev/">https://tis-100.wincon.dev/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50448340">https://news.ycombinator.com/item?id=50448340</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://rvpn.org/](https://rvpn.org/)
+🔗 **Read more:** [https://tis-100.wincon.dev/](https://tis-100.wincon.dev/)
 
 ---
 
-### 3. Apple has new Mac app coming to make running local AI models easy
+### 3. AI is an information gateway. Audiences still don't want it making their news
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/">https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50446520">https://news.ycombinator.com/item?id=50446520</a></p>
-<p>Points: 71</p>
-<p># Comments: 33</p>
+<p>Article URL: <a href="https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/">https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50448174">https://news.ycombinator.com/item?id=50448174</a></p>
+<p>Points: 13</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/](https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/)
+🔗 **Read more:** [https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/](https://www.niemanlab.org/2026/11/ai-is-becoming-an-information-gateway-audiences-still-dont-want-it-making-their-news/)
 
 ---
 
@@ -97,42 +97,42 @@ The 55-year-old was named in reports by ITV News and the Guardian on Tuesday aft
 
 ---
 
-### 7. French far-right author Zemmour launches second presidential bid
+### 7. Protesters throw milk at Joe Biden during Hunter event in Dublin
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Zemmour seeks to expel &#039;foreign unemployed people&#039; after last month&#039;s violent protests.
+Pro-Palestinian protesters hurled milk towards Joe Biden in Ireland over his support for Israel.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/french-far-right-author-zemmour-launches-second-presidential-bid?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/french-far-right-author-zemmour-launches-second-presidential-bid?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/11/protesters-throw-milk-at-joe-biden-during-hunter-event-in-dublin?traffic_source=rss)
 
 ---
 
-### 8. Russia expels Moldovan diplomat in tit-for-tat move
+### 8. Former Iraqi lawmaker Ahmed al-Alwani found dead in Beirut
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Relations between Moscow and Chisinau have worsened since Russia&#039;s full-scale invasion of Ukraine in 2022.
+Lebanese authorities launch a &#039;murder&#039; investigation after al-Alwani&#039;s body is found in an apartment in Beirut.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/russia-expels-moldovan-diplomat-in-tit-for-tat-move?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/former-iraqi-awmaker-ahmed-al-alwani-found-dead-in-beirut?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/former-iraqi-awmaker-ahmed-al-alwani-found-dead-in-beirut?traffic_source=rss)
 
 ---
 
-### 9. US House Republicans reject effort to impeach Pentagon chief Pete Hegseth
+### 9. US charges 3 ‘Iranian-backed’ men over alleged plot at UK Fairford air base
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hegseth has been accused of spearheading war on Iran without required congressional approval.
+The men, including one who is already in jail, face charges over alleged plot at UK air base used in US war on Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss](https://www.aljazeera.com/news/2026/11/10/us-house-begins-vote-on-motion-to-advance-impeachment-of-pete-hegseth?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/us-charges-3-iranian-backed-men-over-alleged-plot-at-uk-fairford-air-base?traffic_source=rss)
 
 ---
 
