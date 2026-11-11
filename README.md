@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-11 22:03:40
+**Last Update:** 2026-11-12 01:35:20
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. AWS Finally Built Its Own AWS Emulator
+### 1. United Airlines bans AI agents from booking flights on behalf of travelers
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/aws/aws-emulator">https://github.com/aws/aws-emulator</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50456631">https://news.ycombinator.com/item?id=50456631</a></p>
-<p>Points: 19</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/">https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50458900">https://news.ycombinator.com/item?id=50458900</a></p>
+<p>Points: 14</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://github.com/aws/aws-emulator](https://github.com/aws/aws-emulator)
+🔗 **Read more:** [https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/](https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/)
 
 ---
 
-### 2. Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents
+### 2. Play GTA5 on Browser
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hi HN, we’re Alan and Akshay from Pomerado (<a href="https://pomerado.ai/">https://pomerado.ai/</a>). We connect your agents to any website by turning sites into deterministic, self-healing APIs in minutes, fully self-serve.<p>Agents are no longer limited by their intelligence, but rather by their ability to interact with systems. Airlines, banks, e-commerce, insurance portals, government sites, and legacy portals all lack APIs or MCPs and are common parts of personal assistant or business workflows. Agents instead rely on browser automation or computer use, which can be slow, expensive, and unreliable. And even if computer use were perfect, most companies have banned it out of security and compliance concerns.<p>We discovered this problem while tinkering with our own personal assistants. When OpenClaw came out, we wanted to “live our lives through our agents” and have them do everything for us. We soon found their usefulness was restricted by what tools they could connect to. For example, when trying to book flights, they fell back on computer use, which failed to checkout. These issues got magnified on repeated workflows, like searching many airlines at once.<p>Pomerado started off as a project to improve these personal assistant workflows. As we started building, we realized that just-in-time tool creation could have significant applications for AI builders in legacy verticals.<p>We’re ex-McKinsey and Scale AI, where we drove agent deployments in healthcare, professional services, and telecom. Each time, the biggest bottleneck was getting agents to interface well with legacy websites and apps.<p>Pomerado is what we built. It’s a self-serve platform where devs can create APIs for any website (even those they don’t own), in minutes. Users (or their coding agents) provide a short natural language description, answer a few questions about their workflow, and receive a MCP in less than an hour. Future tool calls use the deterministic MCP, which usually returns results in 5-30 seconds.<p>Here’s a walkthrough of our product: <a href="https://youtu.be/Bi4jci7rgHo" rel="nofollow">https://youtu.be/Bi4jci7rgHo</a><p>In practice:<p>- Our agent opens a browser, explores the website, and performs the requested task once by writing HTTP requests or a Playwright script. This example run establishes how to navigate the website, interact with the relevant controls, and obtain the desired result. If any additional user input is needed (e.g., login, clarification) the agent will ask the user over MCP.<p>- Afterwards, the agent uses the example run, along with all of the data it recorded, to create a generalizable and repeatable API. Throughout this process, a separate Guardian model reviews the coding agent’s calls against a set of guardrails. We also run a battery of tests with synthetic inputs to ensure that the API is generalized and not overfit to one input. A final publication agent ensures that the integration publishes a reasonable and generalized input/output schema<p>- We also handle sites that require authentication and 2FA. For authentication, we pass off to a deterministic sign-in process to ensure the model and our recorders never read customer credentials. Users can store 2FA TOTP seeds or link their account to a Pomerado phone number for us to autofill 2FA for them as well<p>- If future runs fail, a maintenance job is kicked off to repair and improve the tool. The maintenance job can fix broken steps (e.g., a renamed button), add additional functionality (e.g., searching for business class flights in addition to economy), or add new guardrails (e.g., reservation dates must be in the future). We’ve even seen people improve tools by just saying “please make this faster”<p>Unlike computer use, our MCPs are deterministic at runtime, which makes them much faster and cheaper. By taking slightly longer to do a task the first time, you reap the benefits much more in the future. It’s a great fit for repeated, high-volume tasks you want your agent to do.<p>We’d love to have you try it! We have both an open-source (MIT) (<a href="https://github.com/Pomerado/pomerado" rel="nofollow">https://github.com/Pomerado/pomerado</a>) and a free hosted version (<a href="https://app.pomerado.ai">https://app.pomerado.ai</a>).<p>So far, users of Pomerado include:<p>- A personal trainer using agents to prepare workouts and message clients. Before Pomerado, agents couldn’t login and use the site reliably, so this was all manual<p>- Car dealerships connecting their Grok Bots to legacy dealer systems, including marketplaces, CRMs, and ERPs. Dealers switched from computer use, which could take 1hr+<p>- Personal assistants using Pomerado to integrate with a broad range of consumer websites<p>Please ask any questions or share any feedback in the comments, thanks!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50455811">https://news.ycombinator.com/item?id=50455811</a></p>
-<p>Points: 17</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://playgta5.com/">https://playgta5.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50458710">https://news.ycombinator.com/item?id=50458710</a></p>
+<p>Points: 5</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://pomerado.ai/](https://pomerado.ai/)
+🔗 **Read more:** [https://playgta5.com/](https://playgta5.com/)
 
 ---
 
-### 3. Faster Retrieval for Better, More Efficient RAG
+### 3. GitHub Incident with Webhooks, Actions, etc.
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://machinelearning.apple.com/research/faster-retrieval">https://machinelearning.apple.com/research/faster-retrieval</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50455633">https://news.ycombinator.com/item?id=50455633</a></p>
-<p>Points: 49</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.githubstatus.com/incidents/dvy0t3mvh1lg">https://www.githubstatus.com/incidents/dvy0t3mvh1lg</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50458532">https://news.ycombinator.com/item?id=50458532</a></p>
+<p>Points: 42</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://machinelearning.apple.com/research/faster-retrieval](https://machinelearning.apple.com/research/faster-retrieval)
+🔗 **Read more:** [https://www.githubstatus.com/incidents/dvy0t3mvh1lg](https://www.githubstatus.com/incidents/dvy0t3mvh1lg)
 
 ---
 
@@ -85,55 +84,55 @@ Lilly Creightmore, who has alleged Walliams "groomed" her as a teenager, has tol
 
 ---
 
-### 6. Thousands of schools in Italy, Scotland and Northern Ireland hit by threats in suspected bomb hoax
+### 6. Clashes erupt in Barcelona after thousands join Spain general strike
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-More than 6,000 Italian schools received a threat. Authorities in all three countries say there appears to be no risk to the public. It is not known if the incidents are linked.
+Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwz0k79pr8z2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Spain faces nationwide protests over soaring housing costs
+### 7. Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Spain faces nationwide protests over soaring housing costs
+Iran&#039;s parliament speaker and top negotiator says Tehran is waiting for an official US response to its seven conditions.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/11/spain-faces-nationwide-protests-over-soaring-housing-costs?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/11/spain-faces-nationwide-protests-over-soaring-housing-costs?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss)
 
 ---
 
-### 8. Portugal cancels more than 300 flights, shuts schools due to Storm Charles
+### 8. Thousands march to mark Poland’s Independence Day
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Authorities spared no effort in preparation for the Atlantic storm after criticism following January&#039;s Storm Kristin.
+Thousands of people have taken to the streets of Warsaw for Poland&#039;s annual Independence Day march
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/portugal-cancels-300-plus-flights-shuts-schools-ahead-of-storm-charles?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/portugal-cancels-300-plus-flights-shuts-schools-ahead-of-storm-charles?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/11/thousands-march-to-mark-polands-independence-day?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/11/thousands-march-to-mark-polands-independence-day?traffic_source=rss)
 
 ---
 
-### 9. Can Democrats shed some new light on the Epstein files when they take over?
+### 9. Hoax bomb threats target schools across Italy, UK and Ireland
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Lawmakers have pledged to use new majorities in House and Senate to pursue the investigation into Epstein&#039;s network.
+Thousands of schools across Italy, the UK and Ireland received hoax bomb threat emails.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/can-democrats-shed-some-new-light-on-the-epstein-files-when-they-take-over?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/can-democrats-shed-some-new-light-on-the-epstein-files-when-they-take-over?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/11/hoax-bomb-threats-target-schools-across-italy-uk-and-ireland?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/11/hoax-bomb-threats-target-schools-across-italy-uk-and-ireland?traffic_source=rss)
 
 ---
 

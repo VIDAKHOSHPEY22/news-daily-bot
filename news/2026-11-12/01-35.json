@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-12T01:35:20+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+            "description": "<p>Article URL: <a href=\"https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/\">https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50458900\">https://news.ycombinator.com/item?id=50458900</a></p>\n<p>Points: 14</p>\n<p># Comments: 9</p>",
+            "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+            "published": "Wed, 11 Nov 2026 21:24:35 +0000",
+            "fetched": "2026-11-12T01:35:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Play GTA5 on Browser",
+            "description": "<p>Article URL: <a href=\"https://playgta5.com/\">https://playgta5.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50458710\">https://news.ycombinator.com/item?id=50458710</a></p>\n<p>Points: 5</p>\n<p># Comments: 2</p>",
+            "url": "https://playgta5.com/",
+            "published": "Wed, 11 Nov 2026 21:10:35 +0000",
+            "fetched": "2026-11-12T01:35:20+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GitHub Incident with Webhooks, Actions, etc.",
+            "description": "<p>Article URL: <a href=\"https://www.githubstatus.com/incidents/dvy0t3mvh1lg\">https://www.githubstatus.com/incidents/dvy0t3mvh1lg</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50458532\">https://news.ycombinator.com/item?id=50458532</a></p>\n<p>Points: 42</p>\n<p># Comments: 22</p>",
+            "url": "https://www.githubstatus.com/incidents/dvy0t3mvh1lg",
+            "published": "Wed, 11 Nov 2026 20:54:37 +0000",
+            "fetched": "2026-11-12T01:35:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Author says there were 'real concerns' about David Walliams within publishing industry",
+            "description": "The comedian denies allegations of sexual misconduct, inappropriate behaviour and abusing his power more than 10 years ago.",
+            "url": "https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 20:40:47 GMT",
+            "fetched": "2026-11-12T01:35:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I felt like I was being manipulated': Woman alleges Walliams groomed her as a teenager",
+            "description": "Lilly Creightmore, who has alleged Walliams \"groomed\" her as a teenager, has told BBC Newsnight that she was \"angry\" at his behaviour.",
+            "url": "https://www.bbc.co.uk/news/videos/c8g46y14ye3zo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 09:29:45 GMT",
+            "fetched": "2026-11-12T01:35:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+            "description": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+            "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 20:52:52 GMT",
+            "fetched": "2026-11-12T01:35:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hormuz Strait will ‘never return’ to pre-war status, Iran’s Ghalibaf says",
+            "description": "Iran&#039;s parliament speaker and top negotiator says Tehran is waiting for an official US response to its seven conditions.",
+            "url": "https://www.aljazeera.com/news/2026/11/11/strait-of-hormuz-will-never-return-to-pre-war-status-ghalibaf?traffic_source=rss",
+            "published": "Wed, 11 Nov 2026 21:03:40 +0000",
+            "fetched": "2026-11-12T01:35:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Thousands march to mark Poland’s Independence Day",
+            "description": "Thousands of people have taken to the streets of Warsaw for Poland&#039;s annual Independence Day march",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/thousands-march-to-mark-polands-independence-day?traffic_source=rss",
+            "published": "Wed, 11 Nov 2026 21:02:02 +0000",
+            "fetched": "2026-11-12T01:35:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hoax bomb threats target schools across Italy, UK and Ireland",
+            "description": "Thousands of schools across Italy, the UK and Ireland received hoax bomb threat emails.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/11/hoax-bomb-threats-target-schools-across-italy-uk-and-ireland?traffic_source=rss",
+            "published": "Wed, 11 Nov 2026 21:01:42 +0000",
+            "fetched": "2026-11-12T01:35:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 03S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159",
+            "published": "2026-11-07T18:00:00Z",
+            "fetched": "2026-11-12T01:35:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Cempaka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157",
+            "published": "2026-11-07T00:00:00Z",
+            "fetched": "2026-11-12T01:35:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Pena",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158",
+            "published": "2026-11-06T18:00:00Z",
+            "fetched": "2026-11-12T01:35:20+03:30"
+        }
+    ]
+}
