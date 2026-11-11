@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-11T18:57:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Pharo in the Browser with WebAssembly",
+            "description": "<p>Article URL: <a href=\"https://massimo-nocentini.github.io/pharo-vm/world.html\">https://massimo-nocentini.github.io/pharo-vm/world.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50453763\">https://news.ycombinator.com/item?id=50453763</a></p>\n<p>Points: 37</p>\n<p># Comments: 8</p>",
+            "url": "https://massimo-nocentini.github.io/pharo-vm/world.html",
+            "published": "Wed, 11 Nov 2026 14:21:27 +0000",
+            "fetched": "2026-11-11T18:57:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Atuin Threads: All your agent sessions on every machine",
+            "description": "<p>Article URL: <a href=\"https://blog.atuin.sh/threads-agent-sessions/\">https://blog.atuin.sh/threads-agent-sessions/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50453637\">https://news.ycombinator.com/item?id=50453637</a></p>\n<p>Points: 25</p>\n<p># Comments: 12</p>",
+            "url": "https://blog.atuin.sh/threads-agent-sessions/",
+            "published": "Wed, 11 Nov 2026 14:10:46 +0000",
+            "fetched": "2026-11-11T18:57:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple is killing its Support Community forum next week",
+            "description": "<p>Article URL: <a href=\"https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down\">https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50453555\">https://news.ycombinator.com/item?id=50453555</a></p>\n<p>Points: 57</p>\n<p># Comments: 24</p>",
+            "url": "https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down",
+            "published": "Wed, 11 Nov 2026 14:02:11 +0000",
+            "fetched": "2026-11-11T18:57:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jonathan Ross 'horrified' by Walliams allegations and Brand conviction",
+            "description": "The TV presenter says he was once \"friendly\" with David Walliams and Russell Brand, but was \"genuinely unaware\" of their conduct.",
+            "url": "https://www.bbc.co.uk/news/articles/cmwy9jl18840o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 10:14:22 GMT",
+            "fetched": "2026-11-11T18:57:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I felt like I was being manipulated': Woman alleges Walliams groomed her as a teenager",
+            "description": "Lilly Creightmore, who has alleged Walliams \"groomed\" her as a teenager, has told BBC Newsnight that she was \"angry\" at his behaviour.",
+            "url": "https://www.bbc.co.uk/news/videos/c8g46y14ye3zo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 09:29:45 GMT",
+            "fetched": "2026-11-11T18:57:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Scottish DJ, 32, confirmed as victim of Krakow shooting",
+            "description": "The man, who is understood to be James Thomas Campbell from Prestwick, died when a lone gunman opened fire in central Krakow on Saturday.",
+            "url": "https://www.bbc.co.uk/news/articles/cmx28e95g2rzo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 13:49:34 GMT",
+            "fetched": "2026-11-11T18:57:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Qatar Grand Prix was ‘right decision’ despite regional tensions: MotoGP",
+            "description": "MotoGP chief says &#039;it was normal that the riders showed their concerns&#039; but was surprised at Yamaha&#039;s ⁠⁠⁠⁠withdrawal.",
+            "url": "https://www.aljazeera.com/sports/2026/11/11/motogp-carlos-ezpeleta-deputy-ceo-qatar-grand-prix-yamaha-iran-war?traffic_source=rss",
+            "published": "Wed, 11 Nov 2026 14:58:15 +0000",
+            "fetched": "2026-11-11T18:57:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Italy vs France: UEFA Nations League – preview, team news, predictions",
+            "description": "Kylian Mbappe &#039;under treatment&#039; as Group A1 leaders France travel to Italy for a game at the San Siro, Milan.",
+            "url": "https://www.aljazeera.com/sports/2026/11/11/italy-vs-france-uefa-nations-league-preview-team-news?traffic_source=rss",
+            "published": "Wed, 11 Nov 2026 14:43:46 +0000",
+            "fetched": "2026-11-11T18:57:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?",
+            "description": "Torn between military action and diplomacy, US appears to settle for drawn-out economic pressure campaign, blockade.",
+            "url": "https://www.aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran?traffic_source=rss",
+            "published": "Wed, 11 Nov 2026 14:10:47 +0000",
+            "fetched": "2026-11-11T18:57:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 03S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159",
+            "published": "2026-11-07T18:00:00Z",
+            "fetched": "2026-11-11T18:57:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Cempaka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157",
+            "published": "2026-11-07T00:00:00Z",
+            "fetched": "2026-11-11T18:57:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Pena",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158",
+            "published": "2026-11-06T18:00:00Z",
+            "fetched": "2026-11-11T18:57:53+03:30"
+        }
+    ]
+}

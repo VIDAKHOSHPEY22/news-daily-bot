@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-11 14:10:05
+**Last Update:** 2026-11-11 18:57:53
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Greg Kurtzer's Ginux is now a userspace kernel
+### 1. Pharo in the Browser with WebAssembly
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/gmkurtzer/ginux">https://github.com/gmkurtzer/ginux</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50450007">https://news.ycombinator.com/item?id=50450007</a></p>
-<p>Points: 73</p>
-<p># Comments: 35</p>
+<p>Article URL: <a href="https://massimo-nocentini.github.io/pharo-vm/world.html">https://massimo-nocentini.github.io/pharo-vm/world.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50453763">https://news.ycombinator.com/item?id=50453763</a></p>
+<p>Points: 37</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://github.com/gmkurtzer/ginux](https://github.com/gmkurtzer/ginux)
+🔗 **Read more:** [https://massimo-nocentini.github.io/pharo-vm/world.html](https://massimo-nocentini.github.io/pharo-vm/world.html)
 
 ---
 
-### 2. Show HN: Black Ops II statically recompiled to native ARM64 macOS
+### 2. Atuin Threads: All your agent sessions on every machine
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>I grew up with Black Ops 2 and wanted to see if I could make it work on my 2020 MacBook Pro. So I used Claude Opus 5.5 to create a tool that converts your copy of the game (from Steam) to a native ARM64 Mac app, with almost 60fps in all areas. The whole game is statically recompilated ahead-of-time (AOT) and does not use any emulator whatsoever, be it Wine, Crossover or Rosetta. The best thing is the performance, although some heat issues are still to fix. You get to play the whole Campaign, local Multiplayer (with bots) and local Zombies (all DLCs maps; you need to have them in your Steam library obviously) at about 60fps. Split-screen was not in the PC version, but I've been working on it lately; it's coming soon! LAN mode is on the roadmap for later too :)</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50449891">https://news.ycombinator.com/item?id=50449891</a></p>
-<p>Points: 24</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://blog.atuin.sh/threads-agent-sessions/">https://blog.atuin.sh/threads-agent-sessions/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50453637">https://news.ycombinator.com/item?id=50453637</a></p>
+<p>Points: 25</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://github.com/adrbn/bo2-mac](https://github.com/adrbn/bo2-mac)
+🔗 **Read more:** [https://blog.atuin.sh/threads-agent-sessions/](https://blog.atuin.sh/threads-agent-sessions/)
 
 ---
 
-### 3. Protecting SSH Keys with macOS Secure Enclave
+### 3. Apple is killing its Support Community forum next week
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://gatezh.com/posts/macos-secure-enclave-ssh-keys/">https://gatezh.com/posts/macos-secure-enclave-ssh-keys/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50449748">https://news.ycombinator.com/item?id=50449748</a></p>
-<p>Points: 206</p>
-<p># Comments: 75</p>
+<p>Article URL: <a href="https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down">https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50453555">https://news.ycombinator.com/item?id=50453555</a></p>
+<p>Points: 57</p>
+<p># Comments: 24</p>
 
-🔗 **Read more:** [https://gatezh.com/posts/macos-secure-enclave-ssh-keys/](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
+🔗 **Read more:** [https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down](https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down)
 
 ---
 
@@ -85,55 +84,55 @@ Lilly Creightmore, who has alleged Walliams "groomed" her as a teenager, has tol
 
 ---
 
-### 6. Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says
+### 6. Scottish DJ, 32, confirmed as victim of Krakow shooting
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.
+The man, who is understood to be James Thomas Campbell from Prestwick, died when a lone gunman opened fire in central Krakow on Saturday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmx28e95g2rzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmx28e95g2rzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Did Democrats save Pete Hegseth from impeachment?
+### 7. Qatar Grand Prix was ‘right decision’ despite regional tensions: MotoGP
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Eleven Democrats are absent from procedural vote that narrowly shelves House impeachment vote against defence secretary.
+MotoGP chief says &#039;it was normal that the riders showed their concerns&#039; but was surprised at Yamaha&#039;s ⁠⁠⁠⁠withdrawal.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/did-democrats-save-pete-hegseth-from-impeachment?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/11/motogp-carlos-ezpeleta-deputy-ceo-qatar-grand-prix-yamaha-iran-war?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/11/motogp-carlos-ezpeleta-deputy-ceo-qatar-grand-prix-yamaha-iran-war?traffic_source=rss)
 
 ---
 
-### 8. AI boom or bubble?
+### 8. Italy vs France: UEFA Nations League – preview, team news, predictions
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A tech sell-off has raised questions about AI spending and the risks to jobs and growth across the global economy.
+Kylian Mbappe &#039;under treatment&#039; as Group A1 leaders France travel to Italy for a game at the San Siro, Milan.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/counting-the-cost/2026/11/11/ai-boom-or-bubble?traffic_source=rss](https://www.aljazeera.com/video/counting-the-cost/2026/11/11/ai-boom-or-bubble?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/11/italy-vs-france-uefa-nations-league-preview-team-news?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/11/italy-vs-france-uefa-nations-league-preview-team-news?traffic_source=rss)
 
 ---
 
-### 9. What’s the Falklands oil project at the heart of latest UK-Argentina spat?
+### 9. Rubio backs blockade, Vance wants deal: Is Trump’s team split on Iran war?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UK says it will defend its interests at Tribunal hearing, as Argentina seeks measures to block the offshore project.
+Torn between military action and diplomacy, US appears to settle for drawn-out economic pressure campaign, blockade.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/whats-the-falklands-oil-project-at-the-heart-of-latest-uk-argentina-spat?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/whats-the-falklands-oil-project-at-the-heart-of-latest-uk-argentina-spat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/11/11/is-trump-team-split-on-iran?traffic_source=rss)
 
 ---
 
