@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-12T15:01:42+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Why Writing Correct Software Is Hard",
+            "description": "<p>Article URL: <a href=\"https://pron.github.io/posts/correctness-and-complexity\">https://pron.github.io/posts/correctness-and-complexity</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50465352\">https://news.ycombinator.com/item?id=50465352</a></p>\n<p>Points: 19</p>\n<p># Comments: 1</p>",
+            "url": "https://pron.github.io/posts/correctness-and-complexity",
+            "published": "Thu, 12 Nov 2026 10:28:26 +0000",
+            "fetched": "2026-11-12T15:01:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+            "description": "<p>Article URL: <a href=\"https://www.getlazarus.org/forums/topic/17/\">https://www.getlazarus.org/forums/topic/17/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50463540\">https://news.ycombinator.com/item?id=50463540</a></p>\n<p>Points: 52</p>\n<p># Comments: 22</p>",
+            "url": "https://www.getlazarus.org/forums/topic/17/",
+            "published": "Thu, 12 Nov 2026 05:49:34 +0000",
+            "fetched": "2026-11-12T15:01:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Darling Development Update – Q4 2026",
+            "description": "<p>Article URL: <a href=\"https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/\">https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50463103\">https://news.ycombinator.com/item?id=50463103</a></p>\n<p>Points: 27</p>\n<p># Comments: 6</p>",
+            "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
+            "published": "Thu, 12 Nov 2026 04:32:31 +0000",
+            "fetched": "2026-11-12T15:01:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Some under-25s should get fewer benefits, Milburn review to say",
+            "description": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+            "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 12 Nov 2026 10:49:27 GMT",
+            "fetched": "2026-11-12T15:01:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Activist Daniel Thomas admits criminal damage after slashing migrant dinghy in Channel",
+            "description": "Activist Danny Tommo pleads guilty to criminal damage at Portsmouth Crown Court.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x20x380z12o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 12 Nov 2026 10:48:24 GMT",
+            "fetched": "2026-11-12T15:01:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+            "description": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+            "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 12 Nov 2026 07:59:33 GMT",
+            "fetched": "2026-11-12T15:01:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Robot tells Al Jazeera AI is ‘too useful to disappear’",
+            "description": "Al Jazeera’s Rosie Birchard asks a humanoid robot about AI&#039;s future at the Web Summit in Lisbon.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/robot-tells-al-jazeera-ai-is-too-useful-to?traffic_source=rss",
+            "published": "Thu, 12 Nov 2026 10:53:23 +0000",
+            "fetched": "2026-11-12T15:01:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "China says US ‘fabricating’ Nvidia spy claims to justify tech ‘blockade’",
+            "description": "Nvidia CEO is under investigation for an affair with a woman whom US intelligence believes to be a Chinese spy.",
+            "url": "https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss",
+            "published": "Thu, 12 Nov 2026 10:49:41 +0000",
+            "fetched": "2026-11-12T15:01:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Manchester United sack Michael Carrick as manager",
+            "description": "Carrick exits after United drop to 18th in Premier League table; he led them to three wins across all competitions.",
+            "url": "https://www.aljazeera.com/sports/2026/11/12/manchester-united-sack-michael-carrick-as-manager?traffic_source=rss",
+            "published": "Thu, 12 Nov 2026 10:33:29 +0000",
+            "fetched": "2026-11-12T15:01:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 03S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159",
+            "published": "2026-11-07T18:00:00Z",
+            "fetched": "2026-11-12T15:01:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Cempaka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157",
+            "published": "2026-11-07T00:00:00Z",
+            "fetched": "2026-11-12T15:01:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Pena",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158",
+            "published": "2026-11-06T18:00:00Z",
+            "fetched": "2026-11-12T15:01:42+03:30"
+        }
+    ]
+}

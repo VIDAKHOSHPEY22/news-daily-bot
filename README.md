@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-12 13:10:06
+**Last Update:** 2026-11-12 15:01:42
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Humble Bundle just killed most of their security through vibecoding
+### 1. Why Writing Correct Software Is Hard
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/">https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50463899">https://news.ycombinator.com/item?id=50463899</a></p>
-<p>Points: 261</p>
-<p># Comments: 133</p>
+<p>Article URL: <a href="https://pron.github.io/posts/correctness-and-complexity">https://pron.github.io/posts/correctness-and-complexity</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50465352">https://news.ycombinator.com/item?id=50465352</a></p>
+<p>Points: 19</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/](https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/)
+🔗 **Read more:** [https://pron.github.io/posts/correctness-and-complexity](https://pron.github.io/posts/correctness-and-complexity)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.getlazarus.org/forums/topic/17/">https://www.getlazarus.org/forums/topic/17/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50463540">https://news.ycombinator.com/item?id=50463540</a></p>
-<p>Points: 35</p>
-<p># Comments: 8</p>
+<p>Points: 52</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://www.getlazarus.org/forums/topic/17/](https://www.getlazarus.org/forums/topic/17/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/">https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50463103">https://news.ycombinator.com/item?id=50463103</a></p>
-<p>Points: 26</p>
-<p># Comments: 5</p>
+<p>Points: 27</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/](https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/)
 
@@ -71,7 +71,20 @@ The proposed radical overhaul of the welfare system would move under-25s off the
 
 ---
 
-### 5. 'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid
+### 5. Activist Daniel Thomas admits criminal damage after slashing migrant dinghy in Channel
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Activist Danny Tommo pleads guilty to criminal damage at Portsmouth Crown Court.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x20x380z12o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x20x380z12o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. 'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ For parents in parts of Ukraine, trying to lead a normal family life with just a
 
 ---
 
-### 6. Israeli strike on Gaza hospital kills six Palestinians, health ministry says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. US envoys arrive in Moscow for Russia-Ukraine talks with Putin
+### 7. Robot tells Al Jazeera AI is ‘too useful to disappear’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The meeting with Kushner and Witkoff comes after two days of trilateral talks in the UAE yielded no breakthrough.
+Al Jazeera’s Rosie Birchard asks a humanoid robot about AI&#039;s future at the Web Summit in Lisbon.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/robot-tells-al-jazeera-ai-is-too-useful-to?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/robot-tells-al-jazeera-ai-is-too-useful-to?traffic_source=rss)
 
 ---
 
-### 8. India bypasses own rules to buy Israeli phone-hacking tech
+### 8. China says US ‘fabricating’ Nvidia spy claims to justify tech ‘blockade’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India&#039;s expansive surveillance capabilities extend beyond cloning phones to accessing cloud-based data of tech giants.
+Nvidia CEO is under investigation for an affair with a woman whom US intelligence believes to be a Chinese spy.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/12/india-bypasses-own-rules-to-buy-israeli-phone-hacking-tech?traffic_source=rss](https://www.aljazeera.com/features/2026/11/12/india-bypasses-own-rules-to-buy-israeli-phone-hacking-tech?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss)
 
 ---
 
-### 9. Ten police officers, 18 fighters killed in northwest Pakistan attack
+### 9. Manchester United sack Michael Carrick as manager
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Officers were returning from a mine in Kohat district when fighters opened fire on them, authorities say.
+Carrick exits after United drop to 18th in Premier League table; he led them to three wins across all competitions.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/12/manchester-united-sack-michael-carrick-as-manager?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/12/manchester-united-sack-michael-carrick-as-manager?traffic_source=rss)
 
 ---
 
