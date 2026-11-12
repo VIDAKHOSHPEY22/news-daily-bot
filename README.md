@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-12 04:56:59
+**Last Update:** 2026-11-12 06:39:34
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. A general purpose Apple Silicon layer for x86-64 PCs
+### 1. Critical RCE Vulnerability in Apache HTTP Server
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability">https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50462177">https://news.ycombinator.com/item?id=50462177</a></p>
+<p>Points: 3</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
+
+---
+
+### 2. A general purpose Apple Silicon layer for x86-64 PCs
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/tylertms/Stela">https://github.com/tylertms/Stela</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50460154">https://news.ycombinator.com/item?id=50460154</a></p>
-<p>Points: 41</p>
-<p># Comments: 12</p>
+<p>Points: 64</p>
+<p># Comments: 22</p>
 
 🔗 **Read more:** [https://github.com/tylertms/Stela](https://github.com/tylertms/Stela)
 
 ---
 
-### 2. 93% of Paint Splatters Are Valid Perl Programs (2019)
+### 3. 93% of paint splatters are valid Perl programs (2019)
 
 **Source:** Hacker News
 
@@ -35,43 +51,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.mcmillen.dev/sigbovik/">https://www.mcmillen.dev/sigbovik/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50459745">https://news.ycombinator.com/item?id=50459745</a></p>
-<p>Points: 123</p>
-<p># Comments: 20</p>
+<p>Points: 191</p>
+<p># Comments: 26</p>
 
 🔗 **Read more:** [https://www.mcmillen.dev/sigbovik/](https://www.mcmillen.dev/sigbovik/)
 
 ---
 
-### 3. Nvidia is preparing to oust Jensen Huang
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad">https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50459703">https://news.ycombinator.com/item?id=50459703</a></p>
-<p>Points: 470</p>
-<p># Comments: 691</p>
-
-🔗 **Read more:** [https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad](https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad)
-
----
-
-### 4. Author says there were 'real concerns' about David Walliams within publishing industry
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The comedian denies allegations of sexual misconduct, inappropriate behaviour and abusing his power more than 10 years ago.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Some under-25s should get less benefits, Milburn review to say
+### 4. Some under-25s should get less benefits, Milburn review to say
 
 **Source:** BBC
 
@@ -81,6 +68,19 @@ The comedian denies allegations of sexual misconduct, inappropriate behaviour an
 The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Author says there were 'real concerns' about David Walliams within publishing industry
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The comedian denies allegations of sexual misconduct, inappropriate behaviour and abusing his power more than 10 years ago.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -97,42 +97,42 @@ Tens of thousands of people have been taking part in the strike, called by the c
 
 ---
 
-### 7. Nvidia shares plunge amid reports board to discuss CEO Huang’s future
+### 7. Indonesian VP resigns over education qualification row
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Chip giants stock price falls more than 8 percent amid speculation over co-founder&#039;s position.
+Indonesia&#039;s Vice President Gibran Rakabuming Raka has resigned amid a dispute over his educational qualifications.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss)
 
 ---
 
-### 8. Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier
+### 8. Argentina’s Milei cries as he bids farewell to the Pope
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Guard at memorial site can be heard yelling at group to &#039;maintain an atmosphere of silence and respect at all times&#039;.
+President Javier Milei became visibly emotional as he said goodbye to Pope Leo XIV.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/hegseth-entourage-reprimanded-by-guard-at-tomb-of-the-unknown-soldier?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/hegseth-entourage-reprimanded-by-guard-at-tomb-of-the-unknown-soldier?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/argentinas-milei-cries-as-he-bids-farewell-to-the-pope?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/argentinas-milei-cries-as-he-bids-farewell-to-the-pope?traffic_source=rss)
 
 ---
 
-### 9. Why the US, Mexico and Guatemala may lose their measles-free status
+### 9. Three-storey building collapses in Brooklyn
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An independent commission is reviewing whether countries in the Americas still meet measles elimination criteria.
+A three-storey building collapsed in Brooklyn, New York, killing at least two people and injuring several others.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/why-the-us-mexico-and-guatemala-may-lose-their-measles-free-status?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/why-the-us-mexico-and-guatemala-may-lose-their-measles-free-status?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/three-storey-building-collapses-in-brooklyn?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/three-storey-building-collapses-in-brooklyn?traffic_source=rss)
 
 ---
 

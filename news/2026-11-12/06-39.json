@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-12T06:39:34+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Critical RCE Vulnerability in Apache HTTP Server",
+            "description": "<p>Article URL: <a href=\"https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability\">https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50462177\">https://news.ycombinator.com/item?id=50462177</a></p>\n<p>Points: 3</p>\n<p># Comments: 1</p>",
+            "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+            "published": "Thu, 12 Nov 2026 02:11:11 +0000",
+            "fetched": "2026-11-12T06:39:34+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+            "description": "<p>Article URL: <a href=\"https://github.com/tylertms/Stela\">https://github.com/tylertms/Stela</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50460154\">https://news.ycombinator.com/item?id=50460154</a></p>\n<p>Points: 64</p>\n<p># Comments: 22</p>",
+            "url": "https://github.com/tylertms/Stela",
+            "published": "Wed, 11 Nov 2026 23:02:38 +0000",
+            "fetched": "2026-11-12T06:39:34+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "93% of paint splatters are valid Perl programs (2019)",
+            "description": "<p>Article URL: <a href=\"https://www.mcmillen.dev/sigbovik/\">https://www.mcmillen.dev/sigbovik/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50459745\">https://news.ycombinator.com/item?id=50459745</a></p>\n<p>Points: 191</p>\n<p># Comments: 26</p>",
+            "url": "https://www.mcmillen.dev/sigbovik/",
+            "published": "Wed, 11 Nov 2026 22:34:23 +0000",
+            "fetched": "2026-11-12T06:39:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Some under-25s should get less benefits, Milburn review to say",
+            "description": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+            "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 23:22:04 GMT",
+            "fetched": "2026-11-12T06:39:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Author says there were 'real concerns' about David Walliams within publishing industry",
+            "description": "The comedian denies allegations of sexual misconduct, inappropriate behaviour and abusing his power more than 10 years ago.",
+            "url": "https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 20:40:47 GMT",
+            "fetched": "2026-11-12T06:39:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+            "description": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+            "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 22:07:37 GMT",
+            "fetched": "2026-11-12T06:39:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Indonesian VP resigns over education qualification row",
+            "description": "Indonesia&#039;s Vice President Gibran Rakabuming Raka has resigned amid a dispute over his educational qualifications.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss",
+            "published": "Thu, 12 Nov 2026 02:22:48 +0000",
+            "fetched": "2026-11-12T06:39:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Argentina’s Milei cries as he bids farewell to the Pope",
+            "description": "President Javier Milei became visibly emotional as he said goodbye to Pope Leo XIV.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/argentinas-milei-cries-as-he-bids-farewell-to-the-pope?traffic_source=rss",
+            "published": "Thu, 12 Nov 2026 02:03:30 +0000",
+            "fetched": "2026-11-12T06:39:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Three-storey building collapses in Brooklyn",
+            "description": "A three-storey building collapsed in Brooklyn, New York, killing at least two people and injuring several others.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/three-storey-building-collapses-in-brooklyn?traffic_source=rss",
+            "published": "Thu, 12 Nov 2026 01:50:36 +0000",
+            "fetched": "2026-11-12T06:39:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 03S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159",
+            "published": "2026-11-07T18:00:00Z",
+            "fetched": "2026-11-12T06:39:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Cempaka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157",
+            "published": "2026-11-07T00:00:00Z",
+            "fetched": "2026-11-12T06:39:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Pena",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158",
+            "published": "2026-11-06T18:00:00Z",
+            "fetched": "2026-11-12T06:39:34+03:30"
+        }
+    ]
+}
