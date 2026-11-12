@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-12T04:56:59+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A general purpose Apple Silicon layer for x86-64 PCs",
+            "description": "<p>Article URL: <a href=\"https://github.com/tylertms/Stela\">https://github.com/tylertms/Stela</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50460154\">https://news.ycombinator.com/item?id=50460154</a></p>\n<p>Points: 41</p>\n<p># Comments: 12</p>",
+            "url": "https://github.com/tylertms/Stela",
+            "published": "Wed, 11 Nov 2026 23:02:38 +0000",
+            "fetched": "2026-11-12T04:56:59+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+            "description": "<p>Article URL: <a href=\"https://www.mcmillen.dev/sigbovik/\">https://www.mcmillen.dev/sigbovik/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50459745\">https://news.ycombinator.com/item?id=50459745</a></p>\n<p>Points: 123</p>\n<p># Comments: 20</p>",
+            "url": "https://www.mcmillen.dev/sigbovik/",
+            "published": "Wed, 11 Nov 2026 22:34:23 +0000",
+            "fetched": "2026-11-12T04:56:59+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nvidia is preparing to oust Jensen Huang",
+            "description": "<p>Article URL: <a href=\"https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad\">https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50459703\">https://news.ycombinator.com/item?id=50459703</a></p>\n<p>Points: 470</p>\n<p># Comments: 691</p>",
+            "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+            "published": "Wed, 11 Nov 2026 22:31:06 +0000",
+            "fetched": "2026-11-12T04:56:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Author says there were 'real concerns' about David Walliams within publishing industry",
+            "description": "The comedian denies allegations of sexual misconduct, inappropriate behaviour and abusing his power more than 10 years ago.",
+            "url": "https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 20:40:47 GMT",
+            "fetched": "2026-11-12T04:56:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Some under-25s should get less benefits, Milburn review to say",
+            "description": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+            "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 23:22:04 GMT",
+            "fetched": "2026-11-12T04:56:59+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Clashes erupt in Barcelona after thousands join Spain general strike",
+            "description": "Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.",
+            "url": "https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 11 Nov 2026 22:07:37 GMT",
+            "fetched": "2026-11-12T04:56:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nvidia shares plunge amid reports board to discuss CEO Huang’s future",
+            "description": "Chip giants stock price falls more than 8 percent amid speculation over co-founder&#039;s position.",
+            "url": "https://www.aljazeera.com/economy/2026/11/12/nvidia-shares-plunge-amid-reports-board-to-discuss-ceo-huangs-future?traffic_source=rss",
+            "published": "Thu, 12 Nov 2026 00:43:26 +0000",
+            "fetched": "2026-11-12T04:56:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hegseth entourage reprimanded by guard at Tomb of the Unknown Soldier",
+            "description": "Guard at memorial site can be heard yelling at group to &#039;maintain an atmosphere of silence and respect at all times&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/11/12/hegseth-entourage-reprimanded-by-guard-at-tomb-of-the-unknown-soldier?traffic_source=rss",
+            "published": "Thu, 12 Nov 2026 00:42:37 +0000",
+            "fetched": "2026-11-12T04:56:59+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why the US, Mexico and Guatemala may lose their measles-free status",
+            "description": "An independent commission is reviewing whether countries in the Americas still meet measles elimination criteria.",
+            "url": "https://www.aljazeera.com/news/2026/11/12/why-the-us-mexico-and-guatemala-may-lose-their-measles-free-status?traffic_source=rss",
+            "published": "Thu, 12 Nov 2026 00:33:44 +0000",
+            "fetched": "2026-11-12T04:56:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 03S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159",
+            "published": "2026-11-07T18:00:00Z",
+            "fetched": "2026-11-12T04:56:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Cempaka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157",
+            "published": "2026-11-07T00:00:00Z",
+            "fetched": "2026-11-12T04:56:59+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Pena",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158",
+            "published": "2026-11-06T18:00:00Z",
+            "fetched": "2026-11-12T04:56:59+03:30"
+        }
+    ]
+}
