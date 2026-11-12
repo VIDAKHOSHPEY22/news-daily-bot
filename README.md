@@ -1,177 +1,177 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-12 15:01:42
+**Last Update:** 2026-11-12 21:36:24
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why Writing Correct Software Is Hard
+### 1. AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://pron.github.io/posts/correctness-and-complexity">https://pron.github.io/posts/correctness-and-complexity</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50465352">https://news.ycombinator.com/item?id=50465352</a></p>
-<p>Points: 19</p>
+<p>Article URL: <a href="https://blog.cip.org/p/ai-models-know-what-women-peace-and">https://blog.cip.org/p/ai-models-know-what-women-peace-and</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50470975">https://news.ycombinator.com/item?id=50470975</a></p>
+<p>Points: 4</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://pron.github.io/posts/correctness-and-complexity](https://pron.github.io/posts/correctness-and-complexity)
+🔗 **Read more:** [https://blog.cip.org/p/ai-models-know-what-women-peace-and](https://blog.cip.org/p/ai-models-know-what-women-peace-and)
 
 ---
 
-### 2. I'm Working on a FOSS Linux Pinbal Simulation Engine
+### 2. Paths in Pieces
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.getlazarus.org/forums/topic/17/">https://www.getlazarus.org/forums/topic/17/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50463540">https://news.ycombinator.com/item?id=50463540</a></p>
-<p>Points: 52</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://stoppels.ch/2026/11/12/paths-in-pieces.html">https://stoppels.ch/2026/11/12/paths-in-pieces.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50470762">https://news.ycombinator.com/item?id=50470762</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.getlazarus.org/forums/topic/17/](https://www.getlazarus.org/forums/topic/17/)
+🔗 **Read more:** [https://stoppels.ch/2026/11/12/paths-in-pieces.html](https://stoppels.ch/2026/11/12/paths-in-pieces.html)
 
 ---
 
-### 3. Darling Development Update – Q4 2026
+### 3. AWS Lambda Web Functions keep billing memory ~7 minutes after the last request
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/">https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50463103">https://news.ycombinator.com/item?id=50463103</a></p>
-<p>Points: 27</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.easel.sh/blog/lambda-web-functions-idle-memory">https://www.easel.sh/blog/lambda-web-functions-idle-memory</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50470445">https://news.ycombinator.com/item?id=50470445</a></p>
+<p>Points: 24</p>
+<p># Comments: 9</p>
 
-🔗 **Read more:** [https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/](https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/)
+🔗 **Read more:** [https://www.easel.sh/blog/lambda-web-functions-idle-memory](https://www.easel.sh/blog/lambda-web-functions-idle-memory)
 
 ---
 
-### 4. Some under-25s should get fewer benefits, Milburn review to say
+### 4. Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.
+Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Activist Daniel Thomas admits criminal damage after slashing migrant dinghy in Channel
+### 5. Faisal Islam: Why the UK economy is surprisingly resilient
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Activist Danny Tommo pleads guilty to criminal damage at Portsmouth Crown Court.
+The UK is seeing impressive growth, but will it last?
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6x20x380z12o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6x20x380z12o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. 'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid
+### 6. Some childhood offenders may no longer have to reveal convictions to employers
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.
+The proposals would change how crimes committed by children are disclosed to bosses in England and Wales.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6wy0e44pjgdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6wy0e44pjgdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Robot tells Al Jazeera AI is ‘too useful to disappear’
+### 7. Nvidia CEO Jensen Huang steps down, more affair details revealed
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera’s Rosie Birchard asks a humanoid robot about AI&#039;s future at the Web Summit in Lisbon.
+Now that Huang has stepped down, Al Jazeera’s Kristen Saloomey looks at the questions ahead for the company.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/robot-tells-al-jazeera-ai-is-too-useful-to?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/robot-tells-al-jazeera-ai-is-too-useful-to?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-steps-down-more-affair-details-revealed?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-steps-down-more-affair-details-revealed?traffic_source=rss)
 
 ---
 
-### 8. China says US ‘fabricating’ Nvidia spy claims to justify tech ‘blockade’
+### 8. ‘Her hands are as cold as ice’: Gaza families struggle to keep warm
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Nvidia CEO is under investigation for an affair with a woman whom US intelligence believes to be a Chinese spy.
+Flooded tents and high prices leave Gaza families struggling to keep children warm as winter approaches.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/china-says-us-fabricating-nvidia-spy-claims-to-justify-tech-blockade?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/12/her-hands-are-as-cold-as-ice-gaza-families-struggle-to-keep-warm?traffic_source=rss](https://www.aljazeera.com/features/2026/11/12/her-hands-are-as-cold-as-ice-gaza-families-struggle-to-keep-warm?traffic_source=rss)
 
 ---
 
-### 9. Manchester United sack Michael Carrick as manager
+### 9. Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Carrick exits after United drop to 18th in Premier League table; he led them to three wins across all competitions.
+For the seventh time, Israel has targeted Gaza’s Nasser Hospital in an air strike.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/12/manchester-united-sack-michael-carrick-as-manager?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/12/manchester-united-sack-michael-carrick-as-manager?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone 03S
+### 10. Wildfire Red Hill, Perry, Mississippi
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331)
 
 ---
 
-### 11. Typhoon Cempaka
+### 11. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332)
 
 ---
 
-### 12. Tropical Storm Pena
+### 12. Prescribed Fire Compartment 170 RX, Greene, Georgia
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Severe Storms
+Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333)
 
 ---
 

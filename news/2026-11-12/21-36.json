@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-12T21:36:24+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up",
+            "description": "<p>Article URL: <a href=\"https://blog.cip.org/p/ai-models-know-what-women-peace-and\">https://blog.cip.org/p/ai-models-know-what-women-peace-and</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50470975\">https://news.ycombinator.com/item?id=50470975</a></p>\n<p>Points: 4</p>\n<p># Comments: 1</p>",
+            "url": "https://blog.cip.org/p/ai-models-know-what-women-peace-and",
+            "published": "Thu, 12 Nov 2026 17:32:49 +0000",
+            "fetched": "2026-11-12T21:36:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Paths in Pieces",
+            "description": "<p>Article URL: <a href=\"https://stoppels.ch/2026/11/12/paths-in-pieces.html\">https://stoppels.ch/2026/11/12/paths-in-pieces.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50470762\">https://news.ycombinator.com/item?id=50470762</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://stoppels.ch/2026/11/12/paths-in-pieces.html",
+            "published": "Thu, 12 Nov 2026 17:19:39 +0000",
+            "fetched": "2026-11-12T21:36:24+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AWS Lambda Web Functions keep billing memory ~7 minutes after the last request",
+            "description": "<p>Article URL: <a href=\"https://www.easel.sh/blog/lambda-web-functions-idle-memory\">https://www.easel.sh/blog/lambda-web-functions-idle-memory</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50470445\">https://news.ycombinator.com/item?id=50470445</a></p>\n<p>Points: 24</p>\n<p># Comments: 9</p>",
+            "url": "https://www.easel.sh/blog/lambda-web-functions-idle-memory",
+            "published": "Thu, 12 Nov 2026 16:59:26 +0000",
+            "fetched": "2026-11-12T21:36:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions",
+            "description": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
+            "url": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 12 Nov 2026 16:43:36 GMT",
+            "fetched": "2026-11-12T21:36:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Faisal Islam: Why the UK economy is surprisingly resilient",
+            "description": "The UK is seeing impressive growth, but will it last?",
+            "url": "https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 12 Nov 2026 13:27:09 GMT",
+            "fetched": "2026-11-12T21:36:24+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Some childhood offenders may no longer have to reveal convictions to employers",
+            "description": "The proposals would change how crimes committed by children are disclosed to bosses in England and Wales.",
+            "url": "https://www.bbc.co.uk/news/articles/c6wy0e44pjgdo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 12 Nov 2026 17:24:48 GMT",
+            "fetched": "2026-11-12T21:36:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nvidia CEO Jensen Huang steps down, more affair details revealed",
+            "description": "Now that Huang has stepped down, Al Jazeera’s Kristen Saloomey looks at the questions ahead for the company.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-steps-down-more-affair-details-revealed?traffic_source=rss",
+            "published": "Thu, 12 Nov 2026 17:25:58 +0000",
+            "fetched": "2026-11-12T21:36:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Her hands are as cold as ice’: Gaza families struggle to keep warm",
+            "description": "Flooded tents and high prices leave Gaza families struggling to keep children warm as winter approaches.",
+            "url": "https://www.aljazeera.com/features/2026/11/12/her-hands-are-as-cold-as-ice-gaza-families-struggle-to-keep-warm?traffic_source=rss",
+            "published": "Thu, 12 Nov 2026 17:18:13 +0000",
+            "fetched": "2026-11-12T21:36:24+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike",
+            "description": "For the seventh time, Israel has targeted Gaza’s Nasser Hospital in an air strike.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss",
+            "published": "Thu, 12 Nov 2026 16:55:10 +0000",
+            "fetched": "2026-11-12T21:36:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-12T21:36:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-12T21:36:24+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-12T21:36:24+03:30"
+        }
+    ]
+}
