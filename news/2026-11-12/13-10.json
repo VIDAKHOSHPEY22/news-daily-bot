@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-12T13:10:06+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Humble Bundle just killed most of their security through vibecoding",
+            "description": "<p>Article URL: <a href=\"https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/\">https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50463899\">https://news.ycombinator.com/item?id=50463899</a></p>\n<p>Points: 261</p>\n<p># Comments: 133</p>",
+            "url": "https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/",
+            "published": "Thu, 12 Nov 2026 06:52:48 +0000",
+            "fetched": "2026-11-12T13:10:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I'm Working on a FOSS Linux Pinbal Simulation Engine",
+            "description": "<p>Article URL: <a href=\"https://www.getlazarus.org/forums/topic/17/\">https://www.getlazarus.org/forums/topic/17/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50463540\">https://news.ycombinator.com/item?id=50463540</a></p>\n<p>Points: 35</p>\n<p># Comments: 8</p>",
+            "url": "https://www.getlazarus.org/forums/topic/17/",
+            "published": "Thu, 12 Nov 2026 05:49:34 +0000",
+            "fetched": "2026-11-12T13:10:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Darling Development Update – Q4 2026",
+            "description": "<p>Article URL: <a href=\"https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/\">https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50463103\">https://news.ycombinator.com/item?id=50463103</a></p>\n<p>Points: 26</p>\n<p># Comments: 5</p>",
+            "url": "https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/",
+            "published": "Thu, 12 Nov 2026 04:32:31 +0000",
+            "fetched": "2026-11-12T13:10:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Some under-25s should get fewer benefits, Milburn review to say",
+            "description": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+            "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 12 Nov 2026 08:59:08 GMT",
+            "fetched": "2026-11-12T13:10:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid",
+            "description": "For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.",
+            "url": "https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 12 Nov 2026 07:59:33 GMT",
+            "fetched": "2026-11-12T13:10:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Israeli strike on Gaza hospital kills six Palestinians, health ministry says",
+            "description": "Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.",
+            "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 12 Nov 2026 09:00:15 GMT",
+            "fetched": "2026-11-12T13:10:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US envoys arrive in Moscow for Russia-Ukraine talks with Putin",
+            "description": "The meeting with Kushner and Witkoff comes after two days of trilateral talks in the UAE yielded no breakthrough.",
+            "url": "https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss",
+            "published": "Thu, 12 Nov 2026 09:01:24 +0000",
+            "fetched": "2026-11-12T13:10:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India bypasses own rules to buy Israeli phone-hacking tech",
+            "description": "India&#039;s expansive surveillance capabilities extend beyond cloning phones to accessing cloud-based data of tech giants.",
+            "url": "https://www.aljazeera.com/features/2026/11/12/india-bypasses-own-rules-to-buy-israeli-phone-hacking-tech?traffic_source=rss",
+            "published": "Thu, 12 Nov 2026 08:40:08 +0000",
+            "fetched": "2026-11-12T13:10:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ten police officers, 18 fighters killed in northwest Pakistan attack",
+            "description": "Officers were returning from a mine in Kohat district when fighters opened fire on them, authorities say.",
+            "url": "https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss",
+            "published": "Thu, 12 Nov 2026 08:35:20 +0000",
+            "fetched": "2026-11-12T13:10:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone 03S",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26159",
+            "published": "2026-11-07T18:00:00Z",
+            "fetched": "2026-11-12T13:10:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Typhoon Cempaka",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26157",
+            "published": "2026-11-07T00:00:00Z",
+            "fetched": "2026-11-12T13:10:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Storm Pena",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26158",
+            "published": "2026-11-06T18:00:00Z",
+            "fetched": "2026-11-12T13:10:06+03:30"
+        }
+    ]
+}

@@ -1,64 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-12 06:39:34
+**Last Update:** 2026-11-12 13:10:06
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Critical RCE Vulnerability in Apache HTTP Server
+### 1. Humble Bundle just killed most of their security through vibecoding
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability">https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50462177">https://news.ycombinator.com/item?id=50462177</a></p>
-<p>Points: 3</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/">https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50463899">https://news.ycombinator.com/item?id=50463899</a></p>
+<p>Points: 261</p>
+<p># Comments: 133</p>
 
-🔗 **Read more:** [https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability](https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability)
+🔗 **Read more:** [https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/](https://forums.spacebattles.com/threads/humble-bundle-just-completely-killed-most-of-their-security-through-vibecoding.1346295/)
 
 ---
 
-### 2. A general purpose Apple Silicon layer for x86-64 PCs
+### 2. I'm Working on a FOSS Linux Pinbal Simulation Engine
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/tylertms/Stela">https://github.com/tylertms/Stela</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50460154">https://news.ycombinator.com/item?id=50460154</a></p>
-<p>Points: 64</p>
-<p># Comments: 22</p>
+<p>Article URL: <a href="https://www.getlazarus.org/forums/topic/17/">https://www.getlazarus.org/forums/topic/17/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50463540">https://news.ycombinator.com/item?id=50463540</a></p>
+<p>Points: 35</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://github.com/tylertms/Stela](https://github.com/tylertms/Stela)
+🔗 **Read more:** [https://www.getlazarus.org/forums/topic/17/](https://www.getlazarus.org/forums/topic/17/)
 
 ---
 
-### 3. 93% of paint splatters are valid Perl programs (2019)
+### 3. Darling Development Update – Q4 2026
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.mcmillen.dev/sigbovik/">https://www.mcmillen.dev/sigbovik/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50459745">https://news.ycombinator.com/item?id=50459745</a></p>
-<p>Points: 191</p>
-<p># Comments: 26</p>
+<p>Article URL: <a href="https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/">https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50463103">https://news.ycombinator.com/item?id=50463103</a></p>
+<p>Points: 26</p>
+<p># Comments: 5</p>
 
-🔗 **Read more:** [https://www.mcmillen.dev/sigbovik/](https://www.mcmillen.dev/sigbovik/)
+🔗 **Read more:** [https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/](https://blog.darlinghq.org/2026/11/08/development-update-q4-2026/)
 
 ---
 
-### 4. Some under-25s should get less benefits, Milburn review to say
+### 4. Some under-25s should get fewer benefits, Milburn review to say
 
 **Source:** BBC
 
@@ -71,68 +71,68 @@ The proposed radical overhaul of the welfare system would move under-25s off the
 
 ---
 
-### 5. Author says there were 'real concerns' about David Walliams within publishing industry
+### 5. 'No light, no water, no heat': Ukrainians struggle with blackouts as Russia hits power grid
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The comedian denies allegations of sexual misconduct, inappropriate behaviour and abusing his power more than 10 years ago.
+For parents in parts of Ukraine, trying to lead a normal family life with just a few hours of power each day is taking its toll.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c95y15830k77o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr1ewpd95d21o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Clashes erupt in Barcelona after thousands join Spain general strike
+### 6. Israeli strike on Gaza hospital kills six Palestinians, health ministry says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Tens of thousands of people have been taking part in the strike, called by the country's main unions over housing and the high cost of living.
+Witnesses say a missile hit a building containing the surgical wards and intensive care units at Nasser hospital, the largest in southern Gaza.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvg25nypmrvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Indonesian VP resigns over education qualification row
+### 7. US envoys arrive in Moscow for Russia-Ukraine talks with Putin
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Indonesia&#039;s Vice President Gibran Rakabuming Raka has resigned amid a dispute over his educational qualifications.
+The meeting with Kushner and Witkoff comes after two days of trilateral talks in the UAE yielded no breakthrough.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/indonesian-vp-resigns-over-education-qualification-row?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/us-envoys-arrive-in-moscow-for-russia-ukraine-talks-with-putin?traffic_source=rss)
 
 ---
 
-### 8. Argentina’s Milei cries as he bids farewell to the Pope
+### 8. India bypasses own rules to buy Israeli phone-hacking tech
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-President Javier Milei became visibly emotional as he said goodbye to Pope Leo XIV.
+India&#039;s expansive surveillance capabilities extend beyond cloning phones to accessing cloud-based data of tech giants.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/argentinas-milei-cries-as-he-bids-farewell-to-the-pope?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/argentinas-milei-cries-as-he-bids-farewell-to-the-pope?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/12/india-bypasses-own-rules-to-buy-israeli-phone-hacking-tech?traffic_source=rss](https://www.aljazeera.com/features/2026/11/12/india-bypasses-own-rules-to-buy-israeli-phone-hacking-tech?traffic_source=rss)
 
 ---
 
-### 9. Three-storey building collapses in Brooklyn
+### 9. Ten police officers, 18 fighters killed in northwest Pakistan attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A three-storey building collapsed in Brooklyn, New York, killing at least two people and injuring several others.
+Officers were returning from a mine in Kohat district when fighters opened fire on them, authorities say.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/three-storey-building-collapses-in-brooklyn?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/three-storey-building-collapses-in-brooklyn?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/ten-police-officers-18-fighters-killed-in-northwest-pakistan-attack?traffic_source=rss)
 
 ---
 
