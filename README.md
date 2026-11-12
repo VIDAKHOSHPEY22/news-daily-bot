@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-12 21:36:24
+**Last Update:** 2026-11-12 23:39:50
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI Models Know What Women, Peace and Security Is. They Just Don't Bring It Up
+### 1. Data centers need power – lower income, rural residents pay the price
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://blog.cip.org/p/ai-models-know-what-women-peace-and">https://blog.cip.org/p/ai-models-know-what-women-peace-and</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50470975">https://news.ycombinator.com/item?id=50470975</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price">https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50473231">https://news.ycombinator.com/item?id=50473231</a></p>
+<p>Points: 9</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://blog.cip.org/p/ai-models-know-what-women-peace-and](https://blog.cip.org/p/ai-models-know-what-women-peace-and)
+🔗 **Read more:** [https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price](https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price)
 
 ---
 
-### 2. Paths in Pieces
+### 2. Dwarf planet candidate appears which takes roughly 280 years to orbit our sun
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://stoppels.ch/2026/11/12/paths-in-pieces.html">https://stoppels.ch/2026/11/12/paths-in-pieces.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50470762">https://news.ycombinator.com/item?id=50470762</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/">https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50472490">https://news.ycombinator.com/item?id=50472490</a></p>
+<p>Points: 49</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://stoppels.ch/2026/11/12/paths-in-pieces.html](https://stoppels.ch/2026/11/12/paths-in-pieces.html)
+🔗 **Read more:** [https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)
 
 ---
 
-### 3. AWS Lambda Web Functions keep billing memory ~7 minutes after the last request
+### 3. Gemini 4 Hydrogen and Orchestrator
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.easel.sh/blog/lambda-web-functions-idle-memory">https://www.easel.sh/blog/lambda-web-functions-idle-memory</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50470445">https://news.ycombinator.com/item?id=50470445</a></p>
-<p>Points: 24</p>
+<p>Article URL: <a href="https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/">https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50472260">https://news.ycombinator.com/item?id=50472260</a></p>
+<p>Points: 57</p>
 <p># Comments: 9</p>
 
-🔗 **Read more:** [https://www.easel.sh/blog/lambda-web-functions-idle-memory](https://www.easel.sh/blog/lambda-web-functions-idle-memory)
+🔗 **Read more:** [https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
 
 ---
 
@@ -71,7 +71,20 @@ Zoe Kleinman explains how the man who built Nvidia from the ground up lost every
 
 ---
 
-### 5. Faisal Islam: Why the UK economy is surprisingly resilient
+### 5. What we know about Brooklyn building collapse that killed eight people
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+Two construction workers and two children were killed when a residential building fell into an adjacent construction site on Wednesday.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm20v66jq611o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm20v66jq611o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Faisal Islam: Why the UK economy is surprisingly resilient
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ The UK is seeing impressive growth, but will it last?
 
 ---
 
-### 6. Some childhood offenders may no longer have to reveal convictions to employers
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The proposals would change how crimes committed by children are disclosed to bosses in England and Wales.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6wy0e44pjgdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6wy0e44pjgdo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Nvidia CEO Jensen Huang steps down, more affair details revealed
+### 7. Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Now that Huang has stepped down, Al Jazeera’s Kristen Saloomey looks at the questions ahead for the company.
+Huang has stepped down amid revelations about extramarital affairs and allegations of Chinese espionage.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-steps-down-more-affair-details-revealed?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/nvidia-ceo-jensen-huang-steps-down-more-affair-details-revealed?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss)
 
 ---
 
-### 8. ‘Her hands are as cold as ice’: Gaza families struggle to keep warm
+### 8. Iranian men guilty of spying on British journalists
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Flooded tents and high prices leave Gaza families struggling to keep children warm as winter approaches.
+Two Iranian men were convicted under Britain&#039;s National Security Act for spying on dissident journalists.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/12/her-hands-are-as-cold-as-ice-gaza-families-struggle-to-keep-warm?traffic_source=rss](https://www.aljazeera.com/features/2026/11/12/her-hands-are-as-cold-as-ice-gaza-families-struggle-to-keep-warm?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/iranian-men-guilty-of-spying-on-british-journalists?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/iranian-men-guilty-of-spying-on-british-journalists?traffic_source=rss)
 
 ---
 
-### 9. Jerusalem Daily: Gaza’s Nasser Hospital hit by Israeli air strike
+### 9. Senegal’s wrestlers turn tradition into gold at Dakar Youth Olympics
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-For the seventh time, Israel has targeted Gaza’s Nasser Hospital in an air strike.
+Senegal’s young wrestlers thrive as they adapt skills from their traditional sport to beach wrestling at Youth Olympics.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/jerusalem-daily-gazas-nasser-hospital-hit-by-israeli-air-strike?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/12/senegals-wrestlers-turn-tradition-into-gold-at-dakar-youth-olympics?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/12/senegals-wrestlers-turn-tradition-into-gold-at-dakar-youth-olympics?traffic_source=rss)
 
 ---
 
