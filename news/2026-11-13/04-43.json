@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-13T04:43:34+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
+            "description": "<p>Article URL: <a href=\"https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer\">https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50475713\">https://news.ycombinator.com/item?id=50475713</a></p>\n<p>Points: 22</p>\n<p># Comments: 6</p>",
+            "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+            "published": "Thu, 12 Nov 2026 23:06:17 +0000",
+            "fetched": "2026-11-13T04:43:34+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
+            "description": "<p>Article URL: <a href=\"https://unemploymentlabs.com/checkpoint-forensics\">https://unemploymentlabs.com/checkpoint-forensics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50474883\">https://news.ycombinator.com/item?id=50474883</a></p>\n<p>Points: 143</p>\n<p># Comments: 41</p>",
+            "url": "https://unemploymentlabs.com/checkpoint-forensics",
+            "published": "Thu, 12 Nov 2026 21:56:11 +0000",
+            "fetched": "2026-11-13T04:43:34+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Foundation Models framework",
+            "description": "<p>Article URL: <a href=\"https://developer.apple.com/foundation-models-framework/\">https://developer.apple.com/foundation-models-framework/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50474361\">https://news.ycombinator.com/item?id=50474361</a></p>\n<p>Points: 116</p>\n<p># Comments: 14</p>",
+            "url": "https://developer.apple.com/foundation-models-framework/",
+            "published": "Thu, 12 Nov 2026 21:13:26 +0000",
+            "fetched": "2026-11-13T04:43:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+            "description": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.",
+            "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 12 Nov 2026 23:34:05 GMT",
+            "fetched": "2026-11-13T04:43:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+            "description": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+            "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 12 Nov 2026 20:09:16 GMT",
+            "fetched": "2026-11-13T04:43:34+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Junior doctor burnout putting maternity patients at risk, says regulator",
+            "description": "Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.",
+            "url": "https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 13 Nov 2026 00:55:31 GMT",
+            "fetched": "2026-11-13T04:43:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Trump says Gulf allies urged pause in Iran strikes",
+            "description": "Speaking at the White House, Trump says Gulf countries asked him to hold off on further attacks against Iran.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss",
+            "published": "Fri, 13 Nov 2026 00:00:26 +0000",
+            "fetched": "2026-11-13T04:43:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions",
+            "description": "Saudi-led coalition intercepts flurry of suspected Houthi drones targeting oil and military infrastructure.",
+            "url": "https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss",
+            "published": "Thu, 12 Nov 2026 23:52:38 +0000",
+            "fetched": "2026-11-13T04:43:34+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian court jails rights lawyer for 12 years on treason charge",
+            "description": "Prosecutors say the woman shared security details with Ukraine, while her lawyers argue the information was not secret.",
+            "url": "https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss",
+            "published": "Thu, 12 Nov 2026 23:18:50 +0000",
+            "fetched": "2026-11-13T04:43:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-13T04:43:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-13T04:43:34+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-13T04:43:34+03:30"
+        }
+    ]
+}
