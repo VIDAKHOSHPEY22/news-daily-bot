@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-13 11:15:59
+**Last Update:** 2026-11-13 11:41:38
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Global Microsoft Outage
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk">https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50479098">https://news.ycombinator.com/item?id=50479098</a></p>
-<p>Points: 25</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk](https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk)
-
----
-
-### 2. Scientists claim the universe is twice as old as believed
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/">https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50478635">https://news.ycombinator.com/item?id=50478635</a></p>
-<p>Points: 54</p>
-<p># Comments: 43</p>
-
-🔗 **Read more:** [https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/](https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/)
-
----
-
-### 3. The average cost for a new vehicle in the U.S. hits a record high: over $51,000
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high">https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50478622">https://news.ycombinator.com/item?id=50478622</a></p>
-<p>Points: 40</p>
-<p># Comments: 30</p>
-
-🔗 **Read more:** [https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high](https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high)
-
----
-
-### 4. What we know about the global Microsoft outage
+### 1. What we know about the global Microsoft outage
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ Microsoft has said the outage was not caused by a cyber-security incident, but e
 
 ---
 
-### 5. Firms help migrants pose as artists and tech experts for 'Global Talent' visas, BBC finds
+### 2. Migrants offered help to fake artworks to gain UK 'talent' visas - BBC investigation finds
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Going undercover to expose an elaborate fraud aimed at obtaining fast-track sett
 
 ---
 
-### 6. Asylum centre on military base near Piddington approved
+### 3. Asylum centre on military base near Piddington approved
 
 **Source:** BBC
 
@@ -97,7 +49,20 @@ The Home Office's application to house up to 1,256 men at the site near Bicester
 
 ---
 
-### 7. The real winner in Poland’s constitutional battle is Putin
+### 4. NBA: Cunningham scores 52 as Pistons win double OT thriller against Wizards
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Cunningham became the first NBA player to record a 50-point, 10-assist game without committing a turnover since 1977-78.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/13/cade-cunningham-detroit-pistons-washington-wizards-nba?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/13/cade-cunningham-detroit-pistons-washington-wizards-nba?traffic_source=rss)
+
+---
+
+### 5. The real winner in Poland’s constitutional battle is Putin
 
 **Source:** Al Jazeera
 
@@ -110,7 +75,7 @@ The fight for control of the Constitutional Tribunal is eroding Poles&#039; trus
 
 ---
 
-### 8. The Gulf must build security that can outlast this war
+### 6. The Gulf must build security that can outlast this war
 
 **Source:** Al Jazeera
 
@@ -123,20 +88,7 @@ Trump’s latest statement should accelerate the region’s move towards a layer
 
 ---
 
-### 9. Jessica Pegula wins thrilling contest at WTA Finals, Coco Gauff eliminated
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Pegula&#039;s win, in the final group one round-robin match, meant Gauff was knocked out of the season-ending championships.
-
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/13/jessica-pegula-coco-gauff-united-states-wta-finals-tennis?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/13/jessica-pegula-coco-gauff-united-states-wta-finals-tennis?traffic_source=rss)
-
----
-
-### 10. Wildfire Red Hill, Perry, Mississippi
+### 7. Wildfire Red Hill, Perry, Mississippi
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
+### 8. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Prescribed Fire Compartment 170 RX, Greene, Georgia
+### 9. Prescribed Fire Compartment 170 RX, Greene, Georgia
 
 **Source:** NASA
 

@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-13T11:41:38+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What we know about the global Microsoft outage",
+            "description": "Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.",
+            "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 13 Nov 2026 08:01:25 GMT",
+            "fetched": "2026-11-13T11:41:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Migrants offered help to fake artworks to gain UK 'talent' visas - BBC investigation finds",
+            "description": "Going undercover to expose an elaborate fraud aimed at obtaining fast-track settlement for wealthy migrants.",
+            "url": "https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 13 Nov 2026 06:00:44 GMT",
+            "fetched": "2026-11-13T11:41:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Asylum centre on military base near Piddington approved",
+            "description": "The Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked.",
+            "url": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 13 Nov 2026 06:36:25 GMT",
+            "fetched": "2026-11-13T11:41:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "NBA: Cunningham scores 52 as Pistons win double OT thriller against Wizards",
+            "description": "Cunningham became the first NBA player to record a 50-point, 10-assist game without committing a turnover since 1977-78.",
+            "url": "https://www.aljazeera.com/sports/2026/11/13/cade-cunningham-detroit-pistons-washington-wizards-nba?traffic_source=rss",
+            "published": "Fri, 13 Nov 2026 07:39:18 +0000",
+            "fetched": "2026-11-13T11:41:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The real winner in Poland’s constitutional battle is Putin",
+            "description": "The fight for control of the Constitutional Tribunal is eroding Poles&#039; trust in their own state.",
+            "url": "https://www.aljazeera.com/opinions/2026/11/13/the-real-winner-in-polands-constitutional-battle-is-putin?traffic_source=rss",
+            "published": "Fri, 13 Nov 2026 07:19:08 +0000",
+            "fetched": "2026-11-13T11:41:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The Gulf must build security that can outlast this war",
+            "description": "Trump’s latest statement should accelerate the region’s move towards a layered and networked security architecture.",
+            "url": "https://www.aljazeera.com/opinions/2026/11/13/the-gulf-must-build-security-that-can-outlast-this-war?traffic_source=rss",
+            "published": "Fri, 13 Nov 2026 07:08:01 +0000",
+            "fetched": "2026-11-13T11:41:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-13T11:41:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-13T11:41:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-13T11:41:38+03:30"
+        }
+    ]
+}
