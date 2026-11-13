@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-14T01:58:26+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+            "description": "<p>Article URL: <a href=\"https://orcasairband.com/\">https://orcasairband.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50490593\">https://news.ycombinator.com/item?id=50490593</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://orcasairband.com/",
+            "published": "Fri, 13 Nov 2026 22:04:24 +0000",
+            "fetched": "2026-11-14T01:58:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "FAA issues nationwide ground stop due to \"extraordinary circumstances\"",
+            "description": "<p>Article URL: <a href=\"https://www.axios.com/2026/11/13/faa-nationwide-ground-stop\">https://www.axios.com/2026/11/13/faa-nationwide-ground-stop</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50489678\">https://news.ycombinator.com/item?id=50489678</a></p>\n<p>Points: 80</p>\n<p># Comments: 22</p>",
+            "url": "https://www.axios.com/2026/11/13/faa-nationwide-ground-stop",
+            "published": "Fri, 13 Nov 2026 21:08:49 +0000",
+            "fetched": "2026-11-14T01:58:26+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "All US airports are currently ground stopped",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/flightradar24/status/2121347654714077605\">https://twitter.com/flightradar24/status/2121347654714077605</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50489652\">https://news.ycombinator.com/item?id=50489652</a></p>\n<p>Points: 80</p>\n<p># Comments: 21</p>",
+            "url": "https://twitter.com/flightradar24/status/2121347654714077605",
+            "published": "Fri, 13 Nov 2026 21:06:52 +0000",
+            "fetched": "2026-11-14T01:58:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Police investigating David Walliams over reports alleging serious sexual offences",
+            "description": "The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.",
+            "url": "https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 13 Nov 2026 16:53:50 GMT",
+            "fetched": "2026-11-14T01:58:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
+            "description": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 13 Nov 2026 22:12:33 GMT",
+            "fetched": "2026-11-14T01:58:26+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+            "description": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+            "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 13 Nov 2026 21:14:22 GMT",
+            "fetched": "2026-11-14T01:58:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "LIVE: FAA issues nationwide ground stop after communications outage in US",
+            "description": "US air regulators have issued a nationwide ground stop for departing flights, citing a communications problem.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss",
+            "published": "Fri, 13 Nov 2026 22:02:07 +0000",
+            "fetched": "2026-11-14T01:58:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US grounds all flights after ‘communication issue’",
+            "description": "US Transportation Secretary Sean Duffy says federal aviation agency is &#039;investigating the issue&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss",
+            "published": "Fri, 13 Nov 2026 21:32:08 +0000",
+            "fetched": "2026-11-14T01:58:26+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pope Leo cheered on return to Peru city where he served as bishop",
+            "description": "An estimated 1.5 million people have welcomed Pope Leo XIV back to the city in Peru where he once served as bishop.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss",
+            "published": "Fri, 13 Nov 2026 20:52:31 +0000",
+            "fetched": "2026-11-14T01:58:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-14T01:58:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-14T01:58:26+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-14T01:58:26+03:30"
+        }
+    ]
+}

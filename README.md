@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-13 20:04:07
+**Last Update:** 2026-11-14 01:58:26
 
 **Total News:** 12
 
@@ -10,129 +10,129 @@
 
 ## 📰 Latest News
 
-### 1. Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers
+### 1. Live airband on all frequencies from KORS. Victoria, CA also ground stopped
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e">https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50485295">https://news.ycombinator.com/item?id=50485295</a></p>
-<p>Points: 31</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://orcasairband.com/">https://orcasairband.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50490593">https://news.ycombinator.com/item?id=50490593</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e](https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e)
+🔗 **Read more:** [https://orcasairband.com/](https://orcasairband.com/)
 
 ---
 
-### 2. Why is Google cutting off Search from AI-free schools? Here are some theories
+### 2. FAA issues nationwide ground stop due to "extraordinary circumstances"
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://text.npr.org/nx-s1-6029408">https://text.npr.org/nx-s1-6029408</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50484960">https://news.ycombinator.com/item?id=50484960</a></p>
-<p>Points: 12</p>
-<p># Comments: 4</p>
+<p>Article URL: <a href="https://www.axios.com/2026/11/13/faa-nationwide-ground-stop">https://www.axios.com/2026/11/13/faa-nationwide-ground-stop</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50489678">https://news.ycombinator.com/item?id=50489678</a></p>
+<p>Points: 80</p>
+<p># Comments: 22</p>
 
-🔗 **Read more:** [https://text.npr.org/nx-s1-6029408](https://text.npr.org/nx-s1-6029408)
+🔗 **Read more:** [https://www.axios.com/2026/11/13/faa-nationwide-ground-stop](https://www.axios.com/2026/11/13/faa-nationwide-ground-stop)
 
 ---
 
-### 3. Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]
+### 3. All US airports are currently ground stopped
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.youtube.com/watch?v=IRK8h67ol7Q">https://www.youtube.com/watch?v=IRK8h67ol7Q</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50484658">https://news.ycombinator.com/item?id=50484658</a></p>
-<p>Points: 34</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://twitter.com/flightradar24/status/2121347654714077605">https://twitter.com/flightradar24/status/2121347654714077605</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50489652">https://news.ycombinator.com/item?id=50489652</a></p>
+<p>Points: 80</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://www.youtube.com/watch?v=IRK8h67ol7Q](https://www.youtube.com/watch?v=IRK8h67ol7Q)
+🔗 **Read more:** [https://twitter.com/flightradar24/status/2121347654714077605](https://twitter.com/flightradar24/status/2121347654714077605)
 
 ---
 
-### 4. Police investigating David Walliams over alleged serious sexual offences
+### 4. Police investigating David Walliams over reports alleging serious sexual offences
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Met Police said the allegations are separate from those reported by ITN and The Guardian earlier this week.
+The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Why is the Microsoft outage lasting so long?
+### 5. US Air Force says it responded to 'suspected drones' over RAF Lakenheath
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Microsoft says it is seeing "improvements" following a global outage but efforts to fully resume services are ongoing.
+The American military says there were no injuries or damage after "suspected unauthorised drone activity" this evening.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Former Hamas bodyguard guilty of UK knife attack
+### 6. Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020.
+Experts say the event is a "stark reminder" of how heavily the world relies on a small group of big tech providers.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Truck and bus crash in India’s Assam state kills at least 24 people
+### 7. LIVE: FAA issues nationwide ground stop after communications outage in US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Several children and the bus driver were among those killed, officials said, with the death toll expected to rise.
+US air regulators have issued a nationwide ground stop for departing flights, citing a communications problem.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people?traffic_source=rss](https://www.aljazeera.com/news/2026/11/13/truck-and-bus-crash-in-indias-assam-state-kills-at-least-24-people?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss)
 
 ---
 
-### 8. Turkiye and Qatar sign mutual defence agreement
+### 8. US grounds all flights after ‘communication issue’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-This is a breaking news story.
+US Transportation Secretary Sean Duffy says federal aviation agency is &#039;investigating the issue&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss](https://www.aljazeera.com/news/2026/11/13/turkiye-and-qatar-sign-mutual-defence-agreement?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss](https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss)
 
 ---
 
-### 9. Europe seeks seat at Ukraine peace talks but lacks unified voice
+### 9. Pope Leo cheered on return to Peru city where he served as bishop
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-EU leaders believe a US-backed process will allow Moscow and Washington to decide the fate of a conflict.
+An estimated 1.5 million people have welcomed Pope Leo XIV back to the city in Peru where he once served as bishop.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss](https://www.aljazeera.com/news/2026/11/13/europe-seeks-seat-at-ukraine-peace-talks-but-lacks-unified-voice?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss)
 
 ---
 
