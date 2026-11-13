@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-13 04:43:34
+**Last Update:** 2026-11-13 11:15:59
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Edge0-145B: Frontier AI Capabilities on Your Own Computer
+### 1. Global Microsoft Outage
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer">https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50475713">https://news.ycombinator.com/item?id=50475713</a></p>
-<p>Points: 22</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk">https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50479098">https://news.ycombinator.com/item?id=50479098</a></p>
+<p>Points: 25</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer](https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer)
+🔗 **Read more:** [https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk](https://www.cnn.com/2026/11/12/business/live-news/microsoft-global-outage-intl-hnk)
 
 ---
 
-### 2. Chinese frontier AI models carry the fingerprint of export-controlled GPUs
+### 2. Scientists claim the universe is twice as old as believed
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://unemploymentlabs.com/checkpoint-forensics">https://unemploymentlabs.com/checkpoint-forensics</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50474883">https://news.ycombinator.com/item?id=50474883</a></p>
-<p>Points: 143</p>
-<p># Comments: 41</p>
+<p>Article URL: <a href="https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/">https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50478635">https://news.ycombinator.com/item?id=50478635</a></p>
+<p>Points: 54</p>
+<p># Comments: 43</p>
 
-🔗 **Read more:** [https://unemploymentlabs.com/checkpoint-forensics](https://unemploymentlabs.com/checkpoint-forensics)
+🔗 **Read more:** [https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/](https://geekspin.co/scientists-claim-the-universe-is-twice-as-old-as-believed/)
 
 ---
 
-### 3. Foundation Models framework
+### 3. The average cost for a new vehicle in the U.S. hits a record high: over $51,000
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://developer.apple.com/foundation-models-framework/">https://developer.apple.com/foundation-models-framework/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50474361">https://news.ycombinator.com/item?id=50474361</a></p>
-<p>Points: 116</p>
-<p># Comments: 14</p>
+<p>Article URL: <a href="https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high">https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50478622">https://news.ycombinator.com/item?id=50478622</a></p>
+<p>Points: 40</p>
+<p># Comments: 30</p>
 
-🔗 **Read more:** [https://developer.apple.com/foundation-models-framework/](https://developer.apple.com/foundation-models-framework/)
+🔗 **Read more:** [https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high](https://www.npr.org/2026/11/10/nx-s1-6026659/average-vehicle-price-record-high)
 
 ---
 
-### 4. Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil
+### 4. What we know about the global Microsoft outage
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy.
+Microsoft has said the outage was not caused by a cyber-security incident, but efforts to fix the issues have so far been largely unsuccessful.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Russian warship hit by Ukrainian drone in Gulf of Finland
+### 5. Firms help migrants pose as artists and tech experts for 'Global Talent' visas, BBC finds
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.
+Going undercover to expose an elaborate fraud aimed at obtaining fast-track settlement for wealthy migrants.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmkgdw24l1kdo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Junior doctor burnout putting maternity patients at risk, says regulator
+### 6. Asylum centre on military base near Piddington approved
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Trainee doctors delivering babies are more likely to suffer from overwork and burnout than other specialties, evidence suggests.
+The Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckx28le8dv9wo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iran war live: Trump says Gulf allies urged pause in Iran strikes
+### 7. The real winner in Poland’s constitutional battle is Putin
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Speaking at the White House, Trump says Gulf countries asked him to hold off on further attacks against Iran.
+The fight for control of the Constitutional Tribunal is eroding Poles&#039; trust in their own state.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/13/iran-war-live-riyadh-china-discuss-houthis-as-group-claims-aramco-attacks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/13/the-real-winner-in-polands-constitutional-battle-is-putin?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/13/the-real-winner-in-polands-constitutional-battle-is-putin?traffic_source=rss)
 
 ---
 
-### 8. Yemen’s Houthis renew strikes on Saudi Arabia as UNSC extends sanctions
+### 8. The Gulf must build security that can outlast this war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saudi-led coalition intercepts flurry of suspected Houthi drones targeting oil and military infrastructure.
+Trump’s latest statement should accelerate the region’s move towards a layered and networked security architecture.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/yemens-houthis-renew-strikes-on-saudi-arabia-as-unsc-extends-sanctions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/13/the-gulf-must-build-security-that-can-outlast-this-war?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/13/the-gulf-must-build-security-that-can-outlast-this-war?traffic_source=rss)
 
 ---
 
-### 9. Russian court jails rights lawyer for 12 years on treason charge
+### 9. Jessica Pegula wins thrilling contest at WTA Finals, Coco Gauff eliminated
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Prosecutors say the woman shared security details with Ukraine, while her lawyers argue the information was not secret.
+Pegula&#039;s win, in the final group one round-robin match, meant Gauff was knocked out of the season-ending championships.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/13/jessica-pegula-coco-gauff-united-states-wta-finals-tennis?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/13/jessica-pegula-coco-gauff-united-states-wta-finals-tennis?traffic_source=rss)
 
 ---
 
