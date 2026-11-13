@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-13T19:36:06+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Brazil's Caixa insurer breach exposes names and tax IDs of all 7.6M customers",
+            "description": "<p>Article URL: <a href=\"https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e\">https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50485295\">https://news.ycombinator.com/item?id=50485295</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://filemanager-cdn.mziq.com/published/3972906b-e50b-4f74-ab74-4d0d32125d11/9567a559-d20a-486e-a7ae-5c6bbc030c5e",
+            "published": "Fri, 13 Nov 2026 15:52:04 +0000",
+            "fetched": "2026-11-13T19:36:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jonathan Blow – If AI Solved Coding, Why Is My Software Still the Same? [video]",
+            "description": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=IRK8h67ol7Q\">https://www.youtube.com/watch?v=IRK8h67ol7Q</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50484658\">https://news.ycombinator.com/item?id=50484658</a></p>\n<p>Points: 13</p>\n<p># Comments: 4</p>",
+            "url": "https://www.youtube.com/watch?v=IRK8h67ol7Q",
+            "published": "Fri, 13 Nov 2026 15:08:44 +0000",
+            "fetched": "2026-11-13T19:36:06+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Palmfrets, Minnesota guitarist's invention, strikes a new chord",
+            "description": "<p>Article URL: <a href=\"https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord\">https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50484650\">https://news.ycombinator.com/item?id=50484650</a></p>\n<p>Points: 12</p>\n<p># Comments: 6</p>",
+            "url": "https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord",
+            "published": "Fri, 13 Nov 2026 15:08:07 +0000",
+            "fetched": "2026-11-13T19:36:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Why is the Microsoft outage lasting so long?",
+            "description": "Microsoft says it is seeing \"improvements\" following a global outage but efforts to fully resume services are ongoing.",
+            "url": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 13 Nov 2026 14:21:26 GMT",
+            "fetched": "2026-11-13T19:36:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: How a server outage took down Microsoft Teams and Outlook",
+            "description": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
+            "url": "https://www.bbc.co.uk/news/videos/cqzjr903n01po?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 13 Nov 2026 11:43:27 GMT",
+            "fetched": "2026-11-13T19:36:06+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Former Hamas bodyguard guilty of UK knife attack",
+            "description": "Mohammed Alfatih was granted asylum in the UK in 2015 and British citizenship in 2020.",
+            "url": "https://www.bbc.co.uk/news/articles/c51k9709krxvo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 13 Nov 2026 15:51:24 GMT",
+            "fetched": "2026-11-13T19:36:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Will Democrats try to strip US-Israel initiative from Pentagon funding?",
+            "description": "Midterm gains give party room to overhaul NDAA funding, including provision to integrate US-Israeli military industries.",
+            "url": "https://www.aljazeera.com/news/2026/11/13/will-democrats-try-to-strip-us-israel-initiative-from-pentagon-funding?traffic_source=rss",
+            "published": "Fri, 13 Nov 2026 15:02:16 +0000",
+            "fetched": "2026-11-13T19:36:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Portugal vs Denmark: UEFA Nations League – predictions, how to watch, teams",
+            "description": "Playing their first game since Cristiano Ronaldo&#039;s retirement, two-time champions Portugal face Denmark at home.",
+            "url": "https://www.aljazeera.com/sports/2026/11/13/portugal-denmark-ronaldo-uefa-nations-league-predictions-teams?traffic_source=rss",
+            "published": "Fri, 13 Nov 2026 14:18:25 +0000",
+            "fetched": "2026-11-13T19:36:06+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can Netanyahu launch a strike on Iran before he leaves?",
+            "description": "PM&#039;s caretaker government can legally go to war, though it would likely inflame domestic divisions.",
+            "url": "https://www.aljazeera.com/news/2026/11/13/can-netanyahu-launch-a-strike-on-iran-before-he-leaves?traffic_source=rss",
+            "published": "Fri, 13 Nov 2026 14:16:20 +0000",
+            "fetched": "2026-11-13T19:36:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-13T19:36:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-13T19:36:06+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-13T19:36:06+03:30"
+        }
+    ]
+}
