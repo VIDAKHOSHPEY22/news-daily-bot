@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-12 23:39:50
+**Last Update:** 2026-11-13 03:34:28
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Data centers need power – lower income, rural residents pay the price
+### 1. Richard A. Posner has died
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price">https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50473231">https://news.ycombinator.com/item?id=50473231</a></p>
-<p>Points: 9</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://www.law.uchicago.edu/news/senior-lecturer-richard-posner-law-and-economics-pioneer-and-former-federal-appellate-judge">https://www.law.uchicago.edu/news/senior-lecturer-richard-posner-law-and-economics-pioneer-and-former-federal-appellate-judge</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50475829">https://news.ycombinator.com/item?id=50475829</a></p>
+<p>Points: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price](https://news.cornell.edu/stories/2026/11/data-centers-need-power-lower-income-rural-residents-pay-price)
+🔗 **Read more:** [https://www.law.uchicago.edu/news/senior-lecturer-richard-posner-law-and-economics-pioneer-and-former-federal-appellate-judge](https://www.law.uchicago.edu/news/senior-lecturer-richard-posner-law-and-economics-pioneer-and-former-federal-appellate-judge)
 
 ---
 
-### 2. Dwarf planet candidate appears which takes roughly 280 years to orbit our sun
+### 2. Chinese frontier AI models carry the fingerprint of export-controlled GPUs
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/">https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50472490">https://news.ycombinator.com/item?id=50472490</a></p>
-<p>Points: 49</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://unemploymentlabs.com/checkpoint-forensics">https://unemploymentlabs.com/checkpoint-forensics</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50474883">https://news.ycombinator.com/item?id=50474883</a></p>
+<p>Points: 98</p>
+<p># Comments: 24</p>
 
-🔗 **Read more:** [https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/](https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/)
+🔗 **Read more:** [https://unemploymentlabs.com/checkpoint-forensics](https://unemploymentlabs.com/checkpoint-forensics)
 
 ---
 
-### 3. Gemini 4 Hydrogen and Orchestrator
+### 3. Foundation Models framework
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/">https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50472260">https://news.ycombinator.com/item?id=50472260</a></p>
-<p>Points: 57</p>
-<p># Comments: 9</p>
+<p>Article URL: <a href="https://developer.apple.com/foundation-models-framework/">https://developer.apple.com/foundation-models-framework/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50474361">https://news.ycombinator.com/item?id=50474361</a></p>
+<p>Points: 92</p>
+<p># Comments: 12</p>
 
-🔗 **Read more:** [https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/](https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/)
+🔗 **Read more:** [https://developer.apple.com/foundation-models-framework/](https://developer.apple.com/foundation-models-framework/)
 
 ---
 
-### 4. Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions
+### 4. Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. How AI visionary Jensen Huang was undone by his own bad decisions
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ Zoe Kleinman explains how the man who built Nvidia from the ground up lost every
 
 ---
 
-### 5. What we know about Brooklyn building collapse that killed eight people
+### 6. Russian warship hit by Ukrainian drone in Gulf of Finland
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Two construction workers and two children were killed when a residential building fell into an adjacent construction site on Wednesday.
+The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm20v66jq611o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm20v66jq611o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Faisal Islam: Why the UK economy is surprisingly resilient
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The UK is seeing impressive growth, but will it last?
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj62p32k90wyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Why did Nvidia CEO Jensen Huang resign, and who is Colette Kress?
+### 7. Russian court jails rights lawyer for 12 years on treason charge
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Huang has stepped down amid revelations about extramarital affairs and allegations of Chinese espionage.
+Prosecutors say the woman shared security details with Ukraine, while her lawyers argue the information was not secret.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/why-did-nvidia-ceo-jensen-huang-resign-and-who-is-colette-kress?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss](https://www.aljazeera.com/news/2026/11/12/russian-court-jails-rights-lawyer-for-12-years-on-treason-charge?traffic_source=rss)
 
 ---
 
-### 8. Iranian men guilty of spying on British journalists
+### 8. Italy fight back to beat France 3-1 and move top of Nations League group
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Two Iranian men were convicted under Britain&#039;s National Security Act for spying on dissident journalists.
+Michael Olise gives France the lead, but double from Pio Esposito and one from Davide Frattesi secure win for Italy.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/iranian-men-guilty-of-spying-on-british-journalists?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/iranian-men-guilty-of-spying-on-british-journalists?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/12/italy-fight-back-to-beat-france-3-1-and-move-top-of-nations-league-group?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/12/italy-fight-back-to-beat-france-3-1-and-move-top-of-nations-league-group?traffic_source=rss)
 
 ---
 
-### 9. Senegal’s wrestlers turn tradition into gold at Dakar Youth Olympics
+### 9. Deadly shooting in Washington DC
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Senegal’s young wrestlers thrive as they adapt skills from their traditional sport to beach wrestling at Youth Olympics.
+Police in the US capital are investigating a shooting around a mile from the White House that led to one person killed
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/12/senegals-wrestlers-turn-tradition-into-gold-at-dakar-youth-olympics?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/12/senegals-wrestlers-turn-tradition-into-gold-at-dakar-youth-olympics?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/12/deadly-shooting-in-washington-dc?traffic_source=rss)
 
 ---
 
