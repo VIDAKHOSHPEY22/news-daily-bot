@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-14 14:12:17
+**Last Update:** 2026-11-14 14:51:07
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, Al Jazeera, NASA, BBC
 
 ---
 
@@ -20,8 +20,8 @@
 <p>Specifically, what are the most useful, concrete skills to learn as an individual to take economic advantage of the advances in LLMs, agents and associated new technological capabilities?<p>What is accessible to learn just from the internet and experimentation, without a degree program, assuming a preexisting moderately technical background? The clearer and more specific (eg. “Learn how-to x with y”) the better.<p>Thank you!</p>
 <hr />
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50494696">https://news.ycombinator.com/item?id=50494696</a></p>
-<p>Points: 25</p>
-<p># Comments: 28</p>
+<p>Points: 34</p>
+<p># Comments: 34</p>
 
 🔗 **Read more:** [https://news.ycombinator.com/item?id=50494696](https://news.ycombinator.com/item?id=50494696)
 
@@ -36,8 +36,8 @@
 **Description:**
 <p>Article URL: <a href="https://monkeyisland.pages.dev/">https://monkeyisland.pages.dev/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50493904">https://news.ycombinator.com/item?id=50493904</a></p>
-<p>Points: 125</p>
-<p># Comments: 25</p>
+<p>Points: 149</p>
+<p># Comments: 38</p>
 
 🔗 **Read more:** [https://monkeyisland.pages.dev/](https://monkeyisland.pages.dev/)
 
@@ -52,8 +52,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus">https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50493251">https://news.ycombinator.com/item?id=50493251</a></p>
-<p>Points: 587</p>
-<p># Comments: 343</p>
+<p>Points: 610</p>
+<p># Comments: 353</p>
 
 🔗 **Read more:** [https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
 
@@ -98,7 +98,33 @@ The Ukrainian president says US envoys touted the exchange as part of efforts to
 
 ---
 
-### 7. Sabalenka crashes out of season-ending WTA Finals after losing to Svitolina
+### 7. Ukraine, Russia race to build military satellite networks as war rages on
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Kyiv seeks to break reliance on Starlink as Moscow develops its own satellite constellation for military communications.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss)
+
+---
+
+### 8. South Sudan postpones first-ever national elections until February
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The vote, first expected in 2022, will now be held on February 11, according to the country&#039;s election commission.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/south-sudan-postpones-first-ever-national-elections-until-february?traffic_source=rss)
+
+---
+
+### 9. Sabalenka crashes out of season-ending WTA Finals after losing to Svitolina
 
 **Source:** Al Jazeera
 
@@ -108,32 +134,6 @@ The Ukrainian president says US envoys touted the exchange as part of efforts to
 World number two Sabalenka&#039;s season came to a disappointing end after she failed to reach the WTA Finals semifinals.
 
 🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/14/aryna-sabalenka-elina-svitolina-wta-finals-indian-wells-semifinals-tennis?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/14/aryna-sabalenka-elina-svitolina-wta-finals-indian-wells-semifinals-tennis?traffic_source=rss)
-
----
-
-### 8. Migrant caravan heads to US from Mexico after Democrats’ midterm win
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-A migrant caravan of more than a thousand people is heading towards the US border from southern Mexico.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss)
-
----
-
-### 9. Netanyahu may fall, but his far-right legacy in Israel is going nowhere
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Israel’s far-right is accused of embedding a hardline agenda so deeply that reversing it may prove almost impossible.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/netanyahu-may-fall-but-his-far-right-legacy-in-israel-is-going-nowhere?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/netanyahu-may-fall-but-his-far-right-legacy-in-israel-is-going-nowhere?traffic_source=rss)
 
 ---
 
