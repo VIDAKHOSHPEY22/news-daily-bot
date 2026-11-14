@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-14 02:12:57
+**Last Update:** 2026-11-14 06:31:14
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Live airband on all frequencies from KORS. Victoria, CA also ground stopped
+### 1. Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://orcasairband.com/">https://orcasairband.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50490593">https://news.ycombinator.com/item?id=50490593</a></p>
-<p>Points: 12</p>
+<p>Article URL: <a href="https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html">https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50492993">https://news.ycombinator.com/item?id=50492993</a></p>
+<p>Points: 11</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html](https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html)
+
+---
+
+### 2. Hawaii flights halted due to debris from SpaceX launch amidst FAA's ground stop
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.kitv.com/news/hawaii-flights-to-west-coast-halted-due-to-debris-from-spacex-launch-amidst-faas-nationwide/article_9b8dfe4d-8e80-4949-96a2-39c4eddc870f.html">https://www.kitv.com/news/hawaii-flights-to-west-coast-halted-due-to-debris-from-spacex-launch-amidst-faas-nationwide/article_9b8dfe4d-8e80-4949-96a2-39c4eddc870f.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50492945">https://news.ycombinator.com/item?id=50492945</a></p>
+<p>Points: 6</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.kitv.com/news/hawaii-flights-to-west-coast-halted-due-to-debris-from-spacex-launch-amidst-faas-nationwide/article_9b8dfe4d-8e80-4949-96a2-39c4eddc870f.html](https://www.kitv.com/news/hawaii-flights-to-west-coast-halted-due-to-debris-from-spacex-launch-amidst-faas-nationwide/article_9b8dfe4d-8e80-4949-96a2-39c4eddc870f.html)
+
+---
+
+### 3. Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks">https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50492860">https://news.ycombinator.com/item?id=50492860</a></p>
+<p>Points: 7</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://orcasairband.com/](https://orcasairband.com/)
+🔗 **Read more:** [https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks](https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks)
 
 ---
 
-### 2. FAA issues nationwide ground stop due to "extraordinary circumstances"
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.axios.com/2026/11/13/faa-nationwide-ground-stop">https://www.axios.com/2026/11/13/faa-nationwide-ground-stop</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50489678">https://news.ycombinator.com/item?id=50489678</a></p>
-<p>Points: 81</p>
-<p># Comments: 22</p>
-
-🔗 **Read more:** [https://www.axios.com/2026/11/13/faa-nationwide-ground-stop](https://www.axios.com/2026/11/13/faa-nationwide-ground-stop)
-
----
-
-### 3. All US airports are currently ground stopped
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://twitter.com/flightradar24/status/2121347654714077605">https://twitter.com/flightradar24/status/2121347654714077605</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50489652">https://news.ycombinator.com/item?id=50489652</a></p>
-<p>Points: 83</p>
-<p># Comments: 21</p>
-
-🔗 **Read more:** [https://twitter.com/flightradar24/status/2121347654714077605](https://twitter.com/flightradar24/status/2121347654714077605)
-
----
-
-### 4. Police investigating David Walliams over reports alleging serious sexual offences
+### 4. 'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Met Police said the allegations are separate from those reported by ITV and the Guardian earlier this week.
+The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwx2emg4xe72o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,55 +84,55 @@ The American military says there were no injuries or damage after "suspected una
 
 ---
 
-### 6. Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption
+### 6. Trump, Putin and Xi plan historic joint meeting in China next week, White House says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Experts say the event is a "stark reminder" of how heavily the world relies on a small group of big tech providers.
+Trump will discuss the "reduction of nuclear weapons" during the unprecedented talks, a spokeswoman says.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. LIVE: FAA issues nationwide ground stop after communications outage in US
+### 7. Tanker collision leaves riverboat passengers clinging to railings
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US air regulators have issued a nationwide ground stop for departing flights, citing a communications problem.
+Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/13/groundling-live?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss)
 
 ---
 
-### 8. FAA grounds US flights nationwide after ‘communication issue’
+### 8. Former FAA official says ‘nobody really knows what is going on’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Transportation Secretary Sean Duffy says federal aviation agency is &#039;investigating the issue&#039;.
+Former FAA safety team representative Kyle Bailey says grounding flights is the safest course of action.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss](https://www.aljazeera.com/news/2026/11/13/us-grounds-all-flights-after-communication-issue?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss)
 
 ---
 
-### 9. Pope Leo cheered on return to Peru city where he served as bishop
+### 9. UK police open sex offence probe into comedian and author David Walliams
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An estimated 1.5 million people have welcomed Pope Leo XIV back to the city in Peru where he once served as bishop.
+The British TV personality, 55, denies sexual assault allegations, saying he has not broken the law.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/13/pope-leo-cheered-on-return-to-peru-city-where-he-served-as-bishop?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss)
 
 ---
 

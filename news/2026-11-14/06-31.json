@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-14T06:31:14+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+            "description": "<p>Article URL: <a href=\"https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html\">https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50492993\">https://news.ycombinator.com/item?id=50492993</a></p>\n<p>Points: 11</p>\n<p># Comments: 3</p>",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
+            "published": "Sat, 14 Nov 2026 02:21:36 +0000",
+            "fetched": "2026-11-14T06:31:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hawaii flights halted due to debris from SpaceX launch amidst FAA's ground stop",
+            "description": "<p>Article URL: <a href=\"https://www.kitv.com/news/hawaii-flights-to-west-coast-halted-due-to-debris-from-spacex-launch-amidst-faas-nationwide/article_9b8dfe4d-8e80-4949-96a2-39c4eddc870f.html\">https://www.kitv.com/news/hawaii-flights-to-west-coast-halted-due-to-debris-from-spacex-launch-amidst-faas-nationwide/article_9b8dfe4d-8e80-4949-96a2-39c4eddc870f.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50492945\">https://news.ycombinator.com/item?id=50492945</a></p>\n<p>Points: 6</p>\n<p># Comments: 1</p>",
+            "url": "https://www.kitv.com/news/hawaii-flights-to-west-coast-halted-due-to-debris-from-spacex-launch-amidst-faas-nationwide/article_9b8dfe4d-8e80-4949-96a2-39c4eddc870f.html",
+            "published": "Sat, 14 Nov 2026 02:14:48 +0000",
+            "fetched": "2026-11-14T06:31:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks",
+            "description": "<p>Article URL: <a href=\"https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks\">https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50492860\">https://news.ycombinator.com/item?id=50492860</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
+            "published": "Sat, 14 Nov 2026 02:02:42 +0000",
+            "fetched": "2026-11-14T06:31:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+            "description": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+            "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 13 Nov 2026 23:40:45 GMT",
+            "fetched": "2026-11-14T06:31:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
+            "description": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 13 Nov 2026 22:12:33 GMT",
+            "fetched": "2026-11-14T06:31:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+            "description": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+            "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 14 Nov 2026 02:47:24 GMT",
+            "fetched": "2026-11-14T06:31:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tanker collision leaves riverboat passengers clinging to railings",
+            "description": "Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss",
+            "published": "Sat, 14 Nov 2026 01:37:08 +0000",
+            "fetched": "2026-11-14T06:31:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Former FAA official says ‘nobody really knows what is going on’",
+            "description": "Former FAA safety team representative Kyle Bailey says grounding flights is the safest course of action.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss",
+            "published": "Sat, 14 Nov 2026 01:28:46 +0000",
+            "fetched": "2026-11-14T06:31:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK police open sex offence probe into comedian and author David Walliams",
+            "description": "The British TV personality, 55, denies sexual assault allegations, saying he has not broken the law.",
+            "url": "https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss",
+            "published": "Sat, 14 Nov 2026 00:22:07 +0000",
+            "fetched": "2026-11-14T06:31:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-14T06:31:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-14T06:31:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-14T06:31:14+03:30"
+        }
+    ]
+}
