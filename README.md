@@ -1,64 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-14 21:24:07
+**Last Update:** 2026-11-15 01:05:51
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Italy fines Meta €805M over photo privacy
+### 1. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/">https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50498063">https://news.ycombinator.com/item?id=50498063</a></p>
-<p>Points: 96</p>
-<p># Comments: 48</p>
+The US has not confirmed the Ukrainian president's comments which follow meetings US envoys had with him and Russia's Vladimir Putin.
 
-🔗 **Read more:** [https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/](https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Formalizing US Tax Code (Using Lean)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://lexifina.com/blog/formalizing-the-us-tax-code">https://lexifina.com/blog/formalizing-the-us-tax-code</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50497900">https://news.ycombinator.com/item?id=50497900</a></p>
-<p>Points: 56</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://lexifina.com/blog/formalizing-the-us-tax-code](https://lexifina.com/blog/formalizing-the-us-tax-code)
-
----
-
-### 3. PyPI's redesigned project pages with clearer security signals are now live
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/">https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50497892">https://news.ycombinator.com/item?id=50497892</a></p>
-<p>Points: 96</p>
-<p># Comments: 27</p>
-
-🔗 **Read more:** [https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)
-
----
-
-### 4. Young people should have legal guarantee of job or training, Milburn tells BBC
+### 2. Young people should have legal guarantee of job or training, Milburn tells BBC
 
 **Source:** BBC
 
@@ -71,7 +36,7 @@ The author of a major review on youth unemployment, due next week, acknowledges 
 
 ---
 
-### 5. Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight
+### 3. Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight
 
 **Source:** BBC
 
@@ -84,59 +49,46 @@ Milburn is not the first to try and fix the Neets problem - so what’s differen
 
 ---
 
-### 6. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. US suggested Ukraine cede parts of Donbas to Russia to become part of NATO
+### 4. India’s Assam state demolishes homes of 132 Muslim families
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Zelenskyy rejected the possibility of Ukraine committing to neutrality and said he refused to cede territory to Russia.
+Authorities in India’s Assam have demolished the homes of 132 Muslim families.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/us-suggested-ukraine-cede-parts-of-donbas-to-russia-to-become-part-of-nato?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss)
 
 ---
 
-### 8. Portugal vs Denmark LIVE: UEFA Nations League
+### 5. Can being ‘non-Western’ cost you your home in Denmark?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Follow updates from the Group A4 clash, including the build-up, analysis and live text commentary of the game.
+Denmark’s Supreme Court is set to rule on whether families can be forced from their homes under a law.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/11/14/portugal-vs-denmark-live-uefa-nations-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/adlern-can_non-westren_cost_home_denmark-141126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/adlern-can_non-westren_cost_home_denmark-141126?traffic_source=rss)
 
 ---
 
-### 9. Italy fines Meta $880m over photo privacy
+### 6. Deadly car bomb blast kills two near Syria’s capital
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Regulator said Meta&#039;s &#039;lack of cooperation&#039; and the large number of people affected contributed to size of the fine.
+At least two people, a man and a girl, have been killed in a car bomb blast in Jaramana, near Syria&#039;s capital Damascus.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/italy-fines-meta-880m-over-photo-privacy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Red Hill, Perry, Mississippi
+### 7. Wildfire Red Hill, Perry, Mississippi
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
+### 8. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Prescribed Fire Compartment 170 RX, Greene, Georgia
+### 9. Prescribed Fire Compartment 170 RX, Greene, Georgia
 
 **Source:** NASA
 
