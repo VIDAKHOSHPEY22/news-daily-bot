@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-14T06:53:29+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+            "description": "<p>Article URL: <a href=\"https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus\">https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50493251\">https://news.ycombinator.com/item?id=50493251</a></p>\n<p>Points: 13</p>\n<p># Comments: 0</p>",
+            "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+            "published": "Sat, 14 Nov 2026 02:52:59 +0000",
+            "fetched": "2026-11-14T06:53:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Ggml v1.0.0",
+            "description": "<p>Article URL: <a href=\"https://github.com/ggml-org/ggml/releases/tag/v1.0.0\">https://github.com/ggml-org/ggml/releases/tag/v1.0.0</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50493062\">https://news.ycombinator.com/item?id=50493062</a></p>\n<p>Points: 12</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+            "published": "Sat, 14 Nov 2026 02:28:29 +0000",
+            "fetched": "2026-11-14T06:53:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+            "description": "<p>Article URL: <a href=\"https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html\">https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50492993\">https://news.ycombinator.com/item?id=50492993</a></p>\n<p>Points: 31</p>\n<p># Comments: 9</p>",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
+            "published": "Sat, 14 Nov 2026 02:21:36 +0000",
+            "fetched": "2026-11-14T06:53:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Miracle on Mississippi' - All passengers rescued after New Orleans cruise ship collision",
+            "description": "The collision leaves 32 people in hospital with non-critical injuries, but no-one unaccounted for.",
+            "url": "https://www.bbc.co.uk/news/articles/cw20xmy0m5yyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 13 Nov 2026 23:40:45 GMT",
+            "fetched": "2026-11-14T06:53:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
+            "description": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 13 Nov 2026 22:12:33 GMT",
+            "fetched": "2026-11-14T06:53:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+            "description": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+            "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 14 Nov 2026 02:47:24 GMT",
+            "fetched": "2026-11-14T06:53:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Measles-associated deaths reach 10 in US after two more deaths reported",
+            "description": "More than 5,400 confirmed measles cases have been recorded in the US to date this year.",
+            "url": "https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss",
+            "published": "Sat, 14 Nov 2026 02:34:50 +0000",
+            "fetched": "2026-11-14T06:53:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tanker collision leaves riverboat passengers clinging to railings",
+            "description": "Passengers were rescued after a tanker ship collided with a riverboat docked on the Mississippi River in New Orleans.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/aje-onl-nf_tanker-collision-in-new-orleans-131126?traffic_source=rss",
+            "published": "Sat, 14 Nov 2026 01:37:08 +0000",
+            "fetched": "2026-11-14T06:53:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Former FAA official says ‘nobody really knows what is going on’",
+            "description": "Former FAA safety team representative Kyle Bailey says grounding flights is the safest course of action.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss",
+            "published": "Sat, 14 Nov 2026 01:28:46 +0000",
+            "fetched": "2026-11-14T06:53:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-14T06:53:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-14T06:53:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-14T06:53:29+03:30"
+        }
+    ]
+}

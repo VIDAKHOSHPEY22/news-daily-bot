@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-14 06:31:14
+**Last Update:** 2026-11-14 06:53:29
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal
+### 1. Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus">https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50493251">https://news.ycombinator.com/item?id=50493251</a></p>
+<p>Points: 13</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus](https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus)
+
+---
+
+### 2. Ggml v1.0.0
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/ggml-org/ggml/releases/tag/v1.0.0">https://github.com/ggml-org/ggml/releases/tag/v1.0.0</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50493062">https://news.ycombinator.com/item?id=50493062</a></p>
+<p>Points: 12</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/ggml-org/ggml/releases/tag/v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
+
+---
+
+### 3. Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html">https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50492993">https://news.ycombinator.com/item?id=50492993</a></p>
-<p>Points: 11</p>
-<p># Comments: 3</p>
+<p>Points: 31</p>
+<p># Comments: 9</p>
 
 🔗 **Read more:** [https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html](https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html)
-
----
-
-### 2. Hawaii flights halted due to debris from SpaceX launch amidst FAA's ground stop
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.kitv.com/news/hawaii-flights-to-west-coast-halted-due-to-debris-from-spacex-launch-amidst-faas-nationwide/article_9b8dfe4d-8e80-4949-96a2-39c4eddc870f.html">https://www.kitv.com/news/hawaii-flights-to-west-coast-halted-due-to-debris-from-spacex-launch-amidst-faas-nationwide/article_9b8dfe4d-8e80-4949-96a2-39c4eddc870f.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50492945">https://news.ycombinator.com/item?id=50492945</a></p>
-<p>Points: 6</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.kitv.com/news/hawaii-flights-to-west-coast-halted-due-to-debris-from-spacex-launch-amidst-faas-nationwide/article_9b8dfe4d-8e80-4949-96a2-39c4eddc870f.html](https://www.kitv.com/news/hawaii-flights-to-west-coast-halted-due-to-debris-from-spacex-launch-amidst-faas-nationwide/article_9b8dfe4d-8e80-4949-96a2-39c4eddc870f.html)
-
----
-
-### 3. Elephants Found to Be Increasingly Isolated Leading to Fractured Social Networks
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks">https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50492860">https://news.ycombinator.com/item?id=50492860</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks](https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks)
 
 ---
 
@@ -97,7 +97,20 @@ Trump will discuss the "reduction of nuclear weapons" during the unprecedented t
 
 ---
 
-### 7. Tanker collision leaves riverboat passengers clinging to railings
+### 7. Measles-associated deaths reach 10 in US after two more deaths reported
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+More than 5,400 confirmed measles cases have been recorded in the US to date this year.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/measles-associated-deaths-reach-10-in-us-after-two-more-deaths-reported?traffic_source=rss)
+
+---
+
+### 8. Tanker collision leaves riverboat passengers clinging to railings
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Passengers were rescued after a tanker ship collided with a riverboat docked on 
 
 ---
 
-### 8. Former FAA official says ‘nobody really knows what is going on’
+### 9. Former FAA official says ‘nobody really knows what is going on’
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Passengers were rescued after a tanker ship collided with a riverboat docked on 
 Former FAA safety team representative Kyle Bailey says grounding flights is the safest course of action.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/former-faa-official-says-nobody-really-knows-what-is-going?traffic_source=rss)
-
----
-
-### 9. UK police open sex offence probe into comedian and author David Walliams
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The British TV personality, 55, denies sexual assault allegations, saying he has not broken the law.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/uk-police-open-sex-offence-probe-into-comedian-and-author-david-walliams?traffic_source=rss)
 
 ---
 
