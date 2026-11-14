@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-15 01:05:51
+**Last Update:** 2026-11-15 01:44:52
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
+### 1. SpaceX Catches the Starship to end Flight 15
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://x.com/i/broadcasts/2brajgZlOKRMka">https://x.com/i/broadcasts/2brajgZlOKRMka</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50500963">https://news.ycombinator.com/item?id=50500963</a></p>
+<p>Points: 256</p>
+<p># Comments: 135</p>
+
+🔗 **Read more:** [https://x.com/i/broadcasts/2brajgZlOKRMka](https://x.com/i/broadcasts/2brajgZlOKRMka)
+
+---
+
+### 2. Dartmouth (Guarini) will not admit math PhD cohort this year
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year">https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50499945">https://news.ycombinator.com/item?id=50499945</a></p>
+<p>Points: 47</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year](https://www.thedartmouth.com/article/2026/11/gandhi-fagell-guarini-will-not-admit-math-ph-d-cohort-this-year)
+
+---
+
+### 3. LinkedIn, Monster take down over 1000 fake job postings after CBC investigation
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379">https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50499723">https://news.ycombinator.com/item?id=50499723</a></p>
+<p>Points: 130</p>
+<p># Comments: 59</p>
+
+🔗 **Read more:** [https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379](https://www.cbc.ca/news/canada/linkedin-monster-take-down-over-1-000-fake-job-postings-after-cbc-investigation-9.7415379)
+
+---
+
+### 4. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ The US has not confirmed the Ukrainian president's comments which follow meeting
 
 ---
 
-### 2. Young people should have legal guarantee of job or training, Milburn tells BBC
+### 5. Young people should have legal guarantee of job or training, Milburn tells BBC
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ The author of a major review on youth unemployment, due next week, acknowledges 
 
 ---
 
-### 3. Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight
+### 6. Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight
 
 **Source:** BBC
 
@@ -49,46 +97,46 @@ Milburn is not the first to try and fix the Neets problem - so what’s differen
 
 ---
 
-### 4. India’s Assam state demolishes homes of 132 Muslim families
+### 7. Ronaldo-less Portugal thrashed 4-1 by Denmark in the Nations League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Authorities in India’s Assam have demolished the homes of 132 Muslim families.
+Rasmus Hojlund stars with brace on as Denmark close in on a spot in the Nations League quarterfinals.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/14-11-sv-assam-muslim-families-evicted-demolition-drive?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/14/ronaldo-less-portugal-thrashed-4-1-by-denmark-in-the-nations-league?traffic_source=rss)
 
 ---
 
-### 5. Can being ‘non-Western’ cost you your home in Denmark?
+### 8. US flights resume after ageing technology blamed for outage
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Denmark’s Supreme Court is set to rule on whether families can be forced from their homes under a law.
+US flights resume after ageing technology blamed for outage
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/adlern-can_non-westren_cost_home_denmark-141126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/adlern-can_non-westren_cost_home_denmark-141126?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/us-flights-resume-after-ageing-technology-blamed-for-outage?traffic_source=rss)
 
 ---
 
-### 6. Deadly car bomb blast kills two near Syria’s capital
+### 9. US envoy Kushner says he aims to broker Europe-Russia talks on Ukraine
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-At least two people, a man and a girl, have been killed in a car bomb blast in Jaramana, near Syria&#039;s capital Damascus.
+Europe&#039;s direct engagement with Moscow as part of Ukraine-Russia peace talks is edging closer to becoming a reality.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/14/deadly-car-bomb-blast-kills-two-near-syrias-capital?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/11/14/us-envoy-kushner-says-he-aims-to-broker-europe-russia-talks-on-ukraine?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Red Hill, Perry, Mississippi
+### 10. Wildfire Red Hill, Perry, Mississippi
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
+### 11. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Prescribed Fire Compartment 170 RX, Greene, Georgia
+### 12. Prescribed Fire Compartment 170 RX, Greene, Georgia
 
 **Source:** NASA
 
