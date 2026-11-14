@@ -1,32 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-14 20:42:59
+**Last Update:** 2026-11-14 21:24:07
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. The Cloud Is Just Someone Else's Computer – They Let It Burn
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://soargram.io/content/369523282">https://soargram.io/content/369523282</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50498151">https://news.ycombinator.com/item?id=50498151</a></p>
-<p>Points: 21</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://soargram.io/content/369523282](https://soargram.io/content/369523282)
-
----
-
-### 2. Italy fines Meta €805M over photo privacy
+### 1. Italy fines Meta €805M over photo privacy
 
 **Source:** Hacker News
 
@@ -35,14 +19,14 @@
 **Description:**
 <p>Article URL: <a href="https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/">https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50498063">https://news.ycombinator.com/item?id=50498063</a></p>
-<p>Points: 36</p>
-<p># Comments: 6</p>
+<p>Points: 96</p>
+<p># Comments: 48</p>
 
 🔗 **Read more:** [https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/](https://www.rapporteur.com/news/italy-fines-meta-880mn-over-photo-privacy-authority/)
 
 ---
 
-### 3. Formalizing US Tax Code (Using Lean)
+### 2. Formalizing US Tax Code (Using Lean)
 
 **Source:** Hacker News
 
@@ -51,10 +35,26 @@
 **Description:**
 <p>Article URL: <a href="https://lexifina.com/blog/formalizing-the-us-tax-code">https://lexifina.com/blog/formalizing-the-us-tax-code</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50497900">https://news.ycombinator.com/item?id=50497900</a></p>
-<p>Points: 36</p>
-<p># Comments: 7</p>
+<p>Points: 56</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://lexifina.com/blog/formalizing-the-us-tax-code](https://lexifina.com/blog/formalizing-the-us-tax-code)
+
+---
+
+### 3. PyPI's redesigned project pages with clearer security signals are now live
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/">https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50497892">https://news.ycombinator.com/item?id=50497892</a></p>
+<p>Points: 96</p>
+<p># Comments: 27</p>
+
+🔗 **Read more:** [https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/](https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/)
 
 ---
 
