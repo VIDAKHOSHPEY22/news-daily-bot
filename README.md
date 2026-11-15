@@ -1,64 +1,42 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-15 14:09:16
+**Last Update:** 2026-11-15 20:46:40
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Why did some Apollo missions carry a grenade launcher?
+### 1. Staggered age of consent to be discussed after Brand case, minister says
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://space.stackexchange.com/questions/37775">https://space.stackexchange.com/questions/37775</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50505271">https://news.ycombinator.com/item?id=50505271</a></p>
-<p>Points: 22</p>
-<p># Comments: 10</p>
+A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal.
 
-🔗 **Read more:** [https://space.stackexchange.com/questions/37775](https://space.stackexchange.com/questions/37775)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Disk encryption on NetBSD – achieving secrecy
+### 2. Man and woman die and four arrested after police pursuit crash in Leeds
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://netbsd.org/~nia/disk-encrypt/">https://netbsd.org/~nia/disk-encrypt/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50504277">https://news.ycombinator.com/item?id=50504277</a></p>
-<p>Points: 31</p>
-<p># Comments: 2</p>
+Four people have been arrested on suspicion of causing death by dangerous driving, police say.
 
-🔗 **Read more:** [https://netbsd.org/~nia/disk-encrypt/](https://netbsd.org/~nia/disk-encrypt/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Kiri – The Modern Container Runtime
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://runkiri.com/">https://runkiri.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50504077">https://news.ycombinator.com/item?id=50504077</a></p>
-<p>Points: 51</p>
-<p># Comments: 25</p>
-
-🔗 **Read more:** [https://runkiri.com/](https://runkiri.com/)
-
----
-
-### 4. Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns
+### 3. Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns
 
 **Source:** BBC
 
@@ -71,72 +49,46 @@ Warren Arter faced claims of sexually exploiting crime victims - his wife was fo
 
 ---
 
-### 5. Alleged Russell Brand rape victim wants age of consent law changed
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Watch: SpaceX catches part of its Starship rocket on return to Earth
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-SpaceX has performed the historic catch using mechanical arms nicknamed "chopsticks".
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Polls open in Cape Verde in race with first female presidential candidate
+### 4. Somalia: We would not have recovered without the international community
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Joana Rosa and four other opposition candidates face off against President Jose Maria Neves, who wants a second term.
+Somalia continues to face al-Shabab rebellion and political friction, leading officials to urge international support.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/polls-open-in-cape-verde-in-race-with-first-female-presidential-candidate?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/polls-open-in-cape-verde-in-race-with-first-female-presidential-candidate?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/15/somalia-we-would-not-have-recovered-without-the-international-community?traffic_source=rss](https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/15/somalia-we-would-not-have-recovered-without-the-international-community?traffic_source=rss)
 
 ---
 
-### 8. Drone attacks on power stations plunge Sudan’s cities into darkness
+### 5. LIVE: Spain vs England – UEFA Nations League
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Sudan&#039;s power stations are being targeted in waves of drone attacks, resulting in power outages.
+Previews, team news and live text commentary as England and Spain vie for top spot in final Nations League group game.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss](https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/11/15/live-spain-vs-england-uefa-nations-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/11/15/live-spain-vs-england-uefa-nations-league?traffic_source=rss)
 
 ---
 
-### 9. Protesters condemn US policies as ASEAN summit begins in Manila
+### 6. Thousands rally in Czech Republic against state media funding changes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Southeast Asian leaders arriving in the Philippines for the ASEAN summit have been met with protests.
+Critics say proposed funding changes will give the government more control of state media.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/protesters-condemn-us-policies-as-asean-summit-begins-in-manila?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/protesters-condemn-us-policies-as-asean-summit-begins-in-manila?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Red Hill, Perry, Mississippi
+### 7. Wildfire Red Hill, Perry, Mississippi
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
+### 8. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Prescribed Fire Compartment 170 RX, Greene, Georgia
+### 9. Prescribed Fire Compartment 170 RX, Greene, Georgia
 
 **Source:** NASA
 
