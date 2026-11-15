@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-15T13:07:54+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Disk encryption on NetBSD – achieving secrecy",
+            "description": "<p>Article URL: <a href=\"https://netbsd.org/~nia/disk-encrypt/\">https://netbsd.org/~nia/disk-encrypt/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50504277\">https://news.ycombinator.com/item?id=50504277</a></p>\n<p>Points: 21</p>\n<p># Comments: 0</p>",
+            "url": "https://netbsd.org/~nia/disk-encrypt/",
+            "published": "Sun, 15 Nov 2026 05:29:54 +0000",
+            "fetched": "2026-11-15T13:07:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Kiri – The Modern Container Runtime",
+            "description": "<p>Article URL: <a href=\"https://runkiri.com/\">https://runkiri.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50504077\">https://news.ycombinator.com/item?id=50504077</a></p>\n<p>Points: 40</p>\n<p># Comments: 19</p>",
+            "url": "https://runkiri.com/",
+            "published": "Sun, 15 Nov 2026 04:40:41 +0000",
+            "fetched": "2026-11-15T13:07:54+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Gawain – Require type hints on all Python variables",
+            "description": "<p>Yes, i really hate \"dict[str, ANY]\"</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50504072\">https://news.ycombinator.com/item?id=50504072</a></p>\n<p>Points: 47</p>\n<p># Comments: 22</p>",
+            "url": "https://github.com/matheuzgomes/gawain",
+            "published": "Sun, 15 Nov 2026 04:39:25 +0000",
+            "fetched": "2026-11-15T13:07:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
+            "description": "Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 06:01:46 GMT",
+            "fetched": "2026-11-15T13:07:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Alleged Russell Brand rape victim wants age of consent law changed",
+            "description": "Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent.",
+            "url": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 07:19:52 GMT",
+            "fetched": "2026-11-15T13:07:54+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: SpaceX catches part of its Starship rocket on return to Earth",
+            "description": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+            "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 14 Nov 2026 22:09:40 GMT",
+            "fetched": "2026-11-15T13:07:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What forced the US to ground all planes? A router switch, we now know",
+            "description": "US officials say a routine upgrade that went awry caused the mass disruption of air travel.",
+            "url": "https://www.aljazeera.com/news/2026/11/15/what-forced-the-us-to-ground-all-planes-a-router-switch-we-now-know?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 09:17:49 +0000",
+            "fetched": "2026-11-15T13:07:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India pulled 500m people out of poverty. Many of them still barely survive",
+            "description": "World Bank says India pulled a record number of citizens out of poverty, but millions of them still live on the edge.",
+            "url": "https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 08:49:47 +0000",
+            "fetched": "2026-11-15T13:07:54+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Thousands in Portugal protest against surging rental prices",
+            "description": "Thousands of people across Portugal are angry about rising rental prices, demanding action to end the housing crisis.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 08:40:37 +0000",
+            "fetched": "2026-11-15T13:07:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-15T13:07:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-15T13:07:54+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-15T13:07:54+03:30"
+        }
+    ]
+}
