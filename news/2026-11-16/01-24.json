@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-16T01:24:33+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Your Agent Will Pick the Hackable One",
+            "description": "<p>Article URL: <a href=\"https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/\">https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50510799\">https://news.ycombinator.com/item?id=50510799</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/",
+            "published": "Sun, 15 Nov 2026 21:10:39 +0000",
+            "fetched": "2026-11-16T01:24:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost",
+            "description": "<p>Article URL: <a href=\"https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch\">https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50510442\">https://news.ycombinator.com/item?id=50510442</a></p>\n<p>Points: 33</p>\n<p># Comments: 3</p>",
+            "url": "https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch",
+            "published": "Sun, 15 Nov 2026 20:37:28 +0000",
+            "fetched": "2026-11-16T01:24:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "WebGL Flight Simulator with seed generated terrain",
+            "description": "<p>Article URL: <a href=\"https://baron.by.dai.studio/\">https://baron.by.dai.studio/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50510296\">https://news.ycombinator.com/item?id=50510296</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://baron.by.dai.studio/",
+            "published": "Sun, 15 Nov 2026 20:20:05 +0000",
+            "fetched": "2026-11-16T01:24:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Staggered age of consent to be discussed after Brand case, minister says",
+            "description": "A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal.",
+            "url": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 17:15:46 GMT",
+            "fetched": "2026-11-16T01:24:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man and woman die and four arrested after police pursuit crash in Leeds",
+            "description": "Four people have been arrested on suspicion of causing death by dangerous driving, police say.",
+            "url": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 12:38:28 GMT",
+            "fetched": "2026-11-16T01:24:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+            "description": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+            "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 19:32:39 GMT",
+            "fetched": "2026-11-16T01:24:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemen’s Houthis unilaterally release 600 war detainees",
+            "description": "Yemen’s Houthis have released 600 people imprisoned during the country’s civil war.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 21:19:08 +0000",
+            "fetched": "2026-11-16T01:24:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour",
+            "description": "The pope has called for the preservation of Indigenous traditions in Peru as he wraps up a 12-day tour of Latin America.",
+            "url": "https://www.aljazeera.com/gallery/2026/11/15/photos-pope-leo-visits-perus-amazon-and-andean-regions-during-12-day-tour?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 20:54:13 +0000",
+            "fetched": "2026-11-16T01:24:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Palestinians reclaim Gaza’s shores with a swim for hope",
+            "description": "For the first time in more than three years, Gaza’s swimming federation has held a competition.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 20:50:15 +0000",
+            "fetched": "2026-11-16T01:24:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-16T01:24:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-16T01:24:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-16T01:24:33+03:30"
+        }
+    ]
+}

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-15 21:08:37
+**Last Update:** 2026-11-16 01:24:33
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. What Picasso taught me about building AI Agents
+### 1. Your Agent Will Pick the Hackable One
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/">https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50508076">https://news.ycombinator.com/item?id=50508076</a></p>
-<p>Points: 5</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/">https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50510799">https://news.ycombinator.com/item?id=50510799</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/](https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/)
+🔗 **Read more:** [https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/](https://geoffstearns.com/blog/your-agent-will-pick-the-hackable-one/)
 
 ---
 
-### 2. The Atheist Bible
+### 2. Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://suchanek.name/texts/atheism/">https://suchanek.name/texts/atheism/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50507989">https://news.ycombinator.com/item?id=50507989</a></p>
+<p>Article URL: <a href="https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch">https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50510442">https://news.ycombinator.com/item?id=50510442</a></p>
+<p>Points: 33</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch](https://www.space.com/space-exploration/launches-spacecraft/ula-vulcan-centaur-return-to-flight-amazon-leo-internet-satellite-launch)
+
+---
+
+### 3. WebGL Flight Simulator with seed generated terrain
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://baron.by.dai.studio/">https://baron.by.dai.studio/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50510296">https://news.ycombinator.com/item?id=50510296</a></p>
 <p>Points: 7</p>
-<p># Comments: 5</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://suchanek.name/texts/atheism/](https://suchanek.name/texts/atheism/)
-
----
-
-### 3. 'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.commondreams.org/news/duffy-ground-stop-explanation">https://www.commondreams.org/news/duffy-ground-stop-explanation</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50507791">https://news.ycombinator.com/item?id=50507791</a></p>
-<p>Points: 58</p>
-<p># Comments: 12</p>
-
-🔗 **Read more:** [https://www.commondreams.org/news/duffy-ground-stop-explanation](https://www.commondreams.org/news/duffy-ground-stop-explanation)
+🔗 **Read more:** [https://baron.by.dai.studio/](https://baron.by.dai.studio/)
 
 ---
 
@@ -84,55 +84,55 @@ Four people have been arrested on suspicion of causing death by dangerous drivin
 
 ---
 
-### 6. Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns
+### 6. Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room.
+The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Somalia: We would not have recovered without the international community
+### 7. Yemen’s Houthis unilaterally release 600 war detainees
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Somalia continues to face al-Shabab rebellion and political friction, leading officials to urge international support.
+Yemen’s Houthis have released 600 people imprisoned during the country’s civil war.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/15/somalia-we-would-not-have-recovered-without-the-international-community?traffic_source=rss](https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/15/somalia-we-would-not-have-recovered-without-the-international-community?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/yemens-houthis-unilaterally-release-600-war-detainees?traffic_source=rss)
 
 ---
 
-### 8. LIVE: Spain vs England – UEFA Nations League
+### 8. Photos: Pope Leo visits Peru’s Amazon and Andean regions during 12-day tour
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Previews, team news and live text commentary as England and Spain vie for top spot in final Nations League group game.
+The pope has called for the preservation of Indigenous traditions in Peru as he wraps up a 12-day tour of Latin America.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/liveblog/2026/11/15/live-spain-vs-england-uefa-nations-league?traffic_source=rss](https://www.aljazeera.com/sports/liveblog/2026/11/15/live-spain-vs-england-uefa-nations-league?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/11/15/photos-pope-leo-visits-perus-amazon-and-andean-regions-during-12-day-tour?traffic_source=rss](https://www.aljazeera.com/gallery/2026/11/15/photos-pope-leo-visits-perus-amazon-and-andean-regions-during-12-day-tour?traffic_source=rss)
 
 ---
 
-### 9. Thousands rally in Czech Republic against state media funding changes
+### 9. Palestinians reclaim Gaza’s shores with a swim for hope
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Critics say proposed funding changes will give the government more control of state media.
+For the first time in more than three years, Gaza’s swimming federation has held a competition.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/palestinians-reclaim-gazas-shores-with-a-swim-for-hope?traffic_source=rss)
 
 ---
 
