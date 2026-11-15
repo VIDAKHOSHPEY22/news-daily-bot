@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-15 05:29:30
+**Last Update:** 2026-11-15 06:01:02
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. L3Harris statement on the Nov. 13 ground stop
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop">https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50501844">https://news.ycombinator.com/item?id=50501844</a></p>
-<p>Points: 67</p>
-<p># Comments: 37</p>
-
-🔗 **Read more:** [https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop](https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop)
-
----
-
-### 2. Nvidia deliberately kept GPU prices high through circular financing deals
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html">https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50501631">https://news.ycombinator.com/item?id=50501631</a></p>
-<p>Points: 187</p>
-<p># Comments: 108</p>
-
-🔗 **Read more:** [https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html](https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html)
-
----
-
-### 3. How did Woz write the Apple 1 BASIC before building the computer?
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://retrocomputing.stackexchange.com/questions/17957">https://retrocomputing.stackexchange.com/questions/17957</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50501594">https://news.ycombinator.com/item?id=50501594</a></p>
-<p>Points: 92</p>
-<p># Comments: 29</p>
-
-🔗 **Read more:** [https://retrocomputing.stackexchange.com/questions/17957](https://retrocomputing.stackexchange.com/questions/17957)
-
----
-
-### 4. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
+### 1. US has floated Ukraine ceding Donbas for Nato membership, Zelensky says
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ The US has not confirmed the Ukrainian president's comments - a US official told
 
 ---
 
-### 5. Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight
+### 2. Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ Milburn is not the first to try and fix the Neets problem - so what’s differen
 
 ---
 
-### 6. Alleged Russell Brand rape victim wants age of consent law changed
+### 3. Alleged Russell Brand rape victim wants age of consent law changed
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ Mia Latter, who says she was 16 when she met the convicted rapist, wants a stagg
 
 ---
 
-### 7. SpaceX’s Starship nails a smooth return with historic catch
+### 4. Iraq PM sacks nine officials over oil smuggling in pro-Iran stronghold
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.
+Dismissals follow probe that uncovered illegal oil refineries and smuggling in a region run by Kataib Hezbollah.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/iraq-pm-sacks-nine-officials-over-oil-smuggling-in-pro-iran-stronghold?traffic_source=rss)
 
 ---
 
-### 8. Israeli air strike kills senior Hamas commander in Gaza
+### 5. Netanyahu sends plea to Eisenkot for unity government
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.
+Benjamin Netanyahu has issued a public plea to opposition leader Gadi Eisenkot to form a unity government.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/netanyahu-sends-plea-to-eisenkot-for-unity-government?traffic_source=rss)
 
 ---
 
-### 9. Hundreds of men march in Switzerland to protest violence against women
+### 6. Thailand’s elderly kept in cages
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.
+A nursing home in Thailand, has been accused of keeping dozens of senior residents, in metal cages.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/thailands-elderly-kept-in-cages?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/thailands-elderly-kept-in-cages?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Red Hill, Perry, Mississippi
+### 7. Wildfire Red Hill, Perry, Mississippi
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
+### 8. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Prescribed Fire Compartment 170 RX, Greene, Georgia
+### 9. Prescribed Fire Compartment 170 RX, Greene, Georgia
 
 **Source:** NASA
 
