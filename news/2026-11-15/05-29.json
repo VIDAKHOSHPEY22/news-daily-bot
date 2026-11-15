@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-15T05:29:30+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "L3Harris statement on the Nov. 13 ground stop",
+            "description": "<p>Article URL: <a href=\"https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop\">https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50501844\">https://news.ycombinator.com/item?id=50501844</a></p>\n<p>Points: 67</p>\n<p># Comments: 37</p>",
+            "url": "https://www.l3harris.com/newsroom/press-release/2026/11/l3harris-statement-nov-13-ground-stop",
+            "published": "Sat, 14 Nov 2026 22:51:44 +0000",
+            "fetched": "2026-11-15T05:29:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+            "description": "<p>Article URL: <a href=\"https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html\">https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50501631\">https://news.ycombinator.com/item?id=50501631</a></p>\n<p>Points: 187</p>\n<p># Comments: 108</p>",
+            "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+            "published": "Sat, 14 Nov 2026 22:26:30 +0000",
+            "fetched": "2026-11-15T05:29:30+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+            "description": "<p>Article URL: <a href=\"https://retrocomputing.stackexchange.com/questions/17957\">https://retrocomputing.stackexchange.com/questions/17957</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50501594\">https://news.ycombinator.com/item?id=50501594</a></p>\n<p>Points: 92</p>\n<p># Comments: 29</p>",
+            "url": "https://retrocomputing.stackexchange.com/questions/17957",
+            "published": "Sat, 14 Nov 2026 22:22:49 +0000",
+            "fetched": "2026-11-15T05:29:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+            "description": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\".",
+            "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 14 Nov 2026 22:37:25 GMT",
+            "fetched": "2026-11-15T05:29:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
+            "description": "Milburn is not the first to try and fix the Neets problem - so what’s different this time round, asks Laura Kuenssberg.",
+            "url": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 14 Nov 2026 12:22:43 GMT",
+            "fetched": "2026-11-15T05:29:30+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Alleged Russell Brand rape victim wants age of consent law changed",
+            "description": "Mia Latter, who says she was 16 when she met the convicted rapist, wants a staggered age of consent.",
+            "url": "https://www.bbc.co.uk/news/articles/cm3rgx9p583zo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 14 Nov 2026 22:37:14 GMT",
+            "fetched": "2026-11-15T05:29:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "SpaceX’s Starship nails a smooth return with historic catch",
+            "description": "SpaceX Starship made a triumphant return to Earth, caught midair by giant mechanical ‘chopsticks’.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/15/aje-onl-nf_spacexs-starship-nails-a-smooth-return-141126?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 01:22:01 +0000",
+            "fetched": "2026-11-15T05:29:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli air strike kills senior Hamas commander in Gaza",
+            "description": "Hamas confirms the death of Rafah brigade commander Samir Abu Younis in an attack on Khan Younis on Saturday.",
+            "url": "https://www.aljazeera.com/news/2026/11/15/israeli-air-strike-kills-senior-hamas-commander-in-gaza?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 01:00:42 +0000",
+            "fetched": "2026-11-15T05:29:30+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hundreds of men march in Switzerland to protest violence against women",
+            "description": "Organisers say men must speak out, as Swiss study finds half of men aged 18 to 24 hold restrictive view of masculinity.",
+            "url": "https://www.aljazeera.com/news/2026/11/15/hundreds-of-men-march-in-switzerland-to-protest-violence-against-women?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 00:27:14 +0000",
+            "fetched": "2026-11-15T05:29:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-15T05:29:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-15T05:29:30+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-15T05:29:30+03:30"
+        }
+    ]
+}
