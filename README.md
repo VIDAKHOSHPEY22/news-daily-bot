@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-15 13:07:54
+**Last Update:** 2026-11-15 14:09:16
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Disk encryption on NetBSD – achieving secrecy
+### 1. Why did some Apollo missions carry a grenade launcher?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://space.stackexchange.com/questions/37775">https://space.stackexchange.com/questions/37775</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50505271">https://news.ycombinator.com/item?id=50505271</a></p>
+<p>Points: 22</p>
+<p># Comments: 10</p>
+
+🔗 **Read more:** [https://space.stackexchange.com/questions/37775](https://space.stackexchange.com/questions/37775)
+
+---
+
+### 2. Disk encryption on NetBSD – achieving secrecy
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://netbsd.org/~nia/disk-encrypt/">https://netbsd.org/~nia/disk-encrypt/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50504277">https://news.ycombinator.com/item?id=50504277</a></p>
-<p>Points: 21</p>
-<p># Comments: 0</p>
+<p>Points: 31</p>
+<p># Comments: 2</p>
 
 🔗 **Read more:** [https://netbsd.org/~nia/disk-encrypt/](https://netbsd.org/~nia/disk-encrypt/)
 
 ---
 
-### 2. Kiri – The Modern Container Runtime
+### 3. Kiri – The Modern Container Runtime
 
 **Source:** Hacker News
 
@@ -35,27 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://runkiri.com/">https://runkiri.com/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50504077">https://news.ycombinator.com/item?id=50504077</a></p>
-<p>Points: 40</p>
-<p># Comments: 19</p>
+<p>Points: 51</p>
+<p># Comments: 25</p>
 
 🔗 **Read more:** [https://runkiri.com/](https://runkiri.com/)
-
----
-
-### 3. Show HN: Gawain – Require type hints on all Python variables
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Yes, i really hate "dict[str, ANY]"</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50504072">https://news.ycombinator.com/item?id=50504072</a></p>
-<p>Points: 47</p>
-<p># Comments: 22</p>
-
-🔗 **Read more:** [https://github.com/matheuzgomes/gawain](https://github.com/matheuzgomes/gawain)
 
 ---
 
@@ -98,42 +97,42 @@ SpaceX has performed the historic catch using mechanical arms nicknamed "chopsti
 
 ---
 
-### 7. What forced the US to ground all planes? A router switch, we now know
+### 7. Polls open in Cape Verde in race with first female presidential candidate
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US officials say a routine upgrade that went awry caused the mass disruption of air travel.
+Joana Rosa and four other opposition candidates face off against President Jose Maria Neves, who wants a second term.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/what-forced-the-us-to-ground-all-planes-a-router-switch-we-now-know?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/what-forced-the-us-to-ground-all-planes-a-router-switch-we-now-know?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/15/polls-open-in-cape-verde-in-race-with-first-female-presidential-candidate?traffic_source=rss](https://www.aljazeera.com/news/2026/11/15/polls-open-in-cape-verde-in-race-with-first-female-presidential-candidate?traffic_source=rss)
 
 ---
 
-### 8. India pulled 500m people out of poverty. Many of them still barely survive
+### 8. Drone attacks on power stations plunge Sudan’s cities into darkness
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-World Bank says India pulled a record number of citizens out of poverty, but millions of them still live on the edge.
+Sudan&#039;s power stations are being targeted in waves of drone attacks, resulting in power outages.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss](https://www.aljazeera.com/features/2026/11/15/india-pulled-500m-people-out-of-poverty-since-2011-why-doesnt-it-feel-so?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss](https://www.aljazeera.com/features/2026/11/15/drone-strikes-on-power-stations-plunges-sudans-cities-into-darkness?traffic_source=rss)
 
 ---
 
-### 9. Thousands in Portugal protest against surging rental prices
+### 9. Protesters condemn US policies as ASEAN summit begins in Manila
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Thousands of people across Portugal are angry about rising rental prices, demanding action to end the housing crisis.
+Southeast Asian leaders arriving in the Philippines for the ASEAN summit have been met with protests.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/thousands-in-portugal-protest-against-surging-rental-prices?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/15/protesters-condemn-us-policies-as-asean-summit-begins-in-manila?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/15/protesters-condemn-us-policies-as-asean-summit-begins-in-manila?traffic_source=rss)
 
 ---
 
