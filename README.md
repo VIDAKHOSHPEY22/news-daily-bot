@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-15 20:46:40
+**Last Update:** 2026-11-15 21:08:37
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, Al Jazeera, NASA
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Staggered age of consent to be discussed after Brand case, minister says
+### 1. What Picasso taught me about building AI Agents
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/">https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50508076">https://news.ycombinator.com/item?id=50508076</a></p>
+<p>Points: 5</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/](https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/)
+
+---
+
+### 2. The Atheist Bible
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://suchanek.name/texts/atheism/">https://suchanek.name/texts/atheism/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50507989">https://news.ycombinator.com/item?id=50507989</a></p>
+<p>Points: 7</p>
+<p># Comments: 5</p>
+
+🔗 **Read more:** [https://suchanek.name/texts/atheism/](https://suchanek.name/texts/atheism/)
+
+---
+
+### 3. 'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.commondreams.org/news/duffy-ground-stop-explanation">https://www.commondreams.org/news/duffy-ground-stop-explanation</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50507791">https://news.ycombinator.com/item?id=50507791</a></p>
+<p>Points: 58</p>
+<p># Comments: 12</p>
+
+🔗 **Read more:** [https://www.commondreams.org/news/duffy-ground-stop-explanation](https://www.commondreams.org/news/duffy-ground-stop-explanation)
+
+---
+
+### 4. Staggered age of consent to be discussed after Brand case, minister says
 
 **Source:** BBC
 
@@ -23,7 +71,7 @@ A woman who alleges she was raped by the jailed comedian when she was 16 is camp
 
 ---
 
-### 2. Man and woman die and four arrested after police pursuit crash in Leeds
+### 5. Man and woman die and four arrested after police pursuit crash in Leeds
 
 **Source:** BBC
 
@@ -36,7 +84,7 @@ Four people have been arrested on suspicion of causing death by dangerous drivin
 
 ---
 
-### 3. Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns
+### 6. Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns
 
 **Source:** BBC
 
@@ -49,7 +97,7 @@ Warren Arter faced claims of sexually exploiting crime victims - his wife was fo
 
 ---
 
-### 4. Somalia: We would not have recovered without the international community
+### 7. Somalia: We would not have recovered without the international community
 
 **Source:** Al Jazeera
 
@@ -62,7 +110,7 @@ Somalia continues to face al-Shabab rebellion and political friction, leading of
 
 ---
 
-### 5. LIVE: Spain vs England – UEFA Nations League
+### 8. LIVE: Spain vs England – UEFA Nations League
 
 **Source:** Al Jazeera
 
@@ -75,7 +123,7 @@ Previews, team news and live text commentary as England and Spain vie for top sp
 
 ---
 
-### 6. Thousands rally in Czech Republic against state media funding changes
+### 9. Thousands rally in Czech Republic against state media funding changes
 
 **Source:** Al Jazeera
 
@@ -88,7 +136,7 @@ Critics say proposed funding changes will give the government more control of st
 
 ---
 
-### 7. Wildfire Red Hill, Perry, Mississippi
+### 10. Wildfire Red Hill, Perry, Mississippi
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
+### 11. Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Prescribed Fire Compartment 170 RX, Greene, Georgia
+### 12. Prescribed Fire Compartment 170 RX, Greene, Georgia
 
 **Source:** NASA
 

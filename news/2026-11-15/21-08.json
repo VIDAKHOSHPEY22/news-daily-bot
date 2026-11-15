@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-15T21:08:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What Picasso taught me about building AI Agents",
+            "description": "<p>Article URL: <a href=\"https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/\">https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50508076\">https://news.ycombinator.com/item?id=50508076</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://claramap.com/blog/what-picasso-taught-me-about-building-ai-agents/",
+            "published": "Sun, 15 Nov 2026 16:16:26 +0000",
+            "fetched": "2026-11-15T21:08:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Atheist Bible",
+            "description": "<p>Article URL: <a href=\"https://suchanek.name/texts/atheism/\">https://suchanek.name/texts/atheism/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50507989\">https://news.ycombinator.com/item?id=50507989</a></p>\n<p>Points: 7</p>\n<p># Comments: 5</p>",
+            "url": "https://suchanek.name/texts/atheism/",
+            "published": "Sun, 15 Nov 2026 16:05:53 +0000",
+            "fetched": "2026-11-15T21:08:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "'Duffy Lied': Controllers Refute Transportation Secretary's Ground Stop Story",
+            "description": "<p>Article URL: <a href=\"https://www.commondreams.org/news/duffy-ground-stop-explanation\">https://www.commondreams.org/news/duffy-ground-stop-explanation</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50507791\">https://news.ycombinator.com/item?id=50507791</a></p>\n<p>Points: 58</p>\n<p># Comments: 12</p>",
+            "url": "https://www.commondreams.org/news/duffy-ground-stop-explanation",
+            "published": "Sun, 15 Nov 2026 15:45:42 +0000",
+            "fetched": "2026-11-15T21:08:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Staggered age of consent to be discussed after Brand case, minister says",
+            "description": "A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal.",
+            "url": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 17:15:46 GMT",
+            "fetched": "2026-11-15T21:08:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Man and woman die and four arrested after police pursuit crash in Leeds",
+            "description": "Four people have been arrested on suspicion of causing death by dangerous driving, police say.",
+            "url": "https://www.bbc.co.uk/news/articles/cm3eg8x9zkvno?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 12:38:28 GMT",
+            "fetched": "2026-11-15T21:08:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Ex-Met Police inspector lied about wife's death in Barbados hotel room, BBC learns",
+            "description": "Warren Arter faced claims of sexually exploiting crime victims - his wife was found in a blood-stained room.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jd7k7g57x5o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 06:01:46 GMT",
+            "fetched": "2026-11-15T21:08:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Somalia: We would not have recovered without the international community",
+            "description": "Somalia continues to face al-Shabab rebellion and political friction, leading officials to urge international support.",
+            "url": "https://www.aljazeera.com/video/talk-to-al-jazeera/2026/11/15/somalia-we-would-not-have-recovered-without-the-international-community?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 16:47:36 +0000",
+            "fetched": "2026-11-15T21:08:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "LIVE: Spain vs England – UEFA Nations League",
+            "description": "Previews, team news and live text commentary as England and Spain vie for top spot in final Nations League group game.",
+            "url": "https://www.aljazeera.com/sports/liveblog/2026/11/15/live-spain-vs-england-uefa-nations-league?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 16:45:00 +0000",
+            "fetched": "2026-11-15T21:08:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Thousands rally in Czech Republic against state media funding changes",
+            "description": "Critics say proposed funding changes will give the government more control of state media.",
+            "url": "https://www.aljazeera.com/news/2026/11/15/thousands-rally-in-czech-republic-against-state-media-funding-changes?traffic_source=rss",
+            "published": "Sun, 15 Nov 2026 16:32:22 +0000",
+            "fetched": "2026-11-15T21:08:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-15T21:08:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-15T21:08:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-15T21:08:37+03:30"
+        }
+    ]
+}
