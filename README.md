@@ -1,28 +1,28 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-16 05:44:56
+**Last Update:** 2026-11-16 06:10:17
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Dffy: A fast terminal-native Git diff viewer, written in Rust
+### 1. Universal XSS in uBlock Origin from website-driven element picker
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/amalucelli/dffy">https://github.com/amalucelli/dffy</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50513077">https://news.ycombinator.com/item?id=50513077</a></p>
+<p>Article URL: <a href="https://iter.ca/post/ubo-uxss/">https://iter.ca/post/ubo-uxss/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50513160">https://news.ycombinator.com/item?id=50513160</a></p>
 <p>Points: 5</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/amalucelli/dffy](https://github.com/amalucelli/dffy)
+🔗 **Read more:** [https://iter.ca/post/ubo-uxss/](https://iter.ca/post/ubo-uxss/)
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.hntrends.com/2026/november.html">https://www.hntrends.com/2026/november.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50512950">https://news.ycombinator.com/item?id=50512950</a></p>
-<p>Points: 31</p>
-<p># Comments: 3</p>
+<p>Points: 41</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://www.hntrends.com/2026/november.html](https://www.hntrends.com/2026/november.html)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.colesgroup.com.au/updates/">https://www.colesgroup.com.au/updates/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50512824">https://news.ycombinator.com/item?id=50512824</a></p>
-<p>Points: 22</p>
-<p># Comments: 6</p>
+<p>Points: 35</p>
+<p># Comments: 11</p>
 
 🔗 **Read more:** [https://www.colesgroup.com.au/updates/](https://www.colesgroup.com.au/updates/)
 
@@ -97,7 +97,20 @@ The Ukrainian president says the slowed-down internet is making it difficult to 
 
 ---
 
-### 7. Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon
+### 7. Houthis advance in Yemen as government forces move to defend Aden
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+An advance by the Houthi armed group in Yemen is threatening one of the government’s last strongholds.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss)
+
+---
+
+### 8. Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Pontiff says he supports Indigenous efforts to protect their lands, demands just
 
 ---
 
-### 8. Pope urges end to Amazon deforestation
+### 9. Pope urges end to Amazon deforestation
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Pontiff says he supports Indigenous efforts to protect their lands, demands just
 Pope Leo XIV warns deforestation and illegal mining are threatening the Amazon rainforest and the local communities.
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-urges-end-to-amazon-deforestation?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-urges-end-to-amazon-deforestation?traffic_source=rss)
-
----
-
-### 9. Founder of Guadalajara cartel dies in hospital after decades in prison
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Miguel Angel Felix Gallardo was convicted of the 1985 murder of a US drug enforcement agent and a Mexican pilot.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison?traffic_source=rss](https://www.aljazeera.com/news/2026/11/16/founder-of-guadalajara-cartel-dies-in-hospital-after-decades-in-prison?traffic_source=rss)
 
 ---
 

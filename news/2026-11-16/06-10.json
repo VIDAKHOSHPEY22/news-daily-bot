@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-16T06:10:17+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Universal XSS in uBlock Origin from website-driven element picker",
+            "description": "<p>Article URL: <a href=\"https://iter.ca/post/ubo-uxss/\">https://iter.ca/post/ubo-uxss/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50513160\">https://news.ycombinator.com/item?id=50513160</a></p>\n<p>Points: 5</p>\n<p># Comments: 0</p>",
+            "url": "https://iter.ca/post/ubo-uxss/",
+            "published": "Mon, 16 Nov 2026 02:04:48 +0000",
+            "fetched": "2026-11-16T06:10:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
+            "description": "<p>Article URL: <a href=\"https://www.hntrends.com/2026/november.html\">https://www.hntrends.com/2026/november.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50512950\">https://news.ycombinator.com/item?id=50512950</a></p>\n<p>Points: 41</p>\n<p># Comments: 11</p>",
+            "url": "https://www.hntrends.com/2026/november.html",
+            "published": "Mon, 16 Nov 2026 01:31:30 +0000",
+            "fetched": "2026-11-16T06:10:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Coles hit by a cybersecurity incident",
+            "description": "<p>Article URL: <a href=\"https://www.colesgroup.com.au/updates/\">https://www.colesgroup.com.au/updates/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50512824\">https://news.ycombinator.com/item?id=50512824</a></p>\n<p>Points: 35</p>\n<p># Comments: 11</p>",
+            "url": "https://www.colesgroup.com.au/updates/",
+            "published": "Mon, 16 Nov 2026 01:14:35 +0000",
+            "fetched": "2026-11-16T06:10:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+            "description": "The report being launched this week will suggest gradually reducing employment costs over five years.",
+            "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 22:30:03 GMT",
+            "fetched": "2026-11-16T06:10:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Staggered age of consent to be discussed after Brand case, minister says",
+            "description": "A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal.",
+            "url": "https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 17:15:46 GMT",
+            "fetched": "2026-11-16T06:10:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+            "description": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+            "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 15 Nov 2026 19:32:39 GMT",
+            "fetched": "2026-11-16T06:10:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Houthis advance in Yemen as government forces move to defend Aden",
+            "description": "An advance by the Houthi armed group in Yemen is threatening one of the government’s last strongholds.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss",
+            "published": "Mon, 16 Nov 2026 02:22:29 +0000",
+            "fetched": "2026-11-16T06:10:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon",
+            "description": "Pontiff says he supports Indigenous efforts to protect their lands, demands justice for slain environmental defenders.",
+            "url": "https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss",
+            "published": "Mon, 16 Nov 2026 01:52:12 +0000",
+            "fetched": "2026-11-16T06:10:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pope urges end to Amazon deforestation",
+            "description": "Pope Leo XIV warns deforestation and illegal mining are threatening the Amazon rainforest and the local communities.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-urges-end-to-amazon-deforestation?traffic_source=rss",
+            "published": "Mon, 16 Nov 2026 01:44:11 +0000",
+            "fetched": "2026-11-16T06:10:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-16T06:10:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-16T06:10:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-16T06:10:17+03:30"
+        }
+    ]
+}
