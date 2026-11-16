@@ -1,16 +1,65 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-17 00:04:21
+**Last Update:** 2026-11-17 00:25:07
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Russell Brand prison message 'appalling' and being investigated, No 10 says
+### 1. Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Hi HN! We’re Arsh and Max, founders of Axonnic (<a href="https://axonnic.com">https://axonnic.com</a>). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare. It’s used to record human movement and generate training data for dextrous robots.<p>Here’s a demo video: <a href="https://youtube.com/shorts/xBrocTc9cfA" rel="nofollow">https://youtube.com/shorts/xBrocTc9cfA</a><p>We’ve found that electromyography (EMG) is a much better way to train robots than by video alone because video only captures movement, not muscle activity or the effort behind the movement. A useful signal can be present even when the hand barely moves; just maintaining a grip involves muscle activation. The subtle muscle movements that can barely be picked up in video are the most important details for activities like sewing and delicate assembly.<p>The sleeve has 64 channels of surface electromyography, or EMG. Electrodes on the skin detect electrical activity from muscles in the forearm. We distribute sensors across the forearm so as to not overfit to one muscle group. We synchronize EMG with hand tracking to train a model that predicts finger joint angles, then we run the decoder solely from EMG, adding in fingertip force estimates that have been calibrated from finger presses on force sensors.<p>When the user takes the sleeve off then puts it back on again, the electrode positions change, so we run tests over separate wearings. In one case, we ran a 215-second recording, four days after training, without any recalibration, and compared the results with Apple Vision Pro hand tracking. The result was just 6.9° error across 20 joint angles. We’ve published the measurements and evaluation details here: <a href="https://axonnic.com/benchmarks">https://axonnic.com/benchmarks</a>.<p>We faced many challenges doing recordings in factories, including wireless interference and unreliable off-the-shelf hardware. This led to some bad recordings and the need to repeat data collection. For that reason, we’re developing our own electronics that use a wired PCB design that will eliminate interference and timing inconsistencies.<p>Axonnic grew out of Max's EMG research at Oxford. We looked at using the technology for computer control, then we thought a more promising use-case was in capturing the effort involved in skilled manual tasks. This technology could be described as a computer to human interface. Where computers gain insight and learn from human skills. Sewing particularly stood out because the material deforms and the operator is constantly adjusting grip and tension.<p>Maxim has an Oxford MBiol and conducted research on high-density surface EMG. He previously built internal tools at Skyscanner and worked at Voxblock across PCB development and supply chain. Arsh studied medicine at Oxford and has research experience applying machine learning to medical imaging, alongside software and robotics projects. Together we have built the sleeve, decoding software and data-collection system and tested them in industrial settings.<p>So far we have the tech being used to record sewing and other manual tasks at a European manufacturer, which signed an LOI for support with robotic implementation. We have also collected construction demonstrations involving electricians, plumbers and demolition work. These are pilot and data-collection examples. Separately, our public demos include controlling a Proception robotic hand from forearm EMG.<p>If you’ve done any of your own trials for training robots for manual tasks, we’d love to hear about what tasks you were trying to train for and how the trials went. We’re happy to discuss the hardware, calibration and models here in the comments. Thanks!<p><a href="https://axonnic.com">https://axonnic.com</a></p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50522776">https://news.ycombinator.com/item?id=50522776</a></p>
+<p>Points: 7</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://news.ycombinator.com/item?id=50522776](https://news.ycombinator.com/item?id=50522776)
+
+---
+
+### 2. Rust Changed Me as a Developer
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.startifact.com/posts/how-rust-changed-me/">https://blog.startifact.com/posts/how-rust-changed-me/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50522563">https://news.ycombinator.com/item?id=50522563</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://blog.startifact.com/posts/how-rust-changed-me/](https://blog.startifact.com/posts/how-rust-changed-me/)
+
+---
+
+### 3. How to Intercept HTTP/3 Traffic: QUIC and Qpack
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/">https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50521870">https://news.ycombinator.com/item?id=50521870</a></p>
+<p>Points: 15</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/](https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/)
+
+---
+
+### 4. Russell Brand prison message 'appalling' and being investigated, No 10 says
 
 **Source:** BBC
 
@@ -23,7 +72,7 @@ Brand's wife read out comments from the comedian on their podcast in which the c
 
 ---
 
-### 2. Robert Pattinson to replace Daniel Craig as James Bond
+### 5. Robert Pattinson to replace Daniel Craig as James Bond
 
 **Source:** BBC
 
@@ -36,7 +85,7 @@ The 40-year old is best known for his role in films including Twilight, The Batm
 
 ---
 
-### 3. When will we see Robert Pattinson as Bond in cinemas?
+### 6. When will we see Robert Pattinson as Bond in cinemas?
 
 **Source:** BBC
 
@@ -49,7 +98,7 @@ Robert Pattinson has been announced as the next James Bond, becoming the seventh
 
 ---
 
-### 4. UEFA backs Diallo to challenge Infantino for FIFA presidency
+### 7. UEFA backs Diallo to challenge Infantino for FIFA presidency
 
 **Source:** Al Jazeera
 
@@ -62,7 +111,7 @@ UEFA has found its candidate to take on Gianni Infantino in next year’s FIFA p
 
 ---
 
-### 5. What will Europe do next in Ukraine?
+### 8. What will Europe do next in Ukraine?
 
 **Source:** Al Jazeera
 
@@ -75,7 +124,7 @@ There is division within the European Union over diplomatic strategy for efforts
 
 ---
 
-### 6. Nationwide ground stop could cost US airlines hundreds of millions
+### 9. Nationwide ground stop could cost US airlines hundreds of millions
 
 **Source:** Al Jazeera
 
@@ -88,7 +137,7 @@ Airline executives support modernising FAA systems as US Transportation Secretar
 
 ---
 
-### 7. Tropical Cyclone Xavier
+### 10. Tropical Cyclone Xavier
 
 **Source:** NASA
 
@@ -101,7 +150,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Wildfire Range 47, Forrest, Mississippi
+### 11. Wildfire Range 47, Forrest, Mississippi
 
 **Source:** NASA
 
@@ -114,7 +163,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire 201W, Perry, Mississippi
+### 12. Wildfire 201W, Perry, Mississippi
 
 **Source:** NASA
 
