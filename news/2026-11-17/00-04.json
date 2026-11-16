@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-17T00:04:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russell Brand prison message 'appalling' and being investigated, No 10 says",
+            "description": "Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was \"not guilty of the offences I have been jailed for\".",
+            "url": "https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 16 Nov 2026 18:22:22 GMT",
+            "fetched": "2026-11-17T00:04:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Robert Pattinson to replace Daniel Craig as James Bond",
+            "description": "The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey.",
+            "url": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 16 Nov 2026 19:43:58 GMT",
+            "fetched": "2026-11-17T00:04:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "When will we see Robert Pattinson as Bond in cinemas?",
+            "description": "Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.",
+            "url": "https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 16 Nov 2026 17:18:54 GMT",
+            "fetched": "2026-11-17T00:04:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UEFA backs Diallo to challenge Infantino for FIFA presidency",
+            "description": "UEFA has found its candidate to take on Gianni Infantino in next year’s FIFA presidential election",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/uefa-backs-diallo-to-challenge-infantino-for-fifa-presidency?traffic_source=rss",
+            "published": "Mon, 16 Nov 2026 20:20:02 +0000",
+            "fetched": "2026-11-17T00:04:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What will Europe do next in Ukraine?",
+            "description": "There is division within the European Union over diplomatic strategy for efforts to end the Russia-Ukraine war.",
+            "url": "https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss",
+            "published": "Mon, 16 Nov 2026 20:12:21 +0000",
+            "fetched": "2026-11-17T00:04:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nationwide ground stop could cost US airlines hundreds of millions",
+            "description": "Airline executives support modernising FAA systems as US Transportation Secretary Duffy seeks $50bn from Congress.",
+            "url": "https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss",
+            "published": "Mon, 16 Nov 2026 20:05:06 +0000",
+            "fetched": "2026-11-17T00:04:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-17T00:04:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-17T00:04:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 201W, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26464",
+            "published": "2026-11-13T13:31:00Z",
+            "fetched": "2026-11-17T00:04:21+03:30"
+        }
+    ]
+}
