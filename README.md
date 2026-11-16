@@ -1,64 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-16 06:10:17
+**Last Update:** 2026-11-16 13:26:28
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Universal XSS in uBlock Origin from website-driven element picker
+### 1. How to make almost anything
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://iter.ca/post/ubo-uxss/">https://iter.ca/post/ubo-uxss/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50513160">https://news.ycombinator.com/item?id=50513160</a></p>
-<p>Points: 5</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://pub.cba.mit.edu/863.26/site/">https://pub.cba.mit.edu/863.26/site/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50514470">https://news.ycombinator.com/item?id=50514470</a></p>
+<p>Points: 252</p>
+<p># Comments: 43</p>
 
-🔗 **Read more:** [https://iter.ca/post/ubo-uxss/](https://iter.ca/post/ubo-uxss/)
+🔗 **Read more:** [https://pub.cba.mit.edu/863.26/site/](https://pub.cba.mit.edu/863.26/site/)
 
 ---
 
-### 2. "Who is Hiring?" postings stuck near 12-year lows as AI reaches half of all jobs
+### 2. Did the Apollo Guidance Computer use 60% of the ICs in 1963?
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.hntrends.com/2026/november.html">https://www.hntrends.com/2026/november.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50512950">https://news.ycombinator.com/item?id=50512950</a></p>
-<p>Points: 41</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963">https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50514257">https://news.ycombinator.com/item?id=50514257</a></p>
+<p>Points: 11</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.hntrends.com/2026/november.html](https://www.hntrends.com/2026/november.html)
+🔗 **Read more:** [https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963](https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963)
 
 ---
 
-### 3. Coles hit by a cybersecurity incident
+### 3. Debian Becomes Unresponsive after 6.1.0-55 Kernel Update
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.colesgroup.com.au/updates/">https://www.colesgroup.com.au/updates/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50512824">https://news.ycombinator.com/item?id=50512824</a></p>
-<p>Points: 35</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101">https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50514180">https://news.ycombinator.com/item?id=50514180</a></p>
+<p>Points: 85</p>
+<p># Comments: 25</p>
 
-🔗 **Read more:** [https://www.colesgroup.com.au/updates/](https://www.colesgroup.com.au/updates/)
+🔗 **Read more:** [https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101)
 
 ---
 
-### 4. Cut national insurance for under-25s to create jobs, Milburn report to say
+### 4. Create more jobs for under-25s by cutting National Insurance, key report urges
 
 **Source:** BBC
 
@@ -71,68 +71,68 @@ The report being launched this week will suggest gradually reducing employment c
 
 ---
 
-### 5. Staggered age of consent to be discussed after Brand case, minister says
+### 5. UK lost more than it gained from Brexit, Burnham to say ahead of EU summit
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A woman who alleges she was raped by the jailed comedian when she was 16 is campaigning to see relationships between 16-and 17-year-olds and adults made illegal.
+The prime minister will say the "Brexit we were given has not worked" in a speech on Monday.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwdr1dmn563do?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'
+### 6. 'I'd throw up in the car park': How school anxiety is harming children's futures
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.
+As a landmark report is published, the BBC speaks to school avoiders and those trying to fix the issue.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm62pl6lglvwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm62pl6lglvwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Houthis advance in Yemen as government forces move to defend Aden
+### 7. Third US aircraft carrier arrives in Middle East amid tensions with Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An advance by the Houthi armed group in Yemen is threatening one of the government’s last strongholds.
+Trump shares a message saying: ‘May God protect our troops’ as the USS Theodore Roosevelt arrives in the Middle East.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/16/houthis-advance-in-yemen-as-government-forces-move-to-defend-aden?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss)
 
 ---
 
-### 8. Pope condemns murders of Peru’s Indigenous leaders, deforestation of Amazon
+### 8. Ronaldinho comes out retirement for 45 mins in Italy’s third division
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pontiff says he supports Indigenous efforts to protect their lands, demands justice for slain environmental defenders.
+Football legend Ronaldinho came out of retirement to play 45 minutes of a match in Italy’s third division.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss](https://www.aljazeera.com/news/2026/11/16/pope-condemns-murders-of-perus-indigenous-leaders-deforestation-of-amazon?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/sports-world/2026/11/16/ronaldinho-comes-out-retirement-for-45-mins-in-italys-third-division?traffic_source=rss](https://www.aljazeera.com/video/sports-world/2026/11/16/ronaldinho-comes-out-retirement-for-45-mins-in-italys-third-division?traffic_source=rss)
 
 ---
 
-### 9. Pope urges end to Amazon deforestation
+### 9. Kachin: where Myanmar’s rare earth minerals are in tight grip
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Pope Leo XIV warns deforestation and illegal mining are threatening the Amazon rainforest and the local communities.
+In Myanmar’s northern state of Kachin lies millions of dollars worth of rare earth minerals.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-urges-end-to-amazon-deforestation?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/16/pope-urges-end-to-amazon-deforestation?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/16/kachin-where-myanmars-rare-earth-minerals-are-in-tight-grip?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/16/kachin-where-myanmars-rare-earth-minerals-are-in-tight-grip?traffic_source=rss)
 
 ---
 

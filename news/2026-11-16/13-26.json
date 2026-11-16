@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-16T13:26:28+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How to make almost anything",
+            "description": "<p>Article URL: <a href=\"https://pub.cba.mit.edu/863.26/site/\">https://pub.cba.mit.edu/863.26/site/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50514470\">https://news.ycombinator.com/item?id=50514470</a></p>\n<p>Points: 252</p>\n<p># Comments: 43</p>",
+            "url": "https://pub.cba.mit.edu/863.26/site/",
+            "published": "Mon, 16 Nov 2026 05:50:37 +0000",
+            "fetched": "2026-11-16T13:26:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Did the Apollo Guidance Computer use 60% of the ICs in 1963?",
+            "description": "<p>Article URL: <a href=\"https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963\">https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50514257\">https://news.ycombinator.com/item?id=50514257</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+            "url": "https://retrocomputing.stackexchange.com/questions/12158/did-the-apollo-guidance-computer-really-use-60-of-the-worlds-ics-in-1963",
+            "published": "Mon, 16 Nov 2026 05:05:54 +0000",
+            "fetched": "2026-11-16T13:26:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Debian Becomes Unresponsive after 6.1.0-55 Kernel Update",
+            "description": "<p>Article URL: <a href=\"https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101\">https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50514180\">https://news.ycombinator.com/item?id=50514180</a></p>\n<p>Points: 85</p>\n<p># Comments: 25</p>",
+            "url": "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1154101",
+            "published": "Mon, 16 Nov 2026 04:53:06 +0000",
+            "fetched": "2026-11-16T13:26:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Create more jobs for under-25s by cutting National Insurance, key report urges",
+            "description": "The report being launched this week will suggest gradually reducing employment costs over five years.",
+            "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 16 Nov 2026 09:42:11 GMT",
+            "fetched": "2026-11-16T13:26:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK lost more than it gained from Brexit, Burnham to say ahead of EU summit",
+            "description": "The prime minister will say the \"Brexit we were given has not worked\" in a speech on Monday.",
+            "url": "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 16 Nov 2026 09:41:25 GMT",
+            "fetched": "2026-11-16T13:26:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I'd throw up in the car park': How school anxiety is harming children's futures",
+            "description": "As a landmark report is published, the BBC speaks to school avoiders and those trying to fix the issue.",
+            "url": "https://www.bbc.co.uk/news/articles/cm62pl6lglvwo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 16 Nov 2026 06:01:33 GMT",
+            "fetched": "2026-11-16T13:26:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Third US aircraft carrier arrives in Middle East amid tensions with Iran",
+            "description": "Trump shares a message saying: ‘May God protect our troops’ as the USS Theodore Roosevelt arrives in the Middle East.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/third-us-aircraft-carrier-arrives-in-middle-east-amid-tensions-with-iran?traffic_source=rss",
+            "published": "Mon, 16 Nov 2026 09:31:36 +0000",
+            "fetched": "2026-11-16T13:26:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ronaldinho comes out retirement for 45 mins in Italy’s third division",
+            "description": "Football legend Ronaldinho came out of retirement to play 45 minutes of a match in Italy’s third division.",
+            "url": "https://www.aljazeera.com/video/sports-world/2026/11/16/ronaldinho-comes-out-retirement-for-45-mins-in-italys-third-division?traffic_source=rss",
+            "published": "Mon, 16 Nov 2026 08:54:58 +0000",
+            "fetched": "2026-11-16T13:26:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kachin: where Myanmar’s rare earth minerals are in tight grip",
+            "description": "In Myanmar’s northern state of Kachin lies millions of dollars worth of rare earth minerals.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/16/kachin-where-myanmars-rare-earth-minerals-are-in-tight-grip?traffic_source=rss",
+            "published": "Mon, 16 Nov 2026 08:49:51 +0000",
+            "fetched": "2026-11-16T13:26:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Red Hill, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26331",
+            "published": "2026-11-12T00:22:00Z",
+            "fetched": "2026-11-16T13:26:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Bienville CPT 29 Sub 2 RX, Scott, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26332",
+            "published": "2026-11-11T09:57:00Z",
+            "fetched": "2026-11-16T13:26:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire Compartment 170 RX, Greene, Georgia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26333",
+            "published": "2026-11-09T16:30:00Z",
+            "fetched": "2026-11-16T13:26:28+03:30"
+        }
+    ]
+}
