@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-17T16:32:52+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+            "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html\">https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50530163\">https://news.ycombinator.com/item?id=50530163</a></p>\n<p>Points: 70</p>\n<p># Comments: 24</p>",
+            "url": "https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html",
+            "published": "Tue, 17 Nov 2026 11:45:51 +0000",
+            "fetched": "2026-11-17T16:32:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How the Claude Code team thinks about verification",
+            "description": "<p>Article URL: <a href=\"https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/\">https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50529612\">https://news.ycombinator.com/item?id=50529612</a></p>\n<p>Points: 63</p>\n<p># Comments: 75</p>",
+            "url": "https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/",
+            "published": "Tue, 17 Nov 2026 10:20:40 +0000",
+            "fetched": "2026-11-17T16:32:52+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "If an App Asks for Full Disk Access or System and App Protection Override",
+            "description": "<p>Article URL: <a href=\"https://support.apple.com/en-us/149699\">https://support.apple.com/en-us/149699</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50526560\">https://news.ycombinator.com/item?id=50526560</a></p>\n<p>Points: 155</p>\n<p># Comments: 86</p>",
+            "url": "https://support.apple.com/en-us/149699",
+            "published": "Tue, 17 Nov 2026 02:17:04 +0000",
+            "fetched": "2026-11-17T16:32:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What's in the Milburn review?",
+            "description": "The government-backed review proposes changes to tax, welfare and education to help get young people into work.",
+            "url": "https://www.bbc.co.uk/news/videos/c3j4r9jgkynzo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Nov 2026 11:30:06 GMT",
+            "fetched": "2026-11-17T16:32:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "At a glance: Key proposals from Milburn's Neets report",
+            "description": "A major review proposes widespread changes to help get young people into work across the UK.",
+            "url": "https://www.bbc.co.uk/news/articles/cq074grvdpz2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Nov 2026 11:31:40 GMT",
+            "fetched": "2026-11-17T16:32:52+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Where are the most jobs for 18-24 year-olds?",
+            "description": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+            "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Nov 2026 12:35:53 GMT",
+            "fetched": "2026-11-17T16:32:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How is US Senate majority leader chosen?",
+            "description": "Chris Van Hollen set to challenge Chuck Schumer for the post as the Democrats prepare to take control of Congress.",
+            "url": "https://www.aljazeera.com/news/2026/11/17/how-is-us-senate-majority-leader-chosen?traffic_source=rss",
+            "published": "Tue, 17 Nov 2026 12:38:39 +0000",
+            "fetched": "2026-11-17T16:32:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Is the US-Israel war on Iran turning into a ‘frozen conflict’?",
+            "description": "Trump says Washington doesn&#039;t need a deal with Tehran, while Iran rejects &#039;no war, no peace&#039;. Is the war at an impasse?",
+            "url": "https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss",
+            "published": "Tue, 17 Nov 2026 12:33:51 +0000",
+            "fetched": "2026-11-17T16:32:52+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump addresses Quad leaders at first summit since 2024",
+            "description": "US President Donald Trump spoke to leaders of the Quad security bloc at their first summit since 2024.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-addresses-quad-leaders-at-first-summit-since-2024?traffic_source=rss",
+            "published": "Tue, 17 Nov 2026 12:25:33 +0000",
+            "fetched": "2026-11-17T16:32:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-17T16:32:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-17T16:32:52+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 201W, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26464",
+            "published": "2026-11-13T13:31:00Z",
+            "fetched": "2026-11-17T16:32:52+03:30"
+        }
+    ]
+}

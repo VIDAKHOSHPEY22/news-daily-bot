@@ -1,94 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-17 07:30:20
+**Last Update:** 2026-11-17 16:32:52
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. 'Complete system reset' needed to get 440,000 young people into work, says major review
+### 1. New Evidence Shows School Phone Bans Are Gradually Improving Test Scores
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html">https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50530163">https://news.ycombinator.com/item?id=50530163</a></p>
+<p>Points: 70</p>
+<p># Comments: 24</p>
+
+🔗 **Read more:** [https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
+
+---
+
+### 2. How the Claude Code team thinks about verification
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/">https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50529612">https://news.ycombinator.com/item?id=50529612</a></p>
+<p>Points: 63</p>
+<p># Comments: 75</p>
+
+🔗 **Read more:** [https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)
+
+---
+
+### 3. If an App Asks for Full Disk Access or System and App Protection Override
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://support.apple.com/en-us/149699">https://support.apple.com/en-us/149699</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50526560">https://news.ycombinator.com/item?id=50526560</a></p>
+<p>Points: 155</p>
+<p># Comments: 86</p>
+
+🔗 **Read more:** [https://support.apple.com/en-us/149699](https://support.apple.com/en-us/149699)
+
+---
+
+### 4. Watch: What's in the Milburn review?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.
+The government-backed review proposes changes to tax, welfare and education to help get young people into work.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c3j4r9jgkynzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c3j4r9jgkynzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. The young people caught up in Britain's Neets crisis
+### 5. At a glance: Key proposals from Milburn's Neets report
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-BBC News speaks to four of the million young people aged 16 to 24 who are not in work, education or training.
+A major review proposes widespread changes to help get young people into work across the UK.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq074grvdpz2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq074grvdpz2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Robert Pattinson to replace Daniel Craig as James Bond
+### 6. Where are the most jobs for 18-24 year-olds?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey.
+How many jobs are there where you live and in which sectors are you most likely to find an opening?
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field
+### 7. How is US Senate majority leader chosen?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iran reports tanker mine strikes as a drone alert in Iraq and the arrival of a US aircraft carrier raise tensions.
+Chris Van Hollen set to challenge Chuck Schumer for the post as the Democrats prepare to take control of Congress.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss](https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/17/how-is-us-senate-majority-leader-chosen?traffic_source=rss](https://www.aljazeera.com/news/2026/11/17/how-is-us-senate-majority-leader-chosen?traffic_source=rss)
 
 ---
 
-### 5. US moves to block China’s remote access to AI chips amid Nvidia scandal
+### 8. Is the US-Israel war on Iran turning into a ‘frozen conflict’?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Trump administration introduces export licence requirement for Malaysia, Thailand, Indonesia, Singapore and Brazil.
+Trump says Washington doesn&#039;t need a deal with Tehran, while Iran rejects &#039;no war, no peace&#039;. Is the war at an impasse?
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss](https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss)
 
 ---
 
-### 6. Yemeni army reports 661 attacks on Houthis as group advances towards Aden
+### 9. Trump addresses Quad leaders at first summit since 2024
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Yemen&#039;s army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.
+US President Donald Trump spoke to leaders of the Quad security bloc at their first summit since 2024.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss](https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-addresses-quad-leaders-at-first-summit-since-2024?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-addresses-quad-leaders-at-first-summit-since-2024?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone Xavier
+### 10. Tropical Cyclone Xavier
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Wildfire Range 47, Forrest, Mississippi
+### 11. Wildfire Range 47, Forrest, Mississippi
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire 201W, Perry, Mississippi
+### 12. Wildfire 201W, Perry, Mississippi
 
 **Source:** NASA
 
