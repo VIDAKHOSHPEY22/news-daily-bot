@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-18T01:39:33+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+            "description": "<p>Article URL: <a href=\"https://calif.io/java4shell/\">https://calif.io/java4shell/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50538240\">https://news.ycombinator.com/item?id=50538240</a></p>\n<p>Points: 118</p>\n<p># Comments: 18</p>",
+            "url": "https://calif.io/java4shell/",
+            "published": "Tue, 17 Nov 2026 21:11:28 +0000",
+            "fetched": "2026-11-18T01:39:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Human.md",
+            "description": "<p>Article URL: <a href=\"https://www.human-md.ai/\">https://www.human-md.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50537962\">https://news.ycombinator.com/item?id=50537962</a></p>\n<p>Points: 36</p>\n<p># Comments: 22</p>",
+            "url": "https://www.human-md.ai/",
+            "published": "Tue, 17 Nov 2026 20:47:36 +0000",
+            "fetched": "2026-11-18T01:39:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Web Browser Engineering (2021)",
+            "description": "<p>Article URL: <a href=\"https://browser.engineering/\">https://browser.engineering/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50537290\">https://news.ycombinator.com/item?id=50537290</a></p>\n<p>Points: 83</p>\n<p># Comments: 10</p>",
+            "url": "https://browser.engineering/",
+            "published": "Tue, 17 Nov 2026 20:01:35 +0000",
+            "fetched": "2026-11-18T01:39:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Government backs welfare shake-up to prevent 'lost generation'",
+            "description": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+            "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Nov 2026 18:43:05 GMT",
+            "fetched": "2026-11-18T01:39:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Can I really do this?': Neets speak to BBC about struggling to get a job",
+            "description": "A government-backed review has proposed wide-ranging measures to help get young people into work - but what do young people think?",
+            "url": "https://www.bbc.co.uk/news/videos/cm0l3z8gn67eo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Nov 2026 17:35:22 GMT",
+            "fetched": "2026-11-18T01:39:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Jensen Huang says he would be 'honoured' to return as Nvidia CEO if board asked him",
+            "description": "Huang says he has had an \"outpouring\" of calls from investors and others calling for him to return.",
+            "url": "https://www.bbc.co.uk/news/articles/cwx2en2vrxmdo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Nov 2026 18:24:21 GMT",
+            "fetched": "2026-11-18T01:39:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK hands NATO-assigned US soldier accused of Russia spying to US military",
+            "description": "UK authorities have passed the investigation to the US &#039;in line with existing international protocols&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/11/17/uk-hands-nato-assigned-us-soldier-accused-of-russia-spying-to-us-military?traffic_source=rss",
+            "published": "Tue, 17 Nov 2026 21:35:24 +0000",
+            "fetched": "2026-11-18T01:39:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK sanctions Israeli settlement firms to protect two-state solution",
+            "description": "The UK has imposed new sanctions on eight Israeli companies supporting illegal settlements in the occupied West Bank.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/aje-onl-nf_uk-sanctions-eight-israeli-settlement-firms-171126?traffic_source=rss",
+            "published": "Tue, 17 Nov 2026 21:28:31 +0000",
+            "fetched": "2026-11-18T01:39:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Zero transparency’: Inside Trump’s plans for Venezuela’s oil money",
+            "description": "Democrats say they plan to investigate Trump&#039;s dealings with Venezuela after winning control of Congress.",
+            "url": "https://www.aljazeera.com/news/2026/11/17/zero-transparency-inside-trumps-plans-for-venezuelas-oil-money?traffic_source=rss",
+            "published": "Tue, 17 Nov 2026 21:26:42 +0000",
+            "fetched": "2026-11-18T01:39:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Akvan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494",
+            "published": "2026-11-16T18:00:00Z",
+            "fetched": "2026-11-18T01:39:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-18T01:39:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-18T01:39:33+03:30"
+        }
+    ]
+}
