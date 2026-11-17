@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-17T07:30:20+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+            "description": "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.",
+            "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 16 Nov 2026 22:32:47 GMT",
+            "fetched": "2026-11-17T07:30:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "The young people caught up in Britain's Neets crisis",
+            "description": "BBC News speaks to four of the million young people aged 16 to 24 who are not in work, education or training.",
+            "url": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Nov 2026 00:06:34 GMT",
+            "fetched": "2026-11-17T07:30:20+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Robert Pattinson to replace Daniel Craig as James Bond",
+            "description": "The 40-year old is best known for his role in films including Twilight, The Batman and The Odyssey.",
+            "url": "https://www.bbc.co.uk/news/articles/cwx2ev0pxmvjo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Nov 2026 02:11:57 GMT",
+            "fetched": "2026-11-17T07:30:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field",
+            "description": "Iran reports tanker mine strikes as a drone alert in Iraq and the arrival of a US aircraft carrier raise tensions.",
+            "url": "https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss",
+            "published": "Tue, 17 Nov 2026 03:12:54 +0000",
+            "fetched": "2026-11-17T07:30:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US moves to block China’s remote access to AI chips amid Nvidia scandal",
+            "description": "The Trump administration introduces export licence requirement for Malaysia, Thailand, Indonesia, Singapore and Brazil.",
+            "url": "https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss",
+            "published": "Tue, 17 Nov 2026 02:52:56 +0000",
+            "fetched": "2026-11-17T07:30:20+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemeni army reports 661 attacks on Houthis as group advances towards Aden",
+            "description": "Yemen&#039;s army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.",
+            "url": "https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss",
+            "published": "Tue, 17 Nov 2026 01:38:13 +0000",
+            "fetched": "2026-11-17T07:30:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-17T07:30:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-17T07:30:20+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 201W, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26464",
+            "published": "2026-11-13T13:31:00Z",
+            "fetched": "2026-11-17T07:30:20+03:30"
+        }
+    ]
+}
