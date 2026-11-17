@@ -1,78 +1,42 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-17 00:25:07
+**Last Update:** 2026-11-17 07:09:46
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Hi HN! We’re Arsh and Max, founders of Axonnic (<a href="https://axonnic.com">https://axonnic.com</a>). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip force, while leaving the hands bare. It’s used to record human movement and generate training data for dextrous robots.<p>Here’s a demo video: <a href="https://youtube.com/shorts/xBrocTc9cfA" rel="nofollow">https://youtube.com/shorts/xBrocTc9cfA</a><p>We’ve found that electromyography (EMG) is a much better way to train robots than by video alone because video only captures movement, not muscle activity or the effort behind the movement. A useful signal can be present even when the hand barely moves; just maintaining a grip involves muscle activation. The subtle muscle movements that can barely be picked up in video are the most important details for activities like sewing and delicate assembly.<p>The sleeve has 64 channels of surface electromyography, or EMG. Electrodes on the skin detect electrical activity from muscles in the forearm. We distribute sensors across the forearm so as to not overfit to one muscle group. We synchronize EMG with hand tracking to train a model that predicts finger joint angles, then we run the decoder solely from EMG, adding in fingertip force estimates that have been calibrated from finger presses on force sensors.<p>When the user takes the sleeve off then puts it back on again, the electrode positions change, so we run tests over separate wearings. In one case, we ran a 215-second recording, four days after training, without any recalibration, and compared the results with Apple Vision Pro hand tracking. The result was just 6.9° error across 20 joint angles. We’ve published the measurements and evaluation details here: <a href="https://axonnic.com/benchmarks">https://axonnic.com/benchmarks</a>.<p>We faced many challenges doing recordings in factories, including wireless interference and unreliable off-the-shelf hardware. This led to some bad recordings and the need to repeat data collection. For that reason, we’re developing our own electronics that use a wired PCB design that will eliminate interference and timing inconsistencies.<p>Axonnic grew out of Max's EMG research at Oxford. We looked at using the technology for computer control, then we thought a more promising use-case was in capturing the effort involved in skilled manual tasks. This technology could be described as a computer to human interface. Where computers gain insight and learn from human skills. Sewing particularly stood out because the material deforms and the operator is constantly adjusting grip and tension.<p>Maxim has an Oxford MBiol and conducted research on high-density surface EMG. He previously built internal tools at Skyscanner and worked at Voxblock across PCB development and supply chain. Arsh studied medicine at Oxford and has research experience applying machine learning to medical imaging, alongside software and robotics projects. Together we have built the sleeve, decoding software and data-collection system and tested them in industrial settings.<p>So far we have the tech being used to record sewing and other manual tasks at a European manufacturer, which signed an LOI for support with robotic implementation. We have also collected construction demonstrations involving electricians, plumbers and demolition work. These are pilot and data-collection examples. Separately, our public demos include controlling a Proception robotic hand from forearm EMG.<p>If you’ve done any of your own trials for training robots for manual tasks, we’d love to hear about what tasks you were trying to train for and how the trials went. We’re happy to discuss the hardware, calibration and models here in the comments. Thanks!<p><a href="https://axonnic.com">https://axonnic.com</a></p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50522776">https://news.ycombinator.com/item?id=50522776</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://news.ycombinator.com/item?id=50522776](https://news.ycombinator.com/item?id=50522776)
-
----
-
-### 2. Rust Changed Me as a Developer
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://blog.startifact.com/posts/how-rust-changed-me/">https://blog.startifact.com/posts/how-rust-changed-me/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50522563">https://news.ycombinator.com/item?id=50522563</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://blog.startifact.com/posts/how-rust-changed-me/](https://blog.startifact.com/posts/how-rust-changed-me/)
-
----
-
-### 3. How to Intercept HTTP/3 Traffic: QUIC and Qpack
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/">https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50521870">https://news.ycombinator.com/item?id=50521870</a></p>
-<p>Points: 15</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/](https://interceptsuite.com/blog/intercept-http3-traffic-quic-qpack-explained/)
-
----
-
-### 4. Russell Brand prison message 'appalling' and being investigated, No 10 says
+### 1. 'Complete system reset' needed to get 440,000 young people into work, says major review
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Brand's wife read out comments from the comedian on their podcast in which the convicted rapist said he was "not guilty of the offences I have been jailed for".
+Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm9d7pe8y559o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Robert Pattinson to replace Daniel Craig as James Bond
+### 2. The young people caught up in Britain's Neets crisis
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+BBC News speaks to four of the million young people aged 16 to 24 who are not in work, education or training.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 3. Robert Pattinson to replace Daniel Craig as James Bond
 
 **Source:** BBC
 
@@ -85,59 +49,46 @@ The 40-year old is best known for his role in films including Twilight, The Batm
 
 ---
 
-### 6. When will we see Robert Pattinson as Bond in cinemas?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Robert Pattinson has been announced as the next James Bond, becoming the seventh actor to take up the mantle of 007.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmd91xjd9zk2o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. UEFA backs Diallo to challenge Infantino for FIFA presidency
+### 4. Tankers hit in Strait of Hormuz as drone raises alarm at Iraq gas field
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UEFA has found its candidate to take on Gianni Infantino in next year’s FIFA presidential election
+Iran reports tanker mine strikes as a drone alert in Iraq and the arrival of a US aircraft carrier raise tensions.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/16/uefa-backs-diallo-to-challenge-infantino-for-fifa-presidency?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/16/uefa-backs-diallo-to-challenge-infantino-for-fifa-presidency?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss](https://www.aljazeera.com/news/2026/11/17/tankers-hit-in-strait-of-hormuz-as-drone-raises-alarm-at-iraq-gas-field?traffic_source=rss)
 
 ---
 
-### 8. What will Europe do next in Ukraine?
+### 5. US moves to block China’s remote access to AI chips amid Nvidia scandal
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-There is division within the European Union over diplomatic strategy for efforts to end the Russia-Ukraine war.
+The Trump administration introduces export licence requirement for Malaysia, Thailand, Indonesia, Singapore and Brazil.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss](https://www.aljazeera.com/video/inside-story/2026/11/16/what-will-europe-do-next-in-ukraine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/17/us-moves-to-block-chinas-remote-access-to-ai-chips-amid-nvidia-scandal?traffic_source=rss)
 
 ---
 
-### 9. Nationwide ground stop could cost US airlines hundreds of millions
+### 6. Yemeni army reports 661 attacks on Houthis as group advances towards Aden
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Airline executives support modernising FAA systems as US Transportation Secretary Duffy seeks $50bn from Congress.
+Yemen&#039;s army reports 173 Houthi fighters killed or wounded as government forces reposition to defend Aden.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss](https://www.aljazeera.com/news/2026/11/16/nationwide-ground-stop-could-cost-us-airlines-hundreds-of-millions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss](https://www.aljazeera.com/news/2026/11/17/yemen-army-reports-661-attacks-on-houthis-amid-houthi-push-towards-aden?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone Xavier
+### 7. Tropical Cyclone Xavier
 
 **Source:** NASA
 
@@ -150,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Wildfire Range 47, Forrest, Mississippi
+### 8. Wildfire Range 47, Forrest, Mississippi
 
 **Source:** NASA
 
@@ -163,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire 201W, Perry, Mississippi
+### 9. Wildfire 201W, Perry, Mississippi
 
 **Source:** NASA
 
