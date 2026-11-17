@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-17 16:32:52
+**Last Update:** 2026-11-17 17:10:10
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. New Evidence Shows School Phone Bans Are Gradually Improving Test Scores
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html">https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50530163">https://news.ycombinator.com/item?id=50530163</a></p>
-<p>Points: 70</p>
-<p># Comments: 24</p>
-
-🔗 **Read more:** [https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
-
----
-
-### 2. How the Claude Code team thinks about verification
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/">https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50529612">https://news.ycombinator.com/item?id=50529612</a></p>
-<p>Points: 63</p>
-<p># Comments: 75</p>
-
-🔗 **Read more:** [https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/](https://claude.dev/blog/how-the-claude-code-team-thinks-about-verification/)
-
----
-
-### 3. If an App Asks for Full Disk Access or System and App Protection Override
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://support.apple.com/en-us/149699">https://support.apple.com/en-us/149699</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50526560">https://news.ycombinator.com/item?id=50526560</a></p>
-<p>Points: 155</p>
-<p># Comments: 86</p>
-
-🔗 **Read more:** [https://support.apple.com/en-us/149699](https://support.apple.com/en-us/149699)
-
----
-
-### 4. Watch: What's in the Milburn review?
+### 1. Watch: What's in the Milburn review?
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ The government-backed review proposes changes to tax, welfare and education to h
 
 ---
 
-### 5. At a glance: Key proposals from Milburn's Neets report
+### 2. At a glance: Key proposals from Milburn's Neets report
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ A major review proposes widespread changes to help get young people into work ac
 
 ---
 
-### 6. Where are the most jobs for 18-24 year-olds?
+### 3. Where are the most jobs for 18-24 year-olds?
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ How many jobs are there where you live and in which sectors are you most likely 
 
 ---
 
-### 7. How is US Senate majority leader chosen?
+### 4. ‘Unprecedented’ Ukraine attack on Crimean bridge
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Chris Van Hollen set to challenge Chuck Schumer for the post as the Democrats prepare to take control of Congress.
+Ukraine has struck the Kerch Bridge linking Russia to Russian-annexed Crimea for a second day.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/17/how-is-us-senate-majority-leader-chosen?traffic_source=rss](https://www.aljazeera.com/news/2026/11/17/how-is-us-senate-majority-leader-chosen?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge?traffic_source=rss)
 
 ---
 
-### 8. Is the US-Israel war on Iran turning into a ‘frozen conflict’?
+### 5. At the origin of France’s education protests, students refuse to give up
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump says Washington doesn&#039;t need a deal with Tehran, while Iran rejects &#039;no war, no peace&#039;. Is the war at an impasse?
+Blockades continue at some schools in the Parisian suburbs as students and teachers say little has improved.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss](https://www.aljazeera.com/news/2026/11/17/is-the-us-israel-war-on-iran-turning-into-a-frozen-conflict?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/17/at-the-origin-of-frances-education-protests-students-refuse-to-give-up?traffic_source=rss](https://www.aljazeera.com/news/2026/11/17/at-the-origin-of-frances-education-protests-students-refuse-to-give-up?traffic_source=rss)
 
 ---
 
-### 9. Trump addresses Quad leaders at first summit since 2024
+### 6. Infantino’s FIFA challenger Diallo claims to have support beyond Europe
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump spoke to leaders of the Quad security bloc at their first summit since 2024.
+French football chief Philippe Diallo says he has received &#039;spontaneous signs of strong support&#039; against Infantino.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-addresses-quad-leaders-at-first-summit-since-2024?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/17/trump-addresses-quad-leaders-at-first-summit-since-2024?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone Xavier
+### 7. Tropical Cyclone Xavier
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Wildfire Range 47, Forrest, Mississippi
+### 8. Wildfire Range 47, Forrest, Mississippi
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire 201W, Perry, Mississippi
+### 9. Wildfire 201W, Perry, Mississippi
 
 **Source:** NASA
 

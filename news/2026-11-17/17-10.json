@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-17T17:10:10+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What's in the Milburn review?",
+            "description": "The government-backed review proposes changes to tax, welfare and education to help get young people into work.",
+            "url": "https://www.bbc.co.uk/news/videos/c3j4r9jgkynzo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Nov 2026 11:30:06 GMT",
+            "fetched": "2026-11-17T17:10:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "At a glance: Key proposals from Milburn's Neets report",
+            "description": "A major review proposes widespread changes to help get young people into work across the UK.",
+            "url": "https://www.bbc.co.uk/news/articles/cq074grvdpz2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Nov 2026 11:31:40 GMT",
+            "fetched": "2026-11-17T17:10:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Where are the most jobs for 18-24 year-olds?",
+            "description": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+            "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Nov 2026 12:35:53 GMT",
+            "fetched": "2026-11-17T17:10:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Unprecedented’ Ukraine attack on Crimean bridge",
+            "description": "Ukraine has struck the Kerch Bridge linking Russia to Russian-annexed Crimea for a second day.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/17/unprecedented-ukraine-attack-on-crimean-bridge?traffic_source=rss",
+            "published": "Tue, 17 Nov 2026 13:29:27 +0000",
+            "fetched": "2026-11-17T17:10:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At the origin of France’s education protests, students refuse to give up",
+            "description": "Blockades continue at some schools in the Parisian suburbs as students and teachers say little has improved.",
+            "url": "https://www.aljazeera.com/news/2026/11/17/at-the-origin-of-frances-education-protests-students-refuse-to-give-up?traffic_source=rss",
+            "published": "Tue, 17 Nov 2026 13:14:25 +0000",
+            "fetched": "2026-11-17T17:10:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Infantino’s FIFA challenger Diallo claims to have support beyond Europe",
+            "description": "French football chief Philippe Diallo says he has received &#039;spontaneous signs of strong support&#039; against Infantino.",
+            "url": "https://www.aljazeera.com/sports/2026/11/17/infantinos-fifa-challenger-diallo-claims-to-have-support-beyond-europe?traffic_source=rss",
+            "published": "Tue, 17 Nov 2026 13:09:31 +0000",
+            "fetched": "2026-11-17T17:10:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-17T17:10:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-17T17:10:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire 201W, Perry, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26464",
+            "published": "2026-11-13T13:31:00Z",
+            "fetched": "2026-11-17T17:10:10+03:30"
+        }
+    ]
+}
