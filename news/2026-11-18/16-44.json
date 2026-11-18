@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-18T16:44:10+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Evidence (YC S21) Is Hiring",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead\">https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50545238\">https://news.ycombinator.com/item?id=50545238</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/evidence/jobs/1xb9PpP-founding-gtm-lead",
+            "published": "Wed, 18 Nov 2026 12:00:16 +0000",
+            "fetched": "2026-11-18T16:44:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Type Fighter 2",
+            "description": "<p>Type Fighter II is an arcade inspired game for people learning to touch type.<p>Free, no account, and progress stays local. You can try on mobile, best with a physical keyboard.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50544821\">https://news.ycombinator.com/item?id=50544821</a></p>\n<p>Points: 7</p>\n<p># Comments: 4</p>",
+            "url": "https://typefighter2.com/",
+            "published": "Wed, 18 Nov 2026 11:11:53 +0000",
+            "fetched": "2026-11-18T16:44:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Codeberg.org Not Reachable",
+            "description": "<p>Article URL: <a href=\"https://social.anoxinon.de/@codebergstatus/117636437840688845\">https://social.anoxinon.de/@codebergstatus/117636437840688845</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50544261\">https://news.ycombinator.com/item?id=50544261</a></p>\n<p>Points: 243</p>\n<p># Comments: 231</p>",
+            "url": "https://social.anoxinon.de/@codebergstatus/117636437840688845",
+            "published": "Wed, 18 Nov 2026 10:02:17 +0000",
+            "fetched": "2026-11-18T16:44:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Energy bills forecast to go up by £443 a year from January as UK inflation rises again",
+            "description": "The rise to 3.6% in October is the fourth monthly increase in a row - and most economists expect it to keep going up. The Bank of England's target is 2%.",
+            "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Nov 2026 10:10:12 GMT",
+            "fetched": "2026-11-18T16:44:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
+            "description": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+            "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Nov 2026 12:39:24 GMT",
+            "fetched": "2026-11-18T16:44:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Why historic US, China and Russia meeting matters",
+            "description": "The BBC’s Laura Bicker, Steve Rosenberg and Nada Tawfik explain everything you need to know ahead of the unprecedented trilateral meeting.",
+            "url": "https://www.bbc.co.uk/news/videos/cqp86k23d84ro?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Nov 2026 08:33:32 GMT",
+            "fetched": "2026-11-18T16:44:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How data centres are turning AI-generated heat into energy",
+            "description": "How data centres are turning AI-generated heat into energy",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/how-data-centres-are-turning-ai-generated-heat-into-energy?traffic_source=rss",
+            "published": "Wed, 18 Nov 2026 12:41:02 +0000",
+            "fetched": "2026-11-18T16:44:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ukraine mourns mother, athlete and drone operator killed in Russian strike",
+            "description": "Rayana joined Ukraine’s army in 2024 to protect her son from Russia’s invasion. She was killed in Russian air strike.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/ukraine-mourns-mother-athlete-and-drone-operator-killed-in-russian-strike?traffic_source=rss",
+            "published": "Wed, 18 Nov 2026 12:27:40 +0000",
+            "fetched": "2026-11-18T16:44:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rwanda and DRC: What is holding up the Washington peace process?",
+            "description": "The two sides remain divided over key security commitments under the Washington Accords.",
+            "url": "https://www.aljazeera.com/news/2026/11/18/rwanda-and-drc-what-is-holding-up-the-washington-peace-process?traffic_source=rss",
+            "published": "Wed, 18 Nov 2026 12:27:23 +0000",
+            "fetched": "2026-11-18T16:44:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Akvan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494",
+            "published": "2026-11-16T18:00:00Z",
+            "fetched": "2026-11-18T16:44:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-18T16:44:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-18T16:44:10+03:30"
+        }
+    ]
+}
