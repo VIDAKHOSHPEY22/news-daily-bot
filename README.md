@@ -1,94 +1,142 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-18 17:16:44
+**Last Update:** 2026-11-19 00:58:37
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** BBC, NASA, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again
+### 1. Just Because You Can, Doesn't Mean You Should: Re-Evaluating Galera Node Weights
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/">https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50552169">https://news.ycombinator.com/item?id=50552169</a></p>
+<p>Points: 3</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/](https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/)
+
+---
+
+### 2. Google Gemini's "Tasks" Personal Assistant Is Now Free
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/">https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50551601">https://news.ycombinator.com/item?id=50551601</a></p>
+<p>Points: 19</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/](https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/)
+
+---
+
+### 3. Search Browser – Minimalist WebKit browser with Chrome extension support
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://searchbrowser.app/">https://searchbrowser.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50551398">https://news.ycombinator.com/item?id=50551398</a></p>
+<p>Points: 24</p>
+<p># Comments: 16</p>
+
+🔗 **Read more:** [https://searchbrowser.app/](https://searchbrowser.app/)
+
+---
+
+### 4. Inside the old gas pipeline where Ukraine is fighting an underground war with Russia
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The rise to 3.6% in October is the fourth monthly increase in a row - and most economists expect it to keep going up. The Bank of England's target is 2%.
+Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. Trump shakes hands with Putin and Xi ahead of landmark talks in China
+### 5. 'The drones don't fly here' - BBC reports from Ukraine's new front line
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The three leaders will meet together for the first time on Thursday during a closely-watched summit.
+Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin
+### 6. UK government asks for Russell Brand's YouTube account to be removed
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine.
+This comes after Brand's wife shared a message from him in which he claimed his innocence.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. How the US House of Representatives chooses its leaders: A visual guide
+### 7. What does Israel’s new ground offensive mean for Palestinians in Gaza?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-After their midterm win, Democrats will lead the House from January 3. Here’s how its speaker and leaders are chosen.
+Israeli tanks advance beyond the &#039;Yellow Line&#039;, forcing Palestinians to flee again in Gaza.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss)
 
 ---
 
-### 5. GTA 6: Everything you need to know about the highly anticipated game
+### 8. Pew Research: Islam on track to become world’s largest religion by 2035
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Economists predict GTA 6 could cost US up to $1bn in lost productivity, with the game set for release at midnight.
+The report projects steady increases for both Christianity and Islam from 2020 to 2070.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss)
 
 ---
 
-### 6. How data centres are turning AI-generated heat into energy
+### 9. Putin’s nuclear briefcase makes surprise appearance at China summit
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-How data centres are turning AI-generated heat into energy
+Russian President Vladimir Putin’s nuclear briefcase was spotted at the APEC summit in China.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/18/how-data-centres-are-turning-ai-generated-heat-into-energy?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/18/how-data-centres-are-turning-ai-generated-heat-into-energy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss)
 
 ---
 
-### 7. Tropical Cyclone Akvan
+### 10. Tropical Cyclone Akvan
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Severe Storms
 
 ---
 
-### 8. Tropical Cyclone Xavier
+### 11. Tropical Cyclone Xavier
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Severe Storms
 
 ---
 
-### 9. Wildfire Range 47, Forrest, Mississippi
+### 12. Wildfire Range 47, Forrest, Mississippi
 
 **Source:** NASA
 
