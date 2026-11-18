@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-18T17:16:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Typical energy bill forecast to go up by £443 a year from January as inflation rate rises again",
+            "description": "The rise to 3.6% in October is the fourth monthly increase in a row - and most economists expect it to keep going up. The Bank of England's target is 2%.",
+            "url": "https://www.bbc.co.uk/news/articles/cmy498kdkx3xo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Nov 2026 13:17:06 GMT",
+            "fetched": "2026-11-18T17:16:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Trump shakes hands with Putin and Xi ahead of landmark talks in China",
+            "description": "The three leaders will meet together for the first time on Thursday during a closely-watched summit.",
+            "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Nov 2026 12:39:24 GMT",
+            "fetched": "2026-11-18T17:16:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Steve Rosenberg: Historic talks with Xi and Trump are a coup for Putin",
+            "description": "Thursday's meeting between the leaders of US, China and Russia will give Vladimir Putin a big stage - but it does not bring him closer to winning the war in Ukraine.",
+            "url": "https://www.bbc.co.uk/news/articles/c9n70gd320mpo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Nov 2026 10:53:21 GMT",
+            "fetched": "2026-11-18T17:16:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How the US House of Representatives chooses its leaders: A visual guide",
+            "description": "After their midterm win, Democrats will lead the House from January 3. Here’s how its speaker and leaders are chosen.",
+            "url": "https://www.aljazeera.com/news/2026/11/18/how-the-us-house-of-representatives-chooses-its-leaders-a-visual-guide?traffic_source=rss",
+            "published": "Wed, 18 Nov 2026 13:24:22 +0000",
+            "fetched": "2026-11-18T17:16:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "GTA 6: Everything you need to know about the highly anticipated game",
+            "description": "Economists predict GTA 6 could cost US up to $1bn in lost productivity, with the game set for release at midnight.",
+            "url": "https://www.aljazeera.com/economy/2026/11/18/gta-6-everything-you-need-to-know-about-the-highly-anticipated-game?traffic_source=rss",
+            "published": "Wed, 18 Nov 2026 13:02:33 +0000",
+            "fetched": "2026-11-18T17:16:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How data centres are turning AI-generated heat into energy",
+            "description": "How data centres are turning AI-generated heat into energy",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/how-data-centres-are-turning-ai-generated-heat-into-energy?traffic_source=rss",
+            "published": "Wed, 18 Nov 2026 12:41:02 +0000",
+            "fetched": "2026-11-18T17:16:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Akvan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494",
+            "published": "2026-11-16T18:00:00Z",
+            "fetched": "2026-11-18T17:16:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-18T17:16:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-18T17:16:44+03:30"
+        }
+    ]
+}
