@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-19T01:17:09+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Just Because You Can, Doesn't Mean You Should: Re-Evaluating Galera Node Weights",
+            "description": "<p>Article URL: <a href=\"https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/\">https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50552169\">https://news.ycombinator.com/item?id=50552169</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://www.percona.com/blog/just-because-you-can-doesnt-mean-you-should-re-evaluating-galera-node-weights/",
+            "published": "Wed, 18 Nov 2026 21:11:10 +0000",
+            "fetched": "2026-11-19T01:17:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Google Gemini's \"Tasks\" Personal Assistant Is Now Free",
+            "description": "<p>Article URL: <a href=\"https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/\">https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50551601\">https://news.ycombinator.com/item?id=50551601</a></p>\n<p>Points: 19</p>\n<p># Comments: 6</p>",
+            "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+            "published": "Wed, 18 Nov 2026 20:20:17 +0000",
+            "fetched": "2026-11-19T01:17:09+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Search Browser – Minimalist WebKit browser with Chrome extension support",
+            "description": "<p>Article URL: <a href=\"https://searchbrowser.app/\">https://searchbrowser.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50551398\">https://news.ycombinator.com/item?id=50551398</a></p>\n<p>Points: 24</p>\n<p># Comments: 16</p>",
+            "url": "https://searchbrowser.app/",
+            "published": "Wed, 18 Nov 2026 20:04:31 +0000",
+            "fetched": "2026-11-19T01:17:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+            "description": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+            "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Nov 2026 17:00:40 GMT",
+            "fetched": "2026-11-19T01:17:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'The drones don't fly here' - BBC reports from Ukraine's new front line",
+            "description": "Ukrainian forces are fighting Russian troops in an old Soviet tunnel in the Kharkiv region.",
+            "url": "https://www.bbc.co.uk/news/articles/c32l507ev4v4o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Nov 2026 17:00:04 GMT",
+            "fetched": "2026-11-19T01:17:09+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK government asks for Russell Brand's YouTube account to be removed",
+            "description": "This comes after Brand's wife shared a message from him in which he claimed his innocence.",
+            "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Nov 2026 21:17:50 GMT",
+            "fetched": "2026-11-19T01:17:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US lawmakers push to raise minimum wage to $25, end tipped pay system",
+            "description": "Public support for raising the minimum wage grows, with 78 percent of voters saying it was an important election issue.",
+            "url": "https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss",
+            "published": "Wed, 18 Nov 2026 21:24:19 +0000",
+            "fetched": "2026-11-19T01:17:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Floodwaters submerge cars and parking lots in Florida town",
+            "description": "Floodwaters turned streets and parking lots into rivers in Davie, Florida, leaving drivers facing dangerous conditions.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss",
+            "published": "Wed, 18 Nov 2026 21:08:04 +0000",
+            "fetched": "2026-11-19T01:17:09+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Defence Secretary Hegseth reveals military partnership on Venezuela trip",
+            "description": "Pete Hegseth says the agreement will include joint training and intelligence sharing with the Venezuelan military.",
+            "url": "https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss",
+            "published": "Wed, 18 Nov 2026 21:01:05 +0000",
+            "fetched": "2026-11-19T01:17:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Akvan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494",
+            "published": "2026-11-16T18:00:00Z",
+            "fetched": "2026-11-19T01:17:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-19T01:17:09+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-19T01:17:09+03:30"
+        }
+    ]
+}

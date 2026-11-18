@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-19 00:58:37
+**Last Update:** 2026-11-19 01:17:09
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
@@ -97,42 +97,42 @@ This comes after Brand's wife shared a message from him in which he claimed his 
 
 ---
 
-### 7. What does Israel’s new ground offensive mean for Palestinians in Gaza?
+### 7. US lawmakers push to raise minimum wage to $25, end tipped pay system
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli tanks advance beyond the &#039;Yellow Line&#039;, forcing Palestinians to flee again in Gaza.
+Public support for raising the minimum wage grows, with 78 percent of voters saying it was an important election issue.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/what-does-israels-new-ground-offensive-mean-for-palestinians-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/18/us-lawmakers-push-to-raise-minimum-wage-to-25-end-tipped-pay-system?traffic_source=rss)
 
 ---
 
-### 8. Pew Research: Islam on track to become world’s largest religion by 2035
+### 8. Floodwaters submerge cars and parking lots in Florida town
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The report projects steady increases for both Christianity and Islam from 2020 to 2070.
+Floodwaters turned streets and parking lots into rivers in Davie, Florida, leaving drivers facing dangerous conditions.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/pew-research-islam-on-track-to-become-worlds-largest-religion-by-2035?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/18/aje-onl-nf_floodwaters-submerge-cars-in-florida-181126?traffic_source=rss)
 
 ---
 
-### 9. Putin’s nuclear briefcase makes surprise appearance at China summit
+### 9. US Defence Secretary Hegseth reveals military partnership on Venezuela trip
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russian President Vladimir Putin’s nuclear briefcase was spotted at the APEC summit in China.
+Pete Hegseth says the agreement will include joint training and intelligence sharing with the Venezuelan military.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/18/putins-nuclear-briefcase-makes-surprise-appearance-at-china-summit?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss](https://www.aljazeera.com/news/2026/11/18/us-defence-secretary-announces-military-partnership-on-trip-to-venezuela?traffic_source=rss)
 
 ---
 
