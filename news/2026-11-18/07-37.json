@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-18T07:37:47+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer\">https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50541538\">https://news.ycombinator.com/item?id=50541538</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer",
+            "published": "Wed, 18 Nov 2026 03:35:47 +0000",
+            "fetched": "2026-11-18T07:37:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Cerebras Disaggregated Inference",
+            "description": "<p>Article URL: <a href=\"https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference\">https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50540472\">https://news.ycombinator.com/item?id=50540472</a></p>\n<p>Points: 40</p>\n<p># Comments: 13</p>",
+            "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
+            "published": "Wed, 18 Nov 2026 00:56:23 +0000",
+            "fetched": "2026-11-18T07:37:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ID.me terms required for IRS sign-in",
+            "description": "<p>Article URL: <a href=\"https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in\">https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50540437\">https://news.ycombinator.com/item?id=50540437</a></p>\n<p>Points: 178</p>\n<p># Comments: 62</p>",
+            "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+            "published": "Wed, 18 Nov 2026 00:51:45 +0000",
+            "fetched": "2026-11-18T07:37:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+            "description": "China worries the scandal could ramp up pressure on the US  to further restrict the sale of advanced chips.",
+            "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Nov 2026 23:02:12 GMT",
+            "fetched": "2026-11-18T07:37:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "American soldier arrested by UK police on suspicion of spying taken into US military custody",
+            "description": "The Metropolitan Police say he has been taken into custody by the US Military over suspected national security and espionage allegations.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x284ez38vdo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Nov 2026 22:46:30 GMT",
+            "fetched": "2026-11-18T07:37:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham to set out options next month for long-term EU relationship",
+            "description": "The prime minister says he will set out options for the future \"alongside\" his 10-year economic plan.",
+            "url": "https://www.bbc.co.uk/news/articles/cwm2j3nyd44ko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 17 Nov 2026 23:40:58 GMT",
+            "fetched": "2026-11-18T07:37:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mary Peltola flips Alaska Senate seat in another Democratic win",
+            "description": "The hard-fought contest is the last to be called for the US Senate and likely faces legal challenges.",
+            "url": "https://www.aljazeera.com/news/2026/11/18/mary-peltola-wins-alaska-senate-seat-in-another-democratic-win?traffic_source=rss",
+            "published": "Wed, 18 Nov 2026 03:28:41 +0000",
+            "fetched": "2026-11-18T07:37:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nvidia shoots down calls for Jensen Huang’s return amid strong earnings",
+            "description": "Nvidia board chair says chip giant &#039;does not intend&#039; to reinstate Huang as it projects revenues of $130bn in Q4.",
+            "url": "https://www.aljazeera.com/economy/2026/11/18/nvidia-shoots-down-calls-for-jensen-huangs-return-amid-strong-earnings?traffic_source=rss",
+            "published": "Wed, 18 Nov 2026 03:00:22 +0000",
+            "fetched": "2026-11-18T07:37:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rare images of Indigenous group in Amazon highlight threats, advocates say",
+            "description": "Illegal activities in the Amazon pose grave risks to uncontacted Indigenous groups like Brazil’s Awa,.",
+            "url": "https://www.aljazeera.com/news/2026/11/18/rare-images-of-indigenous-group-in-amazon-highlight-threats-advocates-say?traffic_source=rss",
+            "published": "Wed, 18 Nov 2026 02:36:09 +0000",
+            "fetched": "2026-11-18T07:37:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Akvan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494",
+            "published": "2026-11-16T18:00:00Z",
+            "fetched": "2026-11-18T07:37:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-18T07:37:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-18T07:37:47+03:30"
+        }
+    ]
+}
