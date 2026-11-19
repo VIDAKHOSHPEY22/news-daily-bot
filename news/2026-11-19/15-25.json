@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-19T15:25:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How the European Commission rolled out Matrix to more than 40k staff",
+            "description": "<p>Article URL: <a href=\"https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/\">https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50558533\">https://news.ycombinator.com/item?id=50558533</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+            "published": "Thu, 19 Nov 2026 10:58:29 +0000",
+            "fetched": "2026-11-19T15:25:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "DeepMind Employees Are Unionising",
+            "description": "<p>Article URL: <a href=\"https://www.gdmunion.co.uk\">https://www.gdmunion.co.uk</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50557885\">https://news.ycombinator.com/item?id=50557885</a></p>\n<p>Points: 28</p>\n<p># Comments: 20</p>",
+            "url": "https://www.gdmunion.co.uk",
+            "published": "Thu, 19 Nov 2026 09:28:56 +0000",
+            "fetched": "2026-11-19T15:25:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What's New in PHP 8.6",
+            "description": "<p>Article URL: <a href=\"https://www.php.net/releases/8.6/en.php\">https://www.php.net/releases/8.6/en.php</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50557870\">https://news.ycombinator.com/item?id=50557870</a></p>\n<p>Points: 79</p>\n<p># Comments: 38</p>",
+            "url": "https://www.php.net/releases/8.6/en.php",
+            "published": "Thu, 19 Nov 2026 09:27:15 +0000",
+            "fetched": "2026-11-19T15:25:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Trump greets 'my friend' Putin as pair shake hands",
+            "description": "The pair met ahead of a trilateral meeting later with Chinese leader Xi Jinping.",
+            "url": "https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 08:31:09 GMT",
+            "fetched": "2026-11-19T15:25:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+            "description": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 00:00:59 GMT",
+            "fetched": "2026-11-19T15:25:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Leasehold system set to be scrapped in England and Wales",
+            "description": "The proposed Commonhold and Leasehold Reform Bill will also include capping ground rent at £250.",
+            "url": "https://www.bbc.co.uk/news/articles/cw987ynpd0n1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 09:26:59 GMT",
+            "fetched": "2026-11-19T15:25:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Will laser weapons change warfare?",
+            "description": "The use of lasers is increasing in warfare — which countries are deploying them and how?",
+            "url": "https://www.aljazeera.com/video/project-force-2/2026/11/19/will-lasers-weapons-change-warfare?traffic_source=rss",
+            "published": "Thu, 19 Nov 2026 11:20:00 +0000",
+            "fetched": "2026-11-19T15:25:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Denmark parliament approves security deal with Greenland and US",
+            "description": "All 109 Danish lawmakers present approved the deal, easing tensions over Trump&#039;s desire to annex the Arctic island.",
+            "url": "https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss",
+            "published": "Thu, 19 Nov 2026 11:09:00 +0000",
+            "fetched": "2026-11-19T15:25:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FIFA confirms Diallo, Tashima as Infantino’s challengers at 2027 election",
+            "description": "French football chief Philippe Diallo and Japan&#039;s Kozo Tashima will be the only candidates to run for FIFA presidency.",
+            "url": "https://www.aljazeera.com/sports/2026/11/19/fifa-confirms-diallo-tashima-as-infantinos-challengers-at-2027-election?traffic_source=rss",
+            "published": "Thu, 19 Nov 2026 10:42:53 +0000",
+            "fetched": "2026-11-19T15:25:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Akvan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494",
+            "published": "2026-11-16T18:00:00Z",
+            "fetched": "2026-11-19T15:25:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-19T15:25:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-19T15:25:16+03:30"
+        }
+    ]
+}

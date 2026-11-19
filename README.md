@@ -1,73 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-19 06:37:49
+**Last Update:** 2026-11-19 15:25:16
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI will not make you rich (2025)
+### 1. How the European Commission rolled out Matrix to more than 40k staff
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://colossus.com/article/ai-will-not-make-you-rich/">https://colossus.com/article/ai-will-not-make-you-rich/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50555093">https://news.ycombinator.com/item?id=50555093</a></p>
-<p>Points: 53</p>
-<p># Comments: 32</p>
-
-🔗 **Read more:** [https://colossus.com/article/ai-will-not-make-you-rich/](https://colossus.com/article/ai-will-not-make-you-rich/)
-
----
-
-### 2. FailTrace – Reproduce a failed GitHub Actions run locally from its URL
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/Ri4dH/failtrace">https://github.com/Ri4dH/failtrace</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50554941">https://news.ycombinator.com/item?id=50554941</a></p>
-<p>Points: 9</p>
+<p>Article URL: <a href="https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/">https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50558533">https://news.ycombinator.com/item?id=50558533</a></p>
+<p>Points: 7</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/Ri4dH/failtrace](https://github.com/Ri4dH/failtrace)
+🔗 **Read more:** [https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/)
 
 ---
 
-### 3. Unreal Tournament 2004 in the Browser
+### 2. DeepMind Employees Are Unionising
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ut2004.dev/">https://ut2004.dev/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50554935">https://news.ycombinator.com/item?id=50554935</a></p>
-<p>Points: 27</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.gdmunion.co.uk">https://www.gdmunion.co.uk</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50557885">https://news.ycombinator.com/item?id=50557885</a></p>
+<p>Points: 28</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://ut2004.dev/](https://ut2004.dev/)
+🔗 **Read more:** [https://www.gdmunion.co.uk](https://www.gdmunion.co.uk)
 
 ---
 
-### 4. Inside the old gas pipeline where Ukraine is fighting an underground war with Russia
+### 3. What's New in PHP 8.6
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.php.net/releases/8.6/en.php">https://www.php.net/releases/8.6/en.php</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50557870">https://news.ycombinator.com/item?id=50557870</a></p>
+<p>Points: 79</p>
+<p># Comments: 38</p>
+
+🔗 **Read more:** [https://www.php.net/releases/8.6/en.php](https://www.php.net/releases/8.6/en.php)
+
+---
+
+### 4. Watch: Trump greets 'my friend' Putin as pair shake hands
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.
+The pair met ahead of a trilateral meeting later with Chinese leader Xi Jinping.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,7 +84,7 @@ A former McDonald's worker calls on the firm to “change the way they treat you
 
 ---
 
-### 6. 'Feudal' leasehold system set to be scrapped in England and Wales
+### 6. Leasehold system set to be scrapped in England and Wales
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ The proposed Commonhold and Leasehold Reform Bill will also include capping grou
 
 ---
 
-### 7. Google’s driverless car hits a roadblock
+### 7. Will laser weapons change warfare?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Waymo faces fresh scrutiny after a driverless car stalled in San Francisco floodwaters amid other traffic incidents.
+The use of lasers is increasing in warfare — which countries are deploying them and how?
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/19/googles-driverless-car-hits-a-roadblock?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/19/googles-driverless-car-hits-a-roadblock?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/project-force-2/2026/11/19/will-lasers-weapons-change-warfare?traffic_source=rss](https://www.aljazeera.com/video/project-force-2/2026/11/19/will-lasers-weapons-change-warfare?traffic_source=rss)
 
 ---
 
-### 8. What do Trump, Putin and Xi want from their Shenzhen meeting?
+### 8. Denmark parliament approves security deal with Greenland and US
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The US, Chinese and Russian leaders are to hold their first three-way talks on the sidelines of the APEC summit.
+All 109 Danish lawmakers present approved the deal, easing tensions over Trump&#039;s desire to annex the Arctic island.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss](https://www.aljazeera.com/news/2026/11/19/what-do-trump-putin-and-xi-want-from-their-shenzhen-meeting?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss](https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss)
 
 ---
 
-### 9. ICJ to rule on Rohingya genocide case against Myanmar
+### 9. FIFA confirms Diallo, Tashima as Infantino’s challengers at 2027 election
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Gambia accuses Myanmar of genocide following a 2017 military crackdown that displaced at least 730,000 Rohingya.
+French football chief Philippe Diallo and Japan&#039;s Kozo Tashima will be the only candidates to run for FIFA presidency.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss](https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/19/fifa-confirms-diallo-tashima-as-infantinos-challengers-at-2027-election?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/19/fifa-confirms-diallo-tashima-as-infantinos-challengers-at-2027-election?traffic_source=rss)
 
 ---
 
