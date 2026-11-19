@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-20 00:19:44
+**Last Update:** 2026-11-20 00:50:16
 
 **Total News:** 12
 
-**Sources:** BBC, Al Jazeera, Hacker News, NASA
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.youtube.com/watch?v=lwfewYL7X0o">https://www.youtube.com/watch?v=lwfewYL7X0o</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50564366">https://news.ycombinator.com/item?id=50564366</a></p>
-<p>Points: 27</p>
-<p># Comments: 35</p>
+<p>Points: 28</p>
+<p># Comments: 40</p>
 
 🔗 **Read more:** [https://www.youtube.com/watch?v=lwfewYL7X0o](https://www.youtube.com/watch?v=lwfewYL7X0o)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine">https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50564159">https://news.ycombinator.com/item?id=50564159</a></p>
-<p>Points: 71</p>
-<p># Comments: 36</p>
+<p>Points: 86</p>
+<p># Comments: 40</p>
 
 🔗 **Read more:** [https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine](https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.anthropic.com/research/claude-black-hole-physics">https://www.anthropic.com/research/claude-black-hole-physics</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50563148">https://news.ycombinator.com/item?id=50563148</a></p>
-<p>Points: 249</p>
-<p># Comments: 97</p>
+<p>Points: 262</p>
+<p># Comments: 101</p>
 
 🔗 **Read more:** [https://www.anthropic.com/research/claude-black-hole-physics](https://www.anthropic.com/research/claude-black-hole-physics)
 
@@ -97,42 +97,42 @@ Lawyers will study the way in which Gambia proved the crucial point that Myanmar
 
 ---
 
-### 7. How vaccine fears fuelled a major measles comeback in the US
+### 7. Three arrested during Anthropic IPO protest outside Nasdaq
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Measles is making a comeback in the US as vaccination rates fall.
+As the AI giant Anthropic made its record-breaking stock market debut in New York, police arrested demonstrators
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/19/how-vaccine-fears-fuelled-a-major-measles-comeback-in-the-us?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/19/how-vaccine-fears-fuelled-a-major-measles-comeback-in-the-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/19/three-arrested-during-anthropic-ipo-protest-outside-nasdaq?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/19/three-arrested-during-anthropic-ipo-protest-outside-nasdaq?traffic_source=rss)
 
 ---
 
-### 8. Trump’s case against NYT and Penguin Random House may proceed: Judge
+### 8. Jerusalem Daily: Israel launches ground offensive in Gaza
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The lawsuit cited a book about Trump by two NYT reporters and what it said were &#039;false, malicious, defamatory&#039; articles.
+Israel launches its first major ground offensive in central Gaza, pushing beyond the ‘Yellow Line’ it controls
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/19/trumps-case-against-nyt-and-penguin-random-house-may-proceed-judge?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/19/trumps-case-against-nyt-and-penguin-random-house-may-proceed-judge?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/19/jerusalem-daily-israel-launches-ground-offensive-in-gaza-2?traffic_source=rss)
 
 ---
 
-### 9. Senate Republicans in US reject measure to limit Trump’s war powers in Iran
+### 9. Rohingya genocide survivor: ‘perpetrators will have to face consequences’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The resolution was defeated 51-48. Three Republicans broke rank, voting against the measure.
+The International Court of Justice has ruled that Myanmar committed genocide against the Rohingya.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss](https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-genocide-survivor-perpetrators-will-have-to-face?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/19/rohingya-genocide-survivor-perpetrators-will-have-to-face?traffic_source=rss)
 
 ---
 
