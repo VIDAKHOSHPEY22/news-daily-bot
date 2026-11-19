@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-19T16:17:15+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Trump greets 'my friend' Putin as pair shake hands",
+            "description": "The pair met ahead of a trilateral meeting later with Chinese leader Xi Jinping.",
+            "url": "https://www.bbc.co.uk/news/videos/c6j9m19llmv3o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 08:31:09 GMT",
+            "fetched": "2026-11-19T16:17:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+            "description": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 00:00:59 GMT",
+            "fetched": "2026-11-19T16:17:15+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Leasehold system set to be scrapped in England and Wales",
+            "description": "The proposed Commonhold and Leasehold Reform Bill will also include capping ground rent at £250.",
+            "url": "https://www.bbc.co.uk/news/articles/cw987ynpd0n1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 09:26:59 GMT",
+            "fetched": "2026-11-19T16:17:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Home of Bangladesh’s former leader Muhammad Yunus set on fire",
+            "description": "The blaze broke out during heightened violence before ousted Prime Minister Sheikh Hasina&#039;s planned return.",
+            "url": "https://www.aljazeera.com/news/2026/11/19/home-of-bangladeshs-former-leader-muhammad-yunus-set-on-fire?traffic_source=rss",
+            "published": "Thu, 19 Nov 2026 12:21:33 +0000",
+            "fetched": "2026-11-19T16:17:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "ICJ rules Myanmar committed genocide against the Rohingya",
+            "description": "The ICJ has ruled that Myanmar committed genocide against the Rohingya in northern Rakhine State.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/icj-rules-myanmar-committed-genocide-against-the-rohingya?traffic_source=rss",
+            "published": "Thu, 19 Nov 2026 12:20:19 +0000",
+            "fetched": "2026-11-19T16:17:15+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What is a ‘nuclear briefcase’, spotted at the APEC summit?",
+            "description": "Vladimir Putin&#039;s special briefcase - thought to carry access to nuclear weapons - made a rare appearance in Shenzhen.",
+            "url": "https://www.aljazeera.com/news/2026/11/19/what-is-a-nuclear-briefcase-spotted-at-the-apec-summit?traffic_source=rss",
+            "published": "Thu, 19 Nov 2026 12:11:42 +0000",
+            "fetched": "2026-11-19T16:17:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Akvan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494",
+            "published": "2026-11-16T18:00:00Z",
+            "fetched": "2026-11-19T16:17:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-19T16:17:15+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-19T16:17:15+03:30"
+        }
+    ]
+}

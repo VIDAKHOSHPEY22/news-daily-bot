@@ -1,64 +1,16 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-19 15:25:16
+**Last Update:** 2026-11-19 16:17:15
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. How the European Commission rolled out Matrix to more than 40k staff
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/">https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50558533">https://news.ycombinator.com/item?id=50558533</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/](https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/)
-
----
-
-### 2. DeepMind Employees Are Unionising
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.gdmunion.co.uk">https://www.gdmunion.co.uk</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50557885">https://news.ycombinator.com/item?id=50557885</a></p>
-<p>Points: 28</p>
-<p># Comments: 20</p>
-
-🔗 **Read more:** [https://www.gdmunion.co.uk](https://www.gdmunion.co.uk)
-
----
-
-### 3. What's New in PHP 8.6
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.php.net/releases/8.6/en.php">https://www.php.net/releases/8.6/en.php</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50557870">https://news.ycombinator.com/item?id=50557870</a></p>
-<p>Points: 79</p>
-<p># Comments: 38</p>
-
-🔗 **Read more:** [https://www.php.net/releases/8.6/en.php](https://www.php.net/releases/8.6/en.php)
-
----
-
-### 4. Watch: Trump greets 'my friend' Putin as pair shake hands
+### 1. Watch: Trump greets 'my friend' Putin as pair shake hands
 
 **Source:** BBC
 
@@ -71,7 +23,7 @@ The pair met ahead of a trilateral meeting later with Chinese leader Xi Jinping.
 
 ---
 
-### 5. McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'
+### 2. McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'
 
 **Source:** BBC
 
@@ -84,7 +36,7 @@ A former McDonald's worker calls on the firm to “change the way they treat you
 
 ---
 
-### 6. Leasehold system set to be scrapped in England and Wales
+### 3. Leasehold system set to be scrapped in England and Wales
 
 **Source:** BBC
 
@@ -97,46 +49,46 @@ The proposed Commonhold and Leasehold Reform Bill will also include capping grou
 
 ---
 
-### 7. Will laser weapons change warfare?
+### 4. Home of Bangladesh’s former leader Muhammad Yunus set on fire
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The use of lasers is increasing in warfare — which countries are deploying them and how?
+The blaze broke out during heightened violence before ousted Prime Minister Sheikh Hasina&#039;s planned return.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/project-force-2/2026/11/19/will-lasers-weapons-change-warfare?traffic_source=rss](https://www.aljazeera.com/video/project-force-2/2026/11/19/will-lasers-weapons-change-warfare?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/19/home-of-bangladeshs-former-leader-muhammad-yunus-set-on-fire?traffic_source=rss](https://www.aljazeera.com/news/2026/11/19/home-of-bangladeshs-former-leader-muhammad-yunus-set-on-fire?traffic_source=rss)
 
 ---
 
-### 8. Denmark parliament approves security deal with Greenland and US
+### 5. ICJ rules Myanmar committed genocide against the Rohingya
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-All 109 Danish lawmakers present approved the deal, easing tensions over Trump&#039;s desire to annex the Arctic island.
+The ICJ has ruled that Myanmar committed genocide against the Rohingya in northern Rakhine State.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss](https://www.aljazeera.com/news/2026/11/19/denmark-parliament-approves-security-deal-with-greenland-and-us?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/19/icj-rules-myanmar-committed-genocide-against-the-rohingya?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/19/icj-rules-myanmar-committed-genocide-against-the-rohingya?traffic_source=rss)
 
 ---
 
-### 9. FIFA confirms Diallo, Tashima as Infantino’s challengers at 2027 election
+### 6. What is a ‘nuclear briefcase’, spotted at the APEC summit?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-French football chief Philippe Diallo and Japan&#039;s Kozo Tashima will be the only candidates to run for FIFA presidency.
+Vladimir Putin&#039;s special briefcase - thought to carry access to nuclear weapons - made a rare appearance in Shenzhen.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/19/fifa-confirms-diallo-tashima-as-infantinos-challengers-at-2027-election?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/19/fifa-confirms-diallo-tashima-as-infantinos-challengers-at-2027-election?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/19/what-is-a-nuclear-briefcase-spotted-at-the-apec-summit?traffic_source=rss](https://www.aljazeera.com/news/2026/11/19/what-is-a-nuclear-briefcase-spotted-at-the-apec-summit?traffic_source=rss)
 
 ---
 
-### 10. Tropical Cyclone Akvan
+### 7. Tropical Cyclone Akvan
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Severe Storms
 
 ---
 
-### 11. Tropical Cyclone Xavier
+### 8. Tropical Cyclone Xavier
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Severe Storms
 
 ---
 
-### 12. Wildfire Range 47, Forrest, Mississippi
+### 9. Wildfire Range 47, Forrest, Mississippi
 
 **Source:** NASA
 
