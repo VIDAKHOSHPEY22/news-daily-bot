@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-20T00:19:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]",
+            "description": "<p>Article URL: <a href=\"https://www.youtube.com/watch?v=lwfewYL7X0o\">https://www.youtube.com/watch?v=lwfewYL7X0o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50564366\">https://news.ycombinator.com/item?id=50564366</a></p>\n<p>Points: 27</p>\n<p># Comments: 35</p>",
+            "url": "https://www.youtube.com/watch?v=lwfewYL7X0o",
+            "published": "Thu, 19 Nov 2026 18:47:16 +0000",
+            "fetched": "2026-11-20T00:19:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
+            "description": "<p>Article URL: <a href=\"https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine\">https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50564159\">https://news.ycombinator.com/item?id=50564159</a></p>\n<p>Points: 71</p>\n<p># Comments: 36</p>",
+            "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+            "published": "Thu, 19 Nov 2026 18:35:17 +0000",
+            "fetched": "2026-11-20T00:19:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude solves two open problems in the physics of black holes",
+            "description": "<p>Article URL: <a href=\"https://www.anthropic.com/research/claude-black-hole-physics\">https://www.anthropic.com/research/claude-black-hole-physics</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50563148\">https://news.ycombinator.com/item?id=50563148</a></p>\n<p>Points: 249</p>\n<p># Comments: 97</p>",
+            "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+            "published": "Thu, 19 Nov 2026 17:30:44 +0000",
+            "fetched": "2026-11-20T00:19:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Men guilty of abusing woman drugged and advertised for sex by husband",
+            "description": "Philip Young, 50, drugged and raped his wife, Joanne Young, over a 13-year period.",
+            "url": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 17:42:25 GMT",
+            "fetched": "2026-11-20T00:19:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'You can be believed and understood': Joanne Young speaks after verdict",
+            "description": "Joanne Young, who has waived her right to anonymity, urged other victims of similar crimes to come forward.",
+            "url": "https://www.bbc.co.uk/news/videos/cv0l31g7g8j0o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 16:44:22 GMT",
+            "fetched": "2026-11-20T00:19:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Bowen: Myanmar genocide verdict is historic and could have far-reaching implications",
+            "description": "Lawyers will study the way in which Gambia proved the crucial point that Myanmar intended to commit genocide, writes the BBC's international editor.",
+            "url": "https://www.bbc.co.uk/news/articles/c6ly58ndgd0no?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 20:02:02 GMT",
+            "fetched": "2026-11-20T00:19:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How vaccine fears fuelled a major measles comeback in the US",
+            "description": "Measles is making a comeback in the US as vaccination rates fall.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/how-vaccine-fears-fuelled-a-major-measles-comeback-in-the-us?traffic_source=rss",
+            "published": "Thu, 19 Nov 2026 20:35:14 +0000",
+            "fetched": "2026-11-20T00:19:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump’s case against NYT and Penguin Random House may proceed: Judge",
+            "description": "The lawsuit cited a book about Trump by two NYT reporters and what it said were &#039;false, malicious, defamatory&#039; articles.",
+            "url": "https://www.aljazeera.com/economy/2026/11/19/trumps-case-against-nyt-and-penguin-random-house-may-proceed-judge?traffic_source=rss",
+            "published": "Thu, 19 Nov 2026 20:32:46 +0000",
+            "fetched": "2026-11-20T00:19:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Senate Republicans in US reject measure to limit Trump’s war powers in Iran",
+            "description": "The resolution was defeated 51-48. Three Republicans broke rank, voting against the measure.",
+            "url": "https://www.aljazeera.com/news/2026/11/19/senate-republicans-in-us-reject-measure-to-limit-trumps-war-powers-in-iran?traffic_source=rss",
+            "published": "Thu, 19 Nov 2026 20:30:54 +0000",
+            "fetched": "2026-11-20T00:19:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Akvan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494",
+            "published": "2026-11-16T18:00:00Z",
+            "fetched": "2026-11-20T00:19:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-20T00:19:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-20T00:19:44+03:30"
+        }
+    ]
+}
