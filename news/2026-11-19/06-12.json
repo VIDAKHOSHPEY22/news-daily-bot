@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-19T06:12:28+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI Will Not Make You Rich (2025)",
+            "description": "<p>Article URL: <a href=\"https://colossus.com/article/ai-will-not-make-you-rich/\">https://colossus.com/article/ai-will-not-make-you-rich/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50555093\">https://news.ycombinator.com/item?id=50555093</a></p>\n<p>Points: 35</p>\n<p># Comments: 16</p>",
+            "url": "https://colossus.com/article/ai-will-not-make-you-rich/",
+            "published": "Thu, 19 Nov 2026 01:51:28 +0000",
+            "fetched": "2026-11-19T06:12:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools",
+            "description": "<p>Article URL: <a href=\"https://adeindex.com\">https://adeindex.com</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50554973\">https://news.ycombinator.com/item?id=50554973</a></p>\n<p>Points: 6</p>\n<p># Comments: 2</p>",
+            "url": "https://adeindex.com",
+            "published": "Thu, 19 Nov 2026 01:33:52 +0000",
+            "fetched": "2026-11-19T06:12:28+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "FailTrace – Reproduce a failed GitHub Actions run locally from its URL",
+            "description": "<p>Article URL: <a href=\"https://github.com/Ri4dH/failtrace\">https://github.com/Ri4dH/failtrace</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50554941\">https://news.ycombinator.com/item?id=50554941</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/Ri4dH/failtrace",
+            "published": "Thu, 19 Nov 2026 01:30:43 +0000",
+            "fetched": "2026-11-19T06:12:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Inside the old gas pipeline where Ukraine is fighting an underground war with Russia",
+            "description": "Watch: The BBC's Jonathan Beale joins Ukrainian forces taking the battle below ground and out of sight of Russian drones.",
+            "url": "https://www.bbc.co.uk/news/videos/c8p3vw4q6nzzo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 18 Nov 2026 17:00:40 GMT",
+            "fetched": "2026-11-19T06:12:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "McDonald's sex abuse: 'They were waiting for the younger girls to turn 18'",
+            "description": "A former McDonald's worker calls on the firm to “change the way they treat younger employees” as a judge rules a legal case against the chain can go ahead.",
+            "url": "https://www.bbc.co.uk/news/articles/c6x2eve321jno?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 00:00:59 GMT",
+            "fetched": "2026-11-19T06:12:28+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Feudal' leasehold system set to be scrapped in England and Wales",
+            "description": "The proposed Commonhold and Leasehold Reform Bill will also include capping ground rent at £250.",
+            "url": "https://www.bbc.co.uk/news/articles/cw987ynpd0n1o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 02:02:23 GMT",
+            "fetched": "2026-11-19T06:12:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "ICJ to rule on Rohingya genocide case against Myanmar",
+            "description": "The Gambia accuses Myanmar of genocide following a 2017 military crackdown that displaced at least 730,000 Rohingya.",
+            "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar?traffic_source=rss",
+            "published": "Thu, 19 Nov 2026 02:10:43 +0000",
+            "fetched": "2026-11-19T06:12:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Hegseth unveils new US-Venezuela military deal",
+            "description": "Pete Hegseth has unveiled a new military deal with Venezuela in his first visit since the US capture of Nicolas Maduro.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/19/hegseth-unveils-new-us-venezuela-military-deal?traffic_source=rss",
+            "published": "Thu, 19 Nov 2026 01:48:46 +0000",
+            "fetched": "2026-11-19T06:12:28+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why a trio of experts alleges Jeffrey Epstein did not die by suicide",
+            "description": "A new report alleges that injuries on Epstein&#039;s body were overlooked by medical examiners during his 2019 autopsy.",
+            "url": "https://www.aljazeera.com/news/2026/11/19/why-a-trio-of-experts-alleges-jeffrey-epstein-did-not-die-by-suicide?traffic_source=rss",
+            "published": "Thu, 19 Nov 2026 01:17:08 +0000",
+            "fetched": "2026-11-19T06:12:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Akvan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494",
+            "published": "2026-11-16T18:00:00Z",
+            "fetched": "2026-11-19T06:12:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-19T06:12:28+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-19T06:12:28+03:30"
+        }
+    ]
+}
