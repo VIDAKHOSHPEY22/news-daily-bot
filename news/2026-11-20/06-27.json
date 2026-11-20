@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-20T06:27:32+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+            "description": "<p>Article URL: <a href=\"https://github.com/openssl/openssl/pull/33652\">https://github.com/openssl/openssl/pull/33652</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50569226\">https://news.ycombinator.com/item?id=50569226</a></p>\n<p>Points: 27</p>\n<p># Comments: 3</p>",
+            "url": "https://github.com/openssl/openssl/pull/33652",
+            "published": "Fri, 20 Nov 2026 02:01:09 +0000",
+            "fetched": "2026-11-20T06:27:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Vint Cerf on why TCP/IP was never patented",
+            "description": "<p>Article URL: <a href=\"https://seremot.com/p/vint-cerf-on-why-tcpip-was-never\">https://seremot.com/p/vint-cerf-on-why-tcpip-was-never</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50568861\">https://news.ycombinator.com/item?id=50568861</a></p>\n<p>Points: 19</p>\n<p># Comments: 3</p>",
+            "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+            "published": "Fri, 20 Nov 2026 01:06:12 +0000",
+            "fetched": "2026-11-20T06:27:32+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Postgres 19 is out, and it's available on Neon and Databricks Lakebase",
+            "description": "<p>Article URL: <a href=\"https://www.databricks.com/blog/postgresql-19-available-lakebase\">https://www.databricks.com/blog/postgresql-19-available-lakebase</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50568643\">https://news.ycombinator.com/item?id=50568643</a></p>\n<p>Points: 9</p>\n<p># Comments: 3</p>",
+            "url": "https://www.databricks.com/blog/postgresql-19-available-lakebase",
+            "published": "Fri, 20 Nov 2026 00:37:31 +0000",
+            "fetched": "2026-11-20T06:27:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Woman drugged and advertised for sex by husband speaks out as abusers found guilty",
+            "description": "Joanne Young said the actions of her husband over 13 years had \"cost me my life as I knew it\".",
+            "url": "https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 01:12:45 GMT",
+            "fetched": "2026-11-20T06:27:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+            "description": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+            "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 00:02:07 GMT",
+            "fetched": "2026-11-20T06:27:32+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
+            "description": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
+            "url": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 19 Nov 2026 23:33:51 GMT",
+            "fetched": "2026-11-20T06:27:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Beloved hippo Fiona dies days after swallowing visitor’s hat",
+            "description": "Hippo Fiona, who became a global sensation after being born six weeks premature in 2017, has died at Cincinnati Zoo.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 02:51:44 +0000",
+            "fetched": "2026-11-20T06:27:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing",
+            "description": "Trump’s nominee to lead the US agency responsible for election security, refused to call the insurrection an attack.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 02:25:33 +0000",
+            "fetched": "2026-11-20T06:27:32+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Meta rethinks 2030 climate goals as AI data centres drive emissions up",
+            "description": "Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.",
+            "url": "https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 01:29:28 +0000",
+            "fetched": "2026-11-20T06:27:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Akvan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494",
+            "published": "2026-11-16T18:00:00Z",
+            "fetched": "2026-11-20T06:27:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-20T06:27:32+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-20T06:27:32+03:30"
+        }
+    ]
+}
