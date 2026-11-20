@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-20T23:27:00+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Al Jazeera",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GrapheneOS claims Google is now waging war against it, could lock Pixel bootload",
+            "description": "<p>Article URL: <a href=\"https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/\">https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50580385\">https://news.ycombinator.com/item?id=50580385</a></p>\n<p>Points: 23</p>\n<p># Comments: 6</p>",
+            "url": "https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/",
+            "published": "Fri, 20 Nov 2026 19:21:49 +0000",
+            "fetched": "2026-11-20T23:27:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hurried Announcement: Alessandro Masullo GRH",
+            "description": "<p>Article URL: <a href=\"https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/\">https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50579568\">https://news.ycombinator.com/item?id=50579568</a></p>\n<p>Points: 539</p>\n<p># Comments: 189</p>",
+            "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+            "published": "Fri, 20 Nov 2026 18:33:14 +0000",
+            "fetched": "2026-11-20T23:27:00+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "We promoted developers into architects without informing them",
+            "description": "<p>Article URL: <a href=\"https://manidoraisamy.com/developer-to-architect.html\">https://manidoraisamy.com/developer-to-architect.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50579331\">https://news.ycombinator.com/item?id=50579331</a></p>\n<p>Points: 76</p>\n<p># Comments: 37</p>",
+            "url": "https://manidoraisamy.com/developer-to-architect.html",
+            "published": "Fri, 20 Nov 2026 18:17:51 +0000",
+            "fetched": "2026-11-20T23:27:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+            "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 17:49:48 GMT",
+            "fetched": "2026-11-20T23:27:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+            "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+            "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 16:41:52 GMT",
+            "fetched": "2026-11-20T23:27:00+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
+            "description": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+            "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 16:54:29 GMT",
+            "fetched": "2026-11-20T23:27:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Indian man sentenced to 19 years in US Sikh separatist assassination plot",
+            "description": "Nikhil Gupta jailed for conspiring to hire a hitman to kill New York-based Sikh leader, Gurpatwant Singh Pannun.",
+            "url": "https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 19:40:07 +0000",
+            "fetched": "2026-11-20T23:27:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Nepal cricket fans celebrate their team’s global rise",
+            "description": "Nepal’s cricket fans have witnessed a transformation in their national team’s fortunes in recent years.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/20/nepal-cricket-fans-celebrate-their-teams-global-rise?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 19:24:26 +0000",
+            "fetched": "2026-11-20T23:27:00+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Belgrade mayor charged with assaulting opposition politician in Serbia",
+            "description": "Prosecutors say Aleksandar Sapic caused serious facial injuries to a female councillor and seek a three-year sentence.",
+            "url": "https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 19:15:18 +0000",
+            "fetched": "2026-11-20T23:27:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-20T23:27:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-20T23:27:00+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-20T23:27:00+03:30"
+        }
+    ]
+}

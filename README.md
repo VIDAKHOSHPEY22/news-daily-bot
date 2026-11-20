@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-20 22:09:47
+**Last Update:** 2026-11-20 23:27:00
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** BBC, Al Jazeera, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. We promoted developers into architects without informing them
+### 1. GrapheneOS claims Google is now waging war against it, could lock Pixel bootload
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/">https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50580385">https://news.ycombinator.com/item?id=50580385</a></p>
+<p>Points: 23</p>
+<p># Comments: 6</p>
+
+🔗 **Read more:** [https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/](https://www.androidauthority.com/grapheneos-team-google-pressure-3737525/)
+
+---
+
+### 2. Hurried Announcement: Alessandro Masullo GRH
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/">https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50579568">https://news.ycombinator.com/item?id=50579568</a></p>
+<p>Points: 539</p>
+<p># Comments: 189</p>
+
+🔗 **Read more:** [https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
+
+---
+
+### 3. We promoted developers into architects without informing them
 
 **Source:** Hacker News
 
@@ -19,42 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://manidoraisamy.com/developer-to-architect.html">https://manidoraisamy.com/developer-to-architect.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50579331">https://news.ycombinator.com/item?id=50579331</a></p>
-<p>Points: 7</p>
-<p># Comments: 1</p>
+<p>Points: 76</p>
+<p># Comments: 37</p>
 
 🔗 **Read more:** [https://manidoraisamy.com/developer-to-architect.html](https://manidoraisamy.com/developer-to-architect.html)
-
----
-
-### 2. Anthropic shares tank after IPO as the Nasdaq erases 2026 gains
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394">https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50578794">https://news.ycombinator.com/item?id=50578794</a></p>
-<p>Points: 46</p>
-<p># Comments: 21</p>
-
-🔗 **Read more:** [https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394](https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394)
-
----
-
-### 3. Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/">https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50578358">https://news.ycombinator.com/item?id=50578358</a></p>
-<p>Points: 34</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/](https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/)
 
 ---
 
@@ -97,42 +97,42 @@ Nobody was hurt and no damage has been reported, but Warsaw described the incide
 
 ---
 
-### 7. Zohran Mamdani unveils plan to close New York’s Rikers Island jail by 2032
+### 7. Indian man sentenced to 19 years in US Sikh separatist assassination plot
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The plan would replace the jail complex with four smaller jails and reduce the number of people behind bars.
+Nikhil Gupta jailed for conspiring to hire a hitman to kill New York-based Sikh leader, Gurpatwant Singh Pannun.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/indian-man-sentenced-to-19-years-in-us-sikh-separatist-assassination-plot?traffic_source=rss)
 
 ---
 
-### 8. US tech sell-off continues as Anthropic tumbles after mega IPO
+### 8. Nepal cricket fans celebrate their team’s global rise
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Anthropic&#039;s listing had been viewed as a potential boost for an industry struggling to regain its footing.
+Nepal’s cricket fans have witnessed a transformation in their national team’s fortunes in recent years.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/nepal-cricket-fans-celebrate-their-teams-global-rise?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/nepal-cricket-fans-celebrate-their-teams-global-rise?traffic_source=rss)
 
 ---
 
-### 9. Protests held across Europe over wages, services, high living costs
+### 9. Belgrade mayor charged with assaulting opposition politician in Serbia
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Workers and students take to the streets as protests inspired by demonstrations in France show no sign of abating.
+Prosecutors say Aleksandar Sapic caused serious facial injuries to a female councillor and seek a three-year sentence.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/belgrade-mayor-charged-with-assaulting-opposition-politician-in-serbia?traffic_source=rss)
 
 ---
 
