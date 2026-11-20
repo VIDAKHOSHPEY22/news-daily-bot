@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-20T13:43:12+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Infinite scroll and autoplay are fuelling a global problem",
+            "description": "<p>Article URL: <a href=\"https://www.scimex.org/newsfeed/internet-related-addictions-are-a-global-health-threat-experts-argue\">https://www.scimex.org/newsfeed/internet-related-addictions-are-a-global-health-threat-experts-argue</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50572217\">https://news.ycombinator.com/item?id=50572217</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://www.scimex.org/newsfeed/internet-related-addictions-are-a-global-health-threat-experts-argue",
+            "published": "Fri, 20 Nov 2026 09:24:53 +0000",
+            "fetched": "2026-11-20T13:43:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "\"I can tell you wrote this yourself\"",
+            "description": "<p>Article URL: <a href=\"https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/\">https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50571189\">https://news.ycombinator.com/item?id=50571189</a></p>\n<p>Points: 152</p>\n<p># Comments: 150</p>",
+            "url": "https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/",
+            "published": "Fri, 20 Nov 2026 07:13:21 +0000",
+            "fetched": "2026-11-20T13:43:12+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jujutsu Primer",
+            "description": "<p>Article URL: <a href=\"https://ethanlowman.com/posts/jj-primer/\">https://ethanlowman.com/posts/jj-primer/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50570628\">https://news.ycombinator.com/item?id=50570628</a></p>\n<p>Points: 118</p>\n<p># Comments: 77</p>",
+            "url": "https://ethanlowman.com/posts/jj-primer/",
+            "published": "Fri, 20 Nov 2026 05:46:01 +0000",
+            "fetched": "2026-11-20T13:43:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What the Brussels summit could mean for the Brexit deal",
+            "description": "BBC political editor Chris Mason looks at the potential agreements between the UK and EU that could be reached on food, energy and youth mobility.",
+            "url": "https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 08:07:06 GMT",
+            "fetched": "2026-11-20T13:43:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Secret UK cyber operation shielded tens of thousands of fridges from hackers",
+            "description": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+            "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 00:02:07 GMT",
+            "fetched": "2026-11-20T13:43:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+            "description": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.",
+            "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 00:08:22 GMT",
+            "fetched": "2026-11-20T13:43:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia unleashes retaliatory barrage on Kyiv bridges",
+            "description": "The attack follows Putin&#039;s pledge of &#039;painful&#039; response to Ukraine&#039;s attack on symbolic Crimean bridge.",
+            "url": "https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 09:54:00 +0000",
+            "fetched": "2026-11-20T13:43:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kenya’s growing doping crisis overshadows legacy as athletics powerhouse",
+            "description": "More than 140 Kenyan athletes suspended by the Athletics Integrity Unit since 2017, most of them distance runners.",
+            "url": "https://www.aljazeera.com/sports/2026/11/20/kenyas-growing-doping-crisis-overshadows-legacy-as-athletics-powerhouse?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 09:16:30 +0000",
+            "fetched": "2026-11-20T13:43:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Pakistan minister visits India for first time since 2025 war",
+            "description": "Islamabad and New Delhi insist the visit is strictly multilateral, despite hopes it could open a channel for contact.",
+            "url": "https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 09:11:57 +0000",
+            "fetched": "2026-11-20T13:43:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Akvan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494",
+            "published": "2026-11-16T18:00:00Z",
+            "fetched": "2026-11-20T13:43:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-20T13:43:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-20T13:43:12+03:30"
+        }
+    ]
+}

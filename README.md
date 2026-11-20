@@ -1,77 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-20 06:27:32
+**Last Update:** 2026-11-20 13:43:12
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)
+### 1. Infinite scroll and autoplay are fuelling a global problem
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/openssl/openssl/pull/33652">https://github.com/openssl/openssl/pull/33652</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50569226">https://news.ycombinator.com/item?id=50569226</a></p>
-<p>Points: 27</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.scimex.org/newsfeed/internet-related-addictions-are-a-global-health-threat-experts-argue">https://www.scimex.org/newsfeed/internet-related-addictions-are-a-global-health-threat-experts-argue</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50572217">https://news.ycombinator.com/item?id=50572217</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/openssl/openssl/pull/33652](https://github.com/openssl/openssl/pull/33652)
+🔗 **Read more:** [https://www.scimex.org/newsfeed/internet-related-addictions-are-a-global-health-threat-experts-argue](https://www.scimex.org/newsfeed/internet-related-addictions-are-a-global-health-threat-experts-argue)
 
 ---
 
-### 2. Vint Cerf on why TCP/IP was never patented
+### 2. "I can tell you wrote this yourself"
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://seremot.com/p/vint-cerf-on-why-tcpip-was-never">https://seremot.com/p/vint-cerf-on-why-tcpip-was-never</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50568861">https://news.ycombinator.com/item?id=50568861</a></p>
-<p>Points: 19</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/">https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50571189">https://news.ycombinator.com/item?id=50571189</a></p>
+<p>Points: 152</p>
+<p># Comments: 150</p>
 
-🔗 **Read more:** [https://seremot.com/p/vint-cerf-on-why-tcpip-was-never](https://seremot.com/p/vint-cerf-on-why-tcpip-was-never)
+🔗 **Read more:** [https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/](https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/)
 
 ---
 
-### 3. Postgres 19 is out, and it's available on Neon and Databricks Lakebase
+### 3. Jujutsu Primer
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.databricks.com/blog/postgresql-19-available-lakebase">https://www.databricks.com/blog/postgresql-19-available-lakebase</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50568643">https://news.ycombinator.com/item?id=50568643</a></p>
-<p>Points: 9</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://ethanlowman.com/posts/jj-primer/">https://ethanlowman.com/posts/jj-primer/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50570628">https://news.ycombinator.com/item?id=50570628</a></p>
+<p>Points: 118</p>
+<p># Comments: 77</p>
 
-🔗 **Read more:** [https://www.databricks.com/blog/postgresql-19-available-lakebase](https://www.databricks.com/blog/postgresql-19-available-lakebase)
+🔗 **Read more:** [https://ethanlowman.com/posts/jj-primer/](https://ethanlowman.com/posts/jj-primer/)
 
 ---
 
-### 4. Woman drugged and advertised for sex by husband speaks out as abusers found guilty
+### 4. What the Brussels summit could mean for the Brexit deal
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Joanne Young said the actions of her husband over 13 years had "cost me my life as I knew it".
+BBC political editor Chris Mason looks at the potential agreements between the UK and EU that could be reached on food, energy and youth mobility.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crq5n5pe935no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Tens of thousands of UK fridges secured from hackers in secret nationwide operation
+### 5. Secret UK cyber operation shielded tens of thousands of fridges from hackers
 
 **Source:** BBC
 
@@ -84,55 +84,55 @@ Supermarkets, warehouses, restaurants and stadiums have been scrambling to make 
 
 ---
 
-### 6. Anthropic becomes one of world's most valuable public companies in stock market debut
+### 6. Massive hope for pancreatic cancer pill after trial saw tumours vanish
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.
+Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Beloved hippo Fiona dies days after swallowing visitor’s hat
+### 7. Russia unleashes retaliatory barrage on Kyiv bridges
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hippo Fiona, who became a global sensation after being born six weeks premature in 2017, has died at Cincinnati Zoo.
+The attack follows Putin&#039;s pledge of &#039;painful&#039; response to Ukraine&#039;s attack on symbolic Crimean bridge.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/beloved-hippo-fiona-dies-days-after-swallowing-visitors-hat?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss)
 
 ---
 
-### 8. Trump nominee refuses to call Jan 6 an ‘attack’ at Senate hearing
+### 8. Kenya’s growing doping crisis overshadows legacy as athletics powerhouse
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump’s nominee to lead the US agency responsible for election security, refused to call the insurrection an attack.
+More than 140 Kenyan athletes suspended by the Athletics Integrity Unit since 2017, most of them distance runners.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/trump-nominee-refuses-to-call-jan-6-an-attack-at-senate-hearing?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/20/kenyas-growing-doping-crisis-overshadows-legacy-as-athletics-powerhouse?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/20/kenyas-growing-doping-crisis-overshadows-legacy-as-athletics-powerhouse?traffic_source=rss)
 
 ---
 
-### 9. Meta rethinks 2030 climate goals as AI data centres drive emissions up
+### 9. Pakistan minister visits India for first time since 2025 war
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Rising data centre energy needs force Meta to review sustainability targets amid growing corporate climate retreat.
+Islamabad and New Delhi insist the visit is strictly multilateral, despite hopes it could open a channel for contact.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/meta-rethinks-2030-climate-goals-as-ai-data-centres-drive-emissions-up?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war?traffic_source=rss)
 
 ---
 
