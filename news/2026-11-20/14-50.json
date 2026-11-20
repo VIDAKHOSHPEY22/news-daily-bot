@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-20T14:50:53+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Making of Oxygene",
+            "description": "<p>Article URL: <a href=\"https://jeanmicheljarre.com/aaa/the-making-of-oxygene\">https://jeanmicheljarre.com/aaa/the-making-of-oxygene</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50572822\">https://news.ycombinator.com/item?id=50572822</a></p>\n<p>Points: 5</p>\n<p># Comments: 1</p>",
+            "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+            "published": "Fri, 20 Nov 2026 10:41:10 +0000",
+            "fetched": "2026-11-20T14:50:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Frostbite: A new CPU architecture discovered, designed and verified by AI",
+            "description": "<p>Article URL: <a href=\"https://architectlabs.com/blog/frostbite\">https://architectlabs.com/blog/frostbite</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50572503\">https://news.ycombinator.com/item?id=50572503</a></p>\n<p>Points: 87</p>\n<p># Comments: 61</p>",
+            "url": "https://architectlabs.com/blog/frostbite",
+            "published": "Fri, 20 Nov 2026 10:01:41 +0000",
+            "fetched": "2026-11-20T14:50:53+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "UK fridges secured from hackers in secret nationwide operation",
+            "description": "<p>Article URL: <a href=\"https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o\">https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50572430\">https://news.ycombinator.com/item?id=50572430</a></p>\n<p>Points: 42</p>\n<p># Comments: 23</p>",
+            "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o",
+            "published": "Fri, 20 Nov 2026 09:52:20 +0000",
+            "fetched": "2026-11-20T14:50:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What the Brussels summit could mean for the Brexit deal",
+            "description": "BBC political editor Chris Mason looks at the potential agreements between the UK and EU that could be reached on food, energy and youth mobility.",
+            "url": "https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 08:07:06 GMT",
+            "fetched": "2026-11-20T14:50:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Secret UK cyber operation protected tens of thousands of fridges from hackers",
+            "description": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+            "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 00:02:07 GMT",
+            "fetched": "2026-11-20T14:50:53+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
+            "description": "Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in some patients with one of the deadliest cancers.",
+            "url": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 00:08:22 GMT",
+            "fetched": "2026-11-20T14:50:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?",
+            "description": "NATO Article 5 says attack on one member is an attack on all. Analysts say inclusion of Ukraine &#039;stretches credulity&#039;.",
+            "url": "https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 11:01:51 +0000",
+            "fetched": "2026-11-20T14:50:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can the Rohingya genocide verdict deliver justice?",
+            "description": "The ICJ has ruled against Myanmar, but safe return, citizenship and reparations remain far from guaranteed.",
+            "url": "https://www.aljazeera.com/opinions/2026/11/20/can-the-rohingya-genocide-verdict-deliver-justice?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 10:45:20 +0000",
+            "fetched": "2026-11-20T14:50:53+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Drone operator removes Man United training footage and issues apology",
+            "description": "The footage, filmed during new manager Mauricio Pochettino&#039;s first training session, was uploaded online.",
+            "url": "https://www.aljazeera.com/sports/2026/11/20/drone-operator-removes-man-united-training-footage-and-issues-apology?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 10:37:20 +0000",
+            "fetched": "2026-11-20T14:50:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Akvan",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26494",
+            "published": "2026-11-16T18:00:00Z",
+            "fetched": "2026-11-20T14:50:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Tropical Cyclone Xavier",
+            "description": "Natural event: Severe Storms",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26463",
+            "published": "2026-11-15T08:00:00Z",
+            "fetched": "2026-11-20T14:50:53+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Range 47, Forrest, Mississippi",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26465",
+            "published": "2026-11-13T15:18:00Z",
+            "fetched": "2026-11-20T14:50:53+03:30"
+        }
+    ]
+}

@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-20 13:43:12
+**Last Update:** 2026-11-20 14:50:53
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Infinite scroll and autoplay are fuelling a global problem
+### 1. The Making of Oxygene
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.scimex.org/newsfeed/internet-related-addictions-are-a-global-health-threat-experts-argue">https://www.scimex.org/newsfeed/internet-related-addictions-are-a-global-health-threat-experts-argue</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50572217">https://news.ycombinator.com/item?id=50572217</a></p>
-<p>Points: 8</p>
+<p>Article URL: <a href="https://jeanmicheljarre.com/aaa/the-making-of-oxygene">https://jeanmicheljarre.com/aaa/the-making-of-oxygene</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50572822">https://news.ycombinator.com/item?id=50572822</a></p>
+<p>Points: 5</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.scimex.org/newsfeed/internet-related-addictions-are-a-global-health-threat-experts-argue](https://www.scimex.org/newsfeed/internet-related-addictions-are-a-global-health-threat-experts-argue)
+🔗 **Read more:** [https://jeanmicheljarre.com/aaa/the-making-of-oxygene](https://jeanmicheljarre.com/aaa/the-making-of-oxygene)
 
 ---
 
-### 2. "I can tell you wrote this yourself"
+### 2. Frostbite: A new CPU architecture discovered, designed and verified by AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/">https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50571189">https://news.ycombinator.com/item?id=50571189</a></p>
-<p>Points: 152</p>
-<p># Comments: 150</p>
+<p>Article URL: <a href="https://architectlabs.com/blog/frostbite">https://architectlabs.com/blog/frostbite</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50572503">https://news.ycombinator.com/item?id=50572503</a></p>
+<p>Points: 87</p>
+<p># Comments: 61</p>
 
-🔗 **Read more:** [https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/](https://em-online.bearblog.dev/i-can-tell-you-wrote-this-yourself/)
+🔗 **Read more:** [https://architectlabs.com/blog/frostbite](https://architectlabs.com/blog/frostbite)
 
 ---
 
-### 3. Jujutsu Primer
+### 3. UK fridges secured from hackers in secret nationwide operation
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ethanlowman.com/posts/jj-primer/">https://ethanlowman.com/posts/jj-primer/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50570628">https://news.ycombinator.com/item?id=50570628</a></p>
-<p>Points: 118</p>
-<p># Comments: 77</p>
+<p>Article URL: <a href="https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o">https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50572430">https://news.ycombinator.com/item?id=50572430</a></p>
+<p>Points: 42</p>
+<p># Comments: 23</p>
 
-🔗 **Read more:** [https://ethanlowman.com/posts/jj-primer/](https://ethanlowman.com/posts/jj-primer/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o](https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o)
 
 ---
 
@@ -71,7 +71,7 @@ BBC political editor Chris Mason looks at the potential agreements between the U
 
 ---
 
-### 5. Secret UK cyber operation shielded tens of thousands of fridges from hackers
+### 5. Secret UK cyber operation protected tens of thousands of fridges from hackers
 
 **Source:** BBC
 
@@ -97,42 +97,42 @@ Daily pill daraxonrasib appears to shrink and possibly even eliminate tumours in
 
 ---
 
-### 7. Russia unleashes retaliatory barrage on Kyiv bridges
+### 7. Kushner says Russia OK with ‘NATO-like’ security pact for Ukraine: Is it?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The attack follows Putin&#039;s pledge of &#039;painful&#039; response to Ukraine&#039;s attack on symbolic Crimean bridge.
+NATO Article 5 says attack on one member is an attack on all. Analysts say inclusion of Ukraine &#039;stretches credulity&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/russia-unleashes-retaliatory-barrage-on-kyiv-bridges?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/kushner-says-russia-ok-with-nato-like-security-pact-for-ukraine-is-it?traffic_source=rss)
 
 ---
 
-### 8. Kenya’s growing doping crisis overshadows legacy as athletics powerhouse
+### 8. Can the Rohingya genocide verdict deliver justice?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-More than 140 Kenyan athletes suspended by the Athletics Integrity Unit since 2017, most of them distance runners.
+The ICJ has ruled against Myanmar, but safe return, citizenship and reparations remain far from guaranteed.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/20/kenyas-growing-doping-crisis-overshadows-legacy-as-athletics-powerhouse?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/20/kenyas-growing-doping-crisis-overshadows-legacy-as-athletics-powerhouse?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/opinions/2026/11/20/can-the-rohingya-genocide-verdict-deliver-justice?traffic_source=rss](https://www.aljazeera.com/opinions/2026/11/20/can-the-rohingya-genocide-verdict-deliver-justice?traffic_source=rss)
 
 ---
 
-### 9. Pakistan minister visits India for first time since 2025 war
+### 9. Drone operator removes Man United training footage and issues apology
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Islamabad and New Delhi insist the visit is strictly multilateral, despite hopes it could open a channel for contact.
+The footage, filmed during new manager Mauricio Pochettino&#039;s first training session, was uploaded online.
 
-🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/11/20/pakistan-minister-visits-india-for-first-time-since-2025-war?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/20/drone-operator-removes-man-united-training-footage-and-issues-apology?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/20/drone-operator-removes-man-united-training-footage-and-issues-apology?traffic_source=rss)
 
 ---
 
