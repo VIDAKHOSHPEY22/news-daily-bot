@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-20T22:09:47+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "We promoted developers into architects without informing them",
+            "description": "<p>Article URL: <a href=\"https://manidoraisamy.com/developer-to-architect.html\">https://manidoraisamy.com/developer-to-architect.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50579331\">https://news.ycombinator.com/item?id=50579331</a></p>\n<p>Points: 7</p>\n<p># Comments: 1</p>",
+            "url": "https://manidoraisamy.com/developer-to-architect.html",
+            "published": "Fri, 20 Nov 2026 18:17:51 +0000",
+            "fetched": "2026-11-20T22:09:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anthropic shares tank after IPO as the Nasdaq erases 2026 gains",
+            "description": "<p>Article URL: <a href=\"https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394\">https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50578794\">https://news.ycombinator.com/item?id=50578794</a></p>\n<p>Points: 46</p>\n<p># Comments: 21</p>",
+            "url": "https://www.nbcnews.com/business/markets/anthropic-shares-markets-selloff-nasdaq-rcna610394",
+            "published": "Fri, 20 Nov 2026 17:44:01 +0000",
+            "fetched": "2026-11-20T22:09:47+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
+            "description": "<p>Article URL: <a href=\"https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/\">https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50578358\">https://news.ycombinator.com/item?id=50578358</a></p>\n<p>Points: 34</p>\n<p># Comments: 1</p>",
+            "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+            "published": "Fri, 20 Nov 2026 17:21:36 +0000",
+            "fetched": "2026-11-20T22:09:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+            "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 17:49:48 GMT",
+            "fetched": "2026-11-20T22:09:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+            "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+            "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 16:41:52 GMT",
+            "fetched": "2026-11-20T22:09:47+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk",
+            "description": "Nobody was hurt and no damage has been reported, but Warsaw described the incident as a \"provocation\" from Moscow.",
+            "url": "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 16:54:29 GMT",
+            "fetched": "2026-11-20T22:09:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Zohran Mamdani unveils plan to close New York’s Rikers Island jail by 2032",
+            "description": "The plan would replace the jail complex with four smaller jails and reduce the number of people behind bars.",
+            "url": "https://www.aljazeera.com/news/2026/11/20/mamdani-unveils-plan-to-close-new-yorks-rikers-island-by-2032?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 17:54:55 +0000",
+            "fetched": "2026-11-20T22:09:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US tech sell-off continues as Anthropic tumbles after mega IPO",
+            "description": "Anthropic&#039;s listing had been viewed as a potential boost for an industry struggling to regain its footing.",
+            "url": "https://www.aljazeera.com/economy/2026/11/20/us-tech-sell-off-continues-as-anthropic-tumbles-after-mega-ipo?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 17:44:18 +0000",
+            "fetched": "2026-11-20T22:09:47+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Protests held across Europe over wages, services, high living costs",
+            "description": "Workers and students take to the streets as protests inspired by demonstrations in France show no sign of abating.",
+            "url": "https://www.aljazeera.com/news/2026/11/20/protests-held-across-europe-over-wages-services-high-living-costs?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 17:32:32 +0000",
+            "fetched": "2026-11-20T22:09:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-20T22:09:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-20T22:09:47+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-20T22:09:47+03:30"
+        }
+    ]
+}
