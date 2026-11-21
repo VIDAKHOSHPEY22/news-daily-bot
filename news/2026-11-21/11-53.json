@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-21T11:53:13+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Surprisingly Adorable Insect Portraits",
+            "description": "<p>Article URL: <a href=\"https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/\">https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50586648\">https://news.ycombinator.com/item?id=50586648</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
+            "published": "Sat, 21 Nov 2026 06:44:14 +0000",
+            "fetched": "2026-11-21T11:53:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ClawDOS – An AI coding agent for DOS",
+            "description": "<p>Article URL: <a href=\"http://ricapar.net/ClawDOS/\">http://ricapar.net/ClawDOS/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50586292\">https://news.ycombinator.com/item?id=50586292</a></p>\n<p>Points: 35</p>\n<p># Comments: 6</p>",
+            "url": "http://ricapar.net/ClawDOS/",
+            "published": "Sat, 21 Nov 2026 05:38:01 +0000",
+            "fetched": "2026-11-21T11:53:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Backblaze Notice at Collection and Privacy Policy",
+            "description": "<p>Article URL: <a href=\"https://www.backblaze.com/company/policy/privacy\">https://www.backblaze.com/company/policy/privacy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50585593\">https://news.ycombinator.com/item?id=50585593</a></p>\n<p>Points: 170</p>\n<p># Comments: 53</p>",
+            "url": "https://www.backblaze.com/company/policy/privacy",
+            "published": "Sat, 21 Nov 2026 03:23:16 +0000",
+            "fetched": "2026-11-21T11:53:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+            "description": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+            "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 21 Nov 2026 06:00:09 GMT",
+            "fetched": "2026-11-21T11:53:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+            "description": "Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+            "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 22:42:47 GMT",
+            "fetched": "2026-11-21T11:53:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+            "description": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+            "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 21 Nov 2026 08:10:25 GMT",
+            "fetched": "2026-11-21T11:53:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can mediation succeed in a war-torn world? | Episode 1",
+            "description": "With more than 65 armed conflicts raging worldwide, top mediators reveal why peace has never been harder to achieve.",
+            "url": "https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/21/can-mediation-succeed-in-a-war-torn-world-episode-1?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 07:38:38 +0000",
+            "fetched": "2026-11-21T11:53:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least four killed, 35 injured in fire at power station in Iraq’s Basra",
+            "description": "The blaze erupted at the Hartha power station and spread to nearby houses.",
+            "url": "https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 07:25:29 +0000",
+            "fetched": "2026-11-21T11:53:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Emergency crews in Ukraine hit by a double-tap strike",
+            "description": "Video shows emergency crews in Ukraine approaching the scene of a Russian strike, before another strike hits.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 07:12:03 +0000",
+            "fetched": "2026-11-21T11:53:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-21T11:53:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-21T11:53:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-21T11:53:13+03:30"
+        }
+    ]
+}

@@ -1,90 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-21 04:51:43
+**Last Update:** 2026-11-21 11:53:13
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Re: Riemann
+### 1. Surprisingly Adorable Insect Portraits
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://borretti.me/article/re-riemann">https://borretti.me/article/re-riemann</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50583982">https://news.ycombinator.com/item?id=50583982</a></p>
-<p>Points: 88</p>
-<p># Comments: 66</p>
+<p>Article URL: <a href="https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/">https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50586648">https://news.ycombinator.com/item?id=50586648</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://borretti.me/article/re-riemann](https://borretti.me/article/re-riemann)
+🔗 **Read more:** [https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/](https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/)
 
 ---
 
-### 2. Uncontacted Indigenous people emerge from Amazon forest to ask for food
+### 2. ClawDOS – An AI coding agent for DOS
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/">https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50583877">https://news.ycombinator.com/item?id=50583877</a></p>
-<p>Points: 21</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="http://ricapar.net/ClawDOS/">http://ricapar.net/ClawDOS/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50586292">https://news.ycombinator.com/item?id=50586292</a></p>
+<p>Points: 35</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/](https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/)
+🔗 **Read more:** [http://ricapar.net/ClawDOS/](http://ricapar.net/ClawDOS/)
 
 ---
 
-### 3. Sir Brian May adds new dimension to Hera asteroid
+### 3. Backblaze Notice at Collection and Privacy Policy
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid">https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50583768">https://news.ycombinator.com/item?id=50583768</a></p>
-<p>Points: 28</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://www.backblaze.com/company/policy/privacy">https://www.backblaze.com/company/policy/privacy</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50585593">https://news.ycombinator.com/item?id=50585593</a></p>
+<p>Points: 170</p>
+<p># Comments: 53</p>
 
-🔗 **Read more:** [https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)
+🔗 **Read more:** [https://www.backblaze.com/company/policy/privacy](https://www.backblaze.com/company/policy/privacy)
 
 ---
 
-### 4. UK to explore even closer ties with EU after agreeing deal, says Burnham
+### 4. Deal with EU not dependent on tuition fees agreement, Miliband says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.
+Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 5. Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Tech stock sell-off drags markets down as Anthropic shares slide
+### 5. Tech stock sell-off drags markets down as Anthropic shares slide
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industri
 
 ---
 
-### 7. Can Mauricio Pochettino save Man United from Premier League relegation?
+### 6. Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Mauricio Pochettino will take charge of Manchester United for the first time on Sunday, in a trip to rivals Liverpool.
+Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a "great relationship".
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Iran war live: Saudi-led coalition downs Houthi missiles
+### 7. Can mediation succeed in a war-torn world? | Episode 1
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Saudi Arabia issues a flurry of emergency alerts for Riyadh, as the Saudi coalition says it intercepted three missiles.
+With more than 65 armed conflicts raging worldwide, top mediators reveal why peace has never been harder to achieve.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/21/can-mediation-succeed-in-a-war-torn-world-episode-1?traffic_source=rss](https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/21/can-mediation-succeed-in-a-war-torn-world-episode-1?traffic_source=rss)
 
 ---
 
-### 9. Overturned boat carrying mourners to funeral kills at least four in Nigeria
+### 8. At least four killed, 35 injured in fire at power station in Iraq’s Basra
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Police say two children among dead as search continues for more victims.
+The blaze erupted at the Hartha power station and spread to nearby houses.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss)
+
+---
+
+### 9. Emergency crews in Ukraine hit by a double-tap strike
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Video shows emergency crews in Ukraine approaching the scene of a Russian strike, before another strike hits.
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss)
 
 ---
 
