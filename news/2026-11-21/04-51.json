@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-21T04:51:43+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Re: Riemann",
+            "description": "<p>Article URL: <a href=\"https://borretti.me/article/re-riemann\">https://borretti.me/article/re-riemann</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50583982\">https://news.ycombinator.com/item?id=50583982</a></p>\n<p>Points: 88</p>\n<p># Comments: 66</p>",
+            "url": "https://borretti.me/article/re-riemann",
+            "published": "Fri, 20 Nov 2026 23:42:44 +0000",
+            "fetched": "2026-11-21T04:51:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Uncontacted Indigenous people emerge from Amazon forest to ask for food",
+            "description": "<p>Article URL: <a href=\"https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/\">https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50583877\">https://news.ycombinator.com/item?id=50583877</a></p>\n<p>Points: 21</p>\n<p># Comments: 3</p>",
+            "url": "https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/",
+            "published": "Fri, 20 Nov 2026 23:31:27 +0000",
+            "fetched": "2026-11-21T04:51:43+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Sir Brian May adds new dimension to Hera asteroid",
+            "description": "<p>Article URL: <a href=\"https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid\">https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50583768\">https://news.ycombinator.com/item?id=50583768</a></p>\n<p>Points: 28</p>\n<p># Comments: 5</p>",
+            "url": "https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid",
+            "published": "Fri, 20 Nov 2026 23:19:44 +0000",
+            "fetched": "2026-11-21T04:51:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+            "description": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 17:49:48 GMT",
+            "fetched": "2026-11-21T04:51:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+            "description": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements.",
+            "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 16:41:52 GMT",
+            "fetched": "2026-11-21T04:51:43+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+            "description": "Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+            "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 22:42:47 GMT",
+            "fetched": "2026-11-21T04:51:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can Mauricio Pochettino save Man United from Premier League relegation?",
+            "description": "Mauricio Pochettino will take charge of Manchester United for the first time on Sunday, in a trip to rivals Liverpool.",
+            "url": "https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 00:55:01 +0000",
+            "fetched": "2026-11-21T04:51:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Saudi-led coalition downs Houthi missiles",
+            "description": "Saudi Arabia issues a flurry of emergency alerts for Riyadh, as the Saudi coalition says it intercepted three missiles.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-saudi-led-coalition-repels-houthi-missiles?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 00:00:06 +0000",
+            "fetched": "2026-11-21T04:51:43+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Overturned boat carrying mourners to funeral kills at least four in Nigeria",
+            "description": "Police say two children among dead as search continues for more victims.",
+            "url": "https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss",
+            "published": "Fri, 20 Nov 2026 23:36:36 +0000",
+            "fetched": "2026-11-21T04:51:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-21T04:51:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-21T04:51:43+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-21T04:51:43+03:30"
+        }
+    ]
+}

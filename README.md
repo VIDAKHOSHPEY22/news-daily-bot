@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-21 04:22:29
+**Last Update:** 2026-11-21 04:51:43
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -19,14 +19,30 @@
 **Description:**
 <p>Article URL: <a href="https://borretti.me/article/re-riemann">https://borretti.me/article/re-riemann</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50583982">https://news.ycombinator.com/item?id=50583982</a></p>
-<p>Points: 65</p>
-<p># Comments: 24</p>
+<p>Points: 88</p>
+<p># Comments: 66</p>
 
 🔗 **Read more:** [https://borretti.me/article/re-riemann](https://borretti.me/article/re-riemann)
 
 ---
 
-### 2. Sir Brian May adds new dimension to Hera asteroid
+### 2. Uncontacted Indigenous people emerge from Amazon forest to ask for food
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/">https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50583877">https://news.ycombinator.com/item?id=50583877</a></p>
+<p>Points: 21</p>
+<p># Comments: 3</p>
+
+🔗 **Read more:** [https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/](https://www.washingtonpost.com/world/2026/11/19/uncontacted-indigenous-people-emerge-amazon-forest-ask-food/)
+
+---
+
+### 3. Sir Brian May adds new dimension to Hera asteroid
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid">https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50583768">https://news.ycombinator.com/item?id=50583768</a></p>
-<p>Points: 26</p>
-<p># Comments: 3</p>
+<p>Points: 28</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid](https://www.esa.int/articles/about-us/directorates/operations/space-safety/hera/sir-brian-may-adds-new-dimension-to-hera-asteroid)
-
----
-
-### 3. AI may have solved the most important problem in mathematics
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics">https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50583445">https://news.ycombinator.com/item?id=50583445</a></p>
-<p>Points: 16</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics](https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics)
 
 ---
 
@@ -84,20 +84,33 @@ The trade deal is unlikely lower food prices for shoppers, but should boost the 
 
 ---
 
-### 6. Russian missile hits Poland as Kyiv's allies hold military exercise, says Tusk
+### 6. Tech stock sell-off drags markets down as Anthropic shares slide
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Nobody was hurt and no damage has been reported, but Warsaw described the incident as a "provocation" from Moscow.
+Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqx2x9dklxnro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iran war live: Saudi-led coalition downs Houthi missiles
+### 7. Can Mauricio Pochettino save Man United from Premier League relegation?
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Mauricio Pochettino will take charge of Manchester United for the first time on Sunday, in a trip to rivals Liverpool.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/21/can-pochetinno-save-man-united-from-premier-league-relegation?traffic_source=rss)
+
+---
+
+### 8. Iran war live: Saudi-led coalition downs Houthi missiles
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Saudi Arabia issues a flurry of emergency alerts for Riyadh, as the Saudi coalit
 
 ---
 
-### 8. Overturned boat carrying mourners to funeral kills at least four in Nigeria
+### 9. Overturned boat carrying mourners to funeral kills at least four in Nigeria
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Saudi Arabia issues a flurry of emergency alerts for Riyadh, as the Saudi coalit
 Police say two children among dead as search continues for more victims.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss](https://www.aljazeera.com/news/2026/11/20/overturned-boat-carrying-mourners-to-funeral-kills-at-least-four-in-nigeria?traffic_source=rss)
-
----
-
-### 9. Rahul Gandhi backs strong India-Israel ties despite Gaza war
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-India’s opposition leader Rahul Gandhi, says New Delhi should continue to maintain strong ties with Israel.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/20/rahul-gandhi-backs-strong-india-israel-ties-despite-gaza-war?traffic_source=rss)
 
 ---
 
