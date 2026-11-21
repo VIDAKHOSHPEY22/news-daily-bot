@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-21T13:03:39+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Surprisingly Adorable Insect Portraits",
+            "description": "<p>Article URL: <a href=\"https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/\">https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50586648\">https://news.ycombinator.com/item?id=50586648</a></p>\n<p>Points: 28</p>\n<p># Comments: 6</p>",
+            "url": "https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/",
+            "published": "Sat, 21 Nov 2026 06:44:14 +0000",
+            "fetched": "2026-11-21T13:03:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "ClawDOS – An AI coding agent for DOS",
+            "description": "<p>Article URL: <a href=\"http://ricapar.net/ClawDOS/\">http://ricapar.net/ClawDOS/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50586292\">https://news.ycombinator.com/item?id=50586292</a></p>\n<p>Points: 56</p>\n<p># Comments: 15</p>",
+            "url": "http://ricapar.net/ClawDOS/",
+            "published": "Sat, 21 Nov 2026 05:38:01 +0000",
+            "fetched": "2026-11-21T13:03:39+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Backblaze Notice at Collection and Privacy Policy",
+            "description": "<p>Article URL: <a href=\"https://www.backblaze.com/company/policy/privacy\">https://www.backblaze.com/company/policy/privacy</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50585593\">https://news.ycombinator.com/item?id=50585593</a></p>\n<p>Points: 185</p>\n<p># Comments: 56</p>",
+            "url": "https://www.backblaze.com/company/policy/privacy",
+            "published": "Sat, 21 Nov 2026 03:23:16 +0000",
+            "fetched": "2026-11-21T13:03:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+            "description": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.",
+            "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 21 Nov 2026 09:27:51 GMT",
+            "fetched": "2026-11-21T13:03:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend",
+            "description": "Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a \"great relationship\".",
+            "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 21 Nov 2026 08:10:25 GMT",
+            "fetched": "2026-11-21T13:03:39+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+            "description": "Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory.",
+            "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 20 Nov 2026 22:42:47 GMT",
+            "fetched": "2026-11-21T13:03:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Fire sprinkler sprays water at flame-covered sign in China",
+            "description": "An automatic sprinkler system repeatedly sprayed a barbecue sign depicting flames at China’s Wanlong Ski Resort.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/fire-sprinkler-sprays-water-at-flame-covered-sign-in-china?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 09:20:40 +0000",
+            "fetched": "2026-11-21T13:03:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "French police officers guilty of Michel Zecler assault: What happens now?",
+            "description": "Officers dealt more than 30 blows to the Black music producer in what the court ruled was a racially motivated crime.",
+            "url": "https://www.aljazeera.com/news/2026/11/21/french-police-officers-guilty-of-michel-zecler-assault-what-happens-now?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 09:12:14 +0000",
+            "fetched": "2026-11-21T13:03:39+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Harry Kane to miss ‘a few months’ after injury as Bayern Munich draw",
+            "description": "Ballon d&#039;Or winner tears a ligament in his left ankle during Bayern Munich’s 1-1 draw against Cologne.",
+            "url": "https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 09:01:29 +0000",
+            "fetched": "2026-11-21T13:03:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-21T13:03:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-21T13:03:39+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-21T13:03:39+03:30"
+        }
+    ]
+}

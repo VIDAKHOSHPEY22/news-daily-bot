@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-21 11:53:13
+**Last Update:** 2026-11-21 13:03:39
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** BBC, NASA, Hacker News, Al Jazeera
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/">https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50586648">https://news.ycombinator.com/item?id=50586648</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Points: 28</p>
+<p># Comments: 6</p>
 
 🔗 **Read more:** [https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/](https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="http://ricapar.net/ClawDOS/">http://ricapar.net/ClawDOS/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50586292">https://news.ycombinator.com/item?id=50586292</a></p>
-<p>Points: 35</p>
-<p># Comments: 6</p>
+<p>Points: 56</p>
+<p># Comments: 15</p>
 
 🔗 **Read more:** [http://ricapar.net/ClawDOS/](http://ricapar.net/ClawDOS/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.backblaze.com/company/policy/privacy">https://www.backblaze.com/company/policy/privacy</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50585593">https://news.ycombinator.com/item?id=50585593</a></p>
-<p>Points: 170</p>
-<p># Comments: 53</p>
+<p>Points: 185</p>
+<p># Comments: 56</p>
 
 🔗 **Read more:** [https://www.backblaze.com/company/policy/privacy](https://www.backblaze.com/company/policy/privacy)
 
@@ -71,20 +71,7 @@ Brussels sources had previously suggested the bloc might not apply the wider dea
 
 ---
 
-### 5. Tech stock sell-off drags markets down as Anthropic shares slide
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend
+### 5. Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ Earlier this week, Trump greeted Putin ahead of a meeting in China and said the 
 
 ---
 
-### 7. Can mediation succeed in a war-torn world? | Episode 1
+### 6. Tech stock sell-off drags markets down as Anthropic shares slide
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-With more than 65 armed conflicts raging worldwide, top mediators reveal why peace has never been harder to achieve.
+Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/21/can-mediation-succeed-in-a-war-torn-world-episode-1?traffic_source=rss](https://www.aljazeera.com/video/the-art-of-negotiation/2026/11/21/can-mediation-succeed-in-a-war-torn-world-episode-1?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. At least four killed, 35 injured in fire at power station in Iraq’s Basra
+### 7. Fire sprinkler sprays water at flame-covered sign in China
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The blaze erupted at the Hartha power station and spread to nearby houses.
+An automatic sprinkler system repeatedly sprayed a barbecue sign depicting flames at China’s Wanlong Ski Resort.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/at-least-two-people-killed-as-fire-engulfs-power-station-in-southern-iraq?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/fire-sprinkler-sprays-water-at-flame-covered-sign-in-china?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/fire-sprinkler-sprays-water-at-flame-covered-sign-in-china?traffic_source=rss)
 
 ---
 
-### 9. Emergency crews in Ukraine hit by a double-tap strike
+### 8. French police officers guilty of Michel Zecler assault: What happens now?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Video shows emergency crews in Ukraine approaching the scene of a Russian strike, before another strike hits.
+Officers dealt more than 30 blows to the Black music producer in what the court ruled was a racially motivated crime.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/emergency-crews-in-ukraine-hit-by-a-double-tap-strike?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/french-police-officers-guilty-of-michel-zecler-assault-what-happens-now?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/french-police-officers-guilty-of-michel-zecler-assault-what-happens-now?traffic_source=rss)
+
+---
+
+### 9. Harry Kane to miss ‘a few months’ after injury as Bayern Munich draw
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Ballon d&#039;Or winner tears a ligament in his left ankle during Bayern Munich’s 1-1 draw against Cologne.
+
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss)
 
 ---
 
