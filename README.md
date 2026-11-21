@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-21 13:03:39
+**Last Update:** 2026-11-21 19:45:12
 
 **Total News:** 12
 
-**Sources:** BBC, NASA, Hacker News, Al Jazeera
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Surprisingly Adorable Insect Portraits
+### 1. Show HN: Zero C#, Power of C# without any GC
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/">https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50586648">https://news.ycombinator.com/item?id=50586648</a></p>
-<p>Points: 28</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://onurgumus.github.io/zero-csharp/index.html">https://onurgumus.github.io/zero-csharp/index.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50590279">https://news.ycombinator.com/item?id=50590279</a></p>
+<p>Points: 4</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/](https://amateurphotographer.com/latest/these-astonishing-insect-portraits-reveal-a-hidden-world-you-never-knew-existed/)
+🔗 **Read more:** [https://onurgumus.github.io/zero-csharp/index.html](https://onurgumus.github.io/zero-csharp/index.html)
 
 ---
 
-### 2. ClawDOS – An AI coding agent for DOS
+### 2. Lean Verification of the Riemann Hypothesis - Joint statement by...
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="http://ricapar.net/ClawDOS/">http://ricapar.net/ClawDOS/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50586292">https://news.ycombinator.com/item?id=50586292</a></p>
-<p>Points: 56</p>
-<p># Comments: 15</p>
+<p>Article URL: <a href="https://leanprover-community.github.io/blog/posts/riemann-hypothesis/">https://leanprover-community.github.io/blog/posts/riemann-hypothesis/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50589618">https://news.ycombinator.com/item?id=50589618</a></p>
+<p>Points: 170</p>
+<p># Comments: 131</p>
 
-🔗 **Read more:** [http://ricapar.net/ClawDOS/](http://ricapar.net/ClawDOS/)
+🔗 **Read more:** [https://leanprover-community.github.io/blog/posts/riemann-hypothesis/](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
 
 ---
 
-### 3. Backblaze Notice at Collection and Privacy Policy
+### 3. Derek Lowe: Detonating a Pile of Lead Azide
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.backblaze.com/company/policy/privacy">https://www.backblaze.com/company/policy/privacy</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50585593">https://news.ycombinator.com/item?id=50585593</a></p>
-<p>Points: 185</p>
-<p># Comments: 56</p>
+<p>Article URL: <a href="https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really">https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50588982">https://news.ycombinator.com/item?id=50588982</a></p>
+<p>Points: 196</p>
+<p># Comments: 118</p>
 
-🔗 **Read more:** [https://www.backblaze.com/company/policy/privacy](https://www.backblaze.com/company/policy/privacy)
+🔗 **Read more:** [https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
 
 ---
 
-### 4. Deal with EU not dependent on tuition fees agreement, Miliband says
+### 4. Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain.
+Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Zelensky says Putin is a 'killer' after Trump calls Russian leader a friend
+### 5. Catherine talks openly about how cancer changed her in documentary on BBC
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Earlier this week, Trump greeted Putin ahead of a meeting in China and said the pair have a "great relationship".
+"There is a much, much deeper part to what a cancer diagnosis shifts in you," says Catherine in the documentary.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Tech stock sell-off drags markets down as Anthropic shares slide
+### 6. 'We're not meant to carry life's challenges alone', Catherine says in first clip
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Pressures weighed on US markets, with the S&amp;P 500 and the Dow Jones Industrial Average pushed into correction territory.
+Catherine has spoken about how "cancer does change you" in a documentary that will be screened on BBC One on 29 November.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwe85gyedjp5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwe85gyedjp5o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Fire sprinkler sprays water at flame-covered sign in China
+### 7. Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An automatic sprinkler system repeatedly sprayed a barbecue sign depicting flames at China’s Wanlong Ski Resort.
+Mexican forces arrested Chapo Isidro in Sinaloa. He was on the FBI’s most wanted list and faces US drug charges.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/fire-sprinkler-sprays-water-at-flame-covered-sign-in-china?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/fire-sprinkler-sprays-water-at-flame-covered-sign-in-china?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss)
 
 ---
 
-### 8. French police officers guilty of Michel Zecler assault: What happens now?
+### 8. US midterms 2026: What happens before the new Congress takes office?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Officers dealt more than 30 blows to the Black music producer in what the court ruled was a racially motivated crime.
+What happens between the US midterm elections and January, when Democrats take control of Congress?
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/french-police-officers-guilty-of-michel-zecler-assault-what-happens-now?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/french-police-officers-guilty-of-michel-zecler-assault-what-happens-now?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss)
 
 ---
 
-### 9. Harry Kane to miss ‘a few months’ after injury as Bayern Munich draw
+### 9. French presidential candidate blames media for racist attack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ballon d&#039;Or winner tears a ligament in his left ankle during Bayern Munich’s 1-1 draw against Cologne.
+French presidential candidate blames media for racist attack
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/21/ballon-dor-kane-to-miss-a-few-months-after-injury-as-bayern-munich-held?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss)
 
 ---
 
