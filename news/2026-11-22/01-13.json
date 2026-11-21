@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-22T01:13:36+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers",
+            "description": "<p>Article URL: <a href=\"https://tasklet.ai/careers\">https://tasklet.ai/careers</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50593679\">https://news.ycombinator.com/item?id=50593679</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://tasklet.ai/careers",
+            "published": "Sat, 21 Nov 2026 21:11:08 +0000",
+            "fetched": "2026-11-22T01:13:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Upload2Shell · CVE-2026-125396",
+            "description": "<p>Article URL: <a href=\"https://pwn.ai/upload2shell\">https://pwn.ai/upload2shell</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50592097\">https://news.ycombinator.com/item?id=50592097</a></p>\n<p>Points: 36</p>\n<p># Comments: 10</p>",
+            "url": "https://pwn.ai/upload2shell",
+            "published": "Sat, 21 Nov 2026 18:29:29 +0000",
+            "fetched": "2026-11-22T01:13:36+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Inkling-2-Mini in 5.4 GB Memory",
+            "description": "<p>Article URL: <a href=\"https://github.com/ShinMegamiBoson/lookatmyquant\">https://github.com/ShinMegamiBoson/lookatmyquant</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50591853\">https://news.ycombinator.com/item?id=50591853</a></p>\n<p>Points: 234</p>\n<p># Comments: 50</p>",
+            "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+            "published": "Sat, 21 Nov 2026 18:02:19 +0000",
+            "fetched": "2026-11-22T01:13:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
+            "description": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+            "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 21 Nov 2026 13:17:38 GMT",
+            "fetched": "2026-11-22T01:13:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
+            "description": "The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky met the UK defence secretary.",
+            "url": "https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 21 Nov 2026 16:16:29 GMT",
+            "fetched": "2026-11-22T01:13:36+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
+            "description": "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary.",
+            "url": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 21 Nov 2026 12:00:03 GMT",
+            "fetched": "2026-11-22T01:13:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Impunity fuels surge in settler violence across occupied West Bank",
+            "description": "Impunity fuels surge in settler violence across occupied West Bank",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 21:11:54 +0000",
+            "fetched": "2026-11-22T01:13:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Indian man jailed over plot to kill Sikh separatist in US",
+            "description": "An Indian national has been sentenced to more than 19 years in a US prison for plotting to assassinate Sikh separatist.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 21:09:18 +0000",
+            "fetched": "2026-11-22T01:13:36+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazil’s Jair Bolsonaro in intensive care with bowel obstruction",
+            "description": "The former president, serving a sentence for plotting a coup, is stable and breathing on his own, the hospital says.",
+            "url": "https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 21:02:18 +0000",
+            "fetched": "2026-11-22T01:13:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-22T01:13:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-22T01:13:36+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-22T01:13:36+03:30"
+        }
+    ]
+}
