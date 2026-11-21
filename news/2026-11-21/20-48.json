@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-21T20:48:05+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Zero C#, Power of C# without any GC",
+            "description": "<p>Article URL: <a href=\"https://onurgumus.github.io/zero-csharp/index.html\">https://onurgumus.github.io/zero-csharp/index.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50590279\">https://news.ycombinator.com/item?id=50590279</a></p>\n<p>Points: 32</p>\n<p># Comments: 20</p>",
+            "url": "https://onurgumus.github.io/zero-csharp/index.html",
+            "published": "Sat, 21 Nov 2026 15:39:09 +0000",
+            "fetched": "2026-11-21T20:48:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+            "description": "<p>Article URL: <a href=\"https://leanprover-community.github.io/blog/posts/riemann-hypothesis/\">https://leanprover-community.github.io/blog/posts/riemann-hypothesis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50589618\">https://news.ycombinator.com/item?id=50589618</a></p>\n<p>Points: 302</p>\n<p># Comments: 224</p>",
+            "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+            "published": "Sat, 21 Nov 2026 14:36:45 +0000",
+            "fetched": "2026-11-21T20:48:05+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Derek Lowe: Detonating a Pile of Lead Azide",
+            "description": "<p>Article URL: <a href=\"https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really\">https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50588982\">https://news.ycombinator.com/item?id=50588982</a></p>\n<p>Points: 275</p>\n<p># Comments: 160</p>",
+            "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+            "published": "Sat, 21 Nov 2026 13:23:14 +0000",
+            "fetched": "2026-11-21T20:48:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+            "description": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+            "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 21 Nov 2026 13:17:38 GMT",
+            "fetched": "2026-11-21T20:48:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
+            "description": "The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky met the UK defence secretary.",
+            "url": "https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 21 Nov 2026 16:16:29 GMT",
+            "fetched": "2026-11-21T20:48:05+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
+            "description": "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary.",
+            "url": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 21 Nov 2026 12:00:03 GMT",
+            "fetched": "2026-11-21T20:48:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India’s opposition stages protests against Meta over account removals",
+            "description": "Indian Youth Congress issues a seven-day &#039;ultimatum&#039; to the US technology giant, urging it to lift all restrictions.",
+            "url": "https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 16:14:01 +0000",
+            "fetched": "2026-11-21T20:48:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?",
+            "description": "Mexican forces arrested Chapo Isidro in Sinaloa. He was on the FBI’s most wanted list and faces US drug charges.",
+            "url": "https://www.aljazeera.com/news/2026/11/21/who-is-el-chapo-isidro-the-alleged-cartel-boss-arrested-in-mexico?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 16:03:16 +0000",
+            "fetched": "2026-11-21T20:48:05+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US midterms 2026: What happens before the new Congress takes office?",
+            "description": "What happens between the US midterm elections and January, when Democrats take control of Congress?",
+            "url": "https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 15:49:32 +0000",
+            "fetched": "2026-11-21T20:48:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-21T20:48:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-21T20:48:05+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-21T20:48:05+03:30"
+        }
+    ]
+}

@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-21 19:45:12
+**Last Update:** 2026-11-21 20:48:05
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
@@ -19,8 +19,8 @@
 **Description:**
 <p>Article URL: <a href="https://onurgumus.github.io/zero-csharp/index.html">https://onurgumus.github.io/zero-csharp/index.html</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50590279">https://news.ycombinator.com/item?id=50590279</a></p>
-<p>Points: 4</p>
-<p># Comments: 1</p>
+<p>Points: 32</p>
+<p># Comments: 20</p>
 
 🔗 **Read more:** [https://onurgumus.github.io/zero-csharp/index.html](https://onurgumus.github.io/zero-csharp/index.html)
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://leanprover-community.github.io/blog/posts/riemann-hypothesis/">https://leanprover-community.github.io/blog/posts/riemann-hypothesis/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50589618">https://news.ycombinator.com/item?id=50589618</a></p>
-<p>Points: 170</p>
-<p># Comments: 131</p>
+<p>Points: 302</p>
+<p># Comments: 224</p>
 
 🔗 **Read more:** [https://leanprover-community.github.io/blog/posts/riemann-hypothesis/](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really">https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50588982">https://news.ycombinator.com/item?id=50588982</a></p>
-<p>Points: 196</p>
-<p># Comments: 118</p>
+<p>Points: 275</p>
+<p># Comments: 160</p>
 
 🔗 **Read more:** [https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
 
@@ -71,7 +71,20 @@ Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on
 
 ---
 
-### 5. Catherine talks openly about how cancer changed her in documentary on BBC
+### 5. Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky met the UK defence secretary.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Catherine talks openly about how cancer changed her in documentary on BBC
 
 **Source:** BBC
 
@@ -84,20 +97,20 @@ Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on
 
 ---
 
-### 6. 'We're not meant to carry life's challenges alone', Catherine says in first clip
+### 7. India’s opposition stages protests against Meta over account removals
 
-**Source:** BBC
+**Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Catherine has spoken about how "cancer does change you" in a documentary that will be screened on BBC One on 29 November.
+Indian Youth Congress issues a seven-day &#039;ultimatum&#039; to the US technology giant, urging it to lift all restrictions.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cwe85gyedjp5o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cwe85gyedjp5o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/indias-opposition-stages-protests-against-meta-over-account-removals?traffic_source=rss)
 
 ---
 
-### 7. Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?
+### 8. Who is El Chapo Isidro, the alleged cartel boss arrested in Mexico?
 
 **Source:** Al Jazeera
 
@@ -110,7 +123,7 @@ Mexican forces arrested Chapo Isidro in Sinaloa. He was on the FBI’s most want
 
 ---
 
-### 8. US midterms 2026: What happens before the new Congress takes office?
+### 9. US midterms 2026: What happens before the new Congress takes office?
 
 **Source:** Al Jazeera
 
@@ -120,19 +133,6 @@ Mexican forces arrested Chapo Isidro in Sinaloa. He was on the FBI’s most want
 What happens between the US midterm elections and January, when Democrats take control of Congress?
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/us-midterms-2026-what-happens-before-the-new-congress-takes-office?traffic_source=rss)
-
----
-
-### 9. French presidential candidate blames media for racist attack
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-French presidential candidate blames media for racist attack
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/french-presidential-candidate-blames-media-for-racist-attack?traffic_source=rss)
 
 ---
 
