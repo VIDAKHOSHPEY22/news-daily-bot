@@ -1,16 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-22 01:13:36
+**Last Update:** 2026-11-22 02:30:10
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, Hacker News, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers
+### 1. PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/sebaandrada-cell/PcapAnalyzer">https://github.com/sebaandrada-cell/PcapAnalyzer</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50594132">https://news.ycombinator.com/item?id=50594132</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://github.com/sebaandrada-cell/PcapAnalyzer](https://github.com/sebaandrada-cell/PcapAnalyzer)
+
+---
+
+### 2. Advice for the next 100 Rust GUIs
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://linebender.org/blog/next-100-guis/">https://linebender.org/blog/next-100-guis/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50593737">https://news.ycombinator.com/item?id=50593737</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://linebender.org/blog/next-100-guis/](https://linebender.org/blog/next-100-guis/)
+
+---
+
+### 3. Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers
 
 **Source:** Hacker News
 
@@ -23,38 +55,6 @@
 <p># Comments: 0</p>
 
 🔗 **Read more:** [https://tasklet.ai/careers](https://tasklet.ai/careers)
-
----
-
-### 2. Upload2Shell · CVE-2026-125396
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://pwn.ai/upload2shell">https://pwn.ai/upload2shell</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50592097">https://news.ycombinator.com/item?id=50592097</a></p>
-<p>Points: 36</p>
-<p># Comments: 10</p>
-
-🔗 **Read more:** [https://pwn.ai/upload2shell](https://pwn.ai/upload2shell)
-
----
-
-### 3. Inkling-2-Mini in 5.4 GB Memory
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/ShinMegamiBoson/lookatmyquant">https://github.com/ShinMegamiBoson/lookatmyquant</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50591853">https://news.ycombinator.com/item?id=50591853</a></p>
-<p>Points: 234</p>
-<p># Comments: 50</p>
-
-🔗 **Read more:** [https://github.com/ShinMegamiBoson/lookatmyquant](https://github.com/ShinMegamiBoson/lookatmyquant)
 
 ---
 
@@ -97,7 +97,33 @@ The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky m
 
 ---
 
-### 7. Impunity fuels surge in settler violence across occupied West Bank
+### 7. Bahrain says Iranian attack hits industrial facility
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Bahrain says Iranian attack hits industrial facility
+
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss)
+
+---
+
+### 8. Bahrain says Iranian attack causes fire at industrial facility
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Bahrain reports no injuries, as Iran&#039;s IRGC says it targeted US military positions at two bases in al-Riffa and Awali.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss)
+
+---
+
+### 9. Impunity fuels surge in settler violence across occupied West Bank
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky m
 Impunity fuels surge in settler violence across occupied West Bank
 
 🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss)
-
----
-
-### 8. Indian man jailed over plot to kill Sikh separatist in US
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-An Indian national has been sentenced to more than 19 years in a US prison for plotting to assassinate Sikh separatist.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/21-11-sv-us-sikh-separatist-pannun-assassination-plot?traffic_source=rss)
-
----
-
-### 9. Brazil’s Jair Bolsonaro in intensive care with bowel obstruction
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-The former president, serving a sentence for plotting a coup, is stable and breathing on his own, the hospital says.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/brazils-jair-bolsonaro-in-intensive-care-with-bowel-obstruction?traffic_source=rss)
 
 ---
 
