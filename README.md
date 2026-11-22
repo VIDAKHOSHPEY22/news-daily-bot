@@ -1,16 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-22 21:25:27
+**Last Update:** 2026-11-22 23:46:42
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC
+**Sources:** Al Jazeera, NASA, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills
+### 1. All Delta Flights Through Atlanta Delayed as Automated System Falters
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html">https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50603232">https://news.ycombinator.com/item?id=50603232</a></p>
+<p>Points: 8</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html](https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html)
+
+---
+
+### 2. What Happened to Silicon Valley?
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.oreilly.com/radar/what-happened-to-silicon-valley/">https://www.oreilly.com/radar/what-happened-to-silicon-valley/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50602947">https://news.ycombinator.com/item?id=50602947</a></p>
+<p>Points: 23</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://www.oreilly.com/radar/what-happened-to-silicon-valley/](https://www.oreilly.com/radar/what-happened-to-silicon-valley/)
+
+---
+
+### 3. Canada recommits to federal funding for news
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/">https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50602847">https://news.ycombinator.com/item?id=50602847</a></p>
+<p>Points: 87</p>
+<p># Comments: 73</p>
+
+🔗 **Read more:** [https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/](https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/)
+
+---
+
+### 4. COP31 fails to reach major climate deal as talks expose deep divisions
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. What's next after no deal at COP31 climate talks?
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills
 
 **Source:** BBC
 
@@ -23,72 +97,46 @@ Chris O'Shea says the number of people unable or unwilling to pay their energy b
 
 ---
 
-### 2. Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-"Just accept Brexit and move on," the former prime minister tells BBC's Laura Kuenssberg.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 3. Explosion on Russian ship at Libya port caused by suspected drone attack, officials say
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 4. India-Pakistan cricket rivalry brings World Cup atmosphere to Qatar
+### 7. Cockroaches, dissent and a paradigm shift in India
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-India and Pakistan’s A teams meet at the Asia Cup Rising Stars. The packed stands show the rivalry remains as intense.
+The rise of the Cockroach Janta Party and what it reveals about the future of politics and journalism in India.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/india-pakistan-cricket-rivalry-brings-world-cup-atmosphere-to-qatar?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/india-pakistan-cricket-rivalry-brings-world-cup-atmosphere-to-qatar?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/the-listening-post/2026/11/22/cockroaches-dissent-and-a-paradigm-shift-in-india?traffic_source=rss](https://www.aljazeera.com/video/the-listening-post/2026/11/22/cockroaches-dissent-and-a-paradigm-shift-in-india?traffic_source=rss)
 
 ---
 
-### 5. Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base
+### 8. On China, is Trump bucking the US national security establishment?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.
+On China, US is torn between the fears of the national security establishment and the prospect of expanded trade.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/the-bottom-line/2026/11/22/on-china-is-trump-bucking-the-us-national-security-establishment?traffic_source=rss](https://www.aljazeera.com/video/the-bottom-line/2026/11/22/on-china-is-trump-bucking-the-us-national-security-establishment?traffic_source=rss)
 
 ---
 
-### 6. Israeli settlers attack multiple Palestinian villages as pogroms surge
+### 9. Aber Kawas becomes first Palestinian in New York state Senate history
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.
+Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
+### 10. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas
+### 11. Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama
+### 12. Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama
 
 **Source:** NASA
 

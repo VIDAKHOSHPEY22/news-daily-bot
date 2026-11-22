@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-22T23:46:42+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "All Delta Flights Through Atlanta Delayed as Automated System Falters",
+            "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html\">https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50603232\">https://news.ycombinator.com/item?id=50603232</a></p>\n<p>Points: 8</p>\n<p># Comments: 0</p>",
+            "url": "https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html",
+            "published": "Sun, 22 Nov 2026 19:51:46 +0000",
+            "fetched": "2026-11-22T23:46:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What Happened to Silicon Valley?",
+            "description": "<p>Article URL: <a href=\"https://www.oreilly.com/radar/what-happened-to-silicon-valley/\">https://www.oreilly.com/radar/what-happened-to-silicon-valley/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50602947\">https://news.ycombinator.com/item?id=50602947</a></p>\n<p>Points: 23</p>\n<p># Comments: 2</p>",
+            "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+            "published": "Sun, 22 Nov 2026 19:20:15 +0000",
+            "fetched": "2026-11-22T23:46:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Canada recommits to federal funding for news",
+            "description": "<p>Article URL: <a href=\"https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/\">https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50602847\">https://news.ycombinator.com/item?id=50602847</a></p>\n<p>Points: 87</p>\n<p># Comments: 73</p>",
+            "url": "https://www.niemanlab.org/2026/11/a-government-that-gets-it-canada-recommits-to-federal-funding-for-news/",
+            "published": "Sun, 22 Nov 2026 19:10:38 +0000",
+            "fetched": "2026-11-22T23:46:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+            "description": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+            "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 18:17:59 GMT",
+            "fetched": "2026-11-22T23:46:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What's next after no deal at COP31 climate talks?",
+            "description": "The COP31 climate summit in Turkey has formally come to an end after countries failed to agree a deal.",
+            "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 18:57:24 GMT",
+            "fetched": "2026-11-22T23:46:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
+            "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 13:50:21 GMT",
+            "fetched": "2026-11-22T23:46:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cockroaches, dissent and a paradigm shift in India",
+            "description": "The rise of the Cockroach Janta Party and what it reveals about the future of politics and journalism in India.",
+            "url": "https://www.aljazeera.com/video/the-listening-post/2026/11/22/cockroaches-dissent-and-a-paradigm-shift-in-india?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 19:40:12 +0000",
+            "fetched": "2026-11-22T23:46:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "On China, is Trump bucking the US national security establishment?",
+            "description": "On China, US is torn between the fears of the national security establishment and the prospect of expanded trade.",
+            "url": "https://www.aljazeera.com/video/the-bottom-line/2026/11/22/on-china-is-trump-bucking-the-us-national-security-establishment?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 19:30:00 +0000",
+            "fetched": "2026-11-22T23:46:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Aber Kawas becomes first Palestinian in New York state Senate history",
+            "description": "Kawas, a democratic socialist, won with 74.5 percent of the vote, championing progressive politics.",
+            "url": "https://www.aljazeera.com/news/2026/11/22/aber-kawas-becomes-first-palestinian-in-new-york-state-senate-history?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 19:18:29 +0000",
+            "fetched": "2026-11-22T23:46:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-22T23:46:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-22T23:46:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-22T23:46:42+03:30"
+        }
+    ]
+}
