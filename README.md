@@ -1,64 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-22 15:56:57
+**Last Update:** 2026-11-22 21:25:27
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts
+### 1. Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://arxiv.org/abs/2606.14068">https://arxiv.org/abs/2606.14068</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50597743">https://news.ycombinator.com/item?id=50597743</a></p>
-<p>Points: 52</p>
-<p># Comments: 24</p>
+Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.
 
-🔗 **Read more:** [https://arxiv.org/abs/2606.14068](https://arxiv.org/abs/2606.14068)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 2. 87% of the Anthropic power will come from gas and 11% from coal in 2028
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/">https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50597612">https://news.ycombinator.com/item?id=50597612</a></p>
-<p>Points: 193</p>
-<p># Comments: 276</p>
-
-🔗 **Read more:** [https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)
-
----
-
-### 3. Notes on the discrete Fourier transform (DFT)
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/">https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50596960">https://news.ycombinator.com/item?id=50596960</a></p>
-<p>Points: 36</p>
-<p># Comments: 5</p>
-
-🔗 **Read more:** [https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)
-
----
-
-### 4. Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'
+### 2. Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'
 
 **Source:** BBC
 
@@ -71,72 +36,59 @@
 
 ---
 
-### 5. 'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?
+### 3. Explosion on Russian ship at Libya port caused by suspected drone attack, officials say
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Theresa May, David Cameron and Tony Blair have weighed in on Burnham's plans on moving closer to the EU, but the prime minister's message itself is not very precise.
+Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. How a teen gamer and his mother helped rescue a missing girl
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. What’s behind Iran’s escalation of attacks in the Gulf?
+### 4. India-Pakistan cricket rivalry brings World Cup atmosphere to Qatar
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tehran has ramped up attacks as the US naval blockade and sanctions campaign hurt the country economically.
+India and Pakistan’s A teams meet at the Asia Cup Rising Stars. The packed stands show the rivalry remains as intense.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/india-pakistan-cricket-rivalry-brings-world-cup-atmosphere-to-qatar?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/india-pakistan-cricket-rivalry-brings-world-cup-atmosphere-to-qatar?traffic_source=rss)
 
 ---
 
-### 8. Why have UN efforts to regulate ‘killer robots’ stalled?
+### 5. Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-CWC countries agree to &#039;elaborate&#039; on potential accord regulating autonomous weapons in two years, prompting criticism.
+There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/why-have-un-efforts-to-regulate-killer-robots-stalled?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/why-have-un-efforts-to-regulate-killer-robots-stalled?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss)
 
 ---
 
-### 9. Russian ship attacked by drone in Baltic Sea off Finland
+### 6. Israeli settlers attack multiple Palestinian villages as pogroms surge
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russian ship attacked by drone in Baltic Sea off Finland
+Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
+### 7. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas
+### 8. Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama
+### 9. Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama
 
 **Source:** NASA
 

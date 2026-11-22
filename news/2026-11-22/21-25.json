@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-22T21:25:27+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
+            "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 13:50:21 GMT",
+            "fetched": "2026-11-22T21:25:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
+            "description": "\"Just accept Brexit and move on,\" the former prime minister tells BBC's Laura Kuenssberg.",
+            "url": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 11:50:20 GMT",
+            "fetched": "2026-11-22T21:25:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+            "description": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia.",
+            "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 17:16:47 GMT",
+            "fetched": "2026-11-22T21:25:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "India-Pakistan cricket rivalry brings World Cup atmosphere to Qatar",
+            "description": "India and Pakistan’s A teams meet at the Asia Cup Rising Stars. The packed stands show the rivalry remains as intense.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/india-pakistan-cricket-rivalry-brings-world-cup-atmosphere-to-qatar?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 17:46:32 +0000",
+            "fetched": "2026-11-22T21:25:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian vessel hit by suspected sea drone at Libya’s Benghazi naval base",
+            "description": "There was no immediate reaction from Russia, and no one has claimed responsibility for the suspected attack.",
+            "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 17:12:48 +0000",
+            "fetched": "2026-11-22T21:25:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli settlers attack multiple Palestinian villages as pogroms surge",
+            "description": "Israeli settlers attacked several Palestinian towns and villages in the occupied West Bank on Sunday.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/israeli-settlers-attack-multiple-palestinian-villages-as-pogroms-surge?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 16:50:48 +0000",
+            "fetched": "2026-11-22T21:25:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-22T21:25:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-22T21:25:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-22T21:25:27+03:30"
+        }
+    ]
+}
