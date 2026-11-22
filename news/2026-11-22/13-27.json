@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-22T13:27:40+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Hacker News",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+            "description": "<p>Article URL: <a href=\"https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/\">https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50597612\">https://news.ycombinator.com/item?id=50597612</a></p>\n<p>Points: 41</p>\n<p># Comments: 20</p>",
+            "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+            "published": "Sun, 22 Nov 2026 08:57:34 +0000",
+            "fetched": "2026-11-22T13:27:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Notes on the discrete Fourier transform (DFT)",
+            "description": "<p>Article URL: <a href=\"https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/\">https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50596960\">https://news.ycombinator.com/item?id=50596960</a></p>\n<p>Points: 26</p>\n<p># Comments: 4</p>",
+            "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+            "published": "Sun, 22 Nov 2026 06:52:25 +0000",
+            "fetched": "2026-11-22T13:27:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: The Riemann Proof Handbook",
+            "description": "<p>Article URL: <a href=\"https://github.com/tamnd/riemann-handbook\">https://github.com/tamnd/riemann-handbook</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50596664\">https://news.ycombinator.com/item?id=50596664</a></p>\n<p>Points: 44</p>\n<p># Comments: 16</p>",
+            "url": "https://github.com/tamnd/riemann-handbook",
+            "published": "Sun, 22 Nov 2026 05:46:30 +0000",
+            "fetched": "2026-11-22T13:27:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?",
+            "description": "Theresa May, David Cameron and Tony Blair have weighed in on Burnham's plans on moving closer to the EU, but the prime minister's message itself is not very precise.",
+            "url": "https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 06:01:49 GMT",
+            "fetched": "2026-11-22T13:27:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How a teen gamer and his mother helped rescue a missing girl",
+            "description": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+            "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 00:09:58 GMT",
+            "fetched": "2026-11-22T13:27:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Verstappen wins extraordinary Las Vegas Grand Prix as Ferraris collide",
+            "description": "Red Bull's Max Verstappen wins an extraordinary Las Vegas Grand Prix that featured 34 lead changes and another collision between the Ferraris.",
+            "url": "https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 09:49:15 GMT",
+            "fetched": "2026-11-22T13:27:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Restored wells bring life back to Hebron’s occupied Old City",
+            "description": "Hebron&#039;s Old City has been under constant siege by Israeli settlers and the military.",
+            "url": "https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 09:33:16 +0000",
+            "fetched": "2026-11-22T13:27:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Photos: People rally across France over living costs, public services",
+            "description": "Protests held on sixth weekend as tens of thousands march over inequality and organisers plan more rallies.",
+            "url": "https://www.aljazeera.com/gallery/2026/11/22/photos-people-rally-across-france-over-living-costs-public-services?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 09:27:48 +0000",
+            "fetched": "2026-11-22T13:27:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Trump’s exit strategy may depend on quietly lifting Iran blockade’",
+            "description": "US President Donald Trump will have to ease the naval blockade on Iran if he wants the war to wind down, says analyst.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 09:06:27 +0000",
+            "fetched": "2026-11-22T13:27:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-22T13:27:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-22T13:27:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-22T13:27:40+03:30"
+        }
+    ]
+}

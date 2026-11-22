@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-22 06:31:36
+**Last Update:** 2026-11-22 13:27:40
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, Al Jazeera, BBC
+**Sources:** NASA, BBC, Hacker News, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. OpenRouter off-boards 3 providers, pulls 125 endpoints from zero data retention
+### 1. 87% of the Anthropic power will come from gas and 11% from coal in 2028
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/">https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50595554">https://news.ycombinator.com/item?id=50595554</a></p>
-<p>Points: 13</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/">https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50597612">https://news.ycombinator.com/item?id=50597612</a></p>
+<p>Points: 41</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/](https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers/)
+🔗 **Read more:** [https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)
 
 ---
 
-### 2. Leonida – PC Recompilation of the Xbox Version of GTA 6
+### 2. Notes on the discrete Fourier transform (DFT)
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/ItsNotRexed/Leonida">https://github.com/ItsNotRexed/Leonida</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50595168">https://news.ycombinator.com/item?id=50595168</a></p>
-<p>Points: 18</p>
-<p># Comments: 5</p>
+<p>Article URL: <a href="https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/">https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50596960">https://news.ycombinator.com/item?id=50596960</a></p>
+<p>Points: 26</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://github.com/ItsNotRexed/Leonida](https://github.com/ItsNotRexed/Leonida)
+🔗 **Read more:** [https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)
 
 ---
 
-### 3. Sandwich Simulator
+### 3. Show HN: The Riemann Proof Handbook
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://stulle.app/">https://stulle.app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50594911">https://news.ycombinator.com/item?id=50594911</a></p>
-<p>Points: 40</p>
-<p># Comments: 18</p>
+<p>Article URL: <a href="https://github.com/tamnd/riemann-handbook">https://github.com/tamnd/riemann-handbook</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50596664">https://news.ycombinator.com/item?id=50596664</a></p>
+<p>Points: 44</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://stulle.app/](https://stulle.app/)
+🔗 **Read more:** [https://github.com/tamnd/riemann-handbook](https://github.com/tamnd/riemann-handbook)
 
 ---
 
-### 4. Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting
+### 4. 'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.
+Theresa May, David Cameron and Tony Blair have weighed in on Burnham's plans on moving closer to the EU, but the prime minister's message itself is not very precise.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv
+### 5. How a teen gamer and his mother helped rescue a missing girl
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky met the UK defence secretary.
+When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Fight over fossil fuels leaves COP31 climate talks in deadlock
+### 6. Verstappen wins extraordinary Las Vegas Grand Prix as Ferraris collide
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Countries from nearly 200 countries are in a deadlock to try and get a new global climate agreement.
+Red Bull's Max Verstappen wins an extraordinary Las Vegas Grand Prix that featured 34 lead changes and another collision between the Ferraris.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6ly5w40eg07o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Displaced Palestinians protest as Israeli air strikes continue in Gaza
+### 7. Restored wells bring life back to Hebron’s occupied Old City
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Israeli forces continue to destroy residential buildings as part of a &#039;gradual displacement&#039; policy, a Gaza mayor says.
+Hebron&#039;s Old City has been under constant siege by Israeli settlers and the military.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/displaced-palestinians-protest-as-israeli-air-strikes-continue-in-gaza?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss](https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss)
 
 ---
 
-### 8. Bessent confirms he’s living on US military base over Iran fears
+### 8. Photos: People rally across France over living costs, public services
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Treasury Secretary Scott Bessent says he’s still living at a US military base, two weeks after an Israeli warning.
+Protests held on sixth weekend as tens of thousands march over inequality and organisers plan more rallies.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/bessent-confirms-hes-living-on-us-military-base-over-iran-fears?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/11/22/photos-people-rally-across-france-over-living-costs-public-services?traffic_source=rss](https://www.aljazeera.com/gallery/2026/11/22/photos-people-rally-across-france-over-living-costs-public-services?traffic_source=rss)
 
 ---
 
-### 9. Moviegoers head for the exits as quake strikes Peru
+### 9. ‘Trump’s exit strategy may depend on quietly lifting Iran blockade’
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Moviegoers head for the exits as quake strikes Peru
+US President Donald Trump will have to ease the naval blockade on Iran if he wants the war to wind down, says analyst.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss)
 
 ---
 
