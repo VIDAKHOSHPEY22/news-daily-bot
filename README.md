@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-22 02:30:10
+**Last Update:** 2026-11-22 05:53:14
 
 **Total News:** 12
 
@@ -10,7 +10,23 @@
 
 ## 📰 Latest News
 
-### 1. PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors
+### 1. Sandwich Simulator
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://stulle.app/">https://stulle.app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50594911">https://news.ycombinator.com/item?id=50594911</a></p>
+<p>Points: 27</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://stulle.app/](https://stulle.app/)
+
+---
+
+### 2. PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://github.com/sebaandrada-cell/PcapAnalyzer">https://github.com/sebaandrada-cell/PcapAnalyzer</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50594132">https://news.ycombinator.com/item?id=50594132</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Points: 66</p>
+<p># Comments: 7</p>
 
 🔗 **Read more:** [https://github.com/sebaandrada-cell/PcapAnalyzer](https://github.com/sebaandrada-cell/PcapAnalyzer)
 
 ---
 
-### 2. Advice for the next 100 Rust GUIs
+### 3. Advice for the next 100 Rust GUIs
 
 **Source:** Hacker News
 
@@ -35,26 +51,10 @@
 **Description:**
 <p>Article URL: <a href="https://linebender.org/blog/next-100-guis/">https://linebender.org/blog/next-100-guis/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50593737">https://news.ycombinator.com/item?id=50593737</a></p>
-<p>Points: 7</p>
-<p># Comments: 0</p>
+<p>Points: 98</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://linebender.org/blog/next-100-guis/](https://linebender.org/blog/next-100-guis/)
-
----
-
-### 3. Tasklet (YC P26) Is Hiring Product and Agent Infra Engineers
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://tasklet.ai/careers">https://tasklet.ai/careers</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50593679">https://news.ycombinator.com/item?id=50593679</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://tasklet.ai/careers](https://tasklet.ai/careers)
 
 ---
 
@@ -97,42 +97,42 @@ The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky m
 
 ---
 
-### 7. Bahrain says Iranian attack hits industrial facility
+### 7. Moviegoers head for the exits as quake strikes Peru
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bahrain says Iranian attack hits industrial facility
+Moviegoers head for the exits as quake strikes Peru
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/bahrain-says-iranian-attack-hits-industrial-facility?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss)
 
 ---
 
-### 8. Bahrain says Iranian attack causes fire at industrial facility
+### 8. Clashes erupt across France in another night of protest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bahrain reports no injuries, as Iran&#039;s IRGC says it targeted US military positions at two bases in al-Riffa and Awali.
+French police charged to disperse crowds on Saturday as the country faced a sixth weekend of demonstrations.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss](https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss)
 
 ---
 
-### 9. Impunity fuels surge in settler violence across occupied West Bank
+### 9. Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Impunity fuels surge in settler violence across occupied West Bank
+Bahrain has condemned Iran&#039;s strikes on US military assets in the Gulf country, as Houthis keep Saudi Arabia on edge.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/21/impunity-fuels-surge-in-settler-violence-across-occupied-west-bank?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss)
 
 ---
 

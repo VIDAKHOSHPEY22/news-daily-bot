@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-22T05:53:14+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Sandwich Simulator",
+            "description": "<p>Article URL: <a href=\"https://stulle.app/\">https://stulle.app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50594911\">https://news.ycombinator.com/item?id=50594911</a></p>\n<p>Points: 27</p>\n<p># Comments: 8</p>",
+            "url": "https://stulle.app/",
+            "published": "Sun, 22 Nov 2026 00:07:59 +0000",
+            "fetched": "2026-11-22T05:53:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "PcapAnalyzer – self-hosted pcap analyzer with 27 problem detectors",
+            "description": "<p>Article URL: <a href=\"https://github.com/sebaandrada-cell/PcapAnalyzer\">https://github.com/sebaandrada-cell/PcapAnalyzer</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50594132\">https://news.ycombinator.com/item?id=50594132</a></p>\n<p>Points: 66</p>\n<p># Comments: 7</p>",
+            "url": "https://github.com/sebaandrada-cell/PcapAnalyzer",
+            "published": "Sat, 21 Nov 2026 22:09:58 +0000",
+            "fetched": "2026-11-22T05:53:14+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Advice for the next 100 Rust GUIs",
+            "description": "<p>Article URL: <a href=\"https://linebender.org/blog/next-100-guis/\">https://linebender.org/blog/next-100-guis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50593737\">https://news.ycombinator.com/item?id=50593737</a></p>\n<p>Points: 98</p>\n<p># Comments: 14</p>",
+            "url": "https://linebender.org/blog/next-100-guis/",
+            "published": "Sat, 21 Nov 2026 21:17:53 +0000",
+            "fetched": "2026-11-22T05:53:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets Wes Streeting",
+            "description": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+            "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 21 Nov 2026 13:17:38 GMT",
+            "fetched": "2026-11-22T05:53:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Streeting calls Putin a 'cold-blooded killer' as he meets Zelensky in Kyiv",
+            "description": "The BBC's Sarah Rainsford reports from Kyiv after Ukrainian President Zelensky met the UK defence secretary.",
+            "url": "https://www.bbc.co.uk/news/videos/cqevrddp91z8o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 21 Nov 2026 16:16:29 GMT",
+            "fetched": "2026-11-22T05:53:14+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Catherine talks openly about how cancer changed her in documentary on BBC",
+            "description": "\"There is a much, much deeper part to what a cancer diagnosis shifts in you,\" says Catherine in the documentary.",
+            "url": "https://www.bbc.co.uk/news/articles/c85y14zvexz9o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 21 Nov 2026 12:00:03 GMT",
+            "fetched": "2026-11-22T05:53:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Moviegoers head for the exits as quake strikes Peru",
+            "description": "Moviegoers head for the exits as quake strikes Peru",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/moviegoers-head-for-the-exits-as-quake-strikes-peru?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 01:07:19 +0000",
+            "fetched": "2026-11-22T05:53:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Clashes erupt across France in another night of protest",
+            "description": "French police charged to disperse crowds on Saturday as the country faced a sixth weekend of demonstrations.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/clashes-erupt-across-france-in-another-night-of-protest?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 00:37:32 +0000",
+            "fetched": "2026-11-22T05:53:14+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Iran targets US bases in Bahrain; Houthi strikes continue",
+            "description": "Bahrain has condemned Iran&#039;s strikes on US military assets in the Gulf country, as Houthis keep Saudi Arabia on edge.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/11/21/iran-war-live-iran-targets-us-military-in-bahrain-houthi-strikes-continue?traffic_source=rss",
+            "published": "Sat, 21 Nov 2026 23:59:03 +0000",
+            "fetched": "2026-11-22T05:53:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-22T05:53:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-22T05:53:14+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-22T05:53:14+03:30"
+        }
+    ]
+}
