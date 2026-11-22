@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-23T03:10:48+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
+            "description": "<p>Article URL: <a href=\"https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3\">https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50605045\">https://news.ycombinator.com/item?id=50605045</a></p>\n<p>Points: 29</p>\n<p># Comments: 0</p>",
+            "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
+            "published": "Sun, 22 Nov 2026 23:12:10 +0000",
+            "fetched": "2026-11-23T03:10:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GL.iNet Security Notice 2026-11-20",
+            "description": "<p>Article URL: <a href=\"https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20\">https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50604988\">https://news.ycombinator.com/item?id=50604988</a></p>\n<p>Points: 14</p>\n<p># Comments: 3</p>",
+            "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+            "published": "Sun, 22 Nov 2026 23:06:37 +0000",
+            "fetched": "2026-11-23T03:10:48+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Do Not Accept",
+            "description": "<p>Article URL: <a href=\"https://donotaccept.ai/\">https://donotaccept.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50604959\">https://news.ycombinator.com/item?id=50604959</a></p>\n<p>Points: 23</p>\n<p># Comments: 18</p>",
+            "url": "https://donotaccept.ai/",
+            "published": "Sun, 22 Nov 2026 23:02:20 +0000",
+            "fetched": "2026-11-23T03:10:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+            "description": "The talks fail to make a breakthrough on tackling climate change after a row about mentioning fossil fuels.",
+            "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 18:17:59 GMT",
+            "fetched": "2026-11-23T03:10:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What's next after no deal at COP31 climate talks?",
+            "description": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+            "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 18:57:24 GMT",
+            "fetched": "2026-11-23T03:10:48+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Boss of British Gas owner Centrica 'hugely concerned' over impact of soaring energy bills",
+            "description": "Chris O'Shea says the number of people unable or unwilling to pay their energy bills will increase when prices jump in the new year.",
+            "url": "https://www.bbc.co.uk/news/articles/c6jre7gpdw13o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 13:50:21 GMT",
+            "fetched": "2026-11-23T03:10:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump criticises Schumer amid push for new Democrat leadership in US Senate",
+            "description": "Schumer, who has led the Democrats since 2017, faces a challenge from Chris Van Hollen in his bid for majority leader.",
+            "url": "https://www.aljazeera.com/news/2026/11/22/trump-criticises-schumer-amid-push-for-new-democrat-leadership-in-us-senate?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 23:22:59 +0000",
+            "fetched": "2026-11-23T03:10:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump to host private dinner for largest owners of his meme coin",
+            "description": "Sunday&#039;s dinner is the third event for top holders of the $Trump meme coin, launched shortly before his inauguration.",
+            "url": "https://www.aljazeera.com/news/2026/11/22/trump-to-host-private-dinner-for-largest-owners-of-his-meme-coin?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 22:37:38 +0000",
+            "fetched": "2026-11-23T03:10:48+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Democrats win largest House majority since 1992 with North Carolina seat",
+            "description": "At least 258 US House seats are now under Democratic control, with four more midterm races yet to be decided.",
+            "url": "https://www.aljazeera.com/news/2026/11/22/democrats-win-largest-house-majority-since-1992-with-north-carolina-seat?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 22:19:47 +0000",
+            "fetched": "2026-11-23T03:10:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-23T03:10:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-23T03:10:48+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-23T03:10:48+03:30"
+        }
+    ]
+}
