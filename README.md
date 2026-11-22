@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-22 13:27:40
+**Last Update:** 2026-11-22 15:56:57
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Hacker News, Al Jazeera
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. 87% of the Anthropic power will come from gas and 11% from coal in 2028
+### 1. Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://arxiv.org/abs/2606.14068">https://arxiv.org/abs/2606.14068</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50597743">https://news.ycombinator.com/item?id=50597743</a></p>
+<p>Points: 52</p>
+<p># Comments: 24</p>
+
+🔗 **Read more:** [https://arxiv.org/abs/2606.14068](https://arxiv.org/abs/2606.14068)
+
+---
+
+### 2. 87% of the Anthropic power will come from gas and 11% from coal in 2028
 
 **Source:** Hacker News
 
@@ -19,14 +35,14 @@
 **Description:**
 <p>Article URL: <a href="https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/">https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50597612">https://news.ycombinator.com/item?id=50597612</a></p>
-<p>Points: 41</p>
-<p># Comments: 20</p>
+<p>Points: 193</p>
+<p># Comments: 276</p>
 
 🔗 **Read more:** [https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/](https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/)
 
 ---
 
-### 2. Notes on the discrete Fourier transform (DFT)
+### 3. Notes on the discrete Fourier transform (DFT)
 
 **Source:** Hacker News
 
@@ -35,30 +51,27 @@
 **Description:**
 <p>Article URL: <a href="https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/">https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50596960">https://news.ycombinator.com/item?id=50596960</a></p>
-<p>Points: 26</p>
-<p># Comments: 4</p>
+<p>Points: 36</p>
+<p># Comments: 5</p>
 
 🔗 **Read more:** [https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/](https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/)
 
 ---
 
-### 3. Show HN: The Riemann Proof Handbook
+### 4. Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://github.com/tamnd/riemann-handbook">https://github.com/tamnd/riemann-handbook</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50596664">https://news.ycombinator.com/item?id=50596664</a></p>
-<p>Points: 44</p>
-<p># Comments: 16</p>
+"Just accept Brexit and move on," the former prime minister tells BBC's Laura Kuenssberg.
 
-🔗 **Read more:** [https://github.com/tamnd/riemann-handbook](https://github.com/tamnd/riemann-handbook)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 4. 'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?
+### 5. 'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?
 
 **Source:** BBC
 
@@ -71,7 +84,7 @@ Theresa May, David Cameron and Tony Blair have weighed in on Burnham's plans on 
 
 ---
 
-### 5. How a teen gamer and his mother helped rescue a missing girl
+### 6. How a teen gamer and his mother helped rescue a missing girl
 
 **Source:** BBC
 
@@ -84,55 +97,42 @@ When 16-year-old Landon Tresp met a teenage girl in an online game, it led to hi
 
 ---
 
-### 6. Verstappen wins extraordinary Las Vegas Grand Prix as Ferraris collide
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Red Bull's Max Verstappen wins an extraordinary Las Vegas Grand Prix that featured 34 lead changes and another collision between the Ferraris.
-
-🔗 **Read more:** [https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/formula1/articles/cqx2ex25pvn9o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Restored wells bring life back to Hebron’s occupied Old City
+### 7. What’s behind Iran’s escalation of attacks in the Gulf?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Hebron&#039;s Old City has been under constant siege by Israeli settlers and the military.
+Tehran has ramped up attacks as the US naval blockade and sanctions campaign hurt the country economically.
 
-🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss](https://www.aljazeera.com/features/2026/11/22/restored-wells-bring-life-back-to-hebrons-occupied-old-city?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss)
 
 ---
 
-### 8. Photos: People rally across France over living costs, public services
+### 8. Why have UN efforts to regulate ‘killer robots’ stalled?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Protests held on sixth weekend as tens of thousands march over inequality and organisers plan more rallies.
+CWC countries agree to &#039;elaborate&#039; on potential accord regulating autonomous weapons in two years, prompting criticism.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/11/22/photos-people-rally-across-france-over-living-costs-public-services?traffic_source=rss](https://www.aljazeera.com/gallery/2026/11/22/photos-people-rally-across-france-over-living-costs-public-services?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/22/why-have-un-efforts-to-regulate-killer-robots-stalled?traffic_source=rss](https://www.aljazeera.com/news/2026/11/22/why-have-un-efforts-to-regulate-killer-robots-stalled?traffic_source=rss)
 
 ---
 
-### 9. ‘Trump’s exit strategy may depend on quietly lifting Iran blockade’
+### 9. Russian ship attacked by drone in Baltic Sea off Finland
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US President Donald Trump will have to ease the naval blockade on Iran if he wants the war to wind down, says analyst.
+Russian ship attacked by drone in Baltic Sea off Finland
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/trumps-exit-strategy-may-depend-on-quietly-lifting-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss)
 
 ---
 

@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-22T15:56:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "NASA",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Harsher on Male? Evaluating LLMs on Gender-Asymmetric Moral Framing in Conflicts",
+            "description": "<p>Article URL: <a href=\"https://arxiv.org/abs/2606.14068\">https://arxiv.org/abs/2606.14068</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50597743\">https://news.ycombinator.com/item?id=50597743</a></p>\n<p>Points: 52</p>\n<p># Comments: 24</p>",
+            "url": "https://arxiv.org/abs/2606.14068",
+            "published": "Sun, 22 Nov 2026 09:18:36 +0000",
+            "fetched": "2026-11-22T15:56:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "87% of the Anthropic power will come from gas and 11% from coal in 2028",
+            "description": "<p>Article URL: <a href=\"https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/\">https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50597612\">https://news.ycombinator.com/item?id=50597612</a></p>\n<p>Points: 193</p>\n<p># Comments: 276</p>",
+            "url": "https://betterdatacenterproject.com/2026/11/16/how-ai-is-powered-a-breakdown-of-byop-and-grid-power/",
+            "published": "Sun, 22 Nov 2026 08:57:34 +0000",
+            "fetched": "2026-11-22T15:56:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Notes on the discrete Fourier transform (DFT)",
+            "description": "<p>Article URL: <a href=\"https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/\">https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50596960\">https://news.ycombinator.com/item?id=50596960</a></p>\n<p>Points: 36</p>\n<p># Comments: 5</p>",
+            "url": "https://eli.thegreenplace.net/2026/notes-on-the-discrete-fourier-transform-dft/",
+            "published": "Sun, 22 Nov 2026 06:52:25 +0000",
+            "fetched": "2026-11-22T15:56:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Theresa May 'aghast' at Burnham's EU plans and says 'Brexit is done'",
+            "description": "\"Just accept Brexit and move on,\" the former prime minister tells BBC's Laura Kuenssberg.",
+            "url": "https://www.bbc.co.uk/news/articles/cvj6l8y3x1x4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 11:50:20 GMT",
+            "fetched": "2026-11-22T15:56:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Move on!' Former PMs pile in with advice for Andy Burnham, but will he listen?",
+            "description": "Theresa May, David Cameron and Tony Blair have weighed in on Burnham's plans on moving closer to the EU, but the prime minister's message itself is not very precise.",
+            "url": "https://www.bbc.co.uk/news/articles/cjn5023e6ez4o?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 06:01:49 GMT",
+            "fetched": "2026-11-22T15:56:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How a teen gamer and his mother helped rescue a missing girl",
+            "description": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+            "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 00:09:58 GMT",
+            "fetched": "2026-11-22T15:56:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "What’s behind Iran’s escalation of attacks in the Gulf?",
+            "description": "Tehran has ramped up attacks as the US naval blockade and sanctions campaign hurt the country economically.",
+            "url": "https://www.aljazeera.com/news/2026/11/22/whats-behind-irans-escalation-of-attacks-in-the-gulf?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 11:46:42 +0000",
+            "fetched": "2026-11-22T15:56:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why have UN efforts to regulate ‘killer robots’ stalled?",
+            "description": "CWC countries agree to &#039;elaborate&#039; on potential accord regulating autonomous weapons in two years, prompting criticism.",
+            "url": "https://www.aljazeera.com/news/2026/11/22/why-have-un-efforts-to-regulate-killer-robots-stalled?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 11:44:50 +0000",
+            "fetched": "2026-11-22T15:56:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russian ship attacked by drone in Baltic Sea off Finland",
+            "description": "Russian ship attacked by drone in Baltic Sea off Finland",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/22/russian-ship-attacked-by-drone-in-baltic-sea-off-finland?traffic_source=rss",
+            "published": "Sun, 22 Nov 2026 11:15:27 +0000",
+            "fetched": "2026-11-22T15:56:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-22T15:56:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-22T15:56:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-22T15:56:57+03:30"
+        }
+    ]
+}
