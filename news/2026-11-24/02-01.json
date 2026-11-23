@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-24T02:01:37+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+            "description": "<p>Article URL: <a href=\"https://www.bored.com/\">https://www.bored.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50619207\">https://news.ycombinator.com/item?id=50619207</a></p>\n<p>Points: 26</p>\n<p># Comments: 6</p>",
+            "url": "https://www.bored.com/",
+            "published": "Mon, 23 Nov 2026 21:01:16 +0000",
+            "fetched": "2026-11-24T02:01:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The horse made the state",
+            "description": "<p>Article URL: <a href=\"https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist\">https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50619186\">https://news.ycombinator.com/item?id=50619186</a></p>\n<p>Points: 35</p>\n<p># Comments: 30</p>",
+            "url": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
+            "published": "Mon, 23 Nov 2026 20:59:12 +0000",
+            "fetched": "2026-11-24T02:01:37+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GPUI is getting its own repository",
+            "description": "<p>Article URL: <a href=\"https://github.com/zed-industries/gpui\">https://github.com/zed-industries/gpui</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50619103\">https://news.ycombinator.com/item?id=50619103</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
+            "url": "https://github.com/zed-industries/gpui",
+            "published": "Mon, 23 Nov 2026 20:52:54 +0000",
+            "fetched": "2026-11-24T02:01:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "My approach to EU is pragmatic, says Burnham",
+            "description": "The prime minister also said his predecessors who have urged him not to reopen the Brexit debate are \"stuck in the past\".",
+            "url": "https://www.bbc.co.uk/news/articles/c6vg2v9xkr40o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 23 Nov 2026 19:10:44 GMT",
+            "fetched": "2026-11-24T02:01:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
+            "description": "Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.",
+            "url": "https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 23 Nov 2026 20:48:35 GMT",
+            "fetched": "2026-11-24T02:01:37+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US rapper Don Toliver postpones two arena shows after Manchester evacuation",
+            "description": "Don Toliver's show on Sunday was evacuated after an \"unknown substance\" was released into the crowd.",
+            "url": "https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 23 Nov 2026 20:49:08 GMT",
+            "fetched": "2026-11-24T02:01:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US escalates sanctions on Iran, targets ‘shadow banking’ networks",
+            "description": "US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran&#039;s global financial activities.",
+            "url": "https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss",
+            "published": "Mon, 23 Nov 2026 21:30:40 +0000",
+            "fetched": "2026-11-24T02:01:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israel’s southern Syria incursion triggers fear and destruction",
+            "description": "Families in Koya have been shot at, had their homes set on fire, and been forced to flee after Israeli incursions.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss",
+            "published": "Mon, 23 Nov 2026 21:19:17 +0000",
+            "fetched": "2026-11-24T02:01:37+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US states sue SpaceX over Grok AI’s creation of child sexual abuse material",
+            "description": "Virginia and Oregon filed separate lawsuits on Monday, accusing the company of promoting Grok&#039;s &#039;spicy mode&#039;.",
+            "url": "https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material?traffic_source=rss",
+            "published": "Mon, 23 Nov 2026 21:15:33 +0000",
+            "fetched": "2026-11-24T02:01:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-24T02:01:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-24T02:01:37+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-24T02:01:37+03:30"
+        }
+    ]
+}

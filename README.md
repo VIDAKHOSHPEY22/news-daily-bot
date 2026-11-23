@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-23 23:53:31
+**Last Update:** 2026-11-24 02:01:37
 
 **Total News:** 12
 
-**Sources:** BBC, Hacker News, Al Jazeera, NASA
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. "Per ARM's Request, This Site Will Be Discontinued on 4 December 2026"
+### 1. Bored.com: Fun, interesting and cool websites to explore when bored
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://arm.jonpalmisc.com/">https://arm.jonpalmisc.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50617499">https://news.ycombinator.com/item?id=50617499</a></p>
-<p>Points: 290</p>
-<p># Comments: 47</p>
+<p>Article URL: <a href="https://www.bored.com/">https://www.bored.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50619207">https://news.ycombinator.com/item?id=50619207</a></p>
+<p>Points: 26</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://arm.jonpalmisc.com/](https://arm.jonpalmisc.com/)
+🔗 **Read more:** [https://www.bored.com/](https://www.bored.com/)
 
 ---
 
-### 2. Apple removed my open-source app from EU App Stores after 9 years
+### 2. The horse made the state
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/glushchenko/fsnotes/discussions/2056">https://github.com/glushchenko/fsnotes/discussions/2056</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50616933">https://news.ycombinator.com/item?id=50616933</a></p>
-<p>Points: 214</p>
-<p># Comments: 40</p>
+<p>Article URL: <a href="https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist">https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50619186">https://news.ycombinator.com/item?id=50619186</a></p>
+<p>Points: 35</p>
+<p># Comments: 30</p>
 
-🔗 **Read more:** [https://github.com/glushchenko/fsnotes/discussions/2056](https://github.com/glushchenko/fsnotes/discussions/2056)
+🔗 **Read more:** [https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist](https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist)
 
 ---
 
-### 3. How should an LLM see a computer?
+### 3. GPUI is getting its own repository
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.greptile.com/blog/trex-computer-use">https://www.greptile.com/blog/trex-computer-use</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50615520">https://news.ycombinator.com/item?id=50615520</a></p>
-<p>Points: 19</p>
-<p># Comments: 13</p>
+<p>Article URL: <a href="https://github.com/zed-industries/gpui">https://github.com/zed-industries/gpui</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50619103">https://news.ycombinator.com/item?id=50619103</a></p>
+<p>Points: 17</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://www.greptile.com/blog/trex-computer-use](https://www.greptile.com/blog/trex-computer-use)
+🔗 **Read more:** [https://github.com/zed-industries/gpui](https://github.com/zed-industries/gpui)
 
 ---
 
@@ -71,68 +71,68 @@ The prime minister also said his predecessors who have urged him not to reopen t
 
 ---
 
-### 5. Russian warship hit by Ukrainian drones in Libya, Zelensky says
+### 5. What strike on Russian ship in Libya says about spread of Ukraine war
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Kremlin warns of an "escalation of tensions in the region", but declines to comment directly on the attacks in Libya.
+Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. How Ukraine attacked Russian ships in Libya
+### 6. US rapper Don Toliver postpones two arena shows after Manchester evacuation
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Verified videos show huge fireballs, smoke plumes rising and sea drones attacking the vessels.
+Don Toliver's show on Sunday was evacuated after an "unknown substance" was released into the crowd.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cmz6q3001pw6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cmz6q3001pw6o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Protesting Bangladesh garment workers reject pay offer
+### 7. US escalates sanctions on Iran, targets ‘shadow banking’ networks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Bangladesh’s garment industry brings in about $38bn a year. The minimum wage is around 12,500 taka ($100) per month.
+US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran&#039;s global financial activities.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/protesting-bangladesh-garment-workers-reject-pay-offer?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/protesting-bangladesh-garment-workers-reject-pay-offer?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss)
 
 ---
 
-### 8. Trump delays explosive detonation in US state of Iowa amid legal battles
+### 8. Israel’s southern Syria incursion triggers fear and destruction
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Iowa detonation postponed as Trump cites safety risks, lead exposure, and court rulings in Midwestern controversy.
+Families in Koya have been shot at, had their homes set on fire, and been forced to flee after Israeli incursions.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/trump-delays-explosive-detonation-in-us-state-of-iowa-amid-legal-battles?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/trump-delays-explosive-detonation-in-us-state-of-iowa-amid-legal-battles?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss)
 
 ---
 
-### 9. As tech outages mount, some New Yorkers prepare for the worst
+### 9. US states sue SpaceX over Grok AI’s creation of child sexual abuse material
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-As digital disruptions raise concerns about essential services, some residents are preparing for prolonged outages.
+Virginia and Oregon filed separate lawsuits on Monday, accusing the company of promoting Grok&#039;s &#039;spicy mode&#039;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/as-tech-outages-mount-some-new-yorkers-prepare-for-the-worst?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/as-tech-outages-mount-some-new-yorkers-prepare-for-the-worst?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material?traffic_source=rss)
 
 ---
 
