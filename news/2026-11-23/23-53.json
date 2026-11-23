@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-23T23:53:31+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
+            "description": "<p>Article URL: <a href=\"https://arm.jonpalmisc.com/\">https://arm.jonpalmisc.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50617499\">https://news.ycombinator.com/item?id=50617499</a></p>\n<p>Points: 290</p>\n<p># Comments: 47</p>",
+            "url": "https://arm.jonpalmisc.com/",
+            "published": "Mon, 23 Nov 2026 19:17:55 +0000",
+            "fetched": "2026-11-23T23:53:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Apple removed my open-source app from EU App Stores after 9 years",
+            "description": "<p>Article URL: <a href=\"https://github.com/glushchenko/fsnotes/discussions/2056\">https://github.com/glushchenko/fsnotes/discussions/2056</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50616933\">https://news.ycombinator.com/item?id=50616933</a></p>\n<p>Points: 214</p>\n<p># Comments: 40</p>",
+            "url": "https://github.com/glushchenko/fsnotes/discussions/2056",
+            "published": "Mon, 23 Nov 2026 18:48:10 +0000",
+            "fetched": "2026-11-23T23:53:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "How should an LLM see a computer?",
+            "description": "<p>Article URL: <a href=\"https://www.greptile.com/blog/trex-computer-use\">https://www.greptile.com/blog/trex-computer-use</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50615520\">https://news.ycombinator.com/item?id=50615520</a></p>\n<p>Points: 19</p>\n<p># Comments: 13</p>",
+            "url": "https://www.greptile.com/blog/trex-computer-use",
+            "published": "Mon, 23 Nov 2026 17:19:25 +0000",
+            "fetched": "2026-11-23T23:53:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "My approach to EU is pragmatic, says Burnham",
+            "description": "The prime minister also said his predecessors who have urged him not to reopen the Brexit debate are \"stuck in the past\".",
+            "url": "https://www.bbc.co.uk/news/articles/c6vg2v9xkr40o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 23 Nov 2026 19:10:44 GMT",
+            "fetched": "2026-11-23T23:53:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+            "description": "The Kremlin warns of an \"escalation of tensions in the region\", but declines to comment directly on the attacks in Libya.",
+            "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 23 Nov 2026 15:41:23 GMT",
+            "fetched": "2026-11-23T23:53:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "How Ukraine attacked Russian ships in Libya",
+            "description": "Verified videos show huge fireballs, smoke plumes rising and sea drones attacking the vessels.",
+            "url": "https://www.bbc.co.uk/news/videos/cmz6q3001pw6o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 23 Nov 2026 14:32:12 GMT",
+            "fetched": "2026-11-23T23:53:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Protesting Bangladesh garment workers reject pay offer",
+            "description": "Bangladesh’s garment industry brings in about $38bn a year. The minimum wage is around 12,500 taka ($100) per month.",
+            "url": "https://www.aljazeera.com/news/2026/11/23/protesting-bangladesh-garment-workers-reject-pay-offer?traffic_source=rss",
+            "published": "Mon, 23 Nov 2026 20:03:48 +0000",
+            "fetched": "2026-11-23T23:53:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump delays explosive detonation in US state of Iowa amid legal battles",
+            "description": "Iowa detonation postponed as Trump cites safety risks, lead exposure, and court rulings in Midwestern controversy.",
+            "url": "https://www.aljazeera.com/news/2026/11/23/trump-delays-explosive-detonation-in-us-state-of-iowa-amid-legal-battles?traffic_source=rss",
+            "published": "Mon, 23 Nov 2026 20:01:41 +0000",
+            "fetched": "2026-11-23T23:53:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "As tech outages mount, some New Yorkers prepare for the worst",
+            "description": "As digital disruptions raise concerns about essential services, some residents are preparing for prolonged outages.",
+            "url": "https://www.aljazeera.com/news/2026/11/23/as-tech-outages-mount-some-new-yorkers-prepare-for-the-worst?traffic_source=rss",
+            "published": "Mon, 23 Nov 2026 19:43:45 +0000",
+            "fetched": "2026-11-23T23:53:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-23T23:53:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-23T23:53:31+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-23T23:53:31+03:30"
+        }
+    ]
+}
