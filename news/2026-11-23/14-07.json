@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-23T14:07:10+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "BBC",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "CollectWise (YC F24) Is Hiring",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager\">https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50608390\">https://news.ycombinator.com/item?id=50608390</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/collectwise/jobs/lgobCse-founding-customer-success-manager",
+            "published": "Mon, 23 Nov 2026 07:01:08 +0000",
+            "fetched": "2026-11-23T14:07:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Yes, 17M lines of Lean is a lot",
+            "description": "<p>Article URL: <a href=\"https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/\">https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50607668\">https://news.ycombinator.com/item?id=50607668</a></p>\n<p>Points: 75</p>\n<p># Comments: 81</p>",
+            "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
+            "published": "Mon, 23 Nov 2026 05:00:49 +0000",
+            "fetched": "2026-11-23T14:07:10+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A Partial Evaluator for C",
+            "description": "<p>Article URL: <a href=\"https://phoenix.labri.fr/software/tempo/\">https://phoenix.labri.fr/software/tempo/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50607627\">https://news.ycombinator.com/item?id=50607627</a></p>\n<p>Points: 66</p>\n<p># Comments: 14</p>",
+            "url": "https://phoenix.labri.fr/software/tempo/",
+            "published": "Mon, 23 Nov 2026 04:51:48 +0000",
+            "fetched": "2026-11-23T14:07:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Manchester's Co-op Live evacuated after 'unknown substance' let off in crowd",
+            "description": "One person was taken to hospital after a major incident was declared during a performance by US rapper Don Toliver.",
+            "url": "https://www.bbc.co.uk/news/articles/c9e851dn8516o?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 23 Nov 2026 10:31:20 GMT",
+            "fetched": "2026-11-23T14:07:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "NHS launches world's largest AI breast cancer screening trial",
+            "description": "Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.",
+            "url": "https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 23 Nov 2026 00:49:22 GMT",
+            "fetched": "2026-11-23T14:07:10+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Russian warship hit by Ukrainian drones in Libya, Zelensky says",
+            "description": "Libya's eastern government says a sunken warship had stopped for fuel and supplies on its way back to Russia.",
+            "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 23 Nov 2026 08:36:57 GMT",
+            "fetched": "2026-11-23T14:07:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Thousands displaced after deadly storm hits Brazil town",
+            "description": "A powerful supercell storm devastated the Brazilian town of Tupancireta.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-displaced-after-deadly-storm-hits-brazil-town?traffic_source=rss",
+            "published": "Mon, 23 Nov 2026 09:45:25 +0000",
+            "fetched": "2026-11-23T14:07:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks",
+            "description": "Mulitple strikes unleashed days after Putin promises a ‘painful’ response to Ukrainian attacks.",
+            "url": "https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss",
+            "published": "Mon, 23 Nov 2026 09:34:25 +0000",
+            "fetched": "2026-11-23T14:07:10+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
+            "description": "Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-turned-into-toxic-wasteland-by-israels-war-says-new-report?traffic_source=rss",
+            "published": "Mon, 23 Nov 2026 09:33:59 +0000",
+            "fetched": "2026-11-23T14:07:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-23T14:07:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569",
+            "published": "2026-11-18T09:44:00Z",
+            "fetched": "2026-11-23T14:07:10+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571",
+            "published": "2026-11-18T09:18:00Z",
+            "fetched": "2026-11-23T14:07:10+03:30"
+        }
+    ]
+}

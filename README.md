@@ -1,10 +1,10 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-23 11:24:59
+**Last Update:** 2026-11-23 14:07:10
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC, Hacker News
+**Sources:** Hacker News, BBC, Al Jazeera, NASA
 
 ---
 
@@ -35,8 +35,8 @@
 **Description:**
 <p>Article URL: <a href="https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/">https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50607668">https://news.ycombinator.com/item?id=50607668</a></p>
-<p>Points: 21</p>
-<p># Comments: 24</p>
+<p>Points: 75</p>
+<p># Comments: 81</p>
 
 🔗 **Read more:** [https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/](https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/)
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://phoenix.labri.fr/software/tempo/">https://phoenix.labri.fr/software/tempo/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50607627">https://news.ycombinator.com/item?id=50607627</a></p>
-<p>Points: 35</p>
-<p># Comments: 1</p>
+<p>Points: 66</p>
+<p># Comments: 14</p>
 
 🔗 **Read more:** [https://phoenix.labri.fr/software/tempo/](https://phoenix.labri.fr/software/tempo/)
 
@@ -71,68 +71,68 @@ One person was taken to hospital after a major incident was declared during a pe
 
 ---
 
-### 5. Longest-ever UN climate talks end with no deal as deep divisions exposed
+### 5. NHS launches world's largest AI breast cancer screening trial
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister of Australia, which co-hosted COP31, attributed the failure to "difficult geopolitical times".
+Researchers will test the technology in breast cancer screening which could ease pressure on the NHS.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cmpdwnw3nvzjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. What's next after no deal at COP31 climate talks?
+### 6. Russian warship hit by Ukrainian drones in Libya, Zelensky says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.
+Libya's eastern government says a sunken warship had stopped for fuel and supplies on its way back to Russia.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Taliban deploys police to protect Afghanistan’s vanishing forests
+### 7. Thousands displaced after deadly storm hits Brazil town
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Afghanistan’s last remaining forests are being guarded by a Taliban-run police force known as Green Units.
+A powerful supercell storm devastated the Brazilian town of Tupancireta.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/23/taliban-deploys-police-to-protect-afghanistans-vanishing-forests?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/23/taliban-deploys-police-to-protect-afghanistans-vanishing-forests?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-displaced-after-deadly-storm-hits-brazil-town?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/23/thousands-displaced-after-deadly-storm-hits-brazil-town?traffic_source=rss)
 
 ---
 
-### 8. Zelenskyy says Ukraine behind drone attacks on Russian ships near Libya
+### 8. At least 15 killed in Ukraine’s Kyiv region as Russia intensifies attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-This is a breaking news story.
+Mulitple strikes unleashed days after Putin promises a ‘painful’ response to Ukrainian attacks.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/zelenskyy-says-ukraine-behind-drone-attacks-on-russian-ships-near-libya?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/death-toll-rises-after-deadly-russian-attacks-on-ukraine?traffic_source=rss)
 
 ---
 
-### 9. MotoGP maestro Marquez makes history with eighth premier-class world title
+### 9. Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-His eighth success in the premier class of motorcycling pulled Marc Marquez level with Italian great Giacomo Agostini.
+Gaza turned into ‘toxic wasteland’ by Israel’s war, says new report
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/23/marc-marquez-motogp-world-title-eighth-premier-class-motorcyling-portugal-gp?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/23/marc-marquez-motogp-world-title-eighth-premier-class-motorcyling-portugal-gp?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-turned-into-toxic-wasteland-by-israels-war-says-new-report?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/23/gaza-turned-into-toxic-wasteland-by-israels-war-says-new-report?traffic_source=rss)
 
 ---
 
