@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-23T05:00:31+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Nespresso's project to reduce grams of coffee per capsule",
+            "description": "<p>Article URL: <a href=\"https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/\">https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50605479\">https://news.ycombinator.com/item?id=50605479</a></p>\n<p>Points: 75</p>\n<p># Comments: 69</p>",
+            "url": "https://alvinbunk.wordpress.com/2026/11/01/nespresso-project-olympus/",
+            "published": "Sun, 22 Nov 2026 23:57:45 +0000",
+            "fetched": "2026-11-23T05:00:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
+            "description": "<p>Article URL: <a href=\"https://0rwx.com/\">https://0rwx.com/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50605445\">https://news.ycombinator.com/item?id=50605445</a></p>\n<p>Points: 15</p>\n<p># Comments: 5</p>",
+            "url": "https://0rwx.com/",
+            "published": "Sun, 22 Nov 2026 23:53:00 +0000",
+            "fetched": "2026-11-23T05:00:31+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "What should AAA game devs do",
+            "description": "<p>Article URL: <a href=\"https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/\">https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50605426\">https://news.ycombinator.com/item?id=50605426</a></p>\n<p>Points: 16</p>\n<p># Comments: 16</p>",
+            "url": "https://gamethoughts.bearblog.dev/what-should-aaa-game-devs-do/",
+            "published": "Sun, 22 Nov 2026 23:51:00 +0000",
+            "fetched": "2026-11-23T05:00:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "COP31 fails to reach major climate deal as talks expose deep divisions",
+            "description": "Hopes for an agreement on tackling climate change collapsed after a row about mentioning fossil fuels",
+            "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo?at_medium=RSS&at_campaign=rss",
+            "published": "Mon, 23 Nov 2026 00:50:35 GMT",
+            "fetched": "2026-11-23T05:00:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "What's next after no deal at COP31 climate talks?",
+            "description": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end.",
+            "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 18:57:24 GMT",
+            "fetched": "2026-11-23T05:00:31+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+            "description": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+            "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_medium=RSS&at_campaign=rss",
+            "published": "Sun, 22 Nov 2026 22:49:10 GMT",
+            "fetched": "2026-11-23T05:00:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "WHO chief calls for peace amid heavy fighting in Ebola-hit DR Congo region",
+            "description": "Fighting near a DRC hospital disrupts Ebola efforts, putting patients and workers at &#039;grave risk&#039;, WHO warns.",
+            "url": "https://www.aljazeera.com/news/2026/11/23/who-chief-calls-for-peace-amid-heavy-fighting-in-ebola-hit-dr-congo-region?traffic_source=rss",
+            "published": "Mon, 23 Nov 2026 00:39:51 +0000",
+            "fetched": "2026-11-23T05:00:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "South Korea’s stock market tumbles as AI bubble fears mount",
+            "description": "The Kospi falls more than 3 percent as markets across the region brace for losses.",
+            "url": "https://www.aljazeera.com/news/2026/11/23/south-koreas-stock-market-tumbles-as-ai-bubble-fears-mount?traffic_source=rss",
+            "published": "Mon, 23 Nov 2026 00:18:03 +0000",
+            "fetched": "2026-11-23T05:00:31+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Cameroon’s ex-rebels caught between hiding and broken promises",
+            "description": "Cameroon’s former rebels face arrest fears and failed reintegration.",
+            "url": "https://www.aljazeera.com/news/2026/11/23/cameroons-ex-rebels-caught-between-hiding-and-broken-promises?traffic_source=rss",
+            "published": "Mon, 23 Nov 2026 00:03:30 +0000",
+            "fetched": "2026-11-23T05:00:31+03:30"
+        }
+    ]
+}
