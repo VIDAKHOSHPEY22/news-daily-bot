@@ -1,6 +1,6 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-24 02:01:37
+**Last Update:** 2026-11-24 08:21:39
 
 **Total News:** 12
 
@@ -10,133 +10,133 @@
 
 ## 📰 Latest News
 
-### 1. Bored.com: Fun, interesting and cool websites to explore when bored
+### 1. Drone Maps of Salvage Yards
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.bored.com/">https://www.bored.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50619207">https://news.ycombinator.com/item?id=50619207</a></p>
-<p>Points: 26</p>
-<p># Comments: 6</p>
+<p>Article URL: <a href="https://salvageyarddrone.wordpress.com/">https://salvageyarddrone.wordpress.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50623515">https://news.ycombinator.com/item?id=50623515</a></p>
+<p>Points: 16</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.bored.com/](https://www.bored.com/)
+🔗 **Read more:** [https://salvageyarddrone.wordpress.com/](https://salvageyarddrone.wordpress.com/)
 
 ---
 
-### 2. The horse made the state
+### 2. Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist">https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50619186">https://news.ycombinator.com/item?id=50619186</a></p>
-<p>Points: 35</p>
-<p># Comments: 30</p>
+<p>Article URL: <a href="https://juncts.com/app?demo=1&amp;utm_source=hackernews&amp;utm_medium=launch&amp;utm_campaign=launch-nov26">https://juncts.com/app?demo=1&amp;utm_source=hackernews&amp;utm_medium=launch&amp;utm_campaign=launch-nov26</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50623175">https://news.ycombinator.com/item?id=50623175</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist](https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist)
+🔗 **Read more:** [https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26](https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26)
 
 ---
 
-### 3. GPUI is getting its own repository
+### 3. Zero data retention with Enterprise Frontier Safeguards is now in beta
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/zed-industries/gpui">https://github.com/zed-industries/gpui</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50619103">https://news.ycombinator.com/item?id=50619103</a></p>
-<p>Points: 17</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards">https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50623166">https://news.ycombinator.com/item?id=50623166</a></p>
+<p>Points: 6</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://github.com/zed-industries/gpui](https://github.com/zed-industries/gpui)
+🔗 **Read more:** [https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards](https://claude.com/resources/articles/zero-data-retention-with-enterprise-frontier-safeguards)
 
 ---
 
-### 4. My approach to EU is pragmatic, says Burnham
+### 4. How Nvidia is reacting to Jensen Huang's return as CEO
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister also said his predecessors who have urged him not to reopen the Brexit debate are "stuck in the past".
+BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6vg2v9xkr40o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6vg2v9xkr40o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. What strike on Russian ship in Libya says about spread of Ukraine war
+### 5. Benefits review to suggest quicker payment for some disabled people
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ukraine's sinking of a Russian battleship at a port in Libya raises the stakes of the war a notch, writes Frank Gardner.
+The Timms review will recommend those with severe conditions will not need to be reassessed to receive Pip.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm894p88jzxpo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. US rapper Don Toliver postpones two arena shows after Manchester evacuation
+### 6. Chris Mason: Can Burnham turn volume down on EU debate?
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Don Toliver's show on Sunday was evacuated after an "unknown substance" was released into the crowd.
+The BBC's Chris Mason analyses what the EU conversation means for Labour and the PM.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck3rgp4gv9pxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. US escalates sanctions on Iran, targets ‘shadow banking’ networks
+### 7. Mexico to try ‘El Chapo Isidro’ despite US extradition request
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-US Treasury sanctions over two dozen Iranian entities, citing efforts to disrupt Tehran&#039;s global financial activities.
+Fausto Meza Flores faces drug trafficking and weapons charges after his capture in a violent Sinaloa operation.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss](https://www.aljazeera.com/news/2026/11/23/us-escalates-sanctions-on-iran-targets-shadow-banking-networks?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request?traffic_source=rss](https://www.aljazeera.com/news/2026/11/24/mexico-to-try-el-chapo-isidro-despite-us-extradition-request?traffic_source=rss)
 
 ---
 
-### 8. Israel’s southern Syria incursion triggers fear and destruction
+### 8. Excavator threatens sacred alpine lake in the Himalayas
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Families in Koya have been shot at, had their homes set on fire, and been forced to flee after Israeli incursions.
+Footage of an excavator near Sheshnag Lake in India-administered Kashmir has sparked outrage.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/23/israels-southern-syria-incursion-triggers-fear-and-destruction?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/24/24-11-sv-sheshnag-lake-excavators-kashmir?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/24/24-11-sv-sheshnag-lake-excavators-kashmir?traffic_source=rss)
 
 ---
 
-### 9. US states sue SpaceX over Grok AI’s creation of child sexual abuse material
+### 9. UN chief calls for world to agree on AI oversight within a year
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Virginia and Oregon filed separate lawsuits on Monday, accusing the company of promoting Grok&#039;s &#039;spicy mode&#039;.
+Secretary-General Antonio Guterres has become increasingly vocal about AI as end of term nears.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/23/us-states-sue-spacex-over-grok-ais-creation-of-child-sexual-abuse-material?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss](https://www.aljazeera.com/news/2026/11/24/un-chief-calls-for-world-to-agree-on-ai-oversight-within-a-year?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
+### 10. Wildfire Little Ridge, Highland, Virginia
 
 **Source:** NASA
 
@@ -145,11 +145,11 @@ Virginia and Oregon filed separate lawsuits on Monday, accusing the company of p
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661)
 
 ---
 
-### 11. Prescribed Fire 2027 TXTMR HFR RX, Matagorda, Texas
+### 11. Wildfire White Oak Flat, Alleghany, Virginia
 
 **Source:** NASA
 
@@ -158,20 +158,20 @@ Natural event: Wildfires
 **Description:**
 Natural event: Wildfires
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26569)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662)
 
 ---
 
-### 12. Prescribed Fire OAK Compartment 29 RX, Bibb, Alabama
+### 12. Iceberg A76C
 
 **Source:** NASA
 
 **Category:** nature
 
 **Description:**
-Natural event: Wildfires
+Natural event: Sea and Lake Ice
 
-🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26571)
+🔗 **Read more:** [https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359](https://eonet.gsfc.nasa.gov/api/v3/events/EONET_5359)
 
 ---
 
