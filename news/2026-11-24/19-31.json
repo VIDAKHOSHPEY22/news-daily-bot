@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-24T19:31:33+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anthropic falls below $83 IPO price in Swift reversal after record listing",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/\">https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50629413\">https://news.ycombinator.com/item?id=50629413</a></p>\n<p>Points: 14</p>\n<p># Comments: 1</p>",
+            "url": "https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/",
+            "published": "Tue, 24 Nov 2026 15:15:50 +0000",
+            "fetched": "2026-11-24T19:31:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "A training engine for your local model, using your idle compute",
+            "description": "<p>Article URL: <a href=\"https://github.com/sous-labs/songe\">https://github.com/sous-labs/songe</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50629231\">https://news.ycombinator.com/item?id=50629231</a></p>\n<p>Points: 3</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/sous-labs/songe",
+            "published": "Tue, 24 Nov 2026 15:03:40 +0000",
+            "fetched": "2026-11-24T19:31:33+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Anthropic is below its IPO price",
+            "description": "<p>Article URL: <a href=\"https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa\">https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50628932\">https://news.ycombinator.com/item?id=50628932</a></p>\n<p>Points: 77</p>\n<p># Comments: 61</p>",
+            "url": "https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa",
+            "published": "Tue, 24 Nov 2026 14:41:15 +0000",
+            "fetched": "2026-11-24T19:31:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home",
+            "description": "The break-in took place at the family's country retreat in Norfolk, on the Sandringham Estate.",
+            "url": "https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 15:25:02 GMT",
+            "fetched": "2026-11-24T19:31:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Huntley murderer handed new whole life jail term",
+            "description": "Triple killer Anthony Russell admits murdering child killer Ian Huntley at Frankland Prison.",
+            "url": "https://www.bbc.co.uk/news/articles/cm930y07p0j2o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 13:32:43 GMT",
+            "fetched": "2026-11-24T19:31:33+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Senegal reinstated as winners of the 2025 Africa Cup of Nations after appeal upheld",
+            "description": "Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.",
+            "url": "https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 15:40:05 GMT",
+            "fetched": "2026-11-24T19:31:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "China’s probes Shanghai party chief Chen Jining over corruption",
+            "description": "Chen is the fourth Politburo member to be probed since last year in a campaign that has targeted top Chinese leaders.",
+            "url": "https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining?traffic_source=rss",
+            "published": "Tue, 24 Nov 2026 15:26:50 +0000",
+            "fetched": "2026-11-24T19:31:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "UK police arrest two after break-in at Prince William’s country residence",
+            "description": "The arrests were made at a property on ⁠⁠⁠⁠the royal family&#039;s Sandringham estate in Norfolk, eastern England.",
+            "url": "https://www.aljazeera.com/news/2026/11/24/police-arrest-two-after-break-in-at-prince-william-and-kates-country-home?traffic_source=rss",
+            "published": "Tue, 24 Nov 2026 15:19:47 +0000",
+            "fetched": "2026-11-24T19:31:33+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How the Iran war is reshaping the US military presence in the Middle East",
+            "description": "Experts say fallout from the war and domestic opposition could force a smaller permanent presence in the Middle East.",
+            "url": "https://www.aljazeera.com/news/2026/11/24/how-the-iran-war-is-reshaping-the-us-military-presence-in-the-middle-east?traffic_source=rss",
+            "published": "Tue, 24 Nov 2026 15:10:29 +0000",
+            "fetched": "2026-11-24T19:31:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-24T19:31:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-24T19:31:33+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-24T19:31:33+03:30"
+        }
+    ]
+}

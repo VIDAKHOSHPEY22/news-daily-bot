@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-24 10:23:38
+**Last Update:** 2026-11-24 19:31:33
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, Al Jazeera, BBC, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Online Backrooms
+### 1. Anthropic falls below $83 IPO price in Swift reversal after record listing
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://onlinebackrooms.com/">https://onlinebackrooms.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50623812">https://news.ycombinator.com/item?id=50623812</a></p>
+<p>Article URL: <a href="https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/">https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50629413">https://news.ycombinator.com/item?id=50629413</a></p>
+<p>Points: 14</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/](https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/)
+
+---
+
+### 2. A training engine for your local model, using your idle compute
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/sous-labs/songe">https://github.com/sous-labs/songe</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50629231">https://news.ycombinator.com/item?id=50629231</a></p>
 <p>Points: 3</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://onlinebackrooms.com/](https://onlinebackrooms.com/)
+🔗 **Read more:** [https://github.com/sous-labs/songe](https://github.com/sous-labs/songe)
 
 ---
 
-### 2. Drone Maps of Salvage Yards
+### 3. Anthropic is below its IPO price
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://salvageyarddrone.wordpress.com/">https://salvageyarddrone.wordpress.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50623515">https://news.ycombinator.com/item?id=50623515</a></p>
-<p>Points: 31</p>
-<p># Comments: 11</p>
+<p>Article URL: <a href="https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa">https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50628932">https://news.ycombinator.com/item?id=50628932</a></p>
+<p>Points: 77</p>
+<p># Comments: 61</p>
 
-🔗 **Read more:** [https://salvageyarddrone.wordpress.com/](https://salvageyarddrone.wordpress.com/)
-
----
-
-### 3. Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://juncts.com/app?demo=1&amp;utm_source=hackernews&amp;utm_medium=launch&amp;utm_campaign=launch-nov26">https://juncts.com/app?demo=1&amp;utm_source=hackernews&amp;utm_medium=launch&amp;utm_campaign=launch-nov26</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50623175">https://news.ycombinator.com/item?id=50623175</a></p>
-<p>Points: 9</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26](https://juncts.com/app?demo=1&utm_source=hackernews&utm_medium=launch&utm_campaign=launch-nov26)
+🔗 **Read more:** [https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa](https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa)
 
 ---
 
-### 4. How Nvidia is reacting to Jensen Huang's return as CEO
+### 4. Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-BBC's Lily Jamali reports from Nvidia's headquarters, where she gauges the reaction to Huang's return after Trump says he brokered a deal.
+The break-in took place at the family's country retreat in Norfolk, on the Sandringham Estate.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Chris Mason: Can Burnham turn volume down on EU debate?
+### 5. Huntley murderer handed new whole life jail term
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC's Chris Mason analyses what the EU conversation means for Labour and the PM.
+Triple killer Anthony Russell admits murdering child killer Ian Huntley at Frankland Prison.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6pw47jyyz5no?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm930y07p0j2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm930y07p0j2o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Benefits review to suggest quicker payment for some disabled people
+### 6. Senegal reinstated as winners of the 2025 Africa Cup of Nations after appeal upheld
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Timms review will recommend those with severe conditions will not need to be reassessed to receive Pip.
+Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvx2xjed2r3ro?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Nvidia live: Markets surge as Jensen Huang returns as CEO
+### 7. China’s probes Shanghai party chief Chen Jining over corruption
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Huang&#039;s reinstatement breathes new life into an AI market rally days after shares in the tech giant were dumped.
+Chen is the fourth Politburo member to be probed since last year in a campaign that has targeted top Chinese leaders.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/24/nvidia-live-markets-surge-as-jensen-huang-returns-as-ceo?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining?traffic_source=rss](https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining?traffic_source=rss)
 
 ---
 
-### 8. Arsenal vs Dortmund: Champions League – Predictions, how to watch, lineups
+### 8. UK police arrest two after break-in at Prince William’s country residence
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Europe&#039;s premier club competition pits English champions Arsenal against German league leaders Dortmund on Tuesday.
+The arrests were made at a property on ⁠⁠⁠⁠the royal family&#039;s Sandringham estate in Norfolk, eastern England.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/24/arsenal-borussia-dortmund-champions-league-predictions-lineups-streaming?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/24/arsenal-borussia-dortmund-champions-league-predictions-lineups-streaming?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/24/police-arrest-two-after-break-in-at-prince-william-and-kates-country-home?traffic_source=rss](https://www.aljazeera.com/news/2026/11/24/police-arrest-two-after-break-in-at-prince-william-and-kates-country-home?traffic_source=rss)
 
 ---
 
-### 9. Pennsylvania reports ninth measles death in ongoing state outbreak
+### 9. How the Iran war is reshaping the US military presence in the Middle East
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-CDC and state figures on measles deaths differ as Pennsylvania faces an escalating health crisis in 46 counties.
+Experts say fallout from the war and domestic opposition could force a smaller permanent presence in the Middle East.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak?traffic_source=rss](https://www.aljazeera.com/news/2026/11/24/pennsylvania-reports-ninth-measles-death-in-ongoing-state-outbreak?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/24/how-the-iran-war-is-reshaping-the-us-military-presence-in-the-middle-east?traffic_source=rss](https://www.aljazeera.com/news/2026/11/24/how-the-iran-war-is-reshaping-the-us-military-presence-in-the-middle-east?traffic_source=rss)
 
 ---
 
