@@ -1,64 +1,77 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-24 19:31:33
+**Last Update:** 2026-11-24 22:18:11
 
 **Total News:** 12
 
-**Sources:** NASA, Al Jazeera, BBC, Hacker News
+**Sources:** Hacker News, BBC, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Anthropic falls below $83 IPO price in Swift reversal after record listing
+### 1. “Pervert glasses" named word of the year by Macquarie Dictionary
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/">https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50629413">https://news.ycombinator.com/item?id=50629413</a></p>
-<p>Points: 14</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/">https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50632214">https://news.ycombinator.com/item?id=50632214</a></p>
+<p>Points: 46</p>
+<p># Comments: 21</p>
 
-🔗 **Read more:** [https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/](https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/)
+🔗 **Read more:** [https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/](https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/)
 
 ---
 
-### 2. A training engine for your local model, using your idle compute
+### 2. AstridVPN: A VPN that doesn't know who you are
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/sous-labs/songe">https://github.com/sous-labs/songe</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50629231">https://news.ycombinator.com/item?id=50629231</a></p>
-<p>Points: 3</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://astridvpn.com/">https://astridvpn.com/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50631900">https://news.ycombinator.com/item?id=50631900</a></p>
+<p>Points: 7</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://github.com/sous-labs/songe](https://github.com/sous-labs/songe)
+🔗 **Read more:** [https://astridvpn.com/](https://astridvpn.com/)
 
 ---
 
-### 3. Anthropic is below its IPO price
+### 3. Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa">https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50628932">https://news.ycombinator.com/item?id=50628932</a></p>
-<p>Points: 77</p>
-<p># Comments: 61</p>
+<p>Article URL: <a href="https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/">https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50631210">https://news.ycombinator.com/item?id=50631210</a></p>
+<p>Points: 126</p>
+<p># Comments: 63</p>
 
-🔗 **Read more:** [https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa](https://www.msn.com/en-us/money/top-stocks/anthropic-stock-sinks-below-ipo-price-why-that-s-happened-so-fast/ar-AA2i7rqa)
+🔗 **Read more:** [https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/)
 
 ---
 
-### 4. Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home
+### 4. Disability benefit review calls for closer link with claimant costs
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+A government-commissioned report calls for a "rebalancing" of the amount paid to different claimants.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm4gn6gn9057o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm4gn6gn9057o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home
 
 **Source:** BBC
 
@@ -71,68 +84,55 @@ The break-in took place at the family's country retreat in Norfolk, on the Sandr
 
 ---
 
-### 5. Huntley murderer handed new whole life jail term
+### 6. Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Triple killer Anthony Russell admits murdering child killer Ian Huntley at Frankland Prison.
+Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm930y07p0j2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm930y07p0j2o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Senegal reinstated as winners of the 2025 Africa Cup of Nations after appeal upheld
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Ten months after the 2025 Africa Cup of Nations final, Senegal are reinstated as champions following a ruling by the Court of Arbitration for Sport.
-
-🔗 **Read more:** [https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/sport/football/articles/crn80y2l1404o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. China’s probes Shanghai party chief Chen Jining over corruption
+### 7. Senior Hamas security official killed in Israeli drone strikes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Chen is the fourth Politburo member to be probed since last year in a campaign that has targeted top Chinese leaders.
+A senior Hamas security official has been killed in a series of Israeli strikes across Gaza
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining?traffic_source=rss](https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss)
 
 ---
 
-### 8. UK police arrest two after break-in at Prince William’s country residence
+### 8. Colombia at a Crossroads: Searching for peace amid conflict
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The arrests were made at a property on ⁠⁠⁠⁠the royal family&#039;s Sandringham estate in Norfolk, eastern England.
+A decade after Colombia&#039;s peace accords, former FARC fighter and artist honours killed signatories with a mural.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/24/police-arrest-two-after-break-in-at-prince-william-and-kates-country-home?traffic_source=rss](https://www.aljazeera.com/news/2026/11/24/police-arrest-two-after-break-in-at-prince-william-and-kates-country-home?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/witness/2026/11/24/colombia-at-a-crossroads-searching-for-peace-amid-conflict?traffic_source=rss](https://www.aljazeera.com/video/witness/2026/11/24/colombia-at-a-crossroads-searching-for-peace-amid-conflict?traffic_source=rss)
 
 ---
 
-### 9. How the Iran war is reshaping the US military presence in the Middle East
+### 9. Should freedom of movement be a right or a privilege?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Experts say fallout from the war and domestic opposition could force a smaller permanent presence in the Middle East.
+Is freedom of movement a right or a privilege?
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/24/how-the-iran-war-is-reshaping-the-us-military-presence-in-the-middle-east?traffic_source=rss](https://www.aljazeera.com/news/2026/11/24/how-the-iran-war-is-reshaping-the-us-military-presence-in-the-middle-east?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/doha-debates/2026/11/24/should-freedom-of-movement-be-a-right-or-a-privilege?traffic_source=rss](https://www.aljazeera.com/video/doha-debates/2026/11/24/should-freedom-of-movement-be-a-right-or-a-privilege?traffic_source=rss)
 
 ---
 
