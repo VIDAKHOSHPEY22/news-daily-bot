@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-25T23:29:27+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]",
+            "description": "<p>Article URL: <a href=\"https://scottaaronson.blog/?p=10379\">https://scottaaronson.blog/?p=10379</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50646108\">https://news.ycombinator.com/item?id=50646108</a></p>\n<p>Points: 113</p>\n<p># Comments: 42</p>",
+            "url": "https://scottaaronson.blog/?p=10379",
+            "published": "Wed, 25 Nov 2026 19:11:27 +0000",
+            "fetched": "2026-11-25T23:29:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Britain's ghost stations",
+            "description": "<p><a href=\"https://archive.ph/pfVdX\" rel=\"nofollow\">https://archive.ph/pfVdX</a></p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50645074\">https://news.ycombinator.com/item?id=50645074</a></p>\n<p>Points: 33</p>\n<p># Comments: 5</p>",
+            "url": "https://spectator.com/article/britains-ghost-stations-are-fascinating/",
+            "published": "Wed, 25 Nov 2026 17:43:46 +0000",
+            "fetched": "2026-11-25T23:29:27+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The polynomial Hirsch conjecture is false [pdf]",
+            "description": "<p>Article URL: <a href=\"https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf\">https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50644980\">https://news.ycombinator.com/item?id=50644980</a></p>\n<p>Points: 21</p>\n<p># Comments: 0</p>",
+            "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+            "published": "Wed, 25 Nov 2026 17:34:34 +0000",
+            "fetched": "2026-11-25T23:29:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Poundland collapses putting 11,000 jobs at risk",
+            "description": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+            "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 25 Nov 2026 18:29:42 GMT",
+            "fetched": "2026-11-25T23:29:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Why has Poundland collapsed and what happens next?",
+            "description": "The retail chain has collapsed just one year after being bought for £1 by an American firm.",
+            "url": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 25 Nov 2026 16:24:30 GMT",
+            "fetched": "2026-11-25T23:29:27+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US announces new tariff proposals on EU, China, and other trade partners",
+            "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+            "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 25 Nov 2026 16:21:34 GMT",
+            "fetched": "2026-11-25T23:29:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bellingham’s wondergoal sparks Zidane comparisons",
+            "description": "Jude Bellingham’s spectacular goal in Real Madrid’s 5-1 thrashing of PSV has prompted comparisons with club legend.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bellinghams-wondergoal-sparks-zidane-comparisons?traffic_source=rss",
+            "published": "Wed, 25 Nov 2026 19:27:56 +0000",
+            "fetched": "2026-11-25T23:29:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ukrainian laser downs Russian jet-powered drone in world first",
+            "description": "Ukraine says that its Blysk laser system has intercepted a Russian jet-powered drone in combat for the first time",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/ukrainian-laser-downs-russian-jet-powered-drone-in-world-first?traffic_source=rss",
+            "published": "Wed, 25 Nov 2026 19:16:15 +0000",
+            "fetched": "2026-11-25T23:29:27+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?",
+            "description": "Disruptions at Yemen&#039;s largest seaport could exacerbate hardships for millions of Yemenis, aid experts warn.",
+            "url": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss",
+            "published": "Wed, 25 Nov 2026 19:15:52 +0000",
+            "fetched": "2026-11-25T23:29:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-25T23:29:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-25T23:29:27+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-25T23:29:27+03:30"
+        }
+    ]
+}
