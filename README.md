@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-25 04:24:17
+**Last Update:** 2026-11-25 06:29:12
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, Hacker News, BBC, NASA
+**Sources:** BBC, Hacker News, NASA, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Get in, friends, the Atmosphere is happening
+### 1. Matrix Multiplication is Θ(n^2.25) [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9">https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50636286">https://news.ycombinator.com/item?id=50636286</a></p>
-<p>Points: 25</p>
-<p># Comments: 16</p>
+<p>Article URL: <a href="https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf">https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50637220">https://news.ycombinator.com/item?id=50637220</a></p>
+<p>Points: 129</p>
+<p># Comments: 32</p>
 
-🔗 **Read more:** [https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9](https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9)
+🔗 **Read more:** [https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
 
 ---
 
-### 2. Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available
+### 2. PenGPT: A Generative Transformer for Handwriting and Sketches
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available">https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50635698">https://news.ycombinator.com/item?id=50635698</a></p>
-<p>Points: 31</p>
-<p># Comments: 29</p>
+<p>Article URL: <a href="https://greydanus.github.io/2026/11/12/pengpt/">https://greydanus.github.io/2026/11/12/pengpt/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50637056">https://news.ycombinator.com/item?id=50637056</a></p>
+<p>Points: 62</p>
+<p># Comments: 7</p>
 
-🔗 **Read more:** [https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available](https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available)
+🔗 **Read more:** [https://greydanus.github.io/2026/11/12/pengpt/](https://greydanus.github.io/2026/11/12/pengpt/)
 
 ---
 
-### 3. Heart attack and stroke risk detectable decades in advance
+### 3. Here in the World: Letters of Albert Camus, 1944–1959
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance">https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50635271">https://news.ycombinator.com/item?id=50635271</a></p>
-<p>Points: 115</p>
-<p># Comments: 47</p>
+<p>Article URL: <a href="https://literaryreview.co.uk/here-in-the-world">https://literaryreview.co.uk/here-in-the-world</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50636925">https://news.ycombinator.com/item?id=50636925</a></p>
+<p>Points: 26</p>
+<p># Comments: 2</p>
 
-🔗 **Read more:** [https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance](https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance)
+🔗 **Read more:** [https://literaryreview.co.uk/here-in-the-world](https://literaryreview.co.uk/here-in-the-world)
 
 ---
 
@@ -84,55 +84,55 @@ Andy Burnham says veterans will get 'the full truth' as he confirmed plans for a
 
 ---
 
-### 6. US preparing to unveil new tariffs on global trading partners
+### 6. Anthony Zurcher: Trump's Nvidia intervention ties his political fortunes to the AI boom
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The new levies would hit many of America's biggest trading partners, including China and the EU.
+The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Alaska ends deal to give voter records to US Justice Department
+### 7. WHO chief urges end to US fuel blockade on Cuba
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The decision follows the conclusion of the 2026 midterm elections and an effort under Trump to gather state voter rolls.
+UN allocates $2m for immunisation and medical equipment as Cuban healthcare struggles with critical shortages.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss)
 
 ---
 
-### 8. Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order
+### 8. Senegal fans celebrate AFCON legal victory over Morocco
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Houthis vow to target Jeddah and other Saudi ports if Hodeidah is hit, after the coalition issues an evacuation order.
+Senegal have been reinstated as 2025 AFCON champions after the Court of Arbitration for Sport upheld their appeal.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss)
 
 ---
 
-### 9. Rebel group retreats in DR Congo after heavy clashes with government forces
+### 9. Israel’s Eisenkot secures first coalition partner in bid to form government
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-CRP halts advance towards Bunia, citing commitments made during Ugandan-mediated talks with government.
+The Yashar party says it agreed to sign a coalition pact with Israel&#039;s Our Home party, led by Avigdor Lieberman.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss](https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss)
 
 ---
 
