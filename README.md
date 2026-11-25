@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-24 22:18:11
+**Last Update:** 2026-11-25 04:24:17
 
 **Total News:** 12
 
-**Sources:** Hacker News, BBC, NASA, Al Jazeera
+**Sources:** Al Jazeera, Hacker News, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. “Pervert glasses" named word of the year by Macquarie Dictionary
+### 1. Get in, friends, the Atmosphere is happening
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/">https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50632214">https://news.ycombinator.com/item?id=50632214</a></p>
-<p>Points: 46</p>
-<p># Comments: 21</p>
+<p>Article URL: <a href="https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9">https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50636286">https://news.ycombinator.com/item?id=50636286</a></p>
+<p>Points: 25</p>
+<p># Comments: 16</p>
 
-🔗 **Read more:** [https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/](https://www.macquariedictionary.com.au/macquarie-dictionary-word-of-the-year-for-2026/)
+🔗 **Read more:** [https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9](https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9)
 
 ---
 
-### 2. AstridVPN: A VPN that doesn't know who you are
+### 2. Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://astridvpn.com/">https://astridvpn.com/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50631900">https://news.ycombinator.com/item?id=50631900</a></p>
-<p>Points: 7</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available">https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50635698">https://news.ycombinator.com/item?id=50635698</a></p>
+<p>Points: 31</p>
+<p># Comments: 29</p>
 
-🔗 **Read more:** [https://astridvpn.com/](https://astridvpn.com/)
+🔗 **Read more:** [https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available](https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available)
 
 ---
 
-### 3. Top MIT Physicist: Anthropic Staff Openly Talk About 'Taking over the World'
+### 3. Heart attack and stroke risk detectable decades in advance
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/">https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50631210">https://news.ycombinator.com/item?id=50631210</a></p>
-<p>Points: 126</p>
-<p># Comments: 63</p>
+<p>Article URL: <a href="https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance">https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50635271">https://news.ycombinator.com/item?id=50635271</a></p>
+<p>Points: 115</p>
+<p># Comments: 47</p>
 
-🔗 **Read more:** [https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/](https://novaramedia.com/2026/11/24/anthropic-staff-openly-talk-about-taking-over-the-world-claims-top-mit-physicist/)
+🔗 **Read more:** [https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance](https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance)
 
 ---
 
-### 4. Disability benefit review calls for closer link with claimant costs
+### 4. Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-A government-commissioned report calls for a "rebalancing" of the amount paid to different claimants.
+The prime minister says a Hillsborough-style independent panel will examine the health legacy of Britain's Cold War-era atomic programme.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm4gn6gn9057o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm4gn6gn9057o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Two arrested on suspicion of burglary at Prince and Princess of Wales's Norfolk home
+### 5. Nuclear test veterans speak to BBC about search for justice
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The break-in took place at the family's country retreat in Norfolk, on the Sandringham Estate.
+Andy Burnham says veterans will get 'the full truth' as he confirmed plans for an investigation into the health legacy of Britain's Cold War-era atomic programme.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cr9d7qdg24vno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6jrel8e50w9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6jrel8e50w9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Nvidia shares slide as Trump's role in Jensen Huang's comeback questioned by US politicians
+### 6. US preparing to unveil new tariffs on global trading partners
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Nvidia's stock market value surged on the annoucement of Huang's reappointment, but some of the gains reversed in Tuesday trading.
+The new levies would hit many of America's biggest trading partners, including China and the EU.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Senior Hamas security official killed in Israeli drone strikes
+### 7. Alaska ends deal to give voter records to US Justice Department
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A senior Hamas security official has been killed in a series of Israeli strikes across Gaza
+The decision follows the conclusion of the 2026 midterm elections and an effort under Trump to gather state voter rolls.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/24/senior-hamas-security-official-killed-in-israeli-drone-strikes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss)
 
 ---
 
-### 8. Colombia at a Crossroads: Searching for peace amid conflict
+### 8. Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A decade after Colombia&#039;s peace accords, former FARC fighter and artist honours killed signatories with a mural.
+Houthis vow to target Jeddah and other Saudi ports if Hodeidah is hit, after the coalition issues an evacuation order.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/witness/2026/11/24/colombia-at-a-crossroads-searching-for-peace-amid-conflict?traffic_source=rss](https://www.aljazeera.com/video/witness/2026/11/24/colombia-at-a-crossroads-searching-for-peace-amid-conflict?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss)
 
 ---
 
-### 9. Should freedom of movement be a right or a privilege?
+### 9. Rebel group retreats in DR Congo after heavy clashes with government forces
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Is freedom of movement a right or a privilege?
+CRP halts advance towards Bunia, citing commitments made during Ugandan-mediated talks with government.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/doha-debates/2026/11/24/should-freedom-of-movement-be-a-right-or-a-privilege?traffic_source=rss](https://www.aljazeera.com/video/doha-debates/2026/11/24/should-freedom-of-movement-be-a-right-or-a-privilege?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss](https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss)
 
 ---
 

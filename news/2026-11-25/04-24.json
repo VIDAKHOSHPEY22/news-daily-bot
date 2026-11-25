@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-25T04:24:17+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "Hacker News",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Get in, friends, the Atmosphere is happening",
+            "description": "<p>Article URL: <a href=\"https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9\">https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50636286\">https://news.ycombinator.com/item?id=50636286</a></p>\n<p>Points: 25</p>\n<p># Comments: 16</p>",
+            "url": "https://tropopause.pckt.blog/get-in-friends-the-atmosphere-is-happening-q8sf9a9",
+            "published": "Tue, 24 Nov 2026 23:23:35 +0000",
+            "fetched": "2026-11-25T04:24:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Fable 5.2 Tries Less on Some Hard Tasks When a Shortcut Is Available",
+            "description": "<p>Article URL: <a href=\"https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available\">https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50635698\">https://news.ycombinator.com/item?id=50635698</a></p>\n<p>Points: 31</p>\n<p># Comments: 29</p>",
+            "url": "https://goodhartlabs.com/blog/fable-5-2-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
+            "published": "Tue, 24 Nov 2026 22:26:41 +0000",
+            "fetched": "2026-11-25T04:24:17+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Heart attack and stroke risk detectable decades in advance",
+            "description": "<p>Article URL: <a href=\"https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance\">https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50635271\">https://news.ycombinator.com/item?id=50635271</a></p>\n<p>Points: 115</p>\n<p># Comments: 47</p>",
+            "url": "https://www.ed.ac.uk/news/heart-attack-and-stroke-risk-detectable-decades-in-advance",
+            "published": "Tue, 24 Nov 2026 21:51:21 +0000",
+            "fetched": "2026-11-25T04:24:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel",
+            "description": "The prime minister says a Hillsborough-style independent panel will examine the health legacy of Britain's Cold War-era atomic programme.",
+            "url": "https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 22:49:41 GMT",
+            "fetched": "2026-11-25T04:24:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Nuclear test veterans speak to BBC about search for justice",
+            "description": "Andy Burnham says veterans will get 'the full truth' as he confirmed plans for an investigation into the health legacy of Britain's Cold War-era atomic programme.",
+            "url": "https://www.bbc.co.uk/news/videos/c6jrel8e50w9o?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 22:45:03 GMT",
+            "fetched": "2026-11-25T04:24:17+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US preparing to unveil new tariffs on global trading partners",
+            "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+            "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 25 Nov 2026 00:38:01 GMT",
+            "fetched": "2026-11-25T04:24:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Alaska ends deal to give voter records to US Justice Department",
+            "description": "The decision follows the conclusion of the 2026 midterm elections and an effort under Trump to gather state voter rolls.",
+            "url": "https://www.aljazeera.com/news/2026/11/25/alaska-ends-deal-to-give-voter-records-to-us-justice-department?traffic_source=rss",
+            "published": "Wed, 25 Nov 2026 00:28:28 +0000",
+            "fetched": "2026-11-25T04:24:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Houthis threaten Saudi ports over coalition’s Hodeidah order",
+            "description": "Houthis vow to target Jeddah and other Saudi ports if Hodeidah is hit, after the coalition issues an evacuation order.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/11/25/iran-war-live-houthis-threaten-saudi-ports-over-coalitions-hodeidah-order?traffic_source=rss",
+            "published": "Wed, 25 Nov 2026 00:00:00 +0000",
+            "fetched": "2026-11-25T04:24:17+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rebel group retreats in DR Congo after heavy clashes with government forces",
+            "description": "CRP halts advance towards Bunia, citing commitments made during Ugandan-mediated talks with government.",
+            "url": "https://www.aljazeera.com/news/2026/11/24/rebel-group-retreats-in-dr-congo-after-heavy-clashes-with-government-forces?traffic_source=rss",
+            "published": "Tue, 24 Nov 2026 23:39:13 +0000",
+            "fetched": "2026-11-25T04:24:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-25T04:24:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-25T04:24:17+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-25T04:24:17+03:30"
+        }
+    ]
+}
