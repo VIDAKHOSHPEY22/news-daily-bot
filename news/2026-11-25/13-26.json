@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-25T13:26:35+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Energy bills to rise by 26% from January after gas prices surge",
+            "description": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
+            "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 25 Nov 2026 09:54:39 GMT",
+            "fetched": "2026-11-25T13:26:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Three reasons why your energy bill is so high",
+            "description": "Ofgem has announced a 26% rise in the energy price cap - here's why Britons pay more for power than many other European nations.",
+            "url": "https://www.bbc.co.uk/news/articles/cn8n5vnmjlzo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 25 Nov 2026 09:36:47 GMT",
+            "fetched": "2026-11-25T13:26:35+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Men charged with trespass at Prince and Princess of Wales's home",
+            "description": "The charges come after police were called to reports of suspicious activity on the Sandringham estate.",
+            "url": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 25 Nov 2026 09:53:43 GMT",
+            "fetched": "2026-11-25T13:26:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sporting Lisbon vs Manchester United: Champions League – teams, prediction",
+            "description": "Man United look to bounce back from defeat in Mauricio Pochettino&#039;s first game in charge, as they travel to Lisbon.",
+            "url": "https://www.aljazeera.com/sports/2026/11/25/sporting-lisbon-vs-manchester-united-champions-league-teams-prediction?traffic_source=rss",
+            "published": "Wed, 25 Nov 2026 09:04:03 +0000",
+            "fetched": "2026-11-25T13:26:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Rising prices push families to the brink in Yemen’s Hodeidah",
+            "description": "Renewed fighting, rising fuel costs and shrinking incomes deepen the struggle to survive in the Houthi-controlled city.",
+            "url": "https://www.aljazeera.com/news/2026/11/25/rising-prices-push-families-to-the-brink-in-yemens-hodeidah?traffic_source=rss",
+            "published": "Wed, 25 Nov 2026 09:00:53 +0000",
+            "fetched": "2026-11-25T13:26:35+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Galatasaray defy Israel’s complaint to UEFA over pro-Palestine banners",
+            "description": "The football club’s president said UEFA had made them aware of a complaint by Israel regarding pro-Palestinian banners.",
+            "url": "https://www.aljazeera.com/sports/2026/11/25/galatasaray-defy-israels-complaint-to-uefa-over-pro-palestine-banners?traffic_source=rss",
+            "published": "Wed, 25 Nov 2026 08:53:30 +0000",
+            "fetched": "2026-11-25T13:26:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-25T13:26:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-25T13:26:35+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-25T13:26:35+03:30"
+        }
+    ]
+}

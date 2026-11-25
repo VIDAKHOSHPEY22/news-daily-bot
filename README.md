@@ -1,142 +1,94 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-25 06:29:12
+**Last Update:** 2026-11-25 13:26:35
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** BBC, Hacker News, NASA, Al Jazeera
+**Sources:** Al Jazeera, NASA, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Matrix Multiplication is Θ(n^2.25) [pdf]
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf">https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50637220">https://news.ycombinator.com/item?id=50637220</a></p>
-<p>Points: 129</p>
-<p># Comments: 32</p>
-
-🔗 **Read more:** [https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
-
----
-
-### 2. PenGPT: A Generative Transformer for Handwriting and Sketches
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://greydanus.github.io/2026/11/12/pengpt/">https://greydanus.github.io/2026/11/12/pengpt/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50637056">https://news.ycombinator.com/item?id=50637056</a></p>
-<p>Points: 62</p>
-<p># Comments: 7</p>
-
-🔗 **Read more:** [https://greydanus.github.io/2026/11/12/pengpt/](https://greydanus.github.io/2026/11/12/pengpt/)
-
----
-
-### 3. Here in the World: Letters of Albert Camus, 1944–1959
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://literaryreview.co.uk/here-in-the-world">https://literaryreview.co.uk/here-in-the-world</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50636925">https://news.ycombinator.com/item?id=50636925</a></p>
-<p>Points: 26</p>
-<p># Comments: 2</p>
-
-🔗 **Read more:** [https://literaryreview.co.uk/here-in-the-world](https://literaryreview.co.uk/here-in-the-world)
-
----
-
-### 4. Nuclear test veterans will get full truth, says Burnham, as he confirms independent panel
+### 1. Energy bills to rise by 26% from January after gas prices surge
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The prime minister says a Hillsborough-style independent panel will examine the health legacy of Britain's Cold War-era atomic programme.
+A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6808k8dxvgko?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Nuclear test veterans speak to BBC about search for justice
+### 2. Three reasons why your energy bill is so high
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Andy Burnham says veterans will get 'the full truth' as he confirmed plans for an investigation into the health legacy of Britain's Cold War-era atomic programme.
+Ofgem has announced a 26% rise in the energy price cap - here's why Britons pay more for power than many other European nations.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6jrel8e50w9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6jrel8e50w9o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn8n5vnmjlzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn8n5vnmjlzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Anthony Zurcher: Trump's Nvidia intervention ties his political fortunes to the AI boom
+### 3. Men charged with trespass at Prince and Princess of Wales's home
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The US president's intercession to reinstate CEO Jensen Huang has inextricably linked their fates.
+The charges come after police were called to reports of suspicious activity on the Sandringham estate.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. WHO chief urges end to US fuel blockade on Cuba
+### 4. Sporting Lisbon vs Manchester United: Champions League – teams, prediction
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UN allocates $2m for immunisation and medical equipment as Cuban healthcare struggles with critical shortages.
+Man United look to bounce back from defeat in Mauricio Pochettino&#039;s first game in charge, as they travel to Lisbon.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/who-chief-urges-end-to-us-fuel-blockade-on-cuba?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/25/sporting-lisbon-vs-manchester-united-champions-league-teams-prediction?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/25/sporting-lisbon-vs-manchester-united-champions-league-teams-prediction?traffic_source=rss)
 
 ---
 
-### 8. Senegal fans celebrate AFCON legal victory over Morocco
+### 5. Rising prices push families to the brink in Yemen’s Hodeidah
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Senegal have been reinstated as 2025 AFCON champions after the Court of Arbitration for Sport upheld their appeal.
+Renewed fighting, rising fuel costs and shrinking incomes deepen the struggle to survive in the Houthi-controlled city.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/25/senegal-fans-celebrate-afcon-legal-victory-over-morocco?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/rising-prices-push-families-to-the-brink-in-yemens-hodeidah?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/rising-prices-push-families-to-the-brink-in-yemens-hodeidah?traffic_source=rss)
 
 ---
 
-### 9. Israel’s Eisenkot secures first coalition partner in bid to form government
+### 6. Galatasaray defy Israel’s complaint to UEFA over pro-Palestine banners
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Yashar party says it agreed to sign a coalition pact with Israel&#039;s Our Home party, led by Avigdor Lieberman.
+The football club’s president said UEFA had made them aware of a complaint by Israel regarding pro-Palestinian banners.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/israels-eisenkot-secures-first-coalition-partner-in-bid-to-form-government?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/25/galatasaray-defy-israels-complaint-to-uefa-over-pro-palestine-banners?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/25/galatasaray-defy-israels-complaint-to-uefa-over-pro-palestine-banners?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Little Ridge, Highland, Virginia
+### 7. Wildfire Little Ridge, Highland, Virginia
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire White Oak Flat, Alleghany, Virginia
+### 8. Wildfire White Oak Flat, Alleghany, Virginia
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
+### 9. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
 
 **Source:** NASA
 
