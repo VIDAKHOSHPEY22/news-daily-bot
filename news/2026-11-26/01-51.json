@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-26T01:51:21+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Much shorter version of GRH Lean verification from Anthropic",
+            "description": "<p>Article URL: <a href=\"https://github.com/lsernau/grh-lean\">https://github.com/lsernau/grh-lean</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50648050\">https://news.ycombinator.com/item?id=50648050</a></p>\n<p>Points: 12</p>\n<p># Comments: 4</p>",
+            "url": "https://github.com/lsernau/grh-lean",
+            "published": "Wed, 25 Nov 2026 21:48:10 +0000",
+            "fetched": "2026-11-26T01:51:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Defang Security Incident",
+            "description": "<p>Article URL: <a href=\"https://defang.io/blog/post/security-incident-november-2026/\">https://defang.io/blog/post/security-incident-november-2026/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50648035\">https://news.ycombinator.com/item?id=50648035</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
+            "url": "https://defang.io/blog/post/security-incident-november-2026/",
+            "published": "Wed, 25 Nov 2026 21:47:16 +0000",
+            "fetched": "2026-11-26T01:51:21+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Prof. Sam Lawler: FUCK FUCK FUCK FUCK FUCK FUCK FUCK",
+            "description": "<p>Article URL: <a href=\"https://mastodon.social/@sundogplanets/117678381079935502\">https://mastodon.social/@sundogplanets/117678381079935502</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50648008\">https://news.ycombinator.com/item?id=50648008</a></p>\n<p>Points: 17</p>\n<p># Comments: 1</p>",
+            "url": "https://mastodon.social/@sundogplanets/117678381079935502",
+            "published": "Wed, 25 Nov 2026 21:44:35 +0000",
+            "fetched": "2026-11-26T01:51:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Poundland collapses putting 11,000 jobs at risk",
+            "description": "The discount chain has fallen into administration after its owners failed to find a buyer.",
+            "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 25 Nov 2026 21:31:10 GMT",
+            "fetched": "2026-11-26T01:51:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Why has Poundland collapsed and what happens next?",
+            "description": "The retail chain has collapsed just one year after being bought for £1 by an American firm.",
+            "url": "https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 25 Nov 2026 16:24:30 GMT",
+            "fetched": "2026-11-26T01:51:21+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US announces new tariff proposals on EU, China, and other trade partners",
+            "description": "The new levies would hit many of America's biggest trading partners, including China and the EU.",
+            "url": "https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 25 Nov 2026 16:21:34 GMT",
+            "fetched": "2026-11-26T01:51:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Winter rains threaten 1,000 Gaza shelter sites, councils warn",
+            "description": "About 200,000 tents need replacing, Gaza’s municipalities say, as the EU urges Israel to reopen all crossings.",
+            "url": "https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss",
+            "published": "Wed, 25 Nov 2026 21:03:51 +0000",
+            "fetched": "2026-11-26T01:51:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US Education Department probes Virginia schools after sexual abuse scandal",
+            "description": "Virginia schools face scrutiny after revelations of abuse and widespread failures in mandatory staff background checks.",
+            "url": "https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss",
+            "published": "Wed, 25 Nov 2026 20:52:32 +0000",
+            "fetched": "2026-11-26T01:51:21+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Baby Aliyah steals the show during Australian Senate debate",
+            "description": "Australian Senator Fatima Payman addressed the Senate with her six-month-old daughter, Aliyah, in her arms",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss",
+            "published": "Wed, 25 Nov 2026 20:42:41 +0000",
+            "fetched": "2026-11-26T01:51:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-26T01:51:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-26T01:51:21+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-26T01:51:21+03:30"
+        }
+    ]
+}
