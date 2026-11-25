@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-25T16:09:42+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "NASA",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Hazel (YC W24) Is Hiring a Product Designer",
+            "description": "<p>Article URL: <a href=\"https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract\">https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50641323\">https://news.ycombinator.com/item?id=50641323</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract",
+            "published": "Wed, 25 Nov 2026 12:00:34 +0000",
+            "fetched": "2026-11-25T16:09:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+            "description": "<p>Article URL: <a href=\"https://github.com/xoxorwr/pw-loudness-eq\">https://github.com/xoxorwr/pw-loudness-eq</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50641171\">https://news.ycombinator.com/item?id=50641171</a></p>\n<p>Points: 47</p>\n<p># Comments: 8</p>",
+            "url": "https://github.com/xoxorwr/pw-loudness-eq",
+            "published": "Wed, 25 Nov 2026 11:34:25 +0000",
+            "fetched": "2026-11-25T16:09:42+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The Riemann Hypothesis Proof as a Mediaeval Fantasy RPG Map",
+            "description": "<p>Article URL: <a href=\"https://marioschlosser.org/riemann/\">https://marioschlosser.org/riemann/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50640746\">https://news.ycombinator.com/item?id=50640746</a></p>\n<p>Points: 35</p>\n<p># Comments: 8</p>",
+            "url": "https://marioschlosser.org/riemann/",
+            "published": "Wed, 25 Nov 2026 10:32:04 +0000",
+            "fetched": "2026-11-25T16:09:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Energy bills to rise by 26% from January after gas prices surge",
+            "description": "A household using a typical amount of energy would see its annual bill rise from £1,723 to £2,166 if this level was sustained for a year.",
+            "url": "https://www.bbc.co.uk/news/articles/cm20qnq33e90o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 25 Nov 2026 11:44:26 GMT",
+            "fetched": "2026-11-25T16:09:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two men charged with trespass at Prince and Princess of Wales's Norfolk home",
+            "description": "The charges come after police were called to reports of suspicious activity on the Sandringham estate.",
+            "url": "https://www.bbc.co.uk/news/articles/cx5y1987dyp6o?at_medium=RSS&at_campaign=rss",
+            "published": "Wed, 25 Nov 2026 10:12:50 GMT",
+            "fetched": "2026-11-25T16:09:42+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Third of young Brits have never had sex, but many are sexting and watching porn",
+            "description": "More young people in Britain have never had sex, but many are sexting and watching porn.",
+            "url": "https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss",
+            "published": "Tue, 24 Nov 2026 23:38:39 GMT",
+            "fetched": "2026-11-25T16:09:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The rising cost of Thanksgiving",
+            "description": "In the US, consumers are shelling out more money for food this Thanksgiving holiday.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/the-rising-cost-of-thanksgiving?traffic_source=rss",
+            "published": "Wed, 25 Nov 2026 12:29:09 +0000",
+            "fetched": "2026-11-25T16:09:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Catalan separatist Puigdemont to return to Spain on December 12",
+            "description": "Former regional leader says he will unveil his proposal for a renewed Catalan independence push on December 17.",
+            "url": "https://www.aljazeera.com/news/2026/11/25/catalan-separatist-puigdemont-to-return-to-spain-on-december?traffic_source=rss",
+            "published": "Wed, 25 Nov 2026 12:25:46 +0000",
+            "fetched": "2026-11-25T16:09:42+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bangladesh garment workers protest over new wages",
+            "description": "Bangladesh has raised the minimum monthly wage for garment workers by 36% to 17,000 taka, about $138.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/25/bangladesh-garment-workers-protest-over-new-wages?traffic_source=rss",
+            "published": "Wed, 25 Nov 2026 12:23:41 +0000",
+            "fetched": "2026-11-25T16:09:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-25T16:09:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-25T16:09:42+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-25T16:09:42+03:30"
+        }
+    ]
+}

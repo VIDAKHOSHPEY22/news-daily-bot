@@ -1,16 +1,64 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-25 13:26:35
+**Last Update:** 2026-11-25 16:09:42
 
-**Total News:** 9
+**Total News:** 12
 
-**Sources:** Al Jazeera, NASA, BBC
+**Sources:** BBC, NASA, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Energy bills to rise by 26% from January after gas prices surge
+### 1. Hazel (YC W24) Is Hiring a Product Designer
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract">https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50641323">https://news.ycombinator.com/item?id=50641323</a></p>
+<p>Points: 0</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract](https://www.ycombinator.com/companies/hazel-2/jobs/8EhsvYE-product-designer-contract)
+
+---
+
+### 2. Windows Loudness Equalization, reverse-engineered and ported to PipeWire
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/xoxorwr/pw-loudness-eq">https://github.com/xoxorwr/pw-loudness-eq</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50641171">https://news.ycombinator.com/item?id=50641171</a></p>
+<p>Points: 47</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://github.com/xoxorwr/pw-loudness-eq](https://github.com/xoxorwr/pw-loudness-eq)
+
+---
+
+### 3. The Riemann Hypothesis Proof as a Mediaeval Fantasy RPG Map
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://marioschlosser.org/riemann/">https://marioschlosser.org/riemann/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50640746">https://news.ycombinator.com/item?id=50640746</a></p>
+<p>Points: 35</p>
+<p># Comments: 8</p>
+
+🔗 **Read more:** [https://marioschlosser.org/riemann/](https://marioschlosser.org/riemann/)
+
+---
+
+### 4. Energy bills to rise by 26% from January after gas prices surge
 
 **Source:** BBC
 
@@ -23,20 +71,7 @@ A household using a typical amount of energy would see its annual bill rise from
 
 ---
 
-### 2. Three reasons why your energy bill is so high
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Ofgem has announced a 26% rise in the energy price cap - here's why Britons pay more for power than many other European nations.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cn8n5vnmjlzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cn8n5vnmjlzo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 3. Men charged with trespass at Prince and Princess of Wales's home
+### 5. Two men charged with trespass at Prince and Princess of Wales's Norfolk home
 
 **Source:** BBC
 
@@ -49,46 +84,59 @@ The charges come after police were called to reports of suspicious activity on t
 
 ---
 
-### 4. Sporting Lisbon vs Manchester United: Champions League – teams, prediction
+### 6. Third of young Brits have never had sex, but many are sexting and watching porn
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+More young people in Britain have never had sex, but many are sexting and watching porn.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cw0737zzn50mo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 7. The rising cost of Thanksgiving
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Man United look to bounce back from defeat in Mauricio Pochettino&#039;s first game in charge, as they travel to Lisbon.
+In the US, consumers are shelling out more money for food this Thanksgiving holiday.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/25/sporting-lisbon-vs-manchester-united-champions-league-teams-prediction?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/25/sporting-lisbon-vs-manchester-united-champions-league-teams-prediction?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/25/the-rising-cost-of-thanksgiving?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/25/the-rising-cost-of-thanksgiving?traffic_source=rss)
 
 ---
 
-### 5. Rising prices push families to the brink in Yemen’s Hodeidah
+### 8. Catalan separatist Puigdemont to return to Spain on December 12
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Renewed fighting, rising fuel costs and shrinking incomes deepen the struggle to survive in the Houthi-controlled city.
+Former regional leader says he will unveil his proposal for a renewed Catalan independence push on December 17.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/rising-prices-push-families-to-the-brink-in-yemens-hodeidah?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/rising-prices-push-families-to-the-brink-in-yemens-hodeidah?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/catalan-separatist-puigdemont-to-return-to-spain-on-december?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/catalan-separatist-puigdemont-to-return-to-spain-on-december?traffic_source=rss)
 
 ---
 
-### 6. Galatasaray defy Israel’s complaint to UEFA over pro-Palestine banners
+### 9. Bangladesh garment workers protest over new wages
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The football club’s president said UEFA had made them aware of a complaint by Israel regarding pro-Palestinian banners.
+Bangladesh has raised the minimum monthly wage for garment workers by 36% to 17,000 taka, about $138.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/25/galatasaray-defy-israels-complaint-to-uefa-over-pro-palestine-banners?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/25/galatasaray-defy-israels-complaint-to-uefa-over-pro-palestine-banners?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/25/bangladesh-garment-workers-protest-over-new-wages?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/25/bangladesh-garment-workers-protest-over-new-wages?traffic_source=rss)
 
 ---
 
-### 7. Wildfire Little Ridge, Highland, Virginia
+### 10. Wildfire Little Ridge, Highland, Virginia
 
 **Source:** NASA
 
@@ -101,7 +149,7 @@ Natural event: Wildfires
 
 ---
 
-### 8. Wildfire White Oak Flat, Alleghany, Virginia
+### 11. Wildfire White Oak Flat, Alleghany, Virginia
 
 **Source:** NASA
 
@@ -114,7 +162,7 @@ Natural event: Wildfires
 
 ---
 
-### 9. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
+### 12. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
 
 **Source:** NASA
 
