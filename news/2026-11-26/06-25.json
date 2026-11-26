@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-26T06:25:56+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "NASA",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tell HN: Lots of Ask HNs again",
+            "description": "<p>There have been questions about why the /ask page (<a href=\"https://news.ycombinator.com/ask\">https://news.ycombinator.com/ask</a>) was running dry of Ask HN posts - e.g.:<p><i>Ask HN: Why is Ask HN only showing me 14 posts?</i> - <a href=\"https://news.ycombinator.com/item?id=49984484\">https://news.ycombinator.com/item?id=49984484</a> - Oct 2026 (47 comments)<p><i>Ask HN: Why is pagination gone on \"Ask HN\", and showing only 19 items?</i> - <a href=\"https://news.ycombinator.com/item?id=50280719\">https://news.ycombinator.com/item?id=50280719</a> - Oct 2026 (3 comments)<p>I believe I found the problem. The pool of stories for <a href=\"https://news.ycombinator.com/ask\">https://news.ycombinator.com/ask</a> has traditionally been drawn from the ranked stories list from which we generate the frontpage. That list is restricted to the top 1500 ranked submissions, and it seems the % of submissions which are text posts (i.e. no linked URL) had declined enough to starve the Ask HN feed. The solution is to compute a separate list of ranked Ask HNs.<p>p.s. \"Ask HN\" is the conventional name but it means text posts. The title can also start with \"Tell HN\" or nothing in particular. They're just posts which were submitted without a URL.</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50649864\">https://news.ycombinator.com/item?id=50649864</a></p>\n<p>Points: 95</p>\n<p># Comments: 41</p>",
+            "url": "https://news.ycombinator.com/item?id=50649864",
+            "published": "Thu, 26 Nov 2026 00:43:34 +0000",
+            "fetched": "2026-11-26T06:25:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Jev is probably Qwen3.5-35B-A3B",
+            "description": "<p>Article URL: <a href=\"https://modaic.dev/blog/latency-doesnt-lie\">https://modaic.dev/blog/latency-doesnt-lie</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50648823\">https://news.ycombinator.com/item?id=50648823</a></p>\n<p>Points: 232</p>\n<p># Comments: 68</p>",
+            "url": "https://modaic.dev/blog/latency-doesnt-lie",
+            "published": "Wed, 25 Nov 2026 22:57:04 +0000",
+            "fetched": "2026-11-26T06:25:56+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Bare Metal Qwen",
+            "description": "<p>Article URL: <a href=\"https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os\">https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50648365\">https://news.ycombinator.com/item?id=50648365</a></p>\n<p>Points: 68</p>\n<p># Comments: 10</p>",
+            "url": "https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os",
+            "published": "Wed, 25 Nov 2026 22:15:34 +0000",
+            "fetched": "2026-11-26T06:25:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Stalking law simplified to become one offence",
+            "description": "The new stalking offence will be introduced after a review found existing legislation was confusing.",
+            "url": "https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 00:02:50 GMT",
+            "fetched": "2026-11-26T06:25:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US approves SpaceX plan to send a million data satellites to space",
+            "description": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+            "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 00:07:51 GMT",
+            "fetched": "2026-11-26T06:25:56+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK government set to publish new treaties agreed with EU",
+            "description": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
+            "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 02:13:00 GMT",
+            "fetched": "2026-11-26T06:25:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kim Jong Un says North Korea should widen deployment of tactical nukes",
+            "description": "North Korean leader warns attempts to deny country&#039;s nuclear status will be seen as &quot;an open declaration of war&quot;.",
+            "url": "https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss",
+            "published": "Thu, 26 Nov 2026 02:03:03 +0000",
+            "fetched": "2026-11-26T06:25:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Photos: Storms and an El Nino-charged king tide batter California’s coast",
+            "description": "Meteorologists have warned that the king tide could pair with high surf to bring historic surges to parts of the state.",
+            "url": "https://www.aljazeera.com/gallery/2026/11/26/photos-storms-and-an-el-nino-charged-king-tide-batter-californias-coast?traffic_source=rss",
+            "published": "Thu, 26 Nov 2026 01:40:13 +0000",
+            "fetched": "2026-11-26T06:25:56+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Ukraine attacks Russian military base, says five planes struck",
+            "description": "The Ukrainian General Staff says its forces struck an airbase in the Nizhny Novgorod region east of Moscow.",
+            "url": "https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss",
+            "published": "Thu, 26 Nov 2026 01:39:46 +0000",
+            "fetched": "2026-11-26T06:25:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-26T06:25:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-26T06:25:56+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-26T06:25:56+03:30"
+        }
+    ]
+}

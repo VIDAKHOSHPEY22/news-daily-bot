@@ -1,138 +1,139 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-26 01:51:21
+**Last Update:** 2026-11-26 06:25:56
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Al Jazeera, BBC, NASA, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. Much shorter version of GRH Lean verification from Anthropic
+### 1. Tell HN: Lots of Ask HNs again
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/lsernau/grh-lean">https://github.com/lsernau/grh-lean</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50648050">https://news.ycombinator.com/item?id=50648050</a></p>
-<p>Points: 12</p>
-<p># Comments: 4</p>
+<p>There have been questions about why the /ask page (<a href="https://news.ycombinator.com/ask">https://news.ycombinator.com/ask</a>) was running dry of Ask HN posts - e.g.:<p><i>Ask HN: Why is Ask HN only showing me 14 posts?</i> - <a href="https://news.ycombinator.com/item?id=49984484">https://news.ycombinator.com/item?id=49984484</a> - Oct 2026 (47 comments)<p><i>Ask HN: Why is pagination gone on "Ask HN", and showing only 19 items?</i> - <a href="https://news.ycombinator.com/item?id=50280719">https://news.ycombinator.com/item?id=50280719</a> - Oct 2026 (3 comments)<p>I believe I found the problem. The pool of stories for <a href="https://news.ycombinator.com/ask">https://news.ycombinator.com/ask</a> has traditionally been drawn from the ranked stories list from which we generate the frontpage. That list is restricted to the top 1500 ranked submissions, and it seems the % of submissions which are text posts (i.e. no linked URL) had declined enough to starve the Ask HN feed. The solution is to compute a separate list of ranked Ask HNs.<p>p.s. "Ask HN" is the conventional name but it means text posts. The title can also start with "Tell HN" or nothing in particular. They're just posts which were submitted without a URL.</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50649864">https://news.ycombinator.com/item?id=50649864</a></p>
+<p>Points: 95</p>
+<p># Comments: 41</p>
 
-🔗 **Read more:** [https://github.com/lsernau/grh-lean](https://github.com/lsernau/grh-lean)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=50649864](https://news.ycombinator.com/item?id=50649864)
 
 ---
 
-### 2. Defang Security Incident
+### 2. Jev is probably Qwen3.5-35B-A3B
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://defang.io/blog/post/security-incident-november-2026/">https://defang.io/blog/post/security-incident-november-2026/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50648035">https://news.ycombinator.com/item?id=50648035</a></p>
-<p>Points: 17</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://modaic.dev/blog/latency-doesnt-lie">https://modaic.dev/blog/latency-doesnt-lie</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50648823">https://news.ycombinator.com/item?id=50648823</a></p>
+<p>Points: 232</p>
+<p># Comments: 68</p>
 
-🔗 **Read more:** [https://defang.io/blog/post/security-incident-november-2026/](https://defang.io/blog/post/security-incident-november-2026/)
+🔗 **Read more:** [https://modaic.dev/blog/latency-doesnt-lie](https://modaic.dev/blog/latency-doesnt-lie)
 
 ---
 
-### 3. Prof. Sam Lawler: FUCK FUCK FUCK FUCK FUCK FUCK FUCK
+### 3. Bare Metal Qwen
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://mastodon.social/@sundogplanets/117678381079935502">https://mastodon.social/@sundogplanets/117678381079935502</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50648008">https://news.ycombinator.com/item?id=50648008</a></p>
-<p>Points: 17</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os">https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50648365">https://news.ycombinator.com/item?id=50648365</a></p>
+<p>Points: 68</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://mastodon.social/@sundogplanets/117678381079935502](https://mastodon.social/@sundogplanets/117678381079935502)
+🔗 **Read more:** [https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os](https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os)
 
 ---
 
-### 4. Poundland collapses putting 11,000 jobs at risk
+### 4. Stalking law simplified to become one offence
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The discount chain has fallen into administration after its owners failed to find a buyer.
+The new stalking offence will be introduced after a review found existing legislation was confusing.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm3vgdn037z4o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Why has Poundland collapsed and what happens next?
+### 5. US approves SpaceX plan to send a million data satellites to space
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The retail chain has collapsed just one year after being bought for £1 by an American firm.
+The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/ckregn0gq2ydo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. US announces new tariff proposals on EU, China, and other trade partners
+### 6. UK government set to publish new treaties agreed with EU
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The new levies would hit many of America's biggest trading partners, including China and the EU.
+The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c893r9ke5p97o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Winter rains threaten 1,000 Gaza shelter sites, councils warn
+### 7. Kim Jong Un says North Korea should widen deployment of tactical nukes
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-About 200,000 tents need replacing, Gaza’s municipalities say, as the EU urges Israel to reopen all crossings.
+North Korean leader warns attempts to deny country&#039;s nuclear status will be seen as &quot;an open declaration of war&quot;.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/winter-rains-threaten-1000-gaza-shelter-sites-councils-warn?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss)
 
 ---
 
-### 8. US Education Department probes Virginia schools after sexual abuse scandal
+### 8. Photos: Storms and an El Nino-charged king tide batter California’s coast
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Virginia schools face scrutiny after revelations of abuse and widespread failures in mandatory staff background checks.
+Meteorologists have warned that the king tide could pair with high surf to bring historic surges to parts of the state.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss](https://www.aljazeera.com/news/2026/11/25/us-education-department-probes-virginia-schools-after-sexual-abuse-scandal?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/11/26/photos-storms-and-an-el-nino-charged-king-tide-batter-californias-coast?traffic_source=rss](https://www.aljazeera.com/gallery/2026/11/26/photos-storms-and-an-el-nino-charged-king-tide-batter-californias-coast?traffic_source=rss)
 
 ---
 
-### 9. Baby Aliyah steals the show during Australian Senate debate
+### 9. Ukraine attacks Russian military base, says five planes struck
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Australian Senator Fatima Payman addressed the Senate with her six-month-old daughter, Aliyah, in her arms
+The Ukrainian General Staff says its forces struck an airbase in the Nizhny Novgorod region east of Moscow.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/25/baby-aliyah-steals-the-show-during-australian-senate-debate?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss)
 
 ---
 
