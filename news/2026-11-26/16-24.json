@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-26T16:24:41+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Head of Software Engineering – NOX Metals",
+            "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50654353\">https://news.ycombinator.com/item?id=50654353</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://news.ycombinator.com/item?id=50654353",
+            "published": "Thu, 26 Nov 2026 12:00:00 +0000",
+            "fetched": "2026-11-26T16:24:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Euro-Office comes to your desktop with the Nextcloud Office Desktop app",
+            "description": "<p>Article URL: <a href=\"https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/\">https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50654289\">https://news.ycombinator.com/item?id=50654289</a></p>\n<p>Points: 23</p>\n<p># Comments: 1</p>",
+            "url": "https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/",
+            "published": "Thu, 26 Nov 2026 11:50:49 +0000",
+            "fetched": "2026-11-26T16:24:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Intel One Mono font",
+            "description": "<p>Article URL: <a href=\"https://github.com/intel/intel-one-mono\">https://github.com/intel/intel-one-mono</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50653667\">https://news.ycombinator.com/item?id=50653667</a></p>\n<p>Points: 140</p>\n<p># Comments: 83</p>",
+            "url": "https://github.com/intel/intel-one-mono",
+            "published": "Thu, 26 Nov 2026 10:11:01 +0000",
+            "fetched": "2026-11-26T16:24:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+            "description": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
+            "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 05:00:24 GMT",
+            "fetched": "2026-11-26T16:24:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+            "description": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from Marvin Reuter's firm.",
+            "url": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 05:00:27 GMT",
+            "fetched": "2026-11-26T16:24:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK reservists contacted as 'threat environment' rises, Streeting says",
+            "description": "It comes after reports that reservists have received letters telling them to prepare to be called up for war.",
+            "url": "https://www.bbc.co.uk/news/articles/cvrlgznd9z4po?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 11:40:05 GMT",
+            "fetched": "2026-11-26T16:24:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Eyewitnesses describe scenes of Egypt’s deadly vehicle fire",
+            "description": "Eyewitnesses describe scenes of Egypt’s deadly vehicle fire",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/eyewitnesses-describe-scenes-of-egypts-deadly-vehicle-fire?traffic_source=rss",
+            "published": "Thu, 26 Nov 2026 12:34:10 +0000",
+            "fetched": "2026-11-26T16:24:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "FIFA says personal and business information stolen in cyberattack",
+            "description": "FIFA sources say no files from the abandoned FIFA Forward Enterprise project were accessed.",
+            "url": "https://www.aljazeera.com/sports/2026/11/26/fifa-says-personal-and-business-information-stolen-in-cyberattack?traffic_source=rss",
+            "published": "Thu, 26 Nov 2026 12:31:46 +0000",
+            "fetched": "2026-11-26T16:24:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "With the rise of AI, are we close to having universal basic income",
+            "description": "Is UBI the solution to mass unemployment in an AI economy?",
+            "url": "https://www.aljazeera.com/video/money-works/2026/11/26/with-the-rise-of-ai-are-we-close-to-having-universal-basic-income?traffic_source=rss",
+            "published": "Thu, 26 Nov 2026 12:12:45 +0000",
+            "fetched": "2026-11-26T16:24:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-26T16:24:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-26T16:24:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-26T16:24:41+03:30"
+        }
+    ]
+}

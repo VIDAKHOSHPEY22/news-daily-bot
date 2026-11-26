@@ -1,138 +1,137 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-26 08:22:41
+**Last Update:** 2026-11-26 16:24:41
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, Hacker News, NASA
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Qualcomm's Oryon 3 Reaches the Top
+### 1. Head of Software Engineering – NOX Metals
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top">https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50651158">https://news.ycombinator.com/item?id=50651158</a></p>
-<p>Points: 9</p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50654353">https://news.ycombinator.com/item?id=50654353</a></p>
+<p>Points: 0</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top](https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top)
+🔗 **Read more:** [https://news.ycombinator.com/item?id=50654353](https://news.ycombinator.com/item?id=50654353)
 
 ---
 
-### 2. OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster
+### 2. Euro-Office comes to your desktop with the Nextcloud Office Desktop app
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/thsottiaux/status/2125784147889393806">https://twitter.com/thsottiaux/status/2125784147889393806</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50651117">https://news.ycombinator.com/item?id=50651117</a></p>
-<p>Points: 39</p>
-<p># Comments: 14</p>
-
-🔗 **Read more:** [https://twitter.com/thsottiaux/status/2125784147889393806](https://twitter.com/thsottiaux/status/2125784147889393806)
-
----
-
-### 3. Minipg: PostgreSQL as a Single Executable
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://progrium.github.io/minipg/">https://progrium.github.io/minipg/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50650892">https://news.ycombinator.com/item?id=50650892</a></p>
-<p>Points: 13</p>
+<p>Article URL: <a href="https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/">https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50654289">https://news.ycombinator.com/item?id=50654289</a></p>
+<p>Points: 23</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://progrium.github.io/minipg/](https://progrium.github.io/minipg/)
+🔗 **Read more:** [https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/)
 
 ---
 
-### 4. UK government set to publish new treaties agreed with EU
+### 3. Intel One Mono font
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://github.com/intel/intel-one-mono">https://github.com/intel/intel-one-mono</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50653667">https://news.ycombinator.com/item?id=50653667</a></p>
+<p>Points: 140</p>
+<p># Comments: 83</p>
+
+🔗 **Read more:** [https://github.com/intel/intel-one-mono](https://github.com/intel/intel-one-mono)
+
+---
+
+### 4. German boat dealer suspected of supplying Channel smuggling gangs, BBC finds
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.
+Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. US approves SpaceX plan to send a million data satellites to space
+### 5. Watch: BBC confronts German man suspected of supplying migrant gangs with small boats
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.
+Nearly a third of crossings in early 2026 allegedly involved boats or engines from Marvin Reuter's firm.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Stalking law simplified to become one offence
+### 6. UK reservists contacted as 'threat environment' rises, Streeting says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The new stalking offence will be introduced after a review found existing legislation was confusing.
+It comes after reports that reservists have received letters telling them to prepare to be called up for war.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvrlgznd9z4po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvrlgznd9z4po?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Racecourse office blown away in Brazil
+### 7. Eyewitnesses describe scenes of Egypt’s deadly vehicle fire
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A powerful storm shattered windows and sent debris flying inside a racetrack office in Brazil.
+Eyewitnesses describe scenes of Egypt’s deadly vehicle fire
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/26/racecourse-office-blown-away-in-brazil?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/26/racecourse-office-blown-away-in-brazil?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/26/eyewitnesses-describe-scenes-of-egypts-deadly-vehicle-fire?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/26/eyewitnesses-describe-scenes-of-egypts-deadly-vehicle-fire?traffic_source=rss)
 
 ---
 
-### 8. Colombian president taunts arrested supermarket hostage-takers
+### 8. FIFA says personal and business information stolen in cyberattack
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Colombia’s president has confronted the men who held 76 people hostage at a Cartagena supermarket.
+FIFA sources say no files from the abandoned FIFA Forward Enterprise project were accessed.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/26/fifa-says-personal-and-business-information-stolen-in-cyberattack?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/26/fifa-says-personal-and-business-information-stolen-in-cyberattack?traffic_source=rss)
 
 ---
 
-### 9. Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI
+### 9. With the rise of AI, are we close to having universal basic income
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Dario Amodei&#039;s remarks come amid predictions that AI may soon match or surpass human intelligence.
+Is UBI the solution to mass unemployment in an AI economy?
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/money-works/2026/11/26/with-the-rise-of-ai-are-we-close-to-having-universal-basic-income?traffic_source=rss](https://www.aljazeera.com/video/money-works/2026/11/26/with-the-rise-of-ai-are-we-close-to-having-universal-basic-income?traffic_source=rss)
 
 ---
 
