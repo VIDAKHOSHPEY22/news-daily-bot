@@ -1,138 +1,138 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-26 18:26:38
+**Last Update:** 2026-11-27 01:57:29
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, BBC, Al Jazeera
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tell HN: Happy Thanksgiving
+### 1. AI made self-hosting fun again
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway!</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50655664">https://news.ycombinator.com/item?id=50655664</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://janlukas.blog/posts/ai-self-hosting">https://janlukas.blog/posts/ai-self-hosting</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50660180">https://news.ycombinator.com/item?id=50660180</a></p>
+<p>Points: 33</p>
+<p># Comments: 20</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=50655664](https://news.ycombinator.com/item?id=50655664)
+🔗 **Read more:** [https://janlukas.blog/posts/ai-self-hosting](https://janlukas.blog/posts/ai-self-hosting)
 
 ---
 
-### 2. 45°C inlets just killed the chiller. Most people haven't noticed yet
+### 2. Denver man traps Waymo robotaxis with cones, eggs them at least 30 times
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831">https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50655278">https://news.ycombinator.com/item?id=50655278</a></p>
-<p>Points: 11</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/">https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50659918">https://news.ycombinator.com/item?id=50659918</a></p>
+<p>Points: 21</p>
+<p># Comments: 6</p>
 
-🔗 **Read more:** [https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831](https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831)
+🔗 **Read more:** [https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/](https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/)
 
 ---
 
-### 3. Head of Software Engineering – NOX Metals
+### 3. Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50654353">https://news.ycombinator.com/item?id=50654353</a></p>
-<p>Points: 0</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/">https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50659841">https://news.ycombinator.com/item?id=50659841</a></p>
+<p>Points: 98</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=50654353](https://news.ycombinator.com/item?id=50654353)
+🔗 **Read more:** [https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
 
 ---
 
-### 4. UK net migration at lowest level since 1997 as asylum claims also fall
+### 4. Huntingdon train attacker found guilty of all 14 counts of attempted murder
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Net migration figures of 77,000 in the year to the end of June mark the lowest this century outside of the Covid pandemic.
+Anthony Williams, 33, is convicted of 10 attacks on a train and four in Peterborough and London.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. German boat dealer suspected of supplying Channel smuggling gangs, BBC finds
+### 5. Knifeman told doctor his psychosis drugs weren't working days before Huntingdon attack
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.
+Now his trial has concluded over the LNER train attack, we can report Anthony Williams' long history of criminality.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Watch: BBC confronts German man suspected of supplying migrant gangs with small boats
+### 6. Zelensky questions 'strange' Trump-Putin friendship in BBC interview
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Nearly a third of crossings in early 2026 allegedly involved boats or engines from Marvin Reuter's firm.
+The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Can Trump continue with Iran war despite funding restrictions?
+### 7. Report: CIA tortured more people with waterboarding than US agency admitted
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-A Congress budget bill could serve as a pressure tactic on Trump to end the war but could also trigger a shutdown.
+A New York Times report lends credence to long-held belief that torture method was more widely used than acknowledged.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss)
 
 ---
 
-### 8. How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region
+### 8. Egypt detains driver over Cairo fuel tanker fire that killed 31
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Prime Minister al-Zaidi&#039;s move to take control of border crossings and oilfields has drawn a sharp response from Erbil.
+Prosecutors order drug tests for the 21-year-old suspect, who says he was overtaking when the crash happened.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss)
 
 ---
 
-### 9. Inside Liberland, the crypto ‘country’ few have heard of
+### 9. Bangladesh garment workers clash with police over low wages
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera&#039;s Antoine Allen reports on a group of people trying to build a tax-free nation.
+Bangladeshi garment workers clashed with police after a 36% minimum wage increase fell short of their demands.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/inside-liberland-the-crypto-country-few-have-heard-of?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/inside-liberland-the-crypto-country-few-have-heard-of?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss)
 
 ---
 

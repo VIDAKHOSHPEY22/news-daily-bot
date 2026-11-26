@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-27T01:57:29+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "AI made self-hosting fun again",
+            "description": "<p>Article URL: <a href=\"https://janlukas.blog/posts/ai-self-hosting\">https://janlukas.blog/posts/ai-self-hosting</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50660180\">https://news.ycombinator.com/item?id=50660180</a></p>\n<p>Points: 33</p>\n<p># Comments: 20</p>",
+            "url": "https://janlukas.blog/posts/ai-self-hosting",
+            "published": "Thu, 26 Nov 2026 21:47:45 +0000",
+            "fetched": "2026-11-27T01:57:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Denver man traps Waymo robotaxis with cones, eggs them at least 30 times",
+            "description": "<p>Article URL: <a href=\"https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/\">https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50659918\">https://news.ycombinator.com/item?id=50659918</a></p>\n<p>Points: 21</p>\n<p># Comments: 6</p>",
+            "url": "https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/",
+            "published": "Thu, 26 Nov 2026 21:16:41 +0000",
+            "fetched": "2026-11-27T01:57:29+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
+            "description": "<p>Article URL: <a href=\"https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/\">https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50659841\">https://news.ycombinator.com/item?id=50659841</a></p>\n<p>Points: 98</p>\n<p># Comments: 14</p>",
+            "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+            "published": "Thu, 26 Nov 2026 21:08:05 +0000",
+            "fetched": "2026-11-27T01:57:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Huntingdon train attacker found guilty of all 14 counts of attempted murder",
+            "description": "Anthony Williams, 33, is convicted of 10 attacks on a train and four in Peterborough and London.",
+            "url": "https://www.bbc.co.uk/news/articles/ck053j37yr9lo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 19:00:33 GMT",
+            "fetched": "2026-11-27T01:57:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Knifeman told doctor his psychosis drugs weren't working days before Huntingdon attack",
+            "description": "Now his trial has concluded over the LNER train attack, we can report Anthony Williams' long history of criminality.",
+            "url": "https://www.bbc.co.uk/news/articles/ck62p4pzg4qyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 15:38:38 GMT",
+            "fetched": "2026-11-27T01:57:29+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+            "description": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
+            "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 22:06:20 GMT",
+            "fetched": "2026-11-27T01:57:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Report: CIA tortured more people with waterboarding than US agency admitted",
+            "description": "A New York Times report lends credence to long-held belief that torture method was more widely used than acknowledged.",
+            "url": "https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss",
+            "published": "Thu, 26 Nov 2026 22:06:54 +0000",
+            "fetched": "2026-11-27T01:57:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
+            "description": "Prosecutors order drug tests for the 21-year-old suspect, who says he was overtaking when the crash happened.",
+            "url": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss",
+            "published": "Thu, 26 Nov 2026 21:08:44 +0000",
+            "fetched": "2026-11-27T01:57:29+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Bangladesh garment workers clash with police over low wages",
+            "description": "Bangladeshi garment workers clashed with police after a 36% minimum wage increase fell short of their demands.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss",
+            "published": "Thu, 26 Nov 2026 21:04:39 +0000",
+            "fetched": "2026-11-27T01:57:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-27T01:57:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-27T01:57:29+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-27T01:57:29+03:30"
+        }
+    ]
+}
