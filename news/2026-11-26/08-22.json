@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-26T08:22:41+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "BBC",
+        "Hacker News",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Qualcomm's Oryon 3 Reaches the Top",
+            "description": "<p>Article URL: <a href=\"https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top\">https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50651158\">https://news.ycombinator.com/item?id=50651158</a></p>\n<p>Points: 9</p>\n<p># Comments: 0</p>",
+            "url": "https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top",
+            "published": "Thu, 26 Nov 2026 03:43:24 +0000",
+            "fetched": "2026-11-26T08:22:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/thsottiaux/status/2125784147889393806\">https://twitter.com/thsottiaux/status/2125784147889393806</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50651117\">https://news.ycombinator.com/item?id=50651117</a></p>\n<p>Points: 39</p>\n<p># Comments: 14</p>",
+            "url": "https://twitter.com/thsottiaux/status/2125784147889393806",
+            "published": "Thu, 26 Nov 2026 03:36:58 +0000",
+            "fetched": "2026-11-26T08:22:41+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Minipg: PostgreSQL as a Single Executable",
+            "description": "<p>Article URL: <a href=\"https://progrium.github.io/minipg/\">https://progrium.github.io/minipg/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50650892\">https://news.ycombinator.com/item?id=50650892</a></p>\n<p>Points: 13</p>\n<p># Comments: 1</p>",
+            "url": "https://progrium.github.io/minipg/",
+            "published": "Thu, 26 Nov 2026 03:00:48 +0000",
+            "fetched": "2026-11-26T08:22:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK government set to publish new treaties agreed with EU",
+            "description": "The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.",
+            "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 02:13:00 GMT",
+            "fetched": "2026-11-26T08:22:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US approves SpaceX plan to send a million data satellites to space",
+            "description": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+            "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 00:07:51 GMT",
+            "fetched": "2026-11-26T08:22:41+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Stalking law simplified to become one offence",
+            "description": "The new stalking offence will be introduced after a review found existing legislation was confusing.",
+            "url": "https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 00:02:50 GMT",
+            "fetched": "2026-11-26T08:22:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Racecourse office blown away in Brazil",
+            "description": "A powerful storm shattered windows and sent debris flying inside a racetrack office in Brazil.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/racecourse-office-blown-away-in-brazil?traffic_source=rss",
+            "published": "Thu, 26 Nov 2026 04:17:31 +0000",
+            "fetched": "2026-11-26T08:22:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Colombian president taunts arrested supermarket hostage-takers",
+            "description": "Colombia’s president has confronted the men who held 76 people hostage at a Cartagena supermarket.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss",
+            "published": "Thu, 26 Nov 2026 03:23:24 +0000",
+            "fetched": "2026-11-26T08:22:41+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI",
+            "description": "Dario Amodei&#039;s remarks come amid predictions that AI may soon match or surpass human intelligence.",
+            "url": "https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss",
+            "published": "Thu, 26 Nov 2026 03:20:23 +0000",
+            "fetched": "2026-11-26T08:22:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-26T08:22:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-26T08:22:41+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-26T08:22:41+03:30"
+        }
+    ]
+}

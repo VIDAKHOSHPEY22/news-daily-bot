@@ -1,74 +1,73 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-26 06:25:56
+**Last Update:** 2026-11-26 08:22:41
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, BBC, NASA, Hacker News
+**Sources:** Al Jazeera, BBC, Hacker News, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Tell HN: Lots of Ask HNs again
+### 1. Qualcomm's Oryon 3 Reaches the Top
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>There have been questions about why the /ask page (<a href="https://news.ycombinator.com/ask">https://news.ycombinator.com/ask</a>) was running dry of Ask HN posts - e.g.:<p><i>Ask HN: Why is Ask HN only showing me 14 posts?</i> - <a href="https://news.ycombinator.com/item?id=49984484">https://news.ycombinator.com/item?id=49984484</a> - Oct 2026 (47 comments)<p><i>Ask HN: Why is pagination gone on "Ask HN", and showing only 19 items?</i> - <a href="https://news.ycombinator.com/item?id=50280719">https://news.ycombinator.com/item?id=50280719</a> - Oct 2026 (3 comments)<p>I believe I found the problem. The pool of stories for <a href="https://news.ycombinator.com/ask">https://news.ycombinator.com/ask</a> has traditionally been drawn from the ranked stories list from which we generate the frontpage. That list is restricted to the top 1500 ranked submissions, and it seems the % of submissions which are text posts (i.e. no linked URL) had declined enough to starve the Ask HN feed. The solution is to compute a separate list of ranked Ask HNs.<p>p.s. "Ask HN" is the conventional name but it means text posts. The title can also start with "Tell HN" or nothing in particular. They're just posts which were submitted without a URL.</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50649864">https://news.ycombinator.com/item?id=50649864</a></p>
-<p>Points: 95</p>
-<p># Comments: 41</p>
+<p>Article URL: <a href="https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top">https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50651158">https://news.ycombinator.com/item?id=50651158</a></p>
+<p>Points: 9</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://news.ycombinator.com/item?id=50649864](https://news.ycombinator.com/item?id=50649864)
+🔗 **Read more:** [https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top](https://chipsandcheese.com/p/qualcomms-oryon-3-reaches-the-top)
 
 ---
 
-### 2. Jev is probably Qwen3.5-35B-A3B
+### 2. OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://modaic.dev/blog/latency-doesnt-lie">https://modaic.dev/blog/latency-doesnt-lie</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50648823">https://news.ycombinator.com/item?id=50648823</a></p>
-<p>Points: 232</p>
-<p># Comments: 68</p>
+<p>Article URL: <a href="https://twitter.com/thsottiaux/status/2125784147889393806">https://twitter.com/thsottiaux/status/2125784147889393806</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50651117">https://news.ycombinator.com/item?id=50651117</a></p>
+<p>Points: 39</p>
+<p># Comments: 14</p>
 
-🔗 **Read more:** [https://modaic.dev/blog/latency-doesnt-lie](https://modaic.dev/blog/latency-doesnt-lie)
+🔗 **Read more:** [https://twitter.com/thsottiaux/status/2125784147889393806](https://twitter.com/thsottiaux/status/2125784147889393806)
 
 ---
 
-### 3. Bare Metal Qwen
+### 3. Minipg: PostgreSQL as a Single Executable
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os">https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50648365">https://news.ycombinator.com/item?id=50648365</a></p>
-<p>Points: 68</p>
-<p># Comments: 10</p>
+<p>Article URL: <a href="https://progrium.github.io/minipg/">https://progrium.github.io/minipg/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50650892">https://news.ycombinator.com/item?id=50650892</a></p>
+<p>Points: 13</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os](https://github.com/alesha-pro/llm.asm/tree/main/02-baremetal-os)
+🔗 **Read more:** [https://progrium.github.io/minipg/](https://progrium.github.io/minipg/)
 
 ---
 
-### 4. Stalking law simplified to become one offence
+### 4. UK government set to publish new treaties agreed with EU
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The new stalking offence will be introduced after a review found existing legislation was confusing.
+The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -85,55 +84,55 @@ The Starmind constellation aims to be the most cost and energy-efficient way to 
 
 ---
 
-### 6. UK government set to publish new treaties agreed with EU
+### 6. Stalking law simplified to become one offence
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The BBC understands the treaties contain a 10-year termination clause to reimburse costs of any need to rebuild border checks infrastructure.
+The new stalking offence will be introduced after a review found existing legislation was confusing.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c98r7p65edvgo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8lydnlkq7xno?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Kim Jong Un says North Korea should widen deployment of tactical nukes
+### 7. Racecourse office blown away in Brazil
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-North Korean leader warns attempts to deny country&#039;s nuclear status will be seen as &quot;an open declaration of war&quot;.
+A powerful storm shattered windows and sent debris flying inside a racetrack office in Brazil.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/kim-jong-un-says-north-korea-should-widen-deployment-of-tactical-nukes?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/26/racecourse-office-blown-away-in-brazil?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/26/racecourse-office-blown-away-in-brazil?traffic_source=rss)
 
 ---
 
-### 8. Photos: Storms and an El Nino-charged king tide batter California’s coast
+### 8. Colombian president taunts arrested supermarket hostage-takers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Meteorologists have warned that the king tide could pair with high surf to bring historic surges to parts of the state.
+Colombia’s president has confronted the men who held 76 people hostage at a Cartagena supermarket.
 
-🔗 **Read more:** [https://www.aljazeera.com/gallery/2026/11/26/photos-storms-and-an-el-nino-charged-king-tide-batter-californias-coast?traffic_source=rss](https://www.aljazeera.com/gallery/2026/11/26/photos-storms-and-an-el-nino-charged-king-tide-batter-californias-coast?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/26/colombian-president-taunts-arrested-supermarket-hostage-takers?traffic_source=rss)
 
 ---
 
-### 9. Ukraine attacks Russian military base, says five planes struck
+### 9. Anthropic CEO Amodei denies wanting humanity to ‘surrender’ free will to AI
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-The Ukrainian General Staff says its forces struck an airbase in the Nizhny Novgorod region east of Moscow.
+Dario Amodei&#039;s remarks come amid predictions that AI may soon match or surpass human intelligence.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/ukraine-attacks-russian-military-base-says-five-planes-struck?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/26/anthropic-ceo-amodei-denies-wanting-humanity-to-surrender-free-will-to-ai?traffic_source=rss)
 
 ---
 
