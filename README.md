@@ -1,16 +1,32 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-27 01:57:29
+**Last Update:** 2026-11-27 03:12:26
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** Hacker News, NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. AI made self-hosting fun again
+### 1. Novita, StreamLake, etc. are ByteDance Ark wrappers
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://kendell.dev/blog/arkwrapper/">https://kendell.dev/blog/arkwrapper/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50660273">https://news.ycombinator.com/item?id=50660273</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://kendell.dev/blog/arkwrapper/](https://kendell.dev/blog/arkwrapper/)
+
+---
+
+### 2. AI made self-hosting fun again
 
 **Source:** Hacker News
 
@@ -19,26 +35,10 @@
 **Description:**
 <p>Article URL: <a href="https://janlukas.blog/posts/ai-self-hosting">https://janlukas.blog/posts/ai-self-hosting</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50660180">https://news.ycombinator.com/item?id=50660180</a></p>
-<p>Points: 33</p>
-<p># Comments: 20</p>
+<p>Points: 148</p>
+<p># Comments: 89</p>
 
 🔗 **Read more:** [https://janlukas.blog/posts/ai-self-hosting](https://janlukas.blog/posts/ai-self-hosting)
-
----
-
-### 2. Denver man traps Waymo robotaxis with cones, eggs them at least 30 times
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/">https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50659918">https://news.ycombinator.com/item?id=50659918</a></p>
-<p>Points: 21</p>
-<p># Comments: 6</p>
-
-🔗 **Read more:** [https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/](https://electrek.co/2026/11/26/denver-man-cones-eggs-waymo-robotaxis/)
 
 ---
 
@@ -51,8 +51,8 @@
 **Description:**
 <p>Article URL: <a href="https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/">https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50659841">https://news.ycombinator.com/item?id=50659841</a></p>
-<p>Points: 98</p>
-<p># Comments: 14</p>
+<p>Points: 186</p>
+<p># Comments: 32</p>
 
 🔗 **Read more:** [https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/](https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/)
 
@@ -97,7 +97,33 @@ The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be
 
 ---
 
-### 7. Report: CIA tortured more people with waterboarding than US agency admitted
+### 7. Israeli settlers damage Palestinian family’s homes in West Bank attack
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+The Tubasi family was forced out months ago and has been denied a return by settlers despite an Israeli court order.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/israeli-settlers-damage-palestinian-familys-homes-in-west-bank-attack?traffic_source=rss)
+
+---
+
+### 8. In Canada, Quebec’s religious symbols ban faces a Supreme Court test
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+Canada’s top court weighs Bill 21, the Quebec law that shapes where Muslim women can work and where they feel welcome.
+
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss](https://www.aljazeera.com/features/2026/11/26/in-canada-quebecs-religious-symbols-ban-faces-a-supreme-court-test?traffic_source=rss)
+
+---
+
+### 9. Report: CIA tortured more people with waterboarding than US agency admitted
 
 **Source:** Al Jazeera
 
@@ -107,32 +133,6 @@ The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be
 A New York Times report lends credence to long-held belief that torture method was more widely used than acknowledged.
 
 🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/report-cia-tortured-more-people-with-waterboarding-than-us-agency-admitted?traffic_source=rss)
-
----
-
-### 8. Egypt detains driver over Cairo fuel tanker fire that killed 31
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Prosecutors order drug tests for the 21-year-old suspect, who says he was overtaking when the crash happened.
-
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss)
-
----
-
-### 9. Bangladesh garment workers clash with police over low wages
-
-**Source:** Al Jazeera
-
-**Category:** world
-
-**Description:**
-Bangladeshi garment workers clashed with police after a 36% minimum wage increase fell short of their demands.
-
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/26/bangladesh-garment-workers-clash-with-police-over-low-wages?traffic_source=rss)
 
 ---
 
