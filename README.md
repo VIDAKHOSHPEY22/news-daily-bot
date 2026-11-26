@@ -1,16 +1,49 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-26 16:24:41
+**Last Update:** 2026-11-26 18:26:38
 
 **Total News:** 12
 
-**Sources:** Hacker News, NASA, Al Jazeera, BBC
+**Sources:** Hacker News, NASA, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Head of Software Engineering – NOX Metals
+### 1. Tell HN: Happy Thanksgiving
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway!</p>
+<hr />
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50655664">https://news.ycombinator.com/item?id=50655664</a></p>
+<p>Points: 8</p>
+<p># Comments: 1</p>
+
+🔗 **Read more:** [https://news.ycombinator.com/item?id=50655664](https://news.ycombinator.com/item?id=50655664)
+
+---
+
+### 2. 45°C inlets just killed the chiller. Most people haven't noticed yet
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831">https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50655278">https://news.ycombinator.com/item?id=50655278</a></p>
+<p>Points: 11</p>
+<p># Comments: 0</p>
+
+🔗 **Read more:** [https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831](https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831)
+
+---
+
+### 3. Head of Software Engineering – NOX Metals
 
 **Source:** Hacker News
 
@@ -25,39 +58,20 @@
 
 ---
 
-### 2. Euro-Office comes to your desktop with the Nextcloud Office Desktop app
+### 4. UK net migration at lowest level since 1997 as asylum claims also fall
 
-**Source:** Hacker News
+**Source:** BBC
 
-**Category:** technology
+**Category:** world
 
 **Description:**
-<p>Article URL: <a href="https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/">https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50654289">https://news.ycombinator.com/item?id=50654289</a></p>
-<p>Points: 23</p>
-<p># Comments: 1</p>
+Net migration figures of 77,000 in the year to the end of June mark the lowest this century outside of the Covid pandemic.
 
-🔗 **Read more:** [https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 3. Intel One Mono font
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://github.com/intel/intel-one-mono">https://github.com/intel/intel-one-mono</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50653667">https://news.ycombinator.com/item?id=50653667</a></p>
-<p>Points: 140</p>
-<p># Comments: 83</p>
-
-🔗 **Read more:** [https://github.com/intel/intel-one-mono](https://github.com/intel/intel-one-mono)
-
----
-
-### 4. German boat dealer suspected of supplying Channel smuggling gangs, BBC finds
+### 5. German boat dealer suspected of supplying Channel smuggling gangs, BBC finds
 
 **Source:** BBC
 
@@ -70,7 +84,7 @@ Nearly a third of crossings in early 2026 allegedly involved boats or engines fr
 
 ---
 
-### 5. Watch: BBC confronts German man suspected of supplying migrant gangs with small boats
+### 6. Watch: BBC confronts German man suspected of supplying migrant gangs with small boats
 
 **Source:** BBC
 
@@ -83,55 +97,42 @@ Nearly a third of crossings in early 2026 allegedly involved boats or engines fr
 
 ---
 
-### 6. UK reservists contacted as 'threat environment' rises, Streeting says
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-It comes after reports that reservists have received letters telling them to prepare to be called up for war.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cvrlgznd9z4po?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cvrlgznd9z4po?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Eyewitnesses describe scenes of Egypt’s deadly vehicle fire
+### 7. Can Trump continue with Iran war despite funding restrictions?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Eyewitnesses describe scenes of Egypt’s deadly vehicle fire
+A Congress budget bill could serve as a pressure tactic on Trump to end the war but could also trigger a shutdown.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/26/eyewitnesses-describe-scenes-of-egypts-deadly-vehicle-fire?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/26/eyewitnesses-describe-scenes-of-egypts-deadly-vehicle-fire?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss)
 
 ---
 
-### 8. FIFA says personal and business information stolen in cyberattack
+### 8. How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-FIFA sources say no files from the abandoned FIFA Forward Enterprise project were accessed.
+Prime Minister al-Zaidi&#039;s move to take control of border crossings and oilfields has drawn a sharp response from Erbil.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/26/fifa-says-personal-and-business-information-stolen-in-cyberattack?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/26/fifa-says-personal-and-business-information-stolen-in-cyberattack?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss)
 
 ---
 
-### 9. With the rise of AI, are we close to having universal basic income
+### 9. Inside Liberland, the crypto ‘country’ few have heard of
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Is UBI the solution to mass unemployment in an AI economy?
+Al Jazeera&#039;s Antoine Allen reports on a group of people trying to build a tax-free nation.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/money-works/2026/11/26/with-the-rise-of-ai-are-we-close-to-having-universal-basic-income?traffic_source=rss](https://www.aljazeera.com/video/money-works/2026/11/26/with-the-rise-of-ai-are-we-close-to-having-universal-basic-income?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/26/inside-liberland-the-crypto-country-few-have-heard-of?traffic_source=rss](https://www.aljazeera.com/news/2026/11/26/inside-liberland-the-crypto-country-few-have-heard-of?traffic_source=rss)
 
 ---
 

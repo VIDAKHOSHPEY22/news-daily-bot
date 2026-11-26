@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-26T18:26:38+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "NASA",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Tell HN: Happy Thanksgiving",
+            "description": "<p>Hopefully it’s a great day spent with your friends and family. And if it’s not, make it a great day anyway!</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50655664\">https://news.ycombinator.com/item?id=50655664</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://news.ycombinator.com/item?id=50655664",
+            "published": "Thu, 26 Nov 2026 14:26:54 +0000",
+            "fetched": "2026-11-26T18:26:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "45°C inlets just killed the chiller. Most people haven't noticed yet",
+            "description": "<p>Article URL: <a href=\"https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831\">https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50655278\">https://news.ycombinator.com/item?id=50655278</a></p>\n<p>Points: 11</p>\n<p># Comments: 0</p>",
+            "url": "https://www.theregister.com/hpc/2026/11/26/45c-inlets-just-killed-the-chiller-most-people-havent-noticed-yet/5311831",
+            "published": "Thu, 26 Nov 2026 13:48:11 +0000",
+            "fetched": "2026-11-26T18:26:38+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Head of Software Engineering – NOX Metals",
+            "description": "<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50654353\">https://news.ycombinator.com/item?id=50654353</a></p>\n<p>Points: 0</p>\n<p># Comments: 0</p>",
+            "url": "https://news.ycombinator.com/item?id=50654353",
+            "published": "Thu, 26 Nov 2026 12:00:00 +0000",
+            "fetched": "2026-11-26T18:26:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK net migration at lowest level since 1997 as asylum claims also fall",
+            "description": "Net migration figures of 77,000 in the year to the end of June mark the lowest this century outside of the Covid pandemic.",
+            "url": "https://www.bbc.co.uk/news/articles/cq36gj12n0l3o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 14:55:16 GMT",
+            "fetched": "2026-11-26T18:26:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "German boat dealer suspected of supplying Channel smuggling gangs, BBC finds",
+            "description": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from the German man's firm.",
+            "url": "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 05:00:24 GMT",
+            "fetched": "2026-11-26T18:26:38+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: BBC confronts German man suspected of supplying migrant gangs with small boats",
+            "description": "Nearly a third of crossings in early 2026 allegedly involved boats or engines from Marvin Reuter's firm.",
+            "url": "https://www.bbc.co.uk/news/videos/cvglrz5yr79go?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 05:00:27 GMT",
+            "fetched": "2026-11-26T18:26:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can Trump continue with Iran war despite funding restrictions?",
+            "description": "A Congress budget bill could serve as a pressure tactic on Trump to end the war but could also trigger a shutdown.",
+            "url": "https://www.aljazeera.com/news/2026/11/26/can-trump-continue-with-iran-war-despite-funding-restrictions?traffic_source=rss",
+            "published": "Thu, 26 Nov 2026 14:17:21 +0000",
+            "fetched": "2026-11-26T18:26:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "How an oil feud is deepening rift between Baghdad and Iraq’s Kurdish region",
+            "description": "Prime Minister al-Zaidi&#039;s move to take control of border crossings and oilfields has drawn a sharp response from Erbil.",
+            "url": "https://www.aljazeera.com/news/2026/11/26/how-an-oil-feud-is-deepening-rift-between-baghdad-and-iraqs-kurdish-region?traffic_source=rss",
+            "published": "Thu, 26 Nov 2026 14:10:00 +0000",
+            "fetched": "2026-11-26T18:26:38+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Inside Liberland, the crypto ‘country’ few have heard of",
+            "description": "Al Jazeera&#039;s Antoine Allen reports on a group of people trying to build a tax-free nation.",
+            "url": "https://www.aljazeera.com/news/2026/11/26/inside-liberland-the-crypto-country-few-have-heard-of?traffic_source=rss",
+            "published": "Thu, 26 Nov 2026 14:02:02 +0000",
+            "fetched": "2026-11-26T18:26:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-26T18:26:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-26T18:26:38+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-26T18:26:38+03:30"
+        }
+    ]
+}
