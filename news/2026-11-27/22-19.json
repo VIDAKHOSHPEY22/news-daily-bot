@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-27T22:19:07+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "BBC",
+        "Al Jazeera"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The NFL Player Who Left Football for Math",
+            "description": "<p>Article URL: <a href=\"https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html\">https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50669963\">https://news.ycombinator.com/item?id=50669963</a></p>\n<p>Points: 7</p>\n<p># Comments: 3</p>",
+            "url": "https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html",
+            "published": "Fri, 27 Nov 2026 18:17:20 +0000",
+            "fetched": "2026-11-27T22:19:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "I'm Scared of AI",
+            "description": "<p>Article URL: <a href=\"https://thesoapbox.email/archive/3\">https://thesoapbox.email/archive/3</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50669561\">https://news.ycombinator.com/item?id=50669561</a></p>\n<p>Points: 97</p>\n<p># Comments: 96</p>",
+            "url": "https://thesoapbox.email/archive/3",
+            "published": "Fri, 27 Nov 2026 17:45:31 +0000",
+            "fetched": "2026-11-27T22:19:07+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Palliative Care for the Chronically Online",
+            "description": "<p>Article URL: <a href=\"https://idiotecon.substack.com/p/palliative-care-for-the-chronically\">https://idiotecon.substack.com/p/palliative-care-for-the-chronically</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50669026\">https://news.ycombinator.com/item?id=50669026</a></p>\n<p>Points: 24</p>\n<p># Comments: 8</p>",
+            "url": "https://idiotecon.substack.com/p/palliative-care-for-the-chronically",
+            "published": "Fri, 27 Nov 2026 17:01:51 +0000",
+            "fetched": "2026-11-27T22:19:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
+            "description": "The Department for Work and Pensions says some of its services have been take offline as a precaution.",
+            "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 27 Nov 2026 17:34:16 GMT",
+            "fetched": "2026-11-27T22:19:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What has happened to DWP online services?",
+            "description": "The work and pensions secretary has said an investigation is looking into a \"serious cyber incident\" affecting his government department.",
+            "url": "https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 27 Nov 2026 17:17:11 GMT",
+            "fetched": "2026-11-27T22:19:07+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+            "description": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+            "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 27 Nov 2026 18:00:40 GMT",
+            "fetched": "2026-11-27T22:19:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Mexico files complaint with US over DEA tip line on alleged drug dealers",
+            "description": "Tensions rise over DEA tip line, with Mexico emphasising respect for its sovereignty amidst growing bilateral discord.",
+            "url": "https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss",
+            "published": "Fri, 27 Nov 2026 17:58:36 +0000",
+            "fetched": "2026-11-27T22:19:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Spanish rescuers treat migrants as hundreds arrive in Canary Islands",
+            "description": "Spain&#039;s Military Emergencies Unit has been sent to treat migrants brought ashore on the island of El Hierro",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss",
+            "published": "Fri, 27 Nov 2026 17:44:50 +0000",
+            "fetched": "2026-11-27T22:19:07+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Kyiv offers Black Sea ceasefire, as Putin expands Russia’s navy",
+            "description": "Ukraine awaits Moscow’s response to Black Sea ceasefire proposal as Zelenskyy criticises Trump’s Putin ‘friendship’",
+            "url": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss",
+            "published": "Fri, 27 Nov 2026 17:44:33 +0000",
+            "fetched": "2026-11-27T22:19:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-27T22:19:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-27T22:19:07+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-27T22:19:07+03:30"
+        }
+    ]
+}

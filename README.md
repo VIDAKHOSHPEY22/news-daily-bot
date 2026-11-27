@@ -1,64 +1,90 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-27 17:32:46
+**Last Update:** 2026-11-27 22:19:07
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, Hacker News, BBC, Al Jazeera
 
 ---
 
 ## 📰 Latest News
 
-### 1. Counseling for mental health decreases likelihood of protesting by 34%–39%
+### 1. The NFL Player Who Left Football for Math
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219">https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50666436">https://news.ycombinator.com/item?id=50666436</a></p>
-<p>Points: 48</p>
-<p># Comments: 42</p>
+<p>Article URL: <a href="https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html">https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50669963">https://news.ycombinator.com/item?id=50669963</a></p>
+<p>Points: 7</p>
+<p># Comments: 3</p>
 
-🔗 **Read more:** [https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219](https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219)
+🔗 **Read more:** [https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html](https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html)
 
 ---
 
-### 2. US Air Force's cloud computing platform hacked
+### 2. I'm Scared of AI
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163">https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50666375">https://news.ycombinator.com/item?id=50666375</a></p>
-<p>Points: 18</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://thesoapbox.email/archive/3">https://thesoapbox.email/archive/3</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50669561">https://news.ycombinator.com/item?id=50669561</a></p>
+<p>Points: 97</p>
+<p># Comments: 96</p>
 
-🔗 **Read more:** [https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163](https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163)
+🔗 **Read more:** [https://thesoapbox.email/archive/3](https://thesoapbox.email/archive/3)
 
 ---
 
-### 3. New York and California Age Gating Rules Go into Effect in the New Year
+### 3. Palliative Care for the Chronically Online
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year">https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50666279">https://news.ycombinator.com/item?id=50666279</a></p>
-<p>Points: 22</p>
-<p># Comments: 7</p>
+<p>Article URL: <a href="https://idiotecon.substack.com/p/palliative-care-for-the-chronically">https://idiotecon.substack.com/p/palliative-care-for-the-chronically</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50669026">https://news.ycombinator.com/item?id=50669026</a></p>
+<p>Points: 24</p>
+<p># Comments: 8</p>
 
-🔗 **Read more:** [https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year](https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year)
+🔗 **Read more:** [https://idiotecon.substack.com/p/palliative-care-for-the-chronically](https://idiotecon.substack.com/p/palliative-care-for-the-chronically)
 
 ---
 
-### 4. Zelensky criticises 'strange' Trump-Putin friendship in BBC interview
+### 4. Millions lose access to benefits and pensions services after 'cyber incident'
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The Department for Work and Pensions says some of its services have been take offline as a precaution.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 5. Watch: What has happened to DWP online services?
+
+**Source:** BBC
+
+**Category:** world
+
+**Description:**
+The work and pensions secretary has said an investigation is looking into a "serious cyber incident" affecting his government department.
+
+🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&at_campaign=rss)
+
+---
+
+### 6. Zelensky criticises 'strange' Trump-Putin friendship in BBC interview
 
 **Source:** BBC
 
@@ -71,68 +97,42 @@ Ukraine's president voices frustration with US and says it is not pushing Russia
 
 ---
 
-### 5. 'A lonely road': Catherine joins cancer support group in new documentary
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The documentary features her personal thoughts on her illness and recovery, following her cancer diagnosis.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/c6879eqe01e0o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/c6879eqe01e0o?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. 'I wouldn't be here today without you': Student's praise for man who stopped Huntingdon train attacker
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-Astrid credits Stephen Crean with saving her life during the Huntingdon train attack last year.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss)
-
----
-
-### 7. Why did Georgian police clash with Turkish football fans over Palestine?
+### 7. Mexico files complaint with US over DEA tip line on alleged drug dealers
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Georgia&#039;s Interior Ministry says 16 people were detained and three employees injured during clashes.
+Tensions rise over DEA tip line, with Mexico emphasising respect for its sovereignty amidst growing bilateral discord.
 
-🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/27/why-did-georgian-police-clash-with-turkish-football-fans-over-palestine?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/27/why-did-georgian-police-clash-with-turkish-football-fans-over-palestine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss)
 
 ---
 
-### 8. Eisenkot navigates tricky waters as he tests power-sharing with Netanyahu
+### 8. Spanish rescuers treat migrants as hundreds arrive in Canary Islands
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Some of his allies are calling for such an arrangement, but it would represent a betrayal of his pre-election promise.
+Spain&#039;s Military Emergencies Unit has been sent to treat migrants brought ashore on the island of El Hierro
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/eisenkot-navigates-tricky-waters-as-he-tests-power-sharing-with-netanyahu?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/eisenkot-navigates-tricky-waters-as-he-tests-power-sharing-with-netanyahu?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss)
 
 ---
 
-### 9. Famine expect to rise due to global conflict, El Nino, warns UN
+### 9. Kyiv offers Black Sea ceasefire, as Putin expands Russia’s navy
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-El Nino is a major driver behind three of the four newly identified hotspots, mainly in different parts of Africa.
+Ukraine awaits Moscow’s response to Black Sea ceasefire proposal as Zelenskyy criticises Trump’s Putin ‘friendship’
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss)
 
 ---
 
