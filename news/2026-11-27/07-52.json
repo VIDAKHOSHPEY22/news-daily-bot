@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-27T07:52:57+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Google will show solo Android developers' phone numbers and addresses",
+            "description": "<p>Article URL: <a href=\"https://support.google.com/googleplay/android-developer/answer/17594752?hl=en\">https://support.google.com/googleplay/android-developer/answer/17594752?hl=en</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50662322\">https://news.ycombinator.com/item?id=50662322</a></p>\n<p>Points: 43</p>\n<p># Comments: 13</p>",
+            "url": "https://support.google.com/googleplay/android-developer/answer/17594752?hl=en",
+            "published": "Fri, 27 Nov 2026 03:11:41 +0000",
+            "fetched": "2026-11-27T07:52:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Sqrin – A better screen share for Mac",
+            "description": "<p>Article URL: <a href=\"https://sqrin.app\">https://sqrin.app</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50662217\">https://news.ycombinator.com/item?id=50662217</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://sqrin.app",
+            "published": "Fri, 27 Nov 2026 02:53:22 +0000",
+            "fetched": "2026-11-27T07:52:57+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "New AI research suggests AI bubble bursting and to expect major market collapse",
+            "description": "<p>Article URL: <a href=\"https://www.london.edu/think/ai-bubble-about-to-burst\">https://www.london.edu/think/ai-bubble-about-to-burst</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50662153\">https://news.ycombinator.com/item?id=50662153</a></p>\n<p>Points: 8</p>\n<p># Comments: 1</p>",
+            "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
+            "published": "Fri, 27 Nov 2026 02:44:12 +0000",
+            "fetched": "2026-11-27T07:52:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
+            "description": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend.",
+            "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 22:49:27 GMT",
+            "fetched": "2026-11-27T07:52:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
+            "description": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
+            "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 22:06:20 GMT",
+            "fetched": "2026-11-27T07:52:57+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "UK to pay 'participation' fee to deliver EU deals",
+            "description": "Details of the contribution towards EU running costs have been revealed in new legal documents.",
+            "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 23:17:12 GMT",
+            "fetched": "2026-11-27T07:52:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Trump downplays Russia, China support for Iran during talks with US troops",
+            "description": "Trump praises US troops for their role in the war on Iran and says he has spoken to Netanyahu in recent days.",
+            "url": "https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss",
+            "published": "Fri, 27 Nov 2026 03:49:08 +0000",
+            "fetched": "2026-11-27T07:52:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Asian stock markets rise after earlier tech rout",
+            "description": "Indices in Japan, South Korea, Australia and Hong Kong rise as New Zealand stocks dip on election uncertainty.",
+            "url": "https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss",
+            "published": "Fri, 27 Nov 2026 03:42:16 +0000",
+            "fetched": "2026-11-27T07:52:57+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Spain and Morocco under-17 stars target World Cup 2030",
+            "description": "Spain and Morocco are two of the co-hosts of the next 2030 World Cup, and they faced off at the under-17 World Cup.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/spain-and-morocco-under-17-stars-target-world-cup-2030?traffic_source=rss",
+            "published": "Fri, 27 Nov 2026 02:58:48 +0000",
+            "fetched": "2026-11-27T07:52:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-27T07:52:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-27T07:52:57+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-27T07:52:57+03:30"
+        }
+    ]
+}
