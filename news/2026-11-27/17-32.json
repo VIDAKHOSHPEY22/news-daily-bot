@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-27T17:32:46+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Counseling for mental health decreases likelihood of protesting by 34%–39%",
+            "description": "<p>Article URL: <a href=\"https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219\">https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50666436\">https://news.ycombinator.com/item?id=50666436</a></p>\n<p>Points: 48</p>\n<p># Comments: 42</p>",
+            "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/ssqu.70219",
+            "published": "Fri, 27 Nov 2026 13:01:02 +0000",
+            "fetched": "2026-11-27T17:32:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "US Air Force's cloud computing platform hacked",
+            "description": "<p>Article URL: <a href=\"https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163\">https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50666375\">https://news.ycombinator.com/item?id=50666375</a></p>\n<p>Points: 18</p>\n<p># Comments: 2</p>",
+            "url": "https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163",
+            "published": "Fri, 27 Nov 2026 12:54:11 +0000",
+            "fetched": "2026-11-27T17:32:46+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "New York and California Age Gating Rules Go into Effect in the New Year",
+            "description": "<p>Article URL: <a href=\"https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year\">https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50666279\">https://news.ycombinator.com/item?id=50666279</a></p>\n<p>Points: 22</p>\n<p># Comments: 7</p>",
+            "url": "https://www.eff.org/deeplinks/2026/11/new-york-and-california-age-gating-rules-go-effect-new-year",
+            "published": "Fri, 27 Nov 2026 12:43:40 +0000",
+            "fetched": "2026-11-27T17:32:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+            "description": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+            "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 27 Nov 2026 09:07:48 GMT",
+            "fetched": "2026-11-27T17:32:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'A lonely road': Catherine joins cancer support group in new documentary",
+            "description": "The documentary features her personal thoughts on her illness and recovery, following her cancer diagnosis.",
+            "url": "https://www.bbc.co.uk/news/videos/c6879eqe01e0o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 27 Nov 2026 12:11:22 GMT",
+            "fetched": "2026-11-27T17:32:46+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I wouldn't be here today without you': Student's praise for man who stopped Huntingdon train attacker",
+            "description": "Astrid credits Stephen Crean with saving her life during the Huntingdon train attack last year.",
+            "url": "https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 27 Nov 2026 07:53:24 GMT",
+            "fetched": "2026-11-27T17:32:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why did Georgian police clash with Turkish football fans over Palestine?",
+            "description": "Georgia&#039;s Interior Ministry says 16 people were detained and three employees injured during clashes.",
+            "url": "https://www.aljazeera.com/sports/2026/11/27/why-did-georgian-police-clash-with-turkish-football-fans-over-palestine?traffic_source=rss",
+            "published": "Fri, 27 Nov 2026 13:32:55 +0000",
+            "fetched": "2026-11-27T17:32:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Eisenkot navigates tricky waters as he tests power-sharing with Netanyahu",
+            "description": "Some of his allies are calling for such an arrangement, but it would represent a betrayal of his pre-election promise.",
+            "url": "https://www.aljazeera.com/news/2026/11/27/eisenkot-navigates-tricky-waters-as-he-tests-power-sharing-with-netanyahu?traffic_source=rss",
+            "published": "Fri, 27 Nov 2026 13:28:55 +0000",
+            "fetched": "2026-11-27T17:32:46+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Famine expect to rise due to global conflict, El Nino, warns UN",
+            "description": "El Nino is a major driver behind three of the four newly identified hotspots, mainly in different parts of Africa.",
+            "url": "https://www.aljazeera.com/news/2026/11/27/famine-expect-to-rise-due-to-global-conflict-el-nino-warns-un?traffic_source=rss",
+            "published": "Fri, 27 Nov 2026 13:16:28 +0000",
+            "fetched": "2026-11-27T17:32:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-27T17:32:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-27T17:32:46+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-27T17:32:46+03:30"
+        }
+    ]
+}
