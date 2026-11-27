@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-28T02:17:13+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "BBC",
+        "Al Jazeera",
+        "Hacker News"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Source Control from Hell",
+            "description": "<p>Article URL: <a href=\"https://frantic.im/git/\">https://frantic.im/git/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50672142\">https://news.ycombinator.com/item?id=50672142</a></p>\n<p>Points: 12</p>\n<p># Comments: 3</p>",
+            "url": "https://frantic.im/git/",
+            "published": "Fri, 27 Nov 2026 22:06:44 +0000",
+            "fetched": "2026-11-28T02:17:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "9/UX: a Macintosh-inspired desktop for 9front",
+            "description": "<p>Article URL: <a href=\"https://progrium.github.io/9ux/\">https://progrium.github.io/9ux/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50672008\">https://news.ycombinator.com/item?id=50672008</a></p>\n<p>Points: 21</p>\n<p># Comments: 1</p>",
+            "url": "https://progrium.github.io/9ux/",
+            "published": "Fri, 27 Nov 2026 21:48:14 +0000",
+            "fetched": "2026-11-28T02:17:13+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "SessionGraph: Visualize all your coding agent sessions in one interactive graph",
+            "description": "<p>Article URL: <a href=\"https://sessiongraph.ai/\">https://sessiongraph.ai/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50671651\">https://news.ycombinator.com/item?id=50671651</a></p>\n<p>Points: 7</p>\n<p># Comments: 4</p>",
+            "url": "https://sessiongraph.ai/",
+            "published": "Fri, 27 Nov 2026 21:07:34 +0000",
+            "fetched": "2026-11-28T02:17:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
+            "description": "The Department for Work and Pensions says some of its services were taken offline as a precaution.",
+            "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 27 Nov 2026 20:42:44 GMT",
+            "fetched": "2026-11-28T02:17:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What has happened to DWP online services?",
+            "description": "The work and pensions secretary has said an investigation is looking into a \"serious cyber incident\" affecting his government department.",
+            "url": "https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 27 Nov 2026 17:17:11 GMT",
+            "fetched": "2026-11-28T02:17:13+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Catherine's emotional cancer documentary strips away the stiff upper lip",
+            "description": "The Princess of Wales has made a documentary, Heal, describing her cancer experience in her own words.",
+            "url": "https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 27 Nov 2026 22:03:22 GMT",
+            "fetched": "2026-11-28T02:17:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Activists of rhythm’: Fighting Spain’s far-right through art",
+            "description": "Madrid’s La Parceria and Espacio Afro cultural centres are using the arts to fight racism and boost migrant voices.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss",
+            "published": "Fri, 27 Nov 2026 21:59:11 +0000",
+            "fetched": "2026-11-28T02:17:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Why are families going hungry in northern Yemen even where food is on sale?",
+            "description": "Flour and oil still reach markets in Hodeidah and Sanaa. But high costs and lack of work and aid put it out of reach.",
+            "url": "https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss",
+            "published": "Fri, 27 Nov 2026 21:11:27 +0000",
+            "fetched": "2026-11-28T02:17:13+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Venezuela to repeal law that bans opposition figures from office",
+            "description": "It comes a month after opposition leader Maria Corina Machado returned to Venezuela.",
+            "url": "https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss",
+            "published": "Fri, 27 Nov 2026 20:44:03 +0000",
+            "fetched": "2026-11-28T02:17:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-28T02:17:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-28T02:17:13+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-28T02:17:13+03:30"
+        }
+    ]
+}

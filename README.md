@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-27 22:19:07
+**Last Update:** 2026-11-28 02:17:13
 
 **Total News:** 12
 
-**Sources:** NASA, Hacker News, BBC, Al Jazeera
+**Sources:** NASA, BBC, Al Jazeera, Hacker News
 
 ---
 
 ## 📰 Latest News
 
-### 1. The NFL Player Who Left Football for Math
+### 1. Source Control from Hell
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html">https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50669963">https://news.ycombinator.com/item?id=50669963</a></p>
-<p>Points: 7</p>
+<p>Article URL: <a href="https://frantic.im/git/">https://frantic.im/git/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50672142">https://news.ycombinator.com/item?id=50672142</a></p>
+<p>Points: 12</p>
 <p># Comments: 3</p>
 
-🔗 **Read more:** [https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html](https://www.nytimes.com/2026/11/26/science/john-urschel-ai-nfl-math.html)
+🔗 **Read more:** [https://frantic.im/git/](https://frantic.im/git/)
 
 ---
 
-### 2. I'm Scared of AI
+### 2. 9/UX: a Macintosh-inspired desktop for 9front
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://thesoapbox.email/archive/3">https://thesoapbox.email/archive/3</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50669561">https://news.ycombinator.com/item?id=50669561</a></p>
-<p>Points: 97</p>
-<p># Comments: 96</p>
+<p>Article URL: <a href="https://progrium.github.io/9ux/">https://progrium.github.io/9ux/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50672008">https://news.ycombinator.com/item?id=50672008</a></p>
+<p>Points: 21</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://thesoapbox.email/archive/3](https://thesoapbox.email/archive/3)
+🔗 **Read more:** [https://progrium.github.io/9ux/](https://progrium.github.io/9ux/)
 
 ---
 
-### 3. Palliative Care for the Chronically Online
+### 3. SessionGraph: Visualize all your coding agent sessions in one interactive graph
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://idiotecon.substack.com/p/palliative-care-for-the-chronically">https://idiotecon.substack.com/p/palliative-care-for-the-chronically</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50669026">https://news.ycombinator.com/item?id=50669026</a></p>
-<p>Points: 24</p>
-<p># Comments: 8</p>
+<p>Article URL: <a href="https://sessiongraph.ai/">https://sessiongraph.ai/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50671651">https://news.ycombinator.com/item?id=50671651</a></p>
+<p>Points: 7</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://idiotecon.substack.com/p/palliative-care-for-the-chronically](https://idiotecon.substack.com/p/palliative-care-for-the-chronically)
+🔗 **Read more:** [https://sessiongraph.ai/](https://sessiongraph.ai/)
 
 ---
 
@@ -65,7 +65,7 @@
 **Category:** world
 
 **Description:**
-The Department for Work and Pensions says some of its services have been take offline as a precaution.
+The Department for Work and Pensions says some of its services were taken offline as a precaution.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss)
 
@@ -84,55 +84,55 @@ The work and pensions secretary has said an investigation is looking into a "ser
 
 ---
 
-### 6. Zelensky criticises 'strange' Trump-Putin friendship in BBC interview
+### 6. Catherine's emotional cancer documentary strips away the stiff upper lip
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.
+The Princess of Wales has made a documentary, Heal, describing her cancer experience in her own words.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Mexico files complaint with US over DEA tip line on alleged drug dealers
+### 7. ‘Activists of rhythm’: Fighting Spain’s far-right through art
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Tensions rise over DEA tip line, with Mexico emphasising respect for its sovereignty amidst growing bilateral discord.
+Madrid’s La Parceria and Espacio Afro cultural centres are using the arts to fight racism and boost migrant voices.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/mexico-files-complaint-with-us-over-tip-line-on-alleged-drug-traffickers?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss)
 
 ---
 
-### 8. Spanish rescuers treat migrants as hundreds arrive in Canary Islands
+### 8. Why are families going hungry in northern Yemen even where food is on sale?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Spain&#039;s Military Emergencies Unit has been sent to treat migrants brought ashore on the island of El Hierro
+Flour and oil still reach markets in Hodeidah and Sanaa. But high costs and lack of work and aid put it out of reach.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/27/spanish-rescuers-treat-migrants-as-hundreds-arrive-in-canary-islands?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss)
 
 ---
 
-### 9. Kyiv offers Black Sea ceasefire, as Putin expands Russia’s navy
+### 9. Venezuela to repeal law that bans opposition figures from office
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Ukraine awaits Moscow’s response to Black Sea ceasefire proposal as Zelenskyy criticises Trump’s Putin ‘friendship’
+It comes a month after opposition leader Maria Corina Machado returned to Venezuela.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss)
 
 ---
 
