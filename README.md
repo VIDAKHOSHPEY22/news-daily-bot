@@ -1,77 +1,29 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-27 07:52:57
+**Last Update:** 2026-11-27 11:31:12
 
-**Total News:** 12
+**Total News:** 9
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** NASA, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Google will show solo Android developers' phone numbers and addresses
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://support.google.com/googleplay/android-developer/answer/17594752?hl=en">https://support.google.com/googleplay/android-developer/answer/17594752?hl=en</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50662322">https://news.ycombinator.com/item?id=50662322</a></p>
-<p>Points: 43</p>
-<p># Comments: 13</p>
-
-🔗 **Read more:** [https://support.google.com/googleplay/android-developer/answer/17594752?hl=en](https://support.google.com/googleplay/android-developer/answer/17594752?hl=en)
-
----
-
-### 2. Show HN: Sqrin – A better screen share for Mac
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://sqrin.app">https://sqrin.app</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50662217">https://news.ycombinator.com/item?id=50662217</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
-
-🔗 **Read more:** [https://sqrin.app](https://sqrin.app)
-
----
-
-### 3. New AI research suggests AI bubble bursting and to expect major market collapse
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://www.london.edu/think/ai-bubble-about-to-burst">https://www.london.edu/think/ai-bubble-about-to-burst</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50662153">https://news.ycombinator.com/item?id=50662153</a></p>
-<p>Points: 8</p>
-<p># Comments: 1</p>
-
-🔗 **Read more:** [https://www.london.edu/think/ai-bubble-about-to-burst](https://www.london.edu/think/ai-bubble-about-to-burst)
-
----
-
-### 4. US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC
+### 1. Zelensky criticises 'strange' Trump-Putin friendship in BBC interview
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Ukraine's president voices frustration with US and says it is "strange" Trump has described Vladimir Putin as a friend.
+Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.
 
 🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 5. Zelensky questions 'strange' Trump-Putin friendship in BBC interview
+### 2. Watch: Zelensky on Trump and Putin
 
 **Source:** BBC
 
@@ -84,59 +36,59 @@ The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be
 
 ---
 
-### 6. UK to pay 'participation' fee to deliver EU deals
+### 3. 'I wouldn't be here today without you': Student's praise for man who stopped train attacker
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Details of the contribution towards EU running costs have been revealed in new legal documents.
+Astrid credits Stephen Crean with saving her life during the Huntingdon train attack last year.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Trump downplays Russia, China support for Iran during talks with US troops
+### 4. Brazilian footballer arrested in drug trafficking investigation
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Trump praises US troops for their role in the war on Iran and says he has spoken to Netanyahu in recent days.
+Brazilian footballer David Correa da Fonseca was arrested during a Vasco da Gama training session in Rio de Janeiro.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/trump-downplays-russia-china-support-for-iran-during-talks-with-us-troops?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/27/27-11-sv-brazil-footballer-arrested-drug-trafficking-investigation?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/27/27-11-sv-brazil-footballer-arrested-drug-trafficking-investigation?traffic_source=rss)
 
 ---
 
-### 8. Asian stock markets rise after earlier tech rout
+### 5. Sandpapergate forum to investigate Australia-England Ashes Tests
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Indices in Japan, South Korea, Australia and Hong Kong rise as New Zealand stocks dip on election uncertainty.
+Sandpapergate forum scope to cover entire 2017-18 season, including Ashes series, in South Africa allegations follow-up.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/27/asian-stock-markets-rise-after-earlier-tech-rout?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/sports/2026/11/27/sandpapergate-forum-to-investigate-australia-england-ashes-tests?traffic_source=rss](https://www.aljazeera.com/sports/2026/11/27/sandpapergate-forum-to-investigate-australia-england-ashes-tests?traffic_source=rss)
 
 ---
 
-### 9. Spain and Morocco under-17 stars target World Cup 2030
+### 6. Can the Mecca pact turn its collective defence promise into real support?
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Spain and Morocco are two of the co-hosts of the next 2030 World Cup, and they faced off at the under-17 World Cup.
+Pakistan, Saudi Arabia and Turkiye meet in Islamabad as Houthi attacks on the kingdom continue and Iran talks stay open.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/27/spain-and-morocco-under-17-stars-target-world-cup-2030?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/27/spain-and-morocco-under-17-stars-target-world-cup-2030?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news-analysis/2026/11/27/can-the-mecca-pact-turn-its-collective-defence-promise-into-real-support?traffic_source=rss](https://www.aljazeera.com/news-analysis/2026/11/27/can-the-mecca-pact-turn-its-collective-defence-promise-into-real-support?traffic_source=rss)
 
 ---
 
-### 10. Wildfire Little Ridge, Highland, Virginia
+### 7. Wildfire Little Ridge, Highland, Virginia
 
 **Source:** NASA
 
@@ -149,7 +101,7 @@ Natural event: Wildfires
 
 ---
 
-### 11. Wildfire White Oak Flat, Alleghany, Virginia
+### 8. Wildfire White Oak Flat, Alleghany, Virginia
 
 **Source:** NASA
 
@@ -162,7 +114,7 @@ Natural event: Wildfires
 
 ---
 
-### 12. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
+### 9. Wildfire Greene - Caney Creek Lane, Greene, Tennessee
 
 **Source:** NASA
 

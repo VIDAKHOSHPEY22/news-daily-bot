@@ -1,0 +1,93 @@
+{
+    "update_time": "2026-11-27T11:31:12+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 9,
+    "sources_used": [
+        "NASA",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+            "description": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war.",
+            "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 22:49:27 GMT",
+            "fetched": "2026-11-27T11:31:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: Zelensky on Trump and Putin",
+            "description": "The Ukrainian president tells the BBC that Russia's Vladimir Putin should not be treated as a friend.",
+            "url": "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o?at_medium=RSS&at_campaign=rss",
+            "published": "Thu, 26 Nov 2026 22:06:20 GMT",
+            "fetched": "2026-11-27T11:31:12+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'I wouldn't be here today without you': Student's praise for man who stopped train attacker",
+            "description": "Astrid credits Stephen Crean with saving her life during the Huntingdon train attack last year.",
+            "url": "https://www.bbc.co.uk/news/articles/ck792lq4xrero?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 27 Nov 2026 07:53:24 GMT",
+            "fetched": "2026-11-27T11:31:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Brazilian footballer arrested in drug trafficking investigation",
+            "description": "Brazilian footballer David Correa da Fonseca was arrested during a Vasco da Gama training session in Rio de Janeiro.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/27/27-11-sv-brazil-footballer-arrested-drug-trafficking-investigation?traffic_source=rss",
+            "published": "Fri, 27 Nov 2026 07:32:12 +0000",
+            "fetched": "2026-11-27T11:31:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Sandpapergate forum to investigate Australia-England Ashes Tests",
+            "description": "Sandpapergate forum scope to cover entire 2017-18 season, including Ashes series, in South Africa allegations follow-up.",
+            "url": "https://www.aljazeera.com/sports/2026/11/27/sandpapergate-forum-to-investigate-australia-england-ashes-tests?traffic_source=rss",
+            "published": "Fri, 27 Nov 2026 07:24:45 +0000",
+            "fetched": "2026-11-27T11:31:12+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Can the Mecca pact turn its collective defence promise into real support?",
+            "description": "Pakistan, Saudi Arabia and Turkiye meet in Islamabad as Houthi attacks on the kingdom continue and Iran talks stay open.",
+            "url": "https://www.aljazeera.com/news-analysis/2026/11/27/can-the-mecca-pact-turn-its-collective-defence-promise-into-real-support?traffic_source=rss",
+            "published": "Fri, 27 Nov 2026 07:16:30 +0000",
+            "fetched": "2026-11-27T11:31:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-27T11:31:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-27T11:31:12+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-27T11:31:12+03:30"
+        }
+    ]
+}
