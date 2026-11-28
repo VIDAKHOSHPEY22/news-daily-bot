@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-28 05:21:23
+**Last Update:** 2026-11-28 08:17:40
 
 **Total News:** 12
 
-**Sources:** Al Jazeera, NASA, Hacker News, BBC
+**Sources:** Hacker News, Al Jazeera, BBC, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Alaska seized his plane over some beers. He is asking the Supreme Court for help
+### 1. Claude silently added rules to ignore users skintone preferences in our app
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/">https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50673444">https://news.ycombinator.com/item?id=50673444</a></p>
-<p>Points: 7</p>
+<p>Article URL: <a href="https://twitter.com/jakozloski/status/2126281598517576049">https://twitter.com/jakozloski/status/2126281598517576049</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50674489">https://news.ycombinator.com/item?id=50674489</a></p>
+<p>Points: 6</p>
 <p># Comments: 0</p>
 
-🔗 **Read more:** [https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/](https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/)
+🔗 **Read more:** [https://twitter.com/jakozloski/status/2126281598517576049](https://twitter.com/jakozloski/status/2126281598517576049)
 
 ---
 
-### 2. Passkey blues
+### 2. Unkernel: Real Linux kernel, compiled to WebAssembly
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://ssg.dev/passkey-blues/">https://ssg.dev/passkey-blues/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50672835">https://news.ycombinator.com/item?id=50672835</a></p>
-<p>Points: 16</p>
-<p># Comments: 2</p>
+<p>Article URL: <a href="https://unkernel.dev">https://unkernel.dev</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50674218">https://news.ycombinator.com/item?id=50674218</a></p>
+<p>Points: 31</p>
+<p># Comments: 4</p>
 
-🔗 **Read more:** [https://ssg.dev/passkey-blues/](https://ssg.dev/passkey-blues/)
+🔗 **Read more:** [https://unkernel.dev](https://unkernel.dev)
 
 ---
 
-### 3. Painting 1990s anime scenes in Python
+### 3. Atari Homebrew Awards Cancelled
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.fofr.ai/greenhouse-after-the-typhoon">https://www.fofr.ai/greenhouse-after-the-typhoon</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50672829">https://news.ycombinator.com/item?id=50672829</a></p>
-<p>Points: 11</p>
-<p># Comments: 1</p>
+<p>Article URL: <a href="https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/">https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50673688">https://news.ycombinator.com/item?id=50673688</a></p>
+<p>Points: 129</p>
+<p># Comments: 113</p>
 
-🔗 **Read more:** [https://www.fofr.ai/greenhouse-after-the-typhoon](https://www.fofr.ai/greenhouse-after-the-typhoon)
+🔗 **Read more:** [https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/](https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/)
 
 ---
 
@@ -71,20 +71,7 @@ The Department for Work and Pensions says some of its services were taken offlin
 
 ---
 
-### 5. Watch: What has happened to DWP online services?
-
-**Source:** BBC
-
-**Category:** world
-
-**Description:**
-The work and pensions secretary has said an investigation is looking into a "serious cyber incident" affecting his government department.
-
-🔗 **Read more:** [https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&at_campaign=rss)
-
----
-
-### 6. Catherine's emotional cancer documentary strips away the stiff upper lip
+### 5. Catherine's emotional cancer documentary strips away the stiff upper lip
 
 **Source:** BBC
 
@@ -97,42 +84,55 @@ The Princess of Wales has made a documentary, Heal, describing her cancer experi
 
 ---
 
-### 7. Thousands of Puerto Ricans join ‘Day of National Outrage’ protest
+### 6. 'Calculating predator' who blackmailed girls into self-harm jailed for 14 and a half years
 
-**Source:** Al Jazeera
+**Source:** BBC
 
 **Category:** world
 
 **Description:**
-Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.
+Beau-Jack Mensforth is jailed for preying on nine girls, the youngest aged 12, across the world.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss](https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3pw4ypkldpzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3pw4ypkldpzo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 8. Francesca Albanese seeks apology from Costa Rica after entry ban
+### 7. ‘Last local militant’: India declares victory but Kashmir’s rebels adapt
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-UN Special Rapporteur Francesca Albanese accuses Costa Rican authorities of defamation after being denied entry.
+Analysts say that shifting tactics, names and geography challenge claims of win against Kashmir&#039;s separatist movement.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/28/francesca-albanese-seeks-apology-from-costa-rica-after-entry-ban?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/28/francesca-albanese-seeks-apology-from-costa-rica-after-entry-ban?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/28/last-local-militant-india-declares-victory-but-kashmirs-rebels-adapt?traffic_source=rss](https://www.aljazeera.com/news/2026/11/28/last-local-militant-india-declares-victory-but-kashmirs-rebels-adapt?traffic_source=rss)
 
 ---
 
-### 9. Iran war live: Italy says drone in deadly Kuwait attack was made in Iran
+### 8. The split-second teamwork behind an F1 pit stop
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Italian Foreign Minister Antonio Tajani says the drone behind the deadly Kuwait strike was made in Iran.
+Al Jazeera’s Joanna Gasiorowska stepped into the pit lane to find out just how hard it is to be in a F1 pit crew.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/28/the-split-second-teamwork-behind-an-f1-pit-stop?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/28/the-split-second-teamwork-behind-an-f1-pit-stop?traffic_source=rss)
+
+---
+
+### 9. Israeli strike on Doctors Without Borders clinic in Gaza kills two staff
+
+**Source:** Al Jazeera
+
+**Category:** world
+
+**Description:**
+MSF says Israeli attack on Gaza clinic a &#039;direct hit&#039; and calls for those responsible to be held accountable.
+
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss](https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss)
 
 ---
 

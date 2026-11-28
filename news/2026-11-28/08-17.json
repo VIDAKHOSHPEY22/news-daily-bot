@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-28T08:17:40+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "BBC",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Claude silently added rules to ignore users skintone preferences in our app",
+            "description": "<p>Article URL: <a href=\"https://twitter.com/jakozloski/status/2126281598517576049\">https://twitter.com/jakozloski/status/2126281598517576049</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50674489\">https://news.ycombinator.com/item?id=50674489</a></p>\n<p>Points: 6</p>\n<p># Comments: 0</p>",
+            "url": "https://twitter.com/jakozloski/status/2126281598517576049",
+            "published": "Sat, 28 Nov 2026 03:55:15 +0000",
+            "fetched": "2026-11-28T08:17:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+            "description": "<p>Article URL: <a href=\"https://unkernel.dev\">https://unkernel.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50674218\">https://news.ycombinator.com/item?id=50674218</a></p>\n<p>Points: 31</p>\n<p># Comments: 4</p>",
+            "url": "https://unkernel.dev",
+            "published": "Sat, 28 Nov 2026 03:19:20 +0000",
+            "fetched": "2026-11-28T08:17:40+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Atari Homebrew Awards Cancelled",
+            "description": "<p>Article URL: <a href=\"https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/\">https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50673688\">https://news.ycombinator.com/item?id=50673688</a></p>\n<p>Points: 129</p>\n<p># Comments: 113</p>",
+            "url": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+            "published": "Sat, 28 Nov 2026 02:03:25 +0000",
+            "fetched": "2026-11-28T08:17:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
+            "description": "The Department for Work and Pensions says some of its services were taken offline as a precaution.",
+            "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 27 Nov 2026 20:42:44 GMT",
+            "fetched": "2026-11-28T08:17:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Catherine's emotional cancer documentary strips away the stiff upper lip",
+            "description": "The Princess of Wales has made a documentary, Heal, describing her cancer experience in her own words.",
+            "url": "https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 27 Nov 2026 22:03:22 GMT",
+            "fetched": "2026-11-28T08:17:40+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "'Calculating predator' who blackmailed girls into self-harm jailed for 14 and a half years",
+            "description": "Beau-Jack Mensforth is jailed for preying on nine girls, the youngest aged 12, across the world.",
+            "url": "https://www.bbc.co.uk/news/articles/c3pw4ypkldpzo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 27 Nov 2026 17:47:14 GMT",
+            "fetched": "2026-11-28T08:17:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "‘Last local militant’: India declares victory but Kashmir’s rebels adapt",
+            "description": "Analysts say that shifting tactics, names and geography challenge claims of win against Kashmir&#039;s separatist movement.",
+            "url": "https://www.aljazeera.com/news/2026/11/28/last-local-militant-india-declares-victory-but-kashmirs-rebels-adapt?traffic_source=rss",
+            "published": "Sat, 28 Nov 2026 04:30:16 +0000",
+            "fetched": "2026-11-28T08:17:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "The split-second teamwork behind an F1 pit stop",
+            "description": "Al Jazeera’s Joanna Gasiorowska stepped into the pit lane to find out just how hard it is to be in a F1 pit crew.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/the-split-second-teamwork-behind-an-f1-pit-stop?traffic_source=rss",
+            "published": "Sat, 28 Nov 2026 04:01:24 +0000",
+            "fetched": "2026-11-28T08:17:40+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Israeli strike on Doctors Without Borders clinic in Gaza kills two staff",
+            "description": "MSF says Israeli attack on Gaza clinic a &#039;direct hit&#039; and calls for those responsible to be held accountable.",
+            "url": "https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss",
+            "published": "Sat, 28 Nov 2026 03:45:58 +0000",
+            "fetched": "2026-11-28T08:17:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-28T08:17:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-28T08:17:40+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-28T08:17:40+03:30"
+        }
+    ]
+}
