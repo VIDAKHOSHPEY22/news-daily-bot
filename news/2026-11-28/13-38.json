@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-28T13:38:19+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "BBC",
+        "Hacker News",
+        "Al Jazeera",
+        "NASA"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "FastLanes: Next-gen File Format [pdf]",
+            "description": "<p>Article URL: <a href=\"https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf\">https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50675195\">https://news.ycombinator.com/item?id=50675195</a></p>\n<p>Points: 9</p>\n<p># Comments: 1</p>",
+            "url": "https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf",
+            "published": "Sat, 28 Nov 2026 06:14:21 +0000",
+            "fetched": "2026-11-28T13:38:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Knuth: Moratorium on Error Reports",
+            "description": "<p>Article URL: <a href=\"https://www-cs-faculty.stanford.edu/~knuth/moratorium.html\">https://www-cs-faculty.stanford.edu/~knuth/moratorium.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50674452\">https://news.ycombinator.com/item?id=50674452</a></p>\n<p>Points: 85</p>\n<p># Comments: 49</p>",
+            "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
+            "published": "Sat, 28 Nov 2026 03:49:21 +0000",
+            "fetched": "2026-11-28T13:38:19+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+            "description": "<p>Article URL: <a href=\"https://unkernel.dev\">https://unkernel.dev</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50674218\">https://news.ycombinator.com/item?id=50674218</a></p>\n<p>Points: 299</p>\n<p># Comments: 72</p>",
+            "url": "https://unkernel.dev",
+            "published": "Sat, 28 Nov 2026 03:19:20 +0000",
+            "fetched": "2026-11-28T13:38:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Pensions and benefits services still down after 'cyber incident'",
+            "description": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
+            "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 28 Nov 2026 09:10:32 GMT",
+            "fetched": "2026-11-28T13:38:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Catherine's emotional cancer documentary strips away the stiff upper lip",
+            "description": "The Princess of Wales has made a documentary, Heal, describing her cancer experience in her own words.",
+            "url": "https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 27 Nov 2026 22:03:22 GMT",
+            "fetched": "2026-11-28T13:38:19+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+            "description": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+            "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 28 Nov 2026 06:52:05 GMT",
+            "fetched": "2026-11-28T13:38:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Gaza’s chess players survive a genocide and rebuild a community",
+            "description": "Gaza&#039;s chess players are returning to the sport after three years of genocide.",
+            "url": "https://www.aljazeera.com/features/2026/11/28/gazas-chess-players-survive-a-genocide-and-rebuild-a-community?traffic_source=rss",
+            "published": "Sat, 28 Nov 2026 09:41:45 +0000",
+            "fetched": "2026-11-28T13:38:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Yemen government forces hit Houthi positions as UN warns of hunger crisis",
+            "description": "About 1.8 million people face emergency levels of hunger in government-held areas, according to the UN.",
+            "url": "https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss",
+            "published": "Sat, 28 Nov 2026 09:35:15 +0000",
+            "fetched": "2026-11-28T13:38:19+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Spain faces political shift as far right gains ground",
+            "description": "Spain faces political shift as far right gains ground",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss",
+            "published": "Sat, 28 Nov 2026 08:54:02 +0000",
+            "fetched": "2026-11-28T13:38:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-28T13:38:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-28T13:38:19+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-28T13:38:19+03:30"
+        }
+    ]
+}

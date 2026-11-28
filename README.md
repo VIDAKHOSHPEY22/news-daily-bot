@@ -1,32 +1,48 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-28 08:17:40
+**Last Update:** 2026-11-28 13:38:19
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, BBC, NASA
+**Sources:** BBC, Hacker News, Al Jazeera, NASA
 
 ---
 
 ## 📰 Latest News
 
-### 1. Claude silently added rules to ignore users skintone preferences in our app
+### 1. FastLanes: Next-gen File Format [pdf]
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://twitter.com/jakozloski/status/2126281598517576049">https://twitter.com/jakozloski/status/2126281598517576049</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50674489">https://news.ycombinator.com/item?id=50674489</a></p>
-<p>Points: 6</p>
-<p># Comments: 0</p>
+<p>Article URL: <a href="https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf">https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50675195">https://news.ycombinator.com/item?id=50675195</a></p>
+<p>Points: 9</p>
+<p># Comments: 1</p>
 
-🔗 **Read more:** [https://twitter.com/jakozloski/status/2126281598517576049](https://twitter.com/jakozloski/status/2126281598517576049)
+🔗 **Read more:** [https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf](https://research.vu.nl/files/447013431/afroozehphdthesis%20-%2069280d90f0bfd.pdf)
 
 ---
 
-### 2. Unkernel: Real Linux kernel, compiled to WebAssembly
+### 2. Knuth: Moratorium on Error Reports
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www-cs-faculty.stanford.edu/~knuth/moratorium.html">https://www-cs-faculty.stanford.edu/~knuth/moratorium.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50674452">https://news.ycombinator.com/item?id=50674452</a></p>
+<p>Points: 85</p>
+<p># Comments: 49</p>
+
+🔗 **Read more:** [https://www-cs-faculty.stanford.edu/~knuth/moratorium.html](https://www-cs-faculty.stanford.edu/~knuth/moratorium.html)
+
+---
+
+### 3. Unkernel: Real Linux kernel, compiled to WebAssembly
 
 **Source:** Hacker News
 
@@ -35,39 +51,23 @@
 **Description:**
 <p>Article URL: <a href="https://unkernel.dev">https://unkernel.dev</a></p>
 <p>Comments URL: <a href="https://news.ycombinator.com/item?id=50674218">https://news.ycombinator.com/item?id=50674218</a></p>
-<p>Points: 31</p>
-<p># Comments: 4</p>
+<p>Points: 299</p>
+<p># Comments: 72</p>
 
 🔗 **Read more:** [https://unkernel.dev](https://unkernel.dev)
 
 ---
 
-### 3. Atari Homebrew Awards Cancelled
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/">https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50673688">https://news.ycombinator.com/item?id=50673688</a></p>
-<p>Points: 129</p>
-<p># Comments: 113</p>
-
-🔗 **Read more:** [https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/](https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/)
-
----
-
-### 4. Millions lose access to benefits and pensions services after 'cyber incident'
+### 4. Pensions and benefits services still down after 'cyber incident'
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Department for Work and Pensions says some of its services were taken offline as a precaution.
+The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss)
 
 ---
 
@@ -84,55 +84,55 @@ The Princess of Wales has made a documentary, Heal, describing her cancer experi
 
 ---
 
-### 6. 'Calculating predator' who blackmailed girls into self-harm jailed for 14 and a half years
+### 6. Two staff killed in Israeli strike on Gaza medical clinic, MSF says
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-Beau-Jack Mensforth is jailed for preying on nine girls, the youngest aged 12, across the world.
+The Israeli military says it targeted "Hamas terrorists" in the strike which has been condemned by the World Health Organization.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c3pw4ypkldpzo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c3pw4ypkldpzo?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. ‘Last local militant’: India declares victory but Kashmir’s rebels adapt
+### 7. Gaza’s chess players survive a genocide and rebuild a community
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Analysts say that shifting tactics, names and geography challenge claims of win against Kashmir&#039;s separatist movement.
+Gaza&#039;s chess players are returning to the sport after three years of genocide.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/28/last-local-militant-india-declares-victory-but-kashmirs-rebels-adapt?traffic_source=rss](https://www.aljazeera.com/news/2026/11/28/last-local-militant-india-declares-victory-but-kashmirs-rebels-adapt?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/features/2026/11/28/gazas-chess-players-survive-a-genocide-and-rebuild-a-community?traffic_source=rss](https://www.aljazeera.com/features/2026/11/28/gazas-chess-players-survive-a-genocide-and-rebuild-a-community?traffic_source=rss)
 
 ---
 
-### 8. The split-second teamwork behind an F1 pit stop
+### 8. Yemen government forces hit Houthi positions as UN warns of hunger crisis
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Al Jazeera’s Joanna Gasiorowska stepped into the pit lane to find out just how hard it is to be in a F1 pit crew.
+About 1.8 million people face emergency levels of hunger in government-held areas, according to the UN.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/28/the-split-second-teamwork-behind-an-f1-pit-stop?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/28/the-split-second-teamwork-behind-an-f1-pit-stop?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss](https://www.aljazeera.com/news/2026/11/28/yemen-governmen-forces-hit-houthi-positions-as-un-warns-of-hunger-crisis?traffic_source=rss)
 
 ---
 
-### 9. Israeli strike on Doctors Without Borders clinic in Gaza kills two staff
+### 9. Spain faces political shift as far right gains ground
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-MSF says Israeli attack on Gaza clinic a &#039;direct hit&#039; and calls for those responsible to be held accountable.
+Spain faces political shift as far right gains ground
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss](https://www.aljazeera.com/news/2026/11/28/israeli-strike-on-doctors-without-borders-clinic-in-gaza-kills-two-staff?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/28/spain-faces-political-shift-as-far-right-gains-ground?traffic_source=rss)
 
 ---
 
