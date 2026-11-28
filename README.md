@@ -1,61 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-28 17:52:16
+**Last Update:** 2026-11-28 22:17:44
 
 **Total News:** 12
 
-**Sources:** Hacker News, Al Jazeera, NASA, BBC
+**Sources:** NASA, Hacker News, Al Jazeera, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. FCC approves 1M SpaceX data centers in space. Astronomers are dismayed
+### 1. Donald Knuth suspends error bounties due to an influx of AI-generated reports
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://www.washingtonpost.com/technology/2026/11/26/fcc-approves-1-million-spacex-data-centers-space-astronomers-are-dismayed/">https://www.washingtonpost.com/technology/2026/11/26/fcc-approves-1-million-spacex-data-centers-space-astronomers-are-dismayed/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50677340">https://news.ycombinator.com/item?id=50677340</a></p>
-<p>Points: 7</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://cs.stanford.edu/~knuth/moratorium.html">https://cs.stanford.edu/~knuth/moratorium.html</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50680168">https://news.ycombinator.com/item?id=50680168</a></p>
+<p>Points: 135</p>
+<p># Comments: 13</p>
 
-🔗 **Read more:** [https://www.washingtonpost.com/technology/2026/11/26/fcc-approves-1-million-spacex-data-centers-space-astronomers-are-dismayed/](https://www.washingtonpost.com/technology/2026/11/26/fcc-approves-1-million-spacex-data-centers-space-astronomers-are-dismayed/)
+🔗 **Read more:** [https://cs.stanford.edu/~knuth/moratorium.html](https://cs.stanford.edu/~knuth/moratorium.html)
 
 ---
 
-### 2. Show HN: Luciole Mono – terminal font designed for legibility
+### 2. Patrick Collison you are WRONG about street furniture!!!
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>TLDR : Atkinson Hyperlegible Mono alternative<p>Luciole Mono is a vibe-clauded derivative of Luciole.Luciole was designed for visually impaired readers by Laurent Bourcellier and Jonathan Perez, at the Centre Technique Régional pour la Déficience Visuelle (typographies.fr)<p>Please tell me what you think - thanks in advance</p>
-<hr />
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50677091">https://news.ycombinator.com/item?id=50677091</a></p>
-<p>Points: 35</p>
-<p># Comments: 20</p>
+<p>Article URL: <a href="https://www.lesswrong.com/posts/Lf49dFMfhWqj33zAJ/patrick-collison-you-are-wrong-about-street-furniture">https://www.lesswrong.com/posts/Lf49dFMfhWqj33zAJ/patrick-collison-you-are-wrong-about-street-furniture</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50680129">https://news.ycombinator.com/item?id=50680129</a></p>
+<p>Points: 30</p>
+<p># Comments: 11</p>
 
-🔗 **Read more:** [https://scriptor-pro.github.io/luciole-mono/](https://scriptor-pro.github.io/luciole-mono/)
+🔗 **Read more:** [https://www.lesswrong.com/posts/Lf49dFMfhWqj33zAJ/patrick-collison-you-are-wrong-about-street-furniture](https://www.lesswrong.com/posts/Lf49dFMfhWqj33zAJ/patrick-collison-you-are-wrong-about-street-furniture)
 
 ---
 
-### 3. GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims
+### 3. The race is not inevitable
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://malspark.com/blog/malicious-gguf-models-hugging-face/">https://malspark.com/blog/malicious-gguf-models-hugging-face/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50676752">https://news.ycombinator.com/item?id=50676752</a></p>
-<p>Points: 39</p>
-<p># Comments: 17</p>
+<p>Article URL: <a href="https://ryo.lu/journal/the-race-is-not-inevitable">https://ryo.lu/journal/the-race-is-not-inevitable</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50680085">https://news.ycombinator.com/item?id=50680085</a></p>
+<p>Points: 46</p>
+<p># Comments: 10</p>
 
-🔗 **Read more:** [https://malspark.com/blog/malicious-gguf-models-hugging-face/](https://malspark.com/blog/malicious-gguf-models-hugging-face/)
+🔗 **Read more:** [https://ryo.lu/journal/the-race-is-not-inevitable](https://ryo.lu/journal/the-race-is-not-inevitable)
 
 ---
 
@@ -72,68 +71,68 @@ A joint venture between UK-Israeli companies is set to start exploring for oil a
 
 ---
 
-### 5. Pensions and benefits services still down after 'cyber incident'
+### 5. Burnham's No 10 influencer row shows reach matters - but so does scrutiny
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.
+Prime ministers have always chased audiences - but does the backlash over Max Balegde’s video show Burnham’s strategy has gone too far?
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/c6074pyreg2eo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/c6074pyreg2eo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 6. Two staff killed in Israeli strike on Gaza medical clinic, MSF says
+### 6. Dozens killed in Myanmar military strikes on wedding venue and school
 
 **Source:** BBC
 
 **Category:** world
 
 **Description:**
-The Israeli military says it targeted "Hamas terrorists" in the strike which has been condemned by the World Health Organization.
+Air strikes by Myanmar's military government have killed dozens of civilians across the South East Asian nation in recent days.
 
-🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss)
+🔗 **Read more:** [https://www.bbc.co.uk/news/articles/cm752q30q5leo?at_medium=RSS&at_campaign=rss](https://www.bbc.co.uk/news/articles/cm752q30q5leo?at_medium=RSS&at_campaign=rss)
 
 ---
 
-### 7. Iran points to Europe’s war role after Italians killed in Kuwait strike
+### 7. US civil rights group challenges ICE subpoenas as attack on speech
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Italy and Kuwait say an Iranian drone was involved, but Tehran says the US and Israel may be looking to escalate war.
+The ACLU lawsuit claims subpoenas violate First Amendment rights by targeting anonymous dissenters of ICE policies.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/28/iran-points-to-europes-war-role-after-italians-killed-in-kuwait-strike?traffic_source=rss](https://www.aljazeera.com/news/2026/11/28/iran-points-to-europes-war-role-after-italians-killed-in-kuwait-strike?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/28/us-civil-rights-group-challenges-ice-subpoenas-as-attack-on-speech?traffic_source=rss](https://www.aljazeera.com/news/2026/11/28/us-civil-rights-group-challenges-ice-subpoenas-as-attack-on-speech?traffic_source=rss)
 
 ---
 
-### 8. Putin unveils new nuclear submarine
+### 8. Russia and Ukraine strike energy infrastructure, as attacks kill 10
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Russian President Vladimir Putin attended the commissioning of the nuclear-powered submarine in Russia.
+Russia-Ukraine attacks have become more regular and hybrid, as the fifth anniversary of invasion approaches.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/28/putin-unveils-new-nuclear-submarine?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/28/putin-unveils-new-nuclear-submarine?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/28/russia-and-ukraine-strike-energy-infrastructure-as-attacks-kill-10?traffic_source=rss](https://www.aljazeera.com/news/2026/11/28/russia-and-ukraine-strike-energy-infrastructure-as-attacks-kill-10?traffic_source=rss)
 
 ---
 
-### 9. Court rejects Argentina’s request to stop UK oil activity near Falklands
+### 9. Dozens reported killed in series of Myanmar air attacks
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-An international tribunal refuses Buenos Aires&#039;s application, giving the green light to the project off the disputed region.
+A wedding party, school, monastery, market and camp for displaced people were bombed.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/28/court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands?traffic_source=rss](https://www.aljazeera.com/news/2026/11/28/court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/28/dozens-reported-killed-in-series-of-myanmar-air-attacks?traffic_source=rss](https://www.aljazeera.com/news/2026/11/28/dozens-reported-killed-in-series-of-myanmar-air-attacks?traffic_source=rss)
 
 ---
 

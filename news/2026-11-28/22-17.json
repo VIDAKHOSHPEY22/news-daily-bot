@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-28T22:17:44+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "NASA",
+        "Hacker News",
+        "Al Jazeera",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Donald Knuth suspends error bounties due to an influx of AI-generated reports",
+            "description": "<p>Article URL: <a href=\"https://cs.stanford.edu/~knuth/moratorium.html\">https://cs.stanford.edu/~knuth/moratorium.html</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50680168\">https://news.ycombinator.com/item?id=50680168</a></p>\n<p>Points: 135</p>\n<p># Comments: 13</p>",
+            "url": "https://cs.stanford.edu/~knuth/moratorium.html",
+            "published": "Sat, 28 Nov 2026 17:53:02 +0000",
+            "fetched": "2026-11-28T22:17:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Patrick Collison you are WRONG about street furniture!!!",
+            "description": "<p>Article URL: <a href=\"https://www.lesswrong.com/posts/Lf49dFMfhWqj33zAJ/patrick-collison-you-are-wrong-about-street-furniture\">https://www.lesswrong.com/posts/Lf49dFMfhWqj33zAJ/patrick-collison-you-are-wrong-about-street-furniture</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50680129\">https://news.ycombinator.com/item?id=50680129</a></p>\n<p>Points: 30</p>\n<p># Comments: 11</p>",
+            "url": "https://www.lesswrong.com/posts/Lf49dFMfhWqj33zAJ/patrick-collison-you-are-wrong-about-street-furniture",
+            "published": "Sat, 28 Nov 2026 17:49:13 +0000",
+            "fetched": "2026-11-28T22:17:44+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "The race is not inevitable",
+            "description": "<p>Article URL: <a href=\"https://ryo.lu/journal/the-race-is-not-inevitable\">https://ryo.lu/journal/the-race-is-not-inevitable</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50680085\">https://news.ycombinator.com/item?id=50680085</a></p>\n<p>Points: 46</p>\n<p># Comments: 10</p>",
+            "url": "https://ryo.lu/journal/the-race-is-not-inevitable",
+            "published": "Sat, 28 Nov 2026 17:45:23 +0000",
+            "fetched": "2026-11-28T22:17:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Argentina's bid to stop Falklands oil drilling rejected",
+            "description": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
+            "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 28 Nov 2026 18:01:05 GMT",
+            "fetched": "2026-11-28T22:17:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Burnham's No 10 influencer row shows reach matters - but so does scrutiny",
+            "description": "Prime ministers have always chased audiences - but does the backlash over Max Balegde’s video show Burnham’s strategy has gone too far?",
+            "url": "https://www.bbc.co.uk/news/articles/c6074pyreg2eo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 28 Nov 2026 16:18:15 GMT",
+            "fetched": "2026-11-28T22:17:44+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Dozens killed in Myanmar military strikes on wedding venue and school",
+            "description": "Air strikes by Myanmar's military government have killed dozens of civilians across the South East Asian nation in recent days.",
+            "url": "https://www.bbc.co.uk/news/articles/cm752q30q5leo?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 28 Nov 2026 16:53:20 GMT",
+            "fetched": "2026-11-28T22:17:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "US civil rights group challenges ICE subpoenas as attack on speech",
+            "description": "The ACLU lawsuit claims subpoenas violate First Amendment rights by targeting anonymous dissenters of ICE policies.",
+            "url": "https://www.aljazeera.com/news/2026/11/28/us-civil-rights-group-challenges-ice-subpoenas-as-attack-on-speech?traffic_source=rss",
+            "published": "Sat, 28 Nov 2026 18:27:22 +0000",
+            "fetched": "2026-11-28T22:17:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Russia and Ukraine strike energy infrastructure, as attacks kill 10",
+            "description": "Russia-Ukraine attacks have become more regular and hybrid, as the fifth anniversary of invasion approaches.",
+            "url": "https://www.aljazeera.com/news/2026/11/28/russia-and-ukraine-strike-energy-infrastructure-as-attacks-kill-10?traffic_source=rss",
+            "published": "Sat, 28 Nov 2026 18:06:10 +0000",
+            "fetched": "2026-11-28T22:17:44+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Dozens reported killed in series of Myanmar air attacks",
+            "description": "A wedding party, school, monastery, market and camp for displaced people were bombed.",
+            "url": "https://www.aljazeera.com/news/2026/11/28/dozens-reported-killed-in-series-of-myanmar-air-attacks?traffic_source=rss",
+            "published": "Sat, 28 Nov 2026 17:29:28 +0000",
+            "fetched": "2026-11-28T22:17:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-28T22:17:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-28T22:17:44+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-28T22:17:44+03:30"
+        }
+    ]
+}
