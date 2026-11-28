@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-28T17:52:16+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Hacker News",
+        "Al Jazeera",
+        "NASA",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "FCC approves 1M SpaceX data centers in space. Astronomers are dismayed",
+            "description": "<p>Article URL: <a href=\"https://www.washingtonpost.com/technology/2026/11/26/fcc-approves-1-million-spacex-data-centers-space-astronomers-are-dismayed/\">https://www.washingtonpost.com/technology/2026/11/26/fcc-approves-1-million-spacex-data-centers-space-astronomers-are-dismayed/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50677340\">https://news.ycombinator.com/item?id=50677340</a></p>\n<p>Points: 7</p>\n<p># Comments: 3</p>",
+            "url": "https://www.washingtonpost.com/technology/2026/11/26/fcc-approves-1-million-spacex-data-centers-space-astronomers-are-dismayed/",
+            "published": "Sat, 28 Nov 2026 13:21:21 +0000",
+            "fetched": "2026-11-28T17:52:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Show HN: Luciole Mono – terminal font designed for legibility",
+            "description": "<p>TLDR : Atkinson Hyperlegible Mono alternative<p>Luciole Mono is a vibe-clauded derivative of Luciole.Luciole was designed for visually impaired readers by Laurent Bourcellier and Jonathan Perez, at the Centre Technique Régional pour la Déficience Visuelle (typographies.fr)<p>Please tell me what you think - thanks in advance</p>\n<hr />\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50677091\">https://news.ycombinator.com/item?id=50677091</a></p>\n<p>Points: 35</p>\n<p># Comments: 20</p>",
+            "url": "https://scriptor-pro.github.io/luciole-mono/",
+            "published": "Sat, 28 Nov 2026 12:50:15 +0000",
+            "fetched": "2026-11-28T17:52:16+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+            "description": "<p>Article URL: <a href=\"https://malspark.com/blog/malicious-gguf-models-hugging-face/\">https://malspark.com/blog/malicious-gguf-models-hugging-face/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50676752\">https://news.ycombinator.com/item?id=50676752</a></p>\n<p>Points: 39</p>\n<p># Comments: 17</p>",
+            "url": "https://malspark.com/blog/malicious-gguf-models-hugging-face/",
+            "published": "Sat, 28 Nov 2026 11:57:04 +0000",
+            "fetched": "2026-11-28T17:52:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Argentina's bid to stop Falklands oil drilling rejected",
+            "description": "A joint venture between UK-Israeli companies is set to start exploring for oil and gas, but Argentina sought to block it as part of its claim to sovereignty.",
+            "url": "https://www.bbc.co.uk/news/articles/c84gnq3qq9rno?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 28 Nov 2026 13:36:36 GMT",
+            "fetched": "2026-11-28T17:52:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Pensions and benefits services still down after 'cyber incident'",
+            "description": "The UK's former chief technology officer says the Department for Work and Pensions may have been hit by hackers, but the government has not confirmed that.",
+            "url": "https://www.bbc.co.uk/news/articles/cm1wrgqyq4d8o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 28 Nov 2026 13:02:10 GMT",
+            "fetched": "2026-11-28T17:52:16+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Two staff killed in Israeli strike on Gaza medical clinic, MSF says",
+            "description": "The Israeli military says it targeted \"Hamas terrorists\" in the strike which has been condemned by the World Health Organization.",
+            "url": "https://www.bbc.co.uk/news/articles/cm5y10yydln3o?at_medium=RSS&at_campaign=rss",
+            "published": "Sat, 28 Nov 2026 10:34:58 GMT",
+            "fetched": "2026-11-28T17:52:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran points to Europe’s war role after Italians killed in Kuwait strike",
+            "description": "Italy and Kuwait say an Iranian drone was involved, but Tehran says the US and Israel may be looking to escalate war.",
+            "url": "https://www.aljazeera.com/news/2026/11/28/iran-points-to-europes-war-role-after-italians-killed-in-kuwait-strike?traffic_source=rss",
+            "published": "Sat, 28 Nov 2026 13:42:53 +0000",
+            "fetched": "2026-11-28T17:52:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Putin unveils new nuclear submarine",
+            "description": "Russian President Vladimir Putin attended the commissioning of the nuclear-powered submarine in Russia.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/putin-unveils-new-nuclear-submarine?traffic_source=rss",
+            "published": "Sat, 28 Nov 2026 13:32:51 +0000",
+            "fetched": "2026-11-28T17:52:16+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Court rejects Argentina’s request to stop UK oil activity near Falklands",
+            "description": "An international tribunal refuses Buenos Aires&#039;s application, giving the green light to the project off the disputed region.",
+            "url": "https://www.aljazeera.com/news/2026/11/28/court-rejects-argentinas-request-to-stop-uk-oil-activity-near-falklands?traffic_source=rss",
+            "published": "Sat, 28 Nov 2026 13:24:24 +0000",
+            "fetched": "2026-11-28T17:52:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-28T17:52:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-28T17:52:16+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-28T17:52:16+03:30"
+        }
+    ]
+}
