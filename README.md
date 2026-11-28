@@ -1,60 +1,60 @@
 # 📰 Daily News Bot - 48+ Commits Daily
 
-**Last Update:** 2026-11-28 02:17:13
+**Last Update:** 2026-11-28 05:21:23
 
 **Total News:** 12
 
-**Sources:** NASA, BBC, Al Jazeera, Hacker News
+**Sources:** Al Jazeera, NASA, Hacker News, BBC
 
 ---
 
 ## 📰 Latest News
 
-### 1. Source Control from Hell
+### 1. Alaska seized his plane over some beers. He is asking the Supreme Court for help
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://frantic.im/git/">https://frantic.im/git/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50672142">https://news.ycombinator.com/item?id=50672142</a></p>
-<p>Points: 12</p>
-<p># Comments: 3</p>
+<p>Article URL: <a href="https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/">https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50673444">https://news.ycombinator.com/item?id=50673444</a></p>
+<p>Points: 7</p>
+<p># Comments: 0</p>
 
-🔗 **Read more:** [https://frantic.im/git/](https://frantic.im/git/)
+🔗 **Read more:** [https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/](https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/)
 
 ---
 
-### 2. 9/UX: a Macintosh-inspired desktop for 9front
+### 2. Passkey blues
 
 **Source:** Hacker News
 
 **Category:** technology
 
 **Description:**
-<p>Article URL: <a href="https://progrium.github.io/9ux/">https://progrium.github.io/9ux/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50672008">https://news.ycombinator.com/item?id=50672008</a></p>
-<p>Points: 21</p>
+<p>Article URL: <a href="https://ssg.dev/passkey-blues/">https://ssg.dev/passkey-blues/</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50672835">https://news.ycombinator.com/item?id=50672835</a></p>
+<p>Points: 16</p>
+<p># Comments: 2</p>
+
+🔗 **Read more:** [https://ssg.dev/passkey-blues/](https://ssg.dev/passkey-blues/)
+
+---
+
+### 3. Painting 1990s anime scenes in Python
+
+**Source:** Hacker News
+
+**Category:** technology
+
+**Description:**
+<p>Article URL: <a href="https://www.fofr.ai/greenhouse-after-the-typhoon">https://www.fofr.ai/greenhouse-after-the-typhoon</a></p>
+<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50672829">https://news.ycombinator.com/item?id=50672829</a></p>
+<p>Points: 11</p>
 <p># Comments: 1</p>
 
-🔗 **Read more:** [https://progrium.github.io/9ux/](https://progrium.github.io/9ux/)
-
----
-
-### 3. SessionGraph: Visualize all your coding agent sessions in one interactive graph
-
-**Source:** Hacker News
-
-**Category:** technology
-
-**Description:**
-<p>Article URL: <a href="https://sessiongraph.ai/">https://sessiongraph.ai/</a></p>
-<p>Comments URL: <a href="https://news.ycombinator.com/item?id=50671651">https://news.ycombinator.com/item?id=50671651</a></p>
-<p>Points: 7</p>
-<p># Comments: 4</p>
-
-🔗 **Read more:** [https://sessiongraph.ai/](https://sessiongraph.ai/)
+🔗 **Read more:** [https://www.fofr.ai/greenhouse-after-the-typhoon](https://www.fofr.ai/greenhouse-after-the-typhoon)
 
 ---
 
@@ -97,42 +97,42 @@ The Princess of Wales has made a documentary, Heal, describing her cancer experi
 
 ---
 
-### 7. ‘Activists of rhythm’: Fighting Spain’s far-right through art
+### 7. Thousands of Puerto Ricans join ‘Day of National Outrage’ protest
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Madrid’s La Parceria and Espacio Afro cultural centres are using the arts to fight racism and boost migrant voices.
+Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.
 
-🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/27/activists-of-rhythm-fighting-spains-far-right-through-art?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss](https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss)
 
 ---
 
-### 8. Why are families going hungry in northern Yemen even where food is on sale?
+### 8. Francesca Albanese seeks apology from Costa Rica after entry ban
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-Flour and oil still reach markets in Hodeidah and Sanaa. But high costs and lack of work and aid put it out of reach.
+UN Special Rapporteur Francesca Albanese accuses Costa Rican authorities of defamation after being denied entry.
 
-🔗 **Read more:** [https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss](https://www.aljazeera.com/economy/2026/11/27/why-are-families-going-hungry-in-northern-yemen-even-where-food-is-on-sale?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/video/newsfeed/2026/11/28/francesca-albanese-seeks-apology-from-costa-rica-after-entry-ban?traffic_source=rss](https://www.aljazeera.com/video/newsfeed/2026/11/28/francesca-albanese-seeks-apology-from-costa-rica-after-entry-ban?traffic_source=rss)
 
 ---
 
-### 9. Venezuela to repeal law that bans opposition figures from office
+### 9. Iran war live: Italy says drone in deadly Kuwait attack was made in Iran
 
 **Source:** Al Jazeera
 
 **Category:** world
 
 **Description:**
-It comes a month after opposition leader Maria Corina Machado returned to Venezuela.
+Italian Foreign Minister Antonio Tajani says the drone behind the deadly Kuwait strike was made in Iran.
 
-🔗 **Read more:** [https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss](https://www.aljazeera.com/news/2026/11/27/venezuela-to-repeal-law-that-bans-opposition-figures-from-office?traffic_source=rss)
+🔗 **Read more:** [https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss](https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss)
 
 ---
 

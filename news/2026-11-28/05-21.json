@@ -1,0 +1,121 @@
+{
+    "update_time": "2026-11-28T05:21:23+03:30",
+    "timezone": "Asia/Tehran",
+    "total_news": 12,
+    "sources_used": [
+        "Al Jazeera",
+        "NASA",
+        "Hacker News",
+        "BBC"
+    ],
+    "news": [
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Alaska seized his plane over some beers. He is asking the Supreme Court for help",
+            "description": "<p>Article URL: <a href=\"https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/\">https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50673444\">https://news.ycombinator.com/item?id=50673444</a></p>\n<p>Points: 7</p>\n<p># Comments: 0</p>",
+            "url": "https://www.reuters.com/legal/government/alaska-seized-his-seaplane-over-some-beers-he-is-asking-us-supreme-court-help-2026-11-27/",
+            "published": "Sat, 28 Nov 2026 01:20:16 +0000",
+            "fetched": "2026-11-28T05:21:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Passkey blues",
+            "description": "<p>Article URL: <a href=\"https://ssg.dev/passkey-blues/\">https://ssg.dev/passkey-blues/</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50672835\">https://news.ycombinator.com/item?id=50672835</a></p>\n<p>Points: 16</p>\n<p># Comments: 2</p>",
+            "url": "https://ssg.dev/passkey-blues/",
+            "published": "Fri, 27 Nov 2026 23:51:28 +0000",
+            "fetched": "2026-11-28T05:21:23+03:30"
+        },
+        {
+            "source": "Hacker News",
+            "category": "technology",
+            "title": "Painting 1990s anime scenes in Python",
+            "description": "<p>Article URL: <a href=\"https://www.fofr.ai/greenhouse-after-the-typhoon\">https://www.fofr.ai/greenhouse-after-the-typhoon</a></p>\n<p>Comments URL: <a href=\"https://news.ycombinator.com/item?id=50672829\">https://news.ycombinator.com/item?id=50672829</a></p>\n<p>Points: 11</p>\n<p># Comments: 1</p>",
+            "url": "https://www.fofr.ai/greenhouse-after-the-typhoon",
+            "published": "Fri, 27 Nov 2026 23:50:17 +0000",
+            "fetched": "2026-11-28T05:21:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Millions lose access to benefits and pensions services after 'cyber incident'",
+            "description": "The Department for Work and Pensions says some of its services were taken offline as a precaution.",
+            "url": "https://www.bbc.co.uk/news/articles/c8wy5p6pv2e2o?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 27 Nov 2026 20:42:44 GMT",
+            "fetched": "2026-11-28T05:21:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Watch: What has happened to DWP online services?",
+            "description": "The work and pensions secretary has said an investigation is looking into a \"serious cyber incident\" affecting his government department.",
+            "url": "https://www.bbc.co.uk/news/videos/cqm251rv0vyyo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 27 Nov 2026 17:17:11 GMT",
+            "fetched": "2026-11-28T05:21:23+03:30"
+        },
+        {
+            "source": "BBC",
+            "category": "world",
+            "title": "Catherine's emotional cancer documentary strips away the stiff upper lip",
+            "description": "The Princess of Wales has made a documentary, Heal, describing her cancer experience in her own words.",
+            "url": "https://www.bbc.co.uk/news/articles/c6zxvy9j0wpjo?at_medium=RSS&at_campaign=rss",
+            "published": "Fri, 27 Nov 2026 22:03:22 GMT",
+            "fetched": "2026-11-28T05:21:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Thousands of Puerto Ricans join ‘Day of National Outrage’ protest",
+            "description": "Anger and frustration erupt over record-high electricity rates, surging cost of living and deteriorating basic services.",
+            "url": "https://www.aljazeera.com/news/2026/11/28/thousands-of-puerto-ricans-join-day-of-national-outrage-protest?traffic_source=rss",
+            "published": "Sat, 28 Nov 2026 01:00:00 +0000",
+            "fetched": "2026-11-28T05:21:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Francesca Albanese seeks apology from Costa Rica after entry ban",
+            "description": "UN Special Rapporteur Francesca Albanese accuses Costa Rican authorities of defamation after being denied entry.",
+            "url": "https://www.aljazeera.com/video/newsfeed/2026/11/28/francesca-albanese-seeks-apology-from-costa-rica-after-entry-ban?traffic_source=rss",
+            "published": "Sat, 28 Nov 2026 00:12:20 +0000",
+            "fetched": "2026-11-28T05:21:23+03:30"
+        },
+        {
+            "source": "Al Jazeera",
+            "category": "world",
+            "title": "Iran war live: Italy says drone in deadly Kuwait attack was made in Iran",
+            "description": "Italian Foreign Minister Antonio Tajani says the drone behind the deadly Kuwait strike was made in Iran.",
+            "url": "https://www.aljazeera.com/news/liveblog/2026/11/28/iran-war-live-italy-says-drone-in-deadly-kuwait-attack-was-made-in-iran?traffic_source=rss",
+            "published": "Sat, 28 Nov 2026 00:00:00 +0000",
+            "fetched": "2026-11-28T05:21:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Little Ridge, Highland, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26661",
+            "published": "2026-11-21T23:15:00Z",
+            "fetched": "2026-11-28T05:21:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire White Oak Flat, Alleghany, Virginia",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26662",
+            "published": "2026-11-20T13:16:00Z",
+            "fetched": "2026-11-28T05:21:23+03:30"
+        },
+        {
+            "source": "NASA",
+            "category": "nature",
+            "title": "Wildfire Greene - Caney Creek Lane, Greene, Tennessee",
+            "description": "Natural event: Wildfires",
+            "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_26568",
+            "published": "2026-11-18T14:11:00Z",
+            "fetched": "2026-11-28T05:21:23+03:30"
+        }
+    ]
+}
